@@ -8,3 +8,10 @@ Public Domain Works by William Emerson Ritter (1856-1944).
 English - PDF  
 German - Plain Text  
 German - PDF  
+
+## The Unity of the Organism.
+
+[English - Plain Text](unity-organism/full-text-english.md)  
+English - PDF  
+German - Plain Text  
+German - PDF  
