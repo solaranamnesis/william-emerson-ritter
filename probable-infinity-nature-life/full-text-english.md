@@ -8,6 +8,22 @@
 
 ### Richard G. Badger, The Gorham Press.
 
+---
+
+# [Foreword.](#foreword-1)
+
+# [Are We Obliged to Suppose That the Spontaneous Origin of Life Ever Occurred?](#are-we-obliged-to-suppose-that-the-spontaneous-origin-of-life-ever-occurred-1)
+
+# [Are There Sufficient Reasons for Belief in the Infinity of Nature?](#are-there-sufficient-reasons-for-belief-in-the-infinity-of-nature-1)
+
+## [1\.](#1-1)
+
+## [2\.](#2-1)
+
+# [The Principle of Multiple Causes in Organic Evolution.](#the-principle-of-multiple-causes-in-organic-evolution-1)
+
+---
+
 To the Memory of Joseph LeConte
 
 Who more than any other teacher helped me  
