@@ -72,7 +72,7 @@ I have no new facts to present on this much-belabored subject. This admission ma
 
 *) Written as an address for the University of California scientific society, Sigma Xi, and read before the California chapter in 1914, and the Texas chapter in 1916.
 
-The view expressed by Claude Bernard that "Science does not consist in facts, but in the conclusions which we draw from them," is, I think, held by all scientists. But the view carries an important implication which seems to be little noticed, namely, that if generalizations and conclusions are as essential to science as are facts, then they, as such, need critical examination just as objective facts do. This means, stated briefly, that critical, consistent science must examine its own knowledge-getting processes no less carefully than it examines facts. It means that science needs theories of knowledge --- at least of its own kind of knowledge --- no less than it needs theories of nature.
+The view expressed by Claude Bernard that "Science does not consist in facts, but in the conclusions which we draw from them," is, I think, held by all scientists.* But the view carries an important implication which seems to be little noticed, namely, that if generalizations and conclusions are as essential to science as are facts, then they, as such, need critical examination just as objective facts do. This means, stated briefly, that critical, consistent science must examine its own knowledge-getting processes no less carefully than it examines facts. It means that science needs theories of knowledge --- at least of its own kind of knowledge --- no less than it needs theories of nature.
 
 *) Editor's Note: Occurrences of the phrase "men of science" have been replaced by "scientists."
 
