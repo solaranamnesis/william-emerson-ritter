@@ -4,4 +4,17103 @@
 
 ### Director of the Scripps Institution for Biological Research of the University of California, La Jolla California.
 
-...
+TWO  VOLUMES 
+VOLUME  ONE 
+
+
+ILLUSTRATED 
+
+
+BOSTON 
+
+RICHARD  G.  BADGER 
+
+THE    GORHAM    PRESS 
+
+
+COPYRIGHT,  1919,  BY  RICHARD  G.  BADGER 
+
+
+All  Rights  Reserved 
+
+
+This  work  contains  the  text  of  the  book: 
+"An  Organismal  Theory  of  Consciousness." 
+
+
+Made  in  the  United  States  of  America 
+
+
+The  Gorham  Press,  Boston,  U.  S.  A. 
+
+
+TO   MY   WIFE 
+
+MARY  BENNETT  HITTER 
+
+MY   SEVEREST   CRITIC   AND 
+BEST   HELPER 
+
+
+PREFACE 
+
+right  of  any  book  to  live  must  be  determined  finally 
+by  what  is  on  its  pages.  Nevertheless,  when  the  author 
+of  a  scientific  book  undertakes  such  a  task  as  I  have  under- 
+taken in  this  one,  his  natural  and  acquired  fitness  for  carry- 
+ing out  his  project  ought  to  count  in  some  measure  toward 
+the  determination.  An  attempt  to  speak  with  some  degree 
+of  originality  and  authority  on  subjects  so  remote  from  one 
+another  as  are  the  chemistry  of  organisms,  heredity,  human 
+consciousness,  and  the  nature  of  knowledge,  would  be  some- 
+what audacious  even  if  made  by  an  author  of  secure  reputa- 
+tion as  an  investigator  in  one  or  more  of  these  fields.  When, 
+however,  the  attempt  is  that  of  a  complete  stranger  to  all 
+the  fields,  as  thus  judged,  the  attempt  is  no  longer  entitled 
+to  be  called  "somewhat  audacious."  It  is  audacious  out  and 
+out,  and  if  defensible  at  all  is  defensible  in  spite  of  its 
+audacity.  But  the  very  nature  of  the  task  I  have  attempted 
+seems  to  require  me  to  contend  that  while  it  is  audacious  it 
+is  yet  not  impossible,  and  to  point  out  something  of  my  own 
+qualifications  for  performing  it. 
+
+Such  professional  fitness  as  I  have  rests  primarily  on  my 
+briii"-  a  general  /oologist  in  the  proper  sense;  that  is,  a 
+student  of  the  phenomena  of  the  animal  world  without  ex- 
+clusion of  any  aspect  of  that  world  from  professional  in- 
+terest and  some  measure  of  professional  attention.  These 
+facts  of  my  vocation,  and  of  my  conception  of  the  nature  of 
+that  vocation  are  crucial  for  the  quality  not  only  of  this 
+book  but  all  my  general  writings. 
+
+If  once  one  becomes  as  deeply  convinced  as  I  am  of  both 
+the  fundamental  unity  and  the  fundamental  diversity  of  all 
+
+ix 
+
+
+x  Preface 
+
+nature;  if,  in  other  words,  he  becomes  convinced  that  the 
+whole  of  nature  is,  indeed,  and  not  in  mere  expression,  a 
+system,  the  conviction  will  carry  with  it  the  perception  that 
+all  specialized  natural  knowledge  is  absolutely  dependent  for 
+meaning  on  the  relation  it  has  to  its  appropriate  larger  body 
+of  knowledge.  Either  analytic  knowledge  or  synthetic  knowl- 
+edge of  nature  would  be  wholly  void  of  meaning  were  it  to 
+be  completely  wrenched  from  the  other.  'Most  men  of 
+science  perhaps,  and  most  philosophers  probably,  would  ad- 
+mit that  this  is  true  as  an  abstract  proposition.  But  what 
+about  its  truth  when  brought  to  the  test  of  particular  cases  ? 
+
+The  audacity  of  my  enterprise  really  consists  in  my  at- 
+tempting to  act  according  to  this  general  truth  in  a  par- 
+ticular case — the  case,  that  is,  of  the  phenomena  of  animal 
+life.  I  have  gone  on  the  assumption  that  knowledge  of 
+animal  chemistry,  for  example,  at  one  extreme,  and  of 
+human  consciousness  at  the  other,  would  be  simple  blanks  as 
+to  meaning  but  for  the  relation  of  the  two  knowledges  to 
+each  other  and  to  still  more  general  knowledge  of  animal 
+life.  Could  we  imagine  a  chimpanzee  possessed  of  as  much 
+laboratory  knowledge  of  organic  chemistry  as  an  Emil 
+Fischer,  that  knowledge  would  be  really  meaningless  were 
+the  creature's  mind  that  of  a  chimpanzee  in  all  other  re- 
+spects. 
+
+A  systematic  defense  of  a  conception  of  zoology  based  on 
+a  general  theory  of  natural  knowledge  such  as  this,  can  not, 
+of  course,  be  thought  of  in  a  preface.  Indeed,  such  a  con- 
+ception can  not  be  fully  justified  by  any  argument  merely 
+for  it.  The  justification  must  be  found  largely  in  a  worked- 
+out  application  of  the  conception  itself.  In  other  words,  the 
+very  fabric  of  this  book  must  be  the  chief  justification 
+sought.  All  I  can  wish  to  do  in  a  preface  is  to  mention 
+certain  subsidiary  ideas  and  principles  that  have  been  spe- 
+cially influential  in  determining  the  plans  of  my  undertaking; 
+and  certain  methods  and  disciplinary  preparations  and  pres- 
+
+
+Preface  xi 
+
+ent  conditions  that  have  been  specially  useful  in  carrying 
+them  out. 
+
+Probably  no  one  zoological  item  has  influenced  me  more 
+than  the  perception  that  the  evolutionary  interpretation  of 
+man  does  not  mean  that  man's  derivation  from  the  lower 
+animals  made  him  something  that  is  now  not  animal.  It 
+means  that  man  is  just  as  much  an  animal  to-day  as  were 
+his  prehuman  ancestors.  The  truth  is  exactly  stated  by 
+saying  that  when  the  transformation  took  place  by  which 
+man  came  into  existence  that  transformation  was  from  a 
+lower  to  a  higher  stage  of  animal  life.  The  actual  problem, 
+consequently,  of  man's  nature  is  not  as  to  what  man  is  in 
+opposition  to  animals,  but  as  to  the  kind,  or  species  of  ani- 
+mal he  is. 
+
+With  the  distinction  here  made  once  fully  grasped  comes 
+the  revelation  that  man  is  an  object  of  zoological  research 
+and  treatment  no  less  certainly  than  is  a  horse,  a  fish,  a 
+lobster,  or  an  amoeba.  But  since  man's  highest,  that  is  his 
+psychical  or  spiritual  attributes  are  the  ones  most  decisive 
+of  his  kind,  it  is  these  attributes  which  make  him  particularly 
+interesting,  zoologically  shaking — just  as,  for  example,  it 
+is  the  attributes  of  a  horse  as  a  horse,  and  not  as  an  animal 
+generally  that  elicits  our  particular  interest  in  the  horse. 
+Zoology  rightly  understood  is  preeminent  among  all  the 
+sciences  as  the  science  of  particulars.  This  important  truth 
+seems  to  have  been  first  appreciated  by  Aristotle;  and  the 
+fact  that  one  of  the  most  fundamental  differences  between 
+him  and  his  teacher,  Plato,  concerned  the  doctrine  of  Par- 
+ticulars as  opposed  to  that  of  Universals,  is  probably  con- 
+nected closely  with  Aristotle's  great  interest  in  and  attention 
+to  zoology.  I  have  not  seen  any  reference  to  this  surmise 
+by  writers  on  Aristotle  and  his  philosophy,  yet  it  appears 
+to  me  highly  significant. 
+
+From  these  perceptions  relative  to  the  nature  of  man  and 
+the  science  of  animal  life,  it  follows  that  when  the  zoological 
+
+
+xii  Preface 
+
+study  of  man  is  undertaken — when  the  general  zoologist 
+becomes  for  the  time  being  an  anthropological  zoologist — 
+all  the  best  tested  and  most  approved  methods  of  that 
+science  are  taxed  to  their  uttermost,  simply  because  of  the 
+great  complexity  of  the  species  under  examination.  Now  it 
+is  absolutely  beyond  question,  I  believe,  that  of  the  methods 
+employed  in  the  biological  sciences,  none  are  more  important, 
+especially  for  the  study  of  man,  than  those  of  description 
+and  classification  with  their  necessary  accompaniment,  com- 
+parison. The  essay  The  Place  of  Description,  Definition  and 
+Classification  in  Philosophical  Biology  in  my  little  book,  TJie 
+Higher  Usefulness  of  Science,  treats  of  this  subject  some- 
+what at  length.  But  that  to  which  I  attach  much  more 
+importance  is  that  almost  everything  contained  in  the  pres- 
+ent book,  except  the  heart  of  Chapter  24,  I  regard  as  an 
+embodiment  of  the  fundamental  principles  of  descriptive  and 
+classificatory  biology  as  these  principles  are  established  by 
+modern  research. 
+
+It  seems  to  me  I  am  privileged  to  claim  that  no  reader  of 
+this  and  other  general  writings  of  mine  is  in  position  to  pass 
+judgment  on  them,  except,  of  course,  as  touching  trustworthi- 
+ness of  observation  and  statement,  and  of  dependability  of 
+authorities  cited,  without  having  considered  conscientiously 
+my  position  as  to  method.  For  instance,  am  I  right  or  wrong 
+in  holding  (see  the  above  mentioned  essay)  that  far  the 
+larger  part  of  what  is  usually  called  explanation  in  dealing 
+with  the  phenomena  of  nature  is  really  partial  or  tentative 
+or  hypothetical  description  and  classification?  What  justi- 
+fication and  scope  are  there  for  my  contention  that  the  motto 
+"neglect  nothing,"  which  has  long  done  good  service  in  taxo- 
+nomic  research  based  on  morphology,  must  be  extended  to 
+all  departments  of  structural  and  functional  biology?  What 
+grounding  and  applicability  are  there  for  my  distinction 
+between  synoptic  and  analytic  description,  and  synoptic  and 
+analytic  classification?  Not  until  one  has  come  to  see  that 
+
+
+Preface  xiii 
+
+questions  of  this  sort  are  necessary  consequences  of  progress 
+in  information  about,  and  interpretation  of  living  nature, 
+is  he  able  to  appreciate  fully  what  I  mean  by  chemical  and 
+psychological  /oology.  Formal  biochemistry  and  animal 
+psychology,  that  is,  the  chemistry  and  the  psychology  of 
+laboratories  devoted  to  those  subjects,  are  to  my  zoological 
+eyes  really  quite  incidental  and  partial  and  crude,  albeit 
+immensely  important.  Let  one  once  feel  the  full  weight  of 
+the  inductive  evidence  favorable  to  the  hypothesis  that  every 
+organism  whatever  performs  every  jot  and  tittle  of  its  ac- 
+tivities through  chemico-physieal  agencies,  and  he  must  at 
+the  same  time  feel  the  mcagerness  and  crudity,  compara- 
+tively speaking,  of  even  the  fullest  and  best  laboratory 
+knowledge  of  those  agencies  by  which  he  himself,  let  us  say, 
+operates  as  he  carries  through  and  expresses  in  words  an 
+argument  like  that  now  occupying  us. 
+
+The  absolute  trustworthiness  of  the  main  findings  of 
+laboratory  biochemistry  and  its  incalculably  great  impor- 
+tance, but  at  the  same  time  its  great  imperfection  as  com- 
+pared with  natural  biochemistry,  are  what  especially  impress 
+me  as  I  bring  my  best  powers  to  bear  on  the  deepest,  most 
+distinctive  problems  of  anthropological  zoology;  problems, 
+in  other  words,  of  the  hnmtni  animal. 
+
+Such  an  attitude  toward  biochemistry  will,  I  hope,  be 
+recogni/ed  even  by  biochemists  as  calculated  to  induce  at 
+least  a  receptive  frame  of  mind  toward  knowledge  in  this 
+domain.  It  should  IK-  one  important  qualification  for  "read- 
+ing up"  in  the  domain.  But  certain  it  is  that  something 
+more  than  a  receptive  mind  is  essential  to  enable  one  disci- 
+plined in  one  field  of  science  to  be  a  successful  gleaner  of 
+ripened  fruit  in  another  field.  It  is  not  true  that  all  the 
+domains  of  natural  knowledge,  highly  developed  as  they  now 
+are,  are  enough  alike  to  make  training  in  any  one  an  ade- 
+quate preparation  for  acquiring  second  hand  knowledge  in 
+every  other.  At  least  a  background  of  systematic  instruc- 
+
+
+xiv  Preface 
+
+tion  in  a  particular  science  is  requisite  to  make  a  highly 
+successful  reader  even  in  that  science. 
+
+So  far,  then,  as  I  am  able  to  pass  upon  my  own  quali- 
+fication for  making  such  use  as  I  have  made  of  biochemistry, 
+it  is  a  question  of  whether  I  have  a  sufficient  ground-work 
+of  formal  training  to  make  me  a  safe  chooser  among  authori- 
+ties and  estimate!*  of  the  significance  of  their  results. 
+
+Although  my  chemical  practice  was  limited  to  three  years, 
+one  of  these  as  a  student  assistant,  so  much  did  I  live  in  the 
+laboratories  during  that  period,  that  even  to-day  the  open- 
+ing of  a  book  or  journal  on  chemistry  seems  to  fill  my  nose 
+with  foul  though  pleasantly  reminiscent  odors  and  to  en- 
+crust and  stain  my  fingers  with  diverse  corrosives — all  of 
+which  may  mean  that  I  was  more  a  musser  in  chemicals  than 
+a  real  student  of  chemistry.  Nevertheless  I  verily  believe 
+the  experience  enabled  me  to  be  a  more  intelligent  reader  of 
+chemical  writings. 
+
+As  for  the  science  of  mind,  I  am  obliged  to  own  that  I 
+have  never  spent  a  day  in  an  experimental  laboratory  of 
+either  animal  behavior  or  human  psychology.  But  I  own 
+also  that  for  this  I  am  not  regretful  if  such  defect  of  train- 
+ing be  an  essential  condition  of  escape  from  the  narrowing 
+of  interest  in  and  conception  of  "behavior"  which  has  at- 
+tended later  work  in  this  field.  I  do  not  believe,  however,  that 
+this  is  the  only  way  of  such  escape.  Zoologists  must  realize 
+before  long,  I  am  quite  sure,  that  laboratory  experimentation 
+in  animal  behavior  can  be  only  a  rather  minor  agent  for  the 
+task  of  understanding  the  psychical  life  of  the  animal  world 
+as  a  whole. 
+
+This  leads  to  the  remark  I  wish  to  make  about  the  discus- 
+sion of  psychic  integration  in  the  last  chapters  of  this  book. 
+One  of  the  most  important  things  accomplished  by  that  dis- 
+cussion is,  I  estimate,  the  calling  attention  to  the  tendency 
+of  instinctive  activity  to  excessiveness  over  the  actual  needs 
+served  by  the  activity.  Why  has  this  truth  (for  there  can 
+
+
+Preface  xv 
+
+be  no  question  that  it  is  a  truth)  not  received  more  atten- 
+tion from  modern  behavior  specialists?  There  are  probably 
+several  reasons,  but  a  particularly  influential  one  seems  to  be 
+the  fact  that  the  very  purpose,  and  the  method  of  experimen- 
+tation involving  the  idea  of  control  by  the  student  an 
+such  as  to  encourage  overlooking  the  phenomena,  and  to 
+obscure  their  significance  even  if  they  are  noticed. 
+
+Unorthodoxly  enough  from  the  standpoint  of  present 
+school  psychology,  my  entrance  into  this  realm  was  from 
+the  side  of  the  nature  and  the  theory  of  knowledge.  And  so 
+far  as  my  explorations  in  the  realm  have  gone,  two  men, 
+Aristotle  and  the  late  Professor  G.  H.  Howison  have  influ- 
+enced me  so  vitally  that  I  must  say  a  few  words  on  the 
+subject. 
+
+For  many  years  Aristotle  was  two  distinct  persons  to  me, 
+so  far  as  any  real  influence  upon  my  thinking  was  con- 
+cerned. On  the  one  hand  there  was  Aristotle  the  metaphysi- 
+cian to  whom  I  had  been  formally  introduced  by  Howison  in 
+a  private  outside-of-hours  University  course  (which  witli 
+great  generosity  he  had  given  me),  the  medium  of  the  in- 
+troduction being  the  De  Anvma.  On  the  other  hand  was 
+Aristotle  the  zoologist,  acquaintance  with  whom  was  at  first 
+picked  up  in  the  usual  naturalist  fashion,  but  which  had 
+later  ripened  into  intimacy,  as  I  like  to  characterize  it,  by 
+our  common  interest  in  marine  zoology,  his  good  description 
+of  the  anatomy  of  a  tunicate  being  a  special  passport  to  my 
+affection.  It  would  hardly  be  an  exaggeration  to  say  that 
+all  my  philosophizing  in  biology  has  aimed  at  fusing  these 
+two  Aristotles  into  one.  I  do  not  mean  that  this  lias  been 
+my  conscious  and  express  aim.  It  has  been  so  only  instinc- 
+tively, or  intuitively,  or  "at  heart,"  or  by  "working  hy- 
+pothesis," or  by  whatever  expression  one  chooses  for  it. 
+And  here  comes  the  part  played  by  Professor  Howison :  As 
+I  take  a  bird's  eye  view  now  of  what  is  set  forth  in  this  and 
+other  general  writings  of  mine,  and  contemplate  the  whole  in 
+
+
+xvi  Preface 
+
+the  light  of  the  preface  to  Howison's  book,  The  Limits  of 
+Evolution,  and  then  look  reflectively  back  over  my  thirty 
+years  of  contact  with  him  and  his  teachings,  most  of  it  inci- 
+dental and  fitful,  but  some  of  it  rather  close,  a  few  influences 
+of  his,  some  positive  and  some  negative,  stand  out  sharply 
+indeed.  The  positive  influences  I  mention  first.  No  other 
+influence  contributed  so  much  to  my  belief  in  the  power  of 
+reason ;  that  is,  in  a  substratum  of  truth  to  the  idealistic 
+philosophy.  Again  no  other  influence  contributed  more  to 
+my  belief  in  persons — in  the  power  of  personality;  that  is, 
+in  a  substratum  of  truth  to  the  Howisonian  philosophy  of 
+personal  idealism. 
+
+A  statement  of  the  negative  influence  coming  from  the 
+same  source  takes  us  back  to  Aristotle.  In  the  preface  to 
+The  Limits  of  Evolution  Howison  writes,  referring  to  his 
+own  theory  of  Personal  Idealism,  "The  character  of  the 
+present  theory,  relatively  to  Aristotle,  is  to  be  found  in  its 
+attempt  to  carry  out  the  individualistic  tendencies  in  Aris- 
+totelianism  to  a  conclusion  consistently  coherent."  This 
+statement  I  could  almost  adopt  word  for  word  as  a  charac- 
+terization of  the  purpose  that  has  animated  all  my  general 
+thinking  and  writing.  Yet  how  profoundly  does  the  out- 
+come of  my  efforts  differ  from  that  resulting  from  Profes- 
+sor Howison's  efforts !  And  here  is  the  kernel  of  my  present 
+remarks:  In  commending  to  me  the  De  Anima,  of  Aristotle 
+and  generously  undertaking  to  guide  me  through  it,  as  a 
+response  to  my  appeal  for  help  toward  clarifying  my  mind 
+concerning  the  deeper,  the  philosophical  meaning  of  bio- 
+logical evolution,  my  greatly  learned  and  much  esteemed 
+teacher  had  a  purpose,  I  am  now  quite  sure,  that  is  impos- 
+sible of  realization.  That  purpose  was  to  show  that  Aris- 
+totle failed  in  his  effort  to  recognize  a  "real  world"  through 
+combining  "ideal  form"  with  "real  matter,"  because  for  him 
+a  real  world  was  more  fundamentally  a  sense-experienceable 
+world  than  is  actually  the  case.  As  I  labored  through  the 
+
+
+Preface  xvii 
+
+De  Anima  I  recall  that  I  was  disturbed  by  the  rather  cavalier 
+fashion  in  which  we  disposed  of  those  portions  of  the  work 
+which  treat  of  reproduction,  nutrition  and  growth,  and  espe- 
+cially the  portions  dealing  with  the  senses.  At  the  stage 
+of  scientific  development  I  was  then  in,  I  knew  little  or  noth- 
+ing of  Aristotle's  biological  writings,  and  Howison  referred 
+to  them  only  in  the  most  cursory  way,  if  indeed  he  men- 
+tioned them  at  all.  Certain  it  is  he  did  nothing  to  arouse 
+my  interest  in  them,  or  to  indicate  that  he  regarded  them 
+as  specially  significant  in  connection  with  such  important 
+views  of  Aristotle's  as  those  on  the  relation  of  Body  and 
+Soul.  The  question  which  now  seems  to  me  indispensable 
+for  grasping  the  essense  of  the  Aristotelian  psychology  and 
+philosophy  that,  namely,  of  why  Aristotle  was  so  greatly  in- 
+terested in  zoology,  and  devoted  so  much  time  to  its  study, 
+never  came  up  during  the  course,  I  am  quite  sure.  In  sci- 
+ence and  philosophy  as  in  everything  else,  the  character  of 
+one's  interests  is  a  surer  index  to  his  general  views  and  atti- 
+tude than  is  anything  he  can  ex pn-ss  verbally.  There  may 
+be  ambiguity  and  error  in  Aristotle's  theory  of  "synthetic 
+Entelechy."  This  theory  may,  probably  does,  "beset,"  as 
+Howison  remarks,  "all  individual  existence  both  behind  and 
+before,"  thereby  implying  some  theoretical  derogation  from 
+the  real  nature  of  personality.  But  over  against  this  error 
+and  ambiguity  stands  indubitable  proof  of  Aristotle's  prac- 
+tical faith  in  the  Particular,  the  Individual,  that  proof  be- 
+ing the  vast  labor  he  expended  in  learning  and  interpreting 
+the  life  of  the  animal  world.  The  chief  philosophic  signifi- 
+cance of  Aristotle's  zoological  works  is  not  in  any  informa- 
+tion or  theories  they  contain  but  in  the  fact  that  he  pro- 
+duced them  at  all,  since,  as  mentioned  above,  zoology  is  pre- 
+eminent as  the  science  of  particulars,  and  his  doctrine  of 
+Particulars  as  opposed  to  Universals  was  very  close  to  the 
+heart  of  his  whole  philosophic  system. 
+
+This  prepares  for  my  final  remark  about  the  influence  upon 
+
+
+xviii  Preface 
+
+my  thinking  of  Professor  Howison  and  the  idealistic  philoso- 
+phy generally.  That  philosophic  Idealism,  no  matter  of 
+what  variety,  contains  elements  that  are  fundamentally  er- 
+roneous seems  to  me  to  be  proved  more  conclusively  by  its 
+inadequacy  for  understanding  the  world  in  its  entirety  than 
+by  any  particular  errors  of  fact  or  reasoning  which  it  can 
+be  shown  to  contain.  Were  all  men  philosophical  idealists, 
+there  would  be  no  natural  science,  merely  because  in  the 
+domain  of  learning  men  will  not  choose  as  their  primary 
+life  work  what  they  fully  believe  to  be  of  secondary  im- 
+portance. 
+
+Fallaciousness  or  inconclusiveness  of  argument  never  de- 
+terred me  half  as  much  from  embracing  Professor  Howison's 
+teachings  in  their  entirety  as  did  his  usually  dignified  but 
+always-present  presumption  of  professional  self-superiority 
+over  all  his  colleagues  who  did  not  come  under  the,  to  him, 
+sacred  aegis  of  Philosophy.  The  reason  why  sincere  humility 
+and  the  spirit  of  democracy  are  alien  to  all  forms  of  idealis- 
+tic philosophy  becomes  clear  once  one  attains  a  world  view 
+which  truly  strives  to  include,  but  makes  no  pretense  of  hav- 
+ing already  included,  the  whole  world  wholly  in  that  view. 
+
+There  remains  the  pleasant  though  difficult  task  of  men- 
+tioning the  few  among  my  numberless  obligations  which  are 
+so  personal  and  weighty  that  to  leave  them  unacknowledged 
+would  be  to  brand  me  as  ungrateful,  more  conspicuously  than 
+I  can  endure. 
+
+First  as  to  those  persons  and  conditions  which,  during  the 
+last  ten  years,  have  relieved  me  from  the  routine  duties  of  a 
+University  teacher,  and  also  from  most  of  the  exactions 
+customarily  attaching  to  an  administrative  post  even  in  an 
+institution  of  scientific  research,  and  have  given  me  a  status 
+the  central  purpose  of  which  is  scientific  work.  Whatever 
+be  the  quality  and  final  significance  of  my  life-work,  could 
+these,  I  ask  myself,  have  reached  as  high  a  level  as  they 
+have  readied  had  I  not  come  into  my  present  position?  Al- 
+
+
+Preface  xix 
+
+most  certainly  not,  must  be  the  answer.  And  beyond  a  doubt 
+the  raising  of  the  question  involves  principles  of  organization 
+for  scientific  research  that  lift  it  high  above  mere  personal 
+concern. 
+
+No  faith  of  mine  is  greater  because  none  is  rooted  more 
+deeply  in  my  scientific  philosophy,  than  that  in  the  ultimate 
+triumph  of  popular,  that  is  of  democratic  principles  in  all 
+aspects  of  civilization.  Indeed  the  facts — not  the  theories — 
+of  organic  unity  and  integration  which  have  dominated  all 
+my  later  work  are  the  foundation  of  this  faith.  Whether 
+my  particular  hypotheses  and  theories  of  organismalism  suc- 
+ceed or  fail,  there  still  are  the  raw  data  on  which  they  rest. 
+These  can  not  fail.  If  success  does  not  crown  my  efforts  in 
+Imndling  the  data  it  will  crown  those  of  others  who  shall 
+come  after  me.  And  when  the  principles  for  which  I  contend 
+shall  have  worked  themselves  more  fully  into  the  fabric  of 
+civilization,  the  organizational,  the  administrative,  and  the 
+scientific  policies  aimed  at  in  the  Scripps  Institution  for  Bio- 
+logical Research  of  the  University  of  California  will  be 
+recognized  as  fundamentally  sound.  I  will  be  specific  here- 
+to the  extent  of  mentioning  the  policy  of  providing  a  special 
+business  management  for  such  institutions. 
+
+Although  my  indebtedness  to  my  professional  co-workers 
+and  official  associates  of  the  Zoological  Department  and  the 
+Museum  of  Vertebrate  Zoology  at  Berkeley,  Professors  C.  A. 
+Kofoid,  S.  J.  Holmes,  and  Dr.  Joseph  Grinnell,  is  indicated 
+by  special  references  in  the  body  of  this  book,  I  should  be 
+sorry  to  have  these  references  taken  to  indicate  the  full  ex- 
+tent of  my  obligation  to  them,  or  to  indicate  that  these  are 
+the  only  members  of  those  departments  to  whom  I  am  in- 
+debted. 
+
+It  would  be  a  source  of  keen  regret  to  me,  too,  should  my 
+single  short  reference  to  two  of  my  biological  associates  on 
+the  staff  of  the  Scripps  Institution,  Mr.  E.  L.  Michael  and 
+Dr.  C.  O.  Estcrly,  be  taken  as  the  full  measure  of  what  I 
+
+
+xx  Preface 
+
+owe  to  them.  I  hope  that  my  reference  to  their  work,  brief 
+though  it  is,  will  be  recognized  as  indicative  of  the  high  im- 
+portance I  attach  to  what  they  have  done  and  are  doing. 
+
+But  what  about  my  indebtedness  to  professional  associates 
+here  in  the  home  group  of  whose  work  no  mention  is  made 
+in  my  text?  How  subtle  and  far-reaching  and  innumerable 
+are  the  influences  which  bear  upon  one  from  his  daily  co- 
+workers  !  For  example,  by  what  unit  of  measurement  could 
+be  gauged  the  effects  on  my  treatment  of  heredity,  which  have- 
+come  from  my  perpetual  contact  with  the  work  of  Dr.  F.  B. 
+Sumner  and  Mr.  H.  H.  Collins?  But  these  men  would  prob- 
+ably resent  the  ascription  to  them  of  responsibility  for  my 
+main  conclusions  in  this  field.  Again,  not  many  "environ- 
+mental factors"  have  been  more  determinative  of  my  present 
+feelings  (I  hardly  dare  call  them  views)  relative  to  various 
+problems  in  geo-physics,  and  relative  to  quantitative  meth- 
+ods in  natural  science,  than  have  Dr.  G.  F.  McEwen  and  his 
+oceanographic  work.  Yet  I  hesitate  even  to  mention  this 
+fact  lest  some  one  be  led  thereby  to  hold  Dr.  McEwen  ac- 
+countable for  crudities,  actual  or  implied,  I  may  manifest 
+in  these  domains. 
+
+Nor  are  my  indebtednesses  confined  to  the  narrow  circle 
+of  my  immediately  professional  and  official  co-workers.  In- 
+deed I  am  keenly  conscious  of  great  debts  beyond  this  circle. 
+These  are  so  numerous  and  on  the  whole  so  general  as  to 
+make  specification  impossible,  but  I  cannot  pass  by  without 
+mentioning  my  debt  to  my  long-time  and  much-cherished 
+friend,  Professor  G.  M.  Stratton,  for  the  commentaries  on 
+the  chapters  on  psychic  integration  made  by  him  while  this 
+portion  of  the  book  was  in  an  advanced  though  still  forma- 
+tive stage. 
+
+For  aid  in  structurel  labor,  as  it  may  be  called,  my  de- 
+pendence upon  Mr.  Frank  E.  A.  Thone,  my  secretary  and 
+scientific  assistant,  has  been  varied  and  intimate,  and  of  a 
+quality  for  which  money  can  only  partly  pay. 
+
+
+Preface 
+
+
+xxi 
+
+
+To  Dr.  Christine  Essenberg,  librarian  and  member  of  the 
+scientific  staff  of  the  Scripps  Institution,  I  am  indebted  for 
+help  on  the  index  and  glossary. 
+
+And  finally,  what  can  I  say  about  the  part  played  in  the 
+creation  of  this  and  my  other  works  by  her  to  whom  this 
+volume  is  dedicated?  The  extent  to  which  her  life  is  involved 
+with  mine  in  these  works  only  we  two  can  know ;  but  the 
+wording  of  my  dedication  indicates  something"  of  the  char- 
+acter of  that  involvement. 
+
+
+CONTENTS 
+
+
+PART  I 
+
+J   OF   THE    ELEMENT ALIST   CONCEPTION   OF   THE 
+ORGANISM 
+
+A.     Composition  of  the  Living  Individual 
+
+CHAPTER  PAOE 
+
+I.  INTRODUCTORY .         .         1 
+
+Historic  hack-ground,  1.  Nature  and  scope  of  the  undertak- 
+ing, 34. 
+
+II.  THE    OlU.ANISM    AND    ITS   MAJOR    PARTS 30 
+
+He  fled  ions  on  the  problem  of  individuality  in  the  living  world, 
+•  in.  The  individual  plant  and  its  parts,  S3.  The  individual 
+animal  and  its  parts,  89. 
+
+III.  THE  ANIMAL  ORGANISM  AND  ITS  GERM  LAYERS  ....      45 
+
+The  germ-layers,  their  role  in  development,  and  the  germ-layer 
+theory,  40.  Are  germ-layers  developmental  organs  and  subser- 
+vient to  the  developmental  requirements  of  the  organism?  Ifi. 
+A  negative  answer  to  the  question  in  the  last  section  expected 
+of  element ulist  biology,  4^.  Evidence  that  germ-layers  are 
+Unix  xiibxcrrient  to  the  organism,  49:  (a)  Evidence  from  bud 
+jn-oi>agation  in  compound  ascidians,  50;  (6)  Evidence  from 
+laid  i»-o)>a<jation  in  bryozoa,  53;  (c)  Evidence  from  the  regen- 
+eration of  the  lens  of  the  amphUtian  eye,  57.  The  germ-layer 
+theory  and  the  germ-plasm  theory,  58.  The  exact  mode  of 
+inrolrciiieiit  of  the  germ-plasm  theory  in  the  germ-layer 
+theory,  59.  Weismann's  studies  on  the  origin  of  germ-cells  in 
+hi/droidn,  GO.  Inconclusiveness  of  Weismann's  results  shown 
+by  Goette  and  others,  €2.  Weismann's  erroneous  conclusions 
+concerning  the  origin  of  sex-cells  in  hydroids  as  an  example 
+of  the  effect  on  the  observing  powers  of  the  germ-plasm  type 
+of  speculation.  C>6.  The  strongly  organismal  implications  of 
+conclusions  on  the  origin  and  migration  of  germ  cells 
+xxiii 
+
+
+xxiv  Contents 
+
+CHAPTER  PAGE 
+
+in  hydroids,  68.  Remarks  on  the  relation  of  germ-cells  to 
+germ-layers  and  to  the  organism  generally,  72.  The  relation  of 
+ideas  and^observations  as  exemplified  in  the  discussions  of  this 
+chapter,  74. 
+
+IV.  THE  ORGANISM  AND  ITS  CHEMISTRY 75 
+
+Standpoint  of  the  discussion  that  of  the  evolutionary  natural- 
+ist, 75.    The  organism,  as  a  chemical  laboratory,  78.    Different 
+organisms  as  different  chemical  laboratories,  83.  (a.)  Different 
+odors  and  flavors  of  animals  and  plants  as  distinguishable  by 
+man,  84.     (6)  Differences  in  animal  odors  as  distinguished  by 
+animals  themselves,  88.     The  naturalist's  approach  to  biochem- 
+ical problems,  90.    Some  biochemical  results  viewed  from,  the 
+naturalist's  standpoint,  95.     (a)  Reichert  and  Brown's  results 
+
+on  haemoglobin,  95;  (6)  The  precipitin  reaction  between  bloods 
+of  different  animals,  99;  (c)  Comparative  chemistry  of  the 
+sperm  of  different  species  of  fishes,  102;  (d)  Comparative 
+chemistry  of  milk  of  different  species,  103;  (e)  Comparative 
+chemistry  of  digestive  enzymes,  104;  (f)  Instances  in  general 
+biochemistry  where  interesting  facts  of  comparative  chemistry 
+are  incidentally  brought  out,  106.  The  coalescence  of  natural 
+history  and  comparative  biochemistry,  107.  Provisional  enu- 
+meration of  chemico-naturalist  inquiries,  109.  Peculiar  im- 
+portance to  natural  history  of  the  application  of  physical 
+chemistry  to  the  chemistry  of  living  beings,  110:  (a)  Indi- 
+viduation  and  speciation  of  "organic  matter"  fundamental 
+biologic  facts,  111;  (6)  Indications  that  variation  and  indi- 
+viduation  are  primarily  chemical,  while  constancy  and  uni- 
+formity are  primarily  physical,  115. 
+
+V.  THE  ORGANISM  AND  ITS  PROTOPLASM 120 
+
+Protoplasm  and  mystification,  120.  Responsibility  for  the 
+mystification  of  protoplasm,  121.  Conception  of  animal  sar- 
+code  and  plant  protoplasm  as  "identical  stuffs,"  123.  Max 
+Schultze's  actual  teachings  as  to  protoplasm  and  sarcode,  125: 
+(a)  Cell  nucleus  distinct  from  protoplasm,  but  both  nucleus 
+and  protoplasm  essential  to  life  of  cell,  126;  (6)  Recognized 
+common  attributes  but  not  identity  of  protoplasm  in  all  or- 
+ganisms, 128.  Ernst  Brucke's  conception  of  the  cell  as  an 
+organism,  129.  Characteristic  organization  in  all  cells,  131. 
+Results  of  later  description  and  classification  of  cell  sub- 
+
+
+Contents  XXV 
+
+CHAPTER  PAGE 
+
+stances,  133:  (a)  Cytoplasm  and  karyoplasrfi  differentiated 
+areas  of  a  common  basic  substance,  135;  (6)  Details  of  cyto- 
+plasmic  structure,  137;  (c)  Three  main  theories  of  the  struc- 
+i  a  i-<-  of  protoplasm,  138;  (d)  "No  universal  formula  for  proto- 
+plasmic structure,"  139.  Preliminary  remarks  on  the  bearing 
+of  physical  chemistry  on  the  protoplasm  doctrine,  140.  Ex- 
+perimcnfal  erldence  for  the  specificity  of  protoplasms,  143: 
+(a)  Greater  fusibility  between  closely  related  species  as  in 
+tissue  mixtures  and  grafts.  /f/;  (b)  Protoplasms  and  not 
+protoplasm  must  be  the  form  of  the  protoplasmic  conception, 
+148. 
+
+VI.  THE  ORGANISM  AND  ITS  CELLS     .......     150 
+
+What  the  cell-theory  is,  viewed,  historically  and  substantively, 
+
+1  '•'><>:  (a)  Importance  and  general  character  of  the  theory, 
+150;  (b)  Various  forms  of  the  theory  as  currently  held,  150; 
+(r)  Statement  of  the  theory  justified  by  present  state  of 
+knowledge,  154.  Certain  ln«de<ni«cles  of  the  cell-theory,  158: 
+(a)  As  tested  by  embryonic  dt>re!oi»itent,  158;  (b)  As  tested 
+by  isolated  cells  and  tissues,  167. 
+
+VII.  THE  CELL-THEORY  NOT  SUFFICIENT  FOR  EXPLAINING  THE  OR- 
+
+(1  AN  ISM  ...........        179 
+
+More  general  inadc<inaci/  of  the  cell-theory,  179:  (a)  As 
+tested  by  the  regeneration  and  restitution  of  mutilated  organ- 
+isms, 179;  (b)  As  tested  by  the  principle  of  aggregation,  182. 
+(c)  As  tested  by  the  specificity  and  mttaplaty  of  differen- 
+tiated cells,  186.  Summary  of  examination,  of  inadequacy  of 
+cell-theory,  190.  Advance  toward  the  orgaiiisnial  standpoint 
+through  conrcfi/ion  of  cell  reached  hi/  biochemistry  pursued  in 
+accordance  trilh  1lte  iirincifilefi  of  j^it/siciil  chemintry,  191. 
+
+
+VIII.     FTRTHEH    I-'XAM  i  NATION    OF   THE    CELL-THEORY       .         .         .     198 
+
+The  mosaic  tin  on/,  //'X.  What  the  mosaic  theory  is,  198;  A 
+modicum  of  truth  in  the  mosaic  theory,  198.  The  theory  of 
+lolifiolence.  .'<>_'.  K.rperimental  facts  on  irhich  the  theory 
+rests,  202.  lialancini/  the  account  hefireen  the  mosaic  and 
+totipotence  theories,  206.  The  "i>romorphology"  of  germ  cells, 
+211:  (a)  Facts  of  immediate  ohscrralion  on  which  the  con- 
+ceji/ion  rests,  .'/.';  (l>)  (,  'round*  for  believing  minute  observ- 
+able specific  differences  between  germ  cells  important,  214! 
+
+
+xxvi  Contents 
+
+CHAPTER  PAGE 
+
+(c)  Reflections  on  a  promorphology  of  germ  cells  beyond  the 
+•  limits  of  visibility,  222. 
+
+IX.  ORGANISMS  CONSISTING  OF  ONE  CELL 227 
+
+A.     Adult  form  and  structure.     Remarks  on  the  conception 
+
+of  the  cell  as  an  elementary  organism,  227.  Comparison  of 
+the  structure  of  a  single  cell  with  that  of  organisms  composed 
+of  many  cells,  230:  (a)  Comparison  of  certain  dilates  and 
+metazoans,  23%;  (6)  Comparison  of  a  radiolarian  and  a  jelly- 
+fish, 235;  (c)  Comparison  of  the  shell  of  a  rhizopod  and  a 
+nautilus,  237.  The  unjustifiable  conception  that  unicellular 
+organisms  can  have  no  tissues,  240.  True  organs  in  some  pro- 
+tozoans, 242.  A  true  nervous  system-  probably  present  in  some 
+protozoa,  244-  A  more  critical  examination  of  the  term  "or- 
+gan," 245.  More  detailed  examination  of  the  anatomy  of 
+higher  protozoa,  249.  The  fiction  of  structureless  organisms, 
+256.  The  structure  of  bacteria,  257:  (a)  Membrane  and  sur- 
+face structures,  257;  (6)  Structure  of  inner  portion,  260;  (c) 
+The  question  of  a  nucleus  in  bacteria,  261.  Bacteria  un- 
+doubted organisms  whether  "true  cells"  or  not,  263.  B.  De- 
+velopment, 267.  False  conceptions  about  development  in  pro- 
+tozoa, 267.  Misuse  of  the  term  "ontogeny,"  271.  Development 
+of  Stentor  as  an  example  of  protozoan  ontogeny,  272.  The 
+terms  "embryology"  and  "ontogeny"  inevitably  used  by  in- 
+vestigators of  protozoan  reproduction,  277. 
+
+X.  HISTORY  OF  THE  ATTEMPT  TO  SUBORDINATE  THE  PROTISTA  TO  THE 
+
+CELL-THEORY 280 
+
+Clash  between  Ehrenberg  and  Dujardin  a  special  case  of  the 
+conflict  between  organismal  and  elementalist  conceptions,  280. 
+Modern  opposition  to  the  effort  to  make  protista  conform  to 
+cellular  elementalism,  286:  (a)  Position  of  Friederich  Stein, 
+286;  (b)  Position  of  Huxley,  R.  Hertwig  and  others,  288. 
+General  conclusions  from,  examination  of  knowledge  and  views 
+as  to  the  nature  of  uni-  and  multicellular  organisms,  291. 
+
+B.     The  Production  of  Individuals  by  Other  Individuals 
+
+XI.  THE  NATURE  OF  HEREDITY  AND  THE  PROBLEM  OF  ITS  MECHAN- 
+
+ISM     305 
+
+Heredity  the  chief  present-day  stronghold  of  biological  ele- 
+
+
+Contents  xxvii 
+
+
+mentalism,  305.  This  due  particularly  to  discovery  of  inter- 
+dependence between  adult  characters  and  chromosomes  of 
+germ-cells,  30C.  Revised  conception  of  heredity  essential  to 
+interpreting  thin  interdependence,  307.  Unwarrantable  tend- 
+ency to  restrict  heredity  to  sexual  propagation,  308.  Unwar- 
+rantable tendency  to  restrict  heredity  to  adult  characters,  811. 
+Importance  of  recognizing  heredity  as  working  by  transforma- 
+tion rather  than  by  transmission,  312.  Tendency  to  confuse 
+hi-n-ililif  irith  riiimt'it  of  heredity,  313.  Definition  of  heredity 
+adopted  iii  (hi*  discussion,  with  remarks  on  its  application  to 
+flic  chromosome  theori/,  -U ',.  Meaning  «>id  criterion  of  "mech- 
+anism of  heredity,"  .:.'.'. 
+
+XII.  KVIDEXCE    FAVORABLE    TO    CHROMATIX    AS    HEREDITARY    SUB- 
+
+STANCE        3?H 
+
+A.  Direct  Evidence.  Evidence  from  tin  ontogeny  of  some  ' 
+protozoans,  326.  Evidence  from  certain  cells  of  multicellular 
+organisms,  331.  Evidence  from  gpennatozoan.  .133.  Evidence 
+from  pigment  cells,  333.  B.  Indirect  I'lridcnce,  341.  The 
+chromosomes  of  germ-cells  in  fertilization,  •!'/.'.  Fertilization 
+of  the  ova  of  one  species  by  the  sperm  of  another  species,  344- 
+The  connection  of  sex  with  a  particular  chromosome,  346.  The 
+connection  of  mutations  with  particular  chromosomes,  353. 
+Chromosomes  and  the  Mendelian  mode  of  inheritance,  356. 
+
+XIII.  KVIDEXCE  FROM  PROTOZOANS  TlIAT  SUBSTANCES  OTHER  TlTAN 
+
+CHROMATIS-  ARE  PHYSICAL  BASES  OF  HEREDITY  .  .  .  363 
+Evidence  from  the  ontogeny  of  various  protozoans,  363:  (a) 
+Stentor.  .sn.:;  (l>)  \Vh<it  s/ndi/  of  the  ontogeny  of  Diplodinwm 
+trill  i>rol><il>l</  discover,  370;  (c)  The  origin  of  ftagella,  370; 
+(d)  1'nrioux  organs  of  XI ylonychia  and  I'aramecinm,  373;  («) 
+The  skeleton  of  radlolaria,  375;  (f)  Openings  in  the  central 
+ca/tfiiite  of  the  rudiolaria,  379;  (g)  The  shells  of  foraminifera, 
+385;  (h)  The  din  gin  <i  organ*  of  tt^orozoa,  JM1 ;  (j)  The  "di- 
+ri.xion  center"  of  .\odilnca,  390 i (j)  The  centrosphere  of  pro- 
+tozoa generally,  M)//.  Concluding  remark  on  the  evidence  pre- 
+sented, 397. 
+
+
+LIST  OF  ILLUSTRATIONS 
+
+
+PAGE 
+
+1.     Diplodiniurn   (After  Sharp)  ........  231 
+
+.-.'.      Hydra    (After  Parker  and   Parker)      ......  232 
+
+3.     Stylonychia  Mytilus   (From   Hartog,  After  Lang)      .         .         .  233 
+
+i.     Stenostoina    Lcucops    (After  Ott)         ......  233 
+
+5.  Stylonychia  Mytilus   (After  Putter)    ......  235 
+
+6.  Stylonychia   Histrio    (After   Maier)       ......  250 
+
+7.  Crithidia  Leptocoridis  (After  McCulhx-h)   .....  251 
+H.     Crithidia  Le])toeoridi.s  (After  MeCulloch)  .....  252 
+9.     (liardia   Muris    (After   Kofoid   and   Christiansen)        .         .         .  255 
+
+10.  Coryeella    Annata    (From   Wasielewski,   After  Leger)        .         .  270 
+
+11,  I.',   13,   11.     Stentor  Caeruleus    (After  Johnson)   .         .         .     274,275 
+15.     Frontonia   I.eueas    (After  Tonniges)    ......  3:27 
+
+Hi.     Xaejrleria  Gruberi   (After  Kofoid)       ......  329 
+
+17.  Spermatid  of  the  Rat   (After  Dnesberg)    .....  334 
+
+18.  Spermatid  of  Salamander  (After  Heidenhain)  ....  33  1 
+
+19.  Spermatid  of  Snail    (After  Heidenhain)     .....  336 
+Flajrellvm   of    Fimlena    (After    Biitschli)      .....  371 
+
+?1.     Frontonia    I.eueas,   Triehoevst     (After   Tonniges)        .         .         .  374 
+
+Aulosphaera    (After    Haeeker)      .......  376 
+
+Aulosphacra     Klegantissima      (After     Haeeker).       Detail     of 
+
+Structure     ...........  377 
+
+Anloceros    (After    Haeeker).      Detail    Section   of  Spine     .          .  377 
+
+Aulacantha    (After   Hornet)   ........  379 
+
+Aeanthometron   Pellueidum    (After  Moroff  and  Stiasny)  .         .  381 
+
+Kuglypha    Alveolata,   Division   Stages    (After   Minehin)      .         .  384 
+
+Development   of   Pyxinia    (After   Ix'ger  and   Duhosq)        .         .  387 
+
+Fj)imeritc  of  Pileocephalus    Ileerii    (After    Lankestcr)      .         .  388 
+
+30.  Epimerite  of  Geneiorbynelms   Monnieri    (After  I>ankester)      .  388 
+
+31.  Fpimerite  of  Eehinomera    Hispida    (After   Lankester)      .         .  388 
+3.->.      Fpimerite  of  Beloides   Firmus    (After   Lankester)     .         .         .389 
+W.      Fpimerite  of  Comeloides    Crinitus    (After    Lankester)      .         .  389 
+
+34.  Xoetiluea    Miliaris    (After   Hertwig)    ......  390 
+
+35.  Fission  Stages  of  Noctiluca   Miliaris    (After  Calkins)      .         .  391 
+
+
+XXJX 
+
+
+PART   I 
+
+CRITIQUE    OF   THE    ELEMENTALIST    CONCEPTION 
+OF    THE    ORGANISM 
+
+A.    Composition  of  the  Living  Individual 
+
+
+THE  UNITY  OF  THE  ORGANISM 
+
+Chapter  I 
+INTRODUCTORY 
+
+Historic  Background 
+
+EYKUY  biologist  is  familiar  with  the  phrase  "the  organ- 
+ism as  a  whole."  It  occurs  over  and  over  again,  par- 
+ticularly in  later  years,  in  written  and  spoken  discussion 
+touching  a  wide  range  of  subjects;  and  the  essential  idea, 
+expressed  in  different  terms,  is  still  more  common.  To  at- 
+tempt an  exhaustive  list  of  instances  of  the  use  of  the 
+phrase  or  its  equivalents  would  be  profitless,  but  enough 
+must  be  said  both  at  the  outset  and  at  various  places 
+along  the  way  to  furnish  a  secure  historic  foundation  for 
+tin-  enterprise  we  are  undertaking. 
+
+In  its  earliest  infancy  the  science  of  living  beings  pre- 
+sented two  theories  apparently  diametrically  and  irreconcil- 
+ably opposed  to  each  other.  Stating  the  case  in  familiar 
+terminology,  according  to  the  one  the  organism  is  explained 
+by  the  substances  or  elements  of  which  it  is  composed,  while 
+according  to  the  other  the  substances  or  elements  are  ex- 
+plained by  the  organism.  *  Since  it  will  be  necessary  to 
+refer  frequently  throughout  our  discussion  to  these  two 
+
+•  The  word  "explain"  calls  so  loudly  to  be  itself  "explained"  when 
+used  in  this  offhand  way  that  one  reluctantly  lets  it  go  unheeded  even 
+temporarily,  but  it  must  be  passed  now  with  this  sole  remark:  whatever 
+meaning  may  be  attached  to  it  in  one  of  the  above  propositions,  exactly 
+the  same  meaning  must  it  have  in  the  other. 
+
+1 
+
+
+2  The  Unity  of  the  Organism 
+
+standpoints  or  theories,  a  short  designation  for  each  is 
+desirable.  Historically  viewed  they  might  be  spoken  of  as 
+the  Aristotelian  and  the  Lucretian.  But  far  more  satisfac- 
+tory because  descriptive  in  a  luminous  way,  are  the  terms 
+"organismal  theory,"  or  if  one  may  be  permitted  to  coin  a 
+word,  "organismalism,"  for  the  Aristotelian ;  and  "elemental 
+theory,"  or  "elementalism"  for  the  Lucretian. 
+
+The  essence  of  the  idea  is  set  forth  with  admirable  clear- 
+ness in  the  early  pages  of  that  protogenal  book  on  zoology, 
+On  the  Parts  of  Animals,  by  Aristotle.  "But  if  man  and 
+animals  and  their  several  parts  are  natural  phenomena, 
+then  the  natural  philosopher  must  take  into  consideration 
+not  merely  the  ultimate  substances  of  which  they  are  made, 
+but  also  flesh,  bone,  blood,  and  all  other  homogeneous  parts ; 
+not  only  these,  but  also  the  heterogeneous  parts,  such  as 
+face,  hand,  foot,  and  so  on.  For  to  say  what  are  the  ulti- 
+mate substances  out  of  which  an  animal  is  formed  ...  is 
+no  more  sufficient  than  would  be  a  similar  account  in  the 
+case  of  a  couch  or  the  like.  For  we  should  not  be  con- 
+tent with  saying  that  the  couch  was  made  of  bronze  or  wood 
+or  whatever  it  might  be,  but  should  try  to  describe  its  de- 
+sign or  mode  of  composition  in  preference  to  the  material. 
+.  .  .  For  a  couch  is  such  and  such  a  form  embodied  in  this 
+or  that  matter,  or  such  and  such  a  matter  with  this  or 
+that  form.  ...  It  is  plain,  then,  that  the  teaching  of  the 
+old  physiologists  is  inadequate,  and  that  the  true  method 
+is  to  state  what  are  the  definitive  characters  that  distin- 
+guish the  animal  as  a  whole;  to  explain  what  it  is,  both  in 
+substance  and  in  form,  and  to  deal  after  the  same  fashion 
+with  its  several  organs." 
+
+Not  only  is  the  idea  itself  piquantly  stated,  but  as  no  one 
+will  fail  to  notice,  the  antithetic  idea  with  which  it  has  had 
+to  contend  perpetually  from  that  day  to  this  is  also  unmis- 
+takably indicated.  Another  cardinal  point  will  not  be 
+missed:  not  only  does  Aristotle  sketch  these  two  antithetic 
+
+
+} 
+
+
+Introductory  3 
+
+ideas  with  a  firm  hand,  but  he  leaves  no  room  for  doubt  as 
+to  which  side  of  the  ages-long  controversy  lie  is  on.  He  is 
+always  on  the  side  of  the  organism  as  against  its  substance. 
+
+Were  we  permitted  to  take  this  statement  by  Aristotle 
+out  of  its  setting  in  his  general  doctrine  of  living  beings  it 
+would  very  well  present,  as  far  as  it  goes,  the  standpoint 
+that  will  be  maintained  in  the  present  treatise.  However, 
+when  we  come  to  follow  him  further  and  find  what  his  dis- 
+tinction is  between  substance  and  form,  and  to  see  how 
+the  latter  is  related  to  the  soul  and  becomes  involved  in  the 
+problems  of  purpose  and  necessity,  we  have  to  recognize  that 
+in  reality  the  passage  comes  a  long  way  from  meaning  what 
+we  should  mean  by  the  same  words.  Wherein  the  difference 
+lies  will  appear  as  our  enterprise  develops. 
+
+The  earliest  defender  of  the  opposite  idea  whom  we  shall 
+notice  was  Lucretius.  Although  this  poet-naturalist  pro- 
+fessed to  be  a  follower  of  Empcdocles  and  Epicurus,  his 
+formulation  of  biological  elementalism  is  so  explicit  and  so 
+readily  accessible  to  modern  readers  that  it  will  serve  well 
+the  needs  of  this  discussion.  In  the  third  book  of  The 
+X  at  tire  of  Things  Lucretius  gives  his  reasons  for  rejecting 
+the  Greek  notion  of  the  "mental  sense"  of  man  and  animals 
+a>  a  Harmony — a  something  which  arises  as  a  vital  product 
+of  the  whole,  and  then  defends  at  length  the  counter  hypo- 
+thesis, namely  that  the  mind  and  soul,  that  is,  life,  is  a  defi- 
+nite, independent,  though  complex  substance.  I  quote  a 
+few  sentences  from  the  theory  which  Lucretius  is  sure  is 
+right,  using  the  translation  by  the  Reverend  J.  S.  Watson: 
+"I  shall  now  proceed  to  give  you  a  demonstration,  in  plain 
+words,  of  what  substance  this  mind  is,  and  of  what  it  con- 
+sists. In  the  first  place,  I  say  that  it  is  extremely  subtle, 
+and  is  formed  of  very  minute  atoms."  After  illustrating  the 
+activity  and  pervasiveness  of  the  soul  throughout  the  body, 
+the  author  continues :  "It  must  therefore  necessarily  be 
+the  case,  that  the  whole  soul  consists  of  extremely  small 
+
+
+4  The  Unity  of  the  Organism 
+
+seminal-atoms,  connected  and  diffused  throughout  the  veins, 
+the  viscera  and  the  nerves."  Then  comes  a  discourse  on  the 
+nature  of  the  soul  substance:  "Nor  yet  is  this  nature  or 
+substance  to  be  regarded  by  us  as  simple  and  uncom- 
+pounded.  For  a  certain  subtle  aura,  mixed  with  heat,  leaves 
+dying  persons;  the  heat  moreover,  carries  air  with  it.  ... 
+Nor  yet  are  all  these  constituent  parts,  aura,  heat,  and  air, 
+sufficient  to  produce  mental  sense  or  power.  A  certain 
+fourth  nature  or  substance  must  therefore  necessarily  be 
+added  to  these:  this  is  wholly  without  a  name;  it  is  a  sub- 
+stance, however,  than  which  nothing  exists  more  active  or 
+subtle,  nor  is  anything  more  essentially  composed  of  small 
+and  smooth  elementary  particles ;  and  it  is  this  substance 
+which  first  distributes  sensible  motions  through  the  mem- 
+bers. .  .  .  This  fourth  principle  lies  entirely  hid,  and  re- 
+mains in  secret,  within;  nor  is  anything  more  deeply  seated 
+within  the  body;  and  it  is  itself,  moreover,  the  soul  of  the 
+whole  soul."  2 
+
+The  further  need  our  enterprise  has  to  draw  upon  history 
+as  such  permits  us  to  leap  across  nearly  eighteen  centuries, 
+for  the  next  occurrences  touching  these  theories  which 
+greatly  concern  us  belong  to  the  period  of  splendid  achieve- 
+ment in  the  sciences  of  living  beings  from  Linnaeus'  System 
+of  Nature  to  Darwin's  Origin  of  Species.  The  course  of 
+thinking  and  discovery  during  this  period  has  been  so  in- 
+terpreted as  to  appear  to  constitute  a  virtual  proof  of  the 
+correctness  of  the  elcmentalist  theory.  It  is  said  that  in  the 
+Linnean  era  plants  and  animals  were  treated  from  the 
+standpoint  of  the  organism  as  a  whole,  and  that  later,  under 
+the  chieftainship  of  Cuvier,  "instead  of  the  complete  or- 
+ganism, the  organs  of  which  it  is  composed  became  the  chief 
+subject  of  analysis."  Then,  with  Bichat  leading,  came  the 
+advance  to  the  tissues ;  then  before  long  the  discovery  was 
+made  that  not  the  tissues  but  the  cells  are  the  real  units 
+of  structure,  Schleiden  and  Schwann  being  foremost  in  this 
+
+
+Introductory  5 
+
+forward  step;  and  finally,  with  the  demonstration,  ac- 
+complished chiefly  by  Max  Schult/e,  that  one  substance, 
+protoplasm,  is  the  common  basis  of  life  in  plants  and  ani- 
+mals, real  biology  was  attained.  This  interpretation  de- 
+clares that  on  the  morphological  side  there  was  progress 
+step  by  step  "from  the  organism  as  a  whole  to  organs,  to 
+tissues,  to  cells,  and  finally  to  protoplasm,  the  study  of 
+which  in-  all  its  phases  is  the  chief  pursuit  of  biologists." 
+
+This  picture  is  undoubtedly  true  to  a  certain  extent. 
+Science  surely  began  with  observations  on  organisms  whole 
+and  living,  and  only  gradually  did  it  take  them  to  pieces 
+to  learn  their  parts  and  so  to  deepen  understanding.  But 
+in  so  far  as  it  gives  the  impression  that  the  study  of  organic 
+beings  has  moved  along  a  direct  course  from  the  organism 
+as  a  whole  toward  the  ultimate  elements  or  substances  of 
+which  organisms  arc  composed,  and  has  become  scientific 
+just  in  so  far  as  and  no  further  than  it  has  advanced  in 
+this  direction,  becoming  genuine  biology  only  when  proto- 
+plasm is  reached,  it  is  not  in  accord  with  history  or  the 
+nature  of  scientific  knowledge.  The  introduction  of  the 
+word  biology  into  science  by  Treviranus  and  Lamarck  in  the 
+very  first  years  of  the  nineteenth  century  was  deliberate 
+and  fully  justified  though  it  had  no  special  reference  to  tis- 
+sues or  cells,  much  less  to  protoplasm.  But  the  unfaithful- 
+ness of  tlie  above  sketch  to  actual  history  which  I  wish  to 
+point  out  particularly,  concerns  the  part,  played  by  the 
+group  of  French  biologists  of  which  Cuvier  is  the  best 
+known  member. 
+
+It  would  hardly  be  possible  to  miss  more  completely  the 
+significance  of  these  men  than  to  conceive  Cuvier  as  making 
+the  "organs  of  which  the  organism  is  composed"  the  chief 
+subject  of  study  "instead  of  the  completed  organism."  The 
+distinctive  feature  about,  the  school  was  not  the  idea  of  the 
+organs  as  such,  but  as  parts  of  the  whole.  The  ensemble, 
+the  principles  of  co-existence,  or  correlation,  of  subordina- 
+
+
+6  The  Unity  of  the  Organism 
+
+tion  of  organs  and  "characters,"  are  what  stand  out  most 
+prominently  in  the  writings  of  these  men,  so  far  as  general 
+conceptions  are  concerned.  Cuvier,  as  above  indicated,  is 
+regarded  as  the  central  figure  of  the  group,  but  this  comes 
+more  from  the  vast  extent  of  his  achievements  and  from 
+his  general  masterfulness  than  from  his  originality  and 
+depth  of  insight.  The  leading  idea  was  not  due  to  him,  as 
+he  fully  recognized,  but  to  the  Jussieus,  uncle  and  nephew. 
+Concerning  their  Genera  Plantarium,  Cuvier  said  in  his 
+History  of  the  Natural  Sciences:  "This  work  produced  a 
+veritable  revolution  in  botany,  for  only  since  its  publication 
+have  plants  been  studied  according  to  the  relations  which 
+they  exhibit  and  according  to  the  totality  of  their  organiza- 
+tion." These  botanists,  we  are  told,  conceived  the  organs 
+and  parts  to  be  correlated  with  one  another,  i.e.,  dependent 
+on  each  other  and  united  to  form  the  totality  of  their  or- 
+ganization. Cuvier  made  this  principle  his  own  by  adoption, 
+and  applied  it  with  great  vigor  and  success  in  all  his  zo- 
+ological and  anatomical  studies.  His  statements  of  it  are 
+numerous  and  varied  in  form,  one  of  the  fullest  and  clearest 
+being  in  the  "Discourse"  with  which  the  Researches  on  Fos- 
+sil Fishes  is  introduced :  "Every  orgcinizcd  being  forms  a 
+whole,  a  system  unique  and  closed,  of  which  the  parts  mu- 
+tually correspond  and  concur  in  the  same  definitive  action 
+through  a  reciprocal  reaction.  No  part  may  change  with- 
+out the  others  changing  also ;  and  consequently  each  of 
+them,  taken  separately,  serves  as  an  index  and  an  exposition 
+of  the  others."  4 
+
+While  Cuvier  made  much  of  this  principle,  his  shortcom- 
+ings in  understanding  and  applying  it  are  obvious  and  far- 
+reaching.  He  used  it  primarily  in  the  interest  of  classifica- 
+tion, and  classification  seems  to  have  been  the  first  goal  of 
+his  scientific  endeavor.  But  it  being  as  little  possible  for  a 
+Cuvier  as  for  any  other  thoughtful  biologist  really  to  go 
+no  further  than  to  glean  and  marshal]  facts,  it  was  exactly 
+
+
+Introductory  7 
+
+this  principle  that,  became  his  speculative  stronghold,  and 
+then  his  speculative  undoing.  He  made  it  the  basis  of  his 
+conception  of  types,  and  the  Type  became  with  him  a  sort 
+of  Platonic  Idea,  an  eternal,  more  or  less  subjective  entity. 
+It  was  in  the  hands  of  Geoffrey  Saint-Hilaire,  Cuvier's 
+early  collaborator  and  later  antagonist,  that  the  principle 
+received  its  best  development.  Working  out  a  Theory  of 
+Analogies  in  his  Philosophical  Anatomy,  he  considers  sev- 
+eral possible  explanations  of  analogies  but  rejects  all  but 
+three,  these  being:  (1)  the  relative  position,  the  mutual  de- 
+pendence of  organs;  (£)  the  elective  affinities  among  the 
+organs,  defined  to  mean  that  "the  materials  of  the  organs 
+survive  in  some  fashion  the  organs  themselves,  and,  when 
+the  latter  cease  to  exist,  the  analogy  nevertheless  does  not 
+cease";  and  (3)  the  balance  of  organs,  the  meaning  of  which 
+is  that  "an  organ,  normal  or  pathologic,  never  acquires  an 
+unusual  prosperity,  without  a  related  organ,  or  one  in  the 
+same  system,  suffering  for  it."  5 
+
+Saint-Hilaire's  application  of  these  principles  to  the  in- 
+terpretation of  rudimentary  organs  and  to  teretological 
+growths  show  well  the  thorough-going  objectivity  of  his 
+conception;  and  his  Principles  of  Philosophical  Zoology 
+(1830)  arc  only  accentuated  examples  of  the  fact  that  the 
+organism  as  a  whole,  as  he  looked  upon  it,  was  the  organism 
+as  composed  of  all  its  parts,  and  further,  that  he  was  a 
+genuine  biologist  if  ever  there  was  one,  in  spite  of  the  fact 
+that  if  he  ever  saw  any  protoplasm  there  is  no  evidence  that 
+it  played  any  considerable  part  in  his  thinking.  This  whole 
+group  of  the  late  eighteenth  and  early  nineteenth  century 
+biologists  must  be  taken  not  only  as  upholders  of  the  or- 
+ganismal  theory,  but  as  having  greatly  advanced  its  defini- 
+tion and  application.* 
+
+*  Were  it  our  purpose  in  this  chapter  to  present  an  exhaustive  critical 
+study  of  the  presence  and  growth  of  organismal  conceptions  in  biology 
+it  would  Itr  necessary  to  examine  somewhere,  probably  at  this  point,  the 
+ideas  of  the  oryanicixls,  a  group  of  embiyologistfl  and  physiologists  who 
+
+
+8  The  Unity  of  the  Organism 
+
+As  we  glanced  at  the  organismal  and  elemental  theories 
+when  they  opposed  each  other  in  the  infancy  of  biology,  we 
+must  look  at  them  still  opposing  each  other  in  this  era  of 
+what  we  may  call  the  adolescence  of  the  science.  The  or- 
+ganismal side  we  have  already  spoken  of  in  our  glance  at 
+the  work  of  the  French  biologists  of  the  early  nineteenth 
+century.  As  an  elementalist  of  this  period  I  choose  Theodor 
+Schwann.  In  his  Microscopical  Researches  into  the  Accord- 
+ance in  the  Structure  and  the  Growth  of  Animals  and 
+Plants,  published  in  1839,  he  said:  "We  may,  then,  form 
+the  two  following  ideas  of  the  cause  of  organic  phenomena, 
+such  as  growth,  etc.  First,  that  the  cause  resides  in  the 
+totality  of  the  organism.  By  the  combination  of  the  mole- 
+cules into  a  synthetic  whole,  such  as  the  organism  is  in  every 
+stage  of  its  development,  a  power  is  engendered,  which  en- 
+ables such  an  organism  to  take  up  fresh  material  from 
+without,  and  appropriate  it  either  to  the  formation  of  new 
+elementary  parts,  or  to  the  growth  of  those  already  present. 
+Here  therefore  the  cause  of  the  growth  of  the  elementary 
+parts  resides  in  the  totality  of  the  organism. 
+
+"The  other  mode  of  explanation  is  that  growth  does  not 
+ensue  from  a  power  resident  in  the  entire  organism,  but 
+that  each  separate  elementary  part  is  possessed  of  an  inde- 
+pendent power,  an  independent  life,  so  to  speak:  in  other 
+words,  the  molecules  in  each  separate  elementary  part  are 
+so  combined  as  to  set  free  a  power  by  which  it  is  capable 
+of  attracting  new  molecules  and  thus  increasing,  and  the 
+whole  organism  subsists  only  by  means  of  the  reciprocal 
+action  of  the  single  elementary  parts.  So  that  here  the  sin- 
+worked  during  the  first  two-thirds  of  the  nineteenth  century.  Delage 
+(L'Heredite,  p.  750)  mentions  C.  E.  Von  Baer,  Claude  Bernard,  M. 
+Bichat,  W.  His  and  K.  1'm'iger  as  representative  of  this  group.  The 
+philosophical  importance  of  the  ideas  held  by  these  investigators  has  been 
+emphasized  by  L.  J.  Henderson  (The  Order  of  Nature).  But  there  is, 
+as  I  believe,  a  vein  of  subjectivistic  metaphysics  implicit  in  their  con- 
+ceptions which  throws  them  somewhat  out  of  the  main  organismal 
+current. 
+
+
+Introductory  9 
+
+gle  elementary  parts  only  exert  an  active  influence  on  nu- 
+trition, and  the  totality  of  the  organism  may  indeed  be  a 
+condition,  but  is  not  in  this  view  a  cause." 
+
+It  is  hardly  necessary  to  say  that  Schwann  himself 
+adopted  the  view  last  presented,  and  that  cells  were,  as  he 
+believed,  the  "elementary  parts"  mentioned  in  his  statement. 
+Under  other  heads  we  shall  find  it  necessary  to  speak  with 
+some  fullness  of  Sehwann's  doctrinal  views  and  mode  of 
+reasoning.  Our  needs  in  this  purely  historical  reference 
+will  be  satisfied  by  calling  attention  to  the  fact  that  he 
+states  the  elementalist  theory  in  general  terms  only,  that  is, 
+in  terms  of  '•elementary  parts''  and  ^molecules."  This  fact 
+shows  his  conception  of  the  problem  in  the  large.  His  con- 
+tention that  cells  are  the  elements  sought  must  be  under- 
+stood to  be  an  hypothesis  secondary  only  to  his  broader 
+conceptions.  The  recognition  of  this  two-fold  aspect  of 
+chwamfs  teaching  I  deem  of  prime  importance,  for  it  shows 
+clearly  that  his  theory  of  cells  as  the  ultimate  elements  of 
+living  beings  was  not  a  conclusion  arrived  at  by  purely  in- 
+ductive- processes,  but  rat  her 'as  an  interpretation  of  cells 
+in  accordance  with  an  ancient  idea  well  known  to  him  and 
+
+opted  bv  him.  So  the  very  great  significance  of  Schwann's 
+work  must  be  looked  upon  in  two  distinct  lights:  first,  in 
+that  of  a  generalization  of  unqualified  validity  and  of  the 
+highest  importance,  concerning  the  proximate  composition 
+of  plants  and  animals,  that  is,  their  cellular  composition; 
+and  second,  in  that  of  furnishing  what  seemed  so  solid  a 
+foundation  for  the  ages-old  elementalist  theory  of  living- 
+beings  as  to  secure  to  it  well-nigh  complete  domination  of 
+biological  thought  for  a  generation.  I  think  it  is  not.  going 
+too  far  to  sav  that  through  the  influence  of  the  cell  theory 
+as  promulgated  by  Schwann,  following  as  it  did  close  upon 
+the  foundation  of  histology  by  Hichat,  the  organismal  con- 
+ception lay  almost  wholly  dormant  (luring  the  fifty  years 
+from  184-0  to  1890. 
+
+
+:::,. 
+
+
+10  The  Unity  of  the  Organism 
+
+This  reference  to  Schwann  as  an  elementalist  being 
+primarily  in  the  interest  of  our  historic  background,  a  crit- 
+ical examination  of  his  position  would  be  out  of  place.  But 
+it  is  desirable  to  call  attention  to  one  important  logical,  or 
+perhaps  more  properly  psychological,  implication  of  his 
+standpoint.  The  elemental  theory  applied  to  organisms 
+which,  as  we  have  just  seen,  he  stated  so  well  and  adopted 
+in  his  interpretation  of  the  cellular  composition  of  organ- 
+isms, is  in  reality  not  so  much  of  a  theory  of  organic 
+phenomena  themselves  as  of  knowledge  of  those  phenomena. 
+In  other  words,  Schwann  started  out  in  his  investigations 
+not,  in  the  first  instance,  with  a  theory  of  organisms,  but 
+with  a  theory  of  knowledge  of  organisms.  The  great  im- 
+portance of  this  mode  of  approach  to  biological  problems 
+will  be  brought  out  more  fully  later.  Enough  is  it  to  re- 
+mark here  that  so  much  has  the  theory  of  scientific  knowl- 
+edge applied  in  Schwann's  position  grown  in  definiteness  and 
+influence  with  time,  that  to-day  many  biological  elementalists 
+hold  unquestioningly  the  view  that  the  sum  and  substance 
+of  scientific  knowledge  of  organic  beings  is  a  knowledge  of 
+the  elements  of  which  these  beings  are  composed.  According 
+to  the  theory  of  biology  held  by  these  biologists,  the  busi- 
+ness, and  the  only  legitimate  business,  of  the  science  is  to 
+reduce  organisms  to  as  few  and  as  simple  elements  as  pos- 
+sible; and  in  its  extreme  form  the  aim  is  exactly  what 
+it  was  with  the  very  earliest  elementalists,  namely  to  reach 
+finally  one  or  a  very  few  ultimate  elements.  To  explain  or- 
+ganisms is,  according  to  this  theory  of  knowledge,  to  reduce 
+them  to  their  elements,  and  it  is  nothing  else. 
+
+Since  1890  the  organismal  view  has  exhibited  a  rather 
+vigorous  reanimation.  Details  as  to  how  this  has  come 
+about  and  as  to  what  the  renewed  manifestations  of  life 
+consist  in  cannot  be  entered  into  now.  However,  one  highly 
+significant  circumstance  must  be  noted:  the  rehabilitation 
+has  had  little  or  nothing  to  do  with  the  form  assumed  by 
+
+
+cl 
+
+;; 
+
+be 
+
+
+Introductory  11 
+
+the  theory  in  the  hands  of  the  French  biologists  considered 
+above.  It  has  on  the  contrary  arisen  in  a  sense  de  novo,  and 
+in  consequence  of  a  growing  recognition  of  the  inadequacy 
+of  elemental  ism  as  bodied  forth  in  the  cell  theory  applied 
+to  the  development  of  individual  organisms.  So  while  we 
+listen  now  to  voices  that  have  been  raised  against  the  at- 
+tempt to  explain  ontogenesis  as  a  cellular  phenomenon  mere- 
+ly, it  must  be  borne  in  mind  that  we  are  doing  so  not  for 
+the  purpose  of  examining  the  cell  doctrine  in  general,  but 
+only  to  fix  attention  on  the  historical  fact  that  the  elemen- 
+talist  standpoint  as  manifested  in  this  aspect  of  the  cell 
+theory  finds  itself  face  to  face  once  again  with  its  old 
+opponent,  the  organismal  standpoint.  The  cell  theory  as 
+such  will  demand  a  chapter  for  itself,  when  its  turn  comes. 
+The  case  of  the  organismal  theory  is  shown  with  special 
+clearness  in  the  writings  of  three  American  biologists,  C.  O. 
+"hitman,  E.  B.  Wilson  and  F.  R.  Lillie.  Whitman,  as  is 
+ell  known,  was  primarily  an  embryologist,  his  best  re- 
+arches  having  been  on  the  development  of  leeches  and 
+jny  fishes,  and  his  observations  in  this  field  were  the  start- 
+ing point  for  his  views  on  the  relation  existing  between 
+11s  and  the  organism.  In  his  essay,  The  Inadequacy  of  the 
+'ell-Theory  of  Dei'elopjnent,  he  says :  "Comparative  em- 
+ryology  reminds  us  at  every  turn  that  the  organism  domi- 
+nates cell-formation,  using  for  the  same  purpose  one,  several, 
+or  many  cells,  massing  its  material  and  directing  its  move- 
+ments and  shaping  its  organs,  as  if  cells  did  not  exist,  or  as 
+if  they  existed  only  in  complete  subordination  to  its  will, 
+if  I  may  so  speak."  T  And  he  ends  the  essay  The  Seat  of 
+Formative  and  "Regenerative  Energy,  with  this:  "The  fact 
+that  physiological  unity  is  not  broken  by  cell-boundaries  is 
+confirmed  in  so  many  ways  that  it  must  be  accepted  as  one 
+of  the  fundamental  truths  of  biology."8  The  reader  should 
+not  fail  to  notice  that  while  in  both  these  essays  Whitman's 
+arguments  were  against  the  hegemony  of  cells,  in  the  one 
+
+
+1£  The  Unity  of  the  Organism 
+
+case  he  was  looking  at  the  organism  primarily  from  the 
+morphological  standpoint  while  in  the  other  he  viewed  it 
+more  from  the  physiological  side. 
+
+In  the  mere  matter  of  extent  and  deliberateness  of  re- 
+liance upon  the  principle  of  organic  wholeness,  nothing  in 
+recent  biological  literature  with  which  I  am  acquainted  is 
+more  impressive  than  what  one  finds  in  The  Cell  in  Develop- 
+ment and  Inheritance,  by  E.  B.  Wilson.  The  organism  as 
+a  whole  or  some  obvious  substitute  therefor  is  appealed  to 
+on  no  less  than  seventeen  pages  of  this  book,  these  appeals 
+being  scattered  all  through  from  the  beginning  to  the  end 
+of  the  volume.  So  far  as  such  views  of  this  distinguished 
+cytologist  have  been  embodied  in  a  single  sentence,  the  fol- 
+lowing in  his  essay,  The  Mosaic  Theory  of  Development 
+seem  to  contain  them :  "The  only  real  unity  is  that  of  the 
+entire  organism,  and  as  long  as  its  cells  remain  in  con- 
+tinuity they  arc  to  be  regarded,  not  as  morphological  indi- 
+viduals, but  as  specialized  centers  of  action  into  which 
+the  living  body  resolves  itself,  and  by  means  of  which  the 
+physiological  division  of  labor  is  effected." 
+
+The  most  recent  and  in  several  ways  the  most  significant 
+presentation  of  the  organismal  theory  in  relation  to  cells 
+comes  from  another  embryologist,  F.  R.  Lillie.  It  is  worth 
+noting  that  this  time  the  chief  grounds  of  the  presentation 
+are  experimental  embryology,  whereas  with  Whitman  they 
+are  embryology  unaided  by  experiment.  In  1906  Doctor 
+Lillie  published  an  unusually  interesting  research  on  the  de- 
+velopment of  a  species  of  worm,  Chaetopterus  pergamen- 
+t(ic(iiK.  The  kernel  of  the  results  was  a  confirmation  and 
+extension  of  previous  observations  by  himself  and  several 
+other  investigators  that  under  certain  conditions  the  embryo 
+of  some  species  of  annelid  worms  may  progress  some  dis- 
+tance on  the  developmental  course  before  cellular  or  even 
+nuclear  multiplication  takes  place.  The  author's  summary 
+of  facts  may  be  given  in  his  own  words :  "In  general  the 
+
+
+Introductory  13 
+
+following  statement  may  be  made  concerning  the  differen- 
+tiation of  the  uninucleated  eggs.  (1)  Organs  are  never 
+formed,  but  only  -such  structural  elements  as  may  occur 
+in  single  cells  of  the  trochophore.  (^)  Organs  may,  how- 
+cvcr,  be  simulated  by  the  aggregation  of  the  characteristic 
+matter  of  the  organ,  for  instance  in  the  case  of  the  yellow 
+endoplasm,  which  simulates  the  gut  of  the  trochophore,  or 
+the  row  of  large  vacuoles  *ituatcd  near  the  upper  margin 
+of  the  yellow  endoplasm  which  simulates  the  row  of  vacuoles 
+of  the  prototroch.  ('$)  Structural  elements  appear  in  the 
+same  order  of  time  as  in  the  trochophore.  (4)  The  distri- 
+bution of  the  structural  elements  tends  to  resemble  that  of 
+the  trochophore.  (5)  The  yellow  endoplasm  (yolk?)  is  used 
+up,  apparently  for  the  maintenance  of  the  metabolism  in  the 
+ciliated  unsegmented  eggs  precisely  as  in  the  larva."  '  The 
+theoretical  bearings  of  the  observations  are  indicated  by  the 
+ollowing:  "The  possibility  of  a  considerable  amount  of 
+bryonal  differentiation  without  either  nuclear  or  cyto- 
+asmic  division  may  be  considered  established.  This  in  it- 
+self is  an  important  fact,  for  it  disposes  effectually  of  all 
+theories  of  development  that  make  the  process  of  cell-division 
+e  primary  factor  of  embryonal  differentiation,  whether 
+the  form  of  Weismamfs  qualitative  nuclear  division,  or 
+ert  wig's  cellular  interaction  theory.  Further,  the  phe- 
+nienon  establishes  firmly,  as  I  pointed  out  in  li)01,  the 
+iew  that  the  role  of  cell-division  in  development  is  prima- 
+ily  a  process  of  localization.11 
+
+Lillie    presents    his   still    broader    interpretation    in    an    ex- 
+ingly     interesting     section     headed     "Properties     of     the 
+hole  (  Principle  of  I'm'ty)."      From  this  I  quote  somewhat 
+ore  at  length  than   is  essential  for  our  immediate  purpose 
+f  gaining  a  bird's-eye  view  of  the  field  \ve  are  entering,  since 
+ater   we   shall    want    to   examine   several   of   the   items   more 
+closely.     "The  traditional  view,  held  by  main   embryologists 
+at  the  present  day,  is  that  the  physiological  unity  arises  in 
+
+
+14  The  Unity  of  the  Organism 
+
+the  course  of  embryonic  development  by  the  secondary 
+adaptation  of  originally  independent  parts  to  one  another. 
+But  this  explanation  has,  in  my  opinion,  become  untenable, 
+and  must  be  replaced  by  the  view  that  there  are  certain 
+properties  of  the  whole,  constituting  a  principle  of  unity  of 
+y  organization,  that  are  part  of  the  original  inheritance  and 
+/  thus  continue  through  the  cycles  of  the  generations, 
+and  do  not  arise  anew  in  each.  Weismann  places  this  prin- 
+j  ciple  of  unity  of  organization  in  the  architecture  of  the 
+/  germ-plasm,  but,  as  I  cannot  accept  his  view  of  vast  com- 
+plexity of  the  germ-plasm,  neither  can  I  accept  this  prin- 
+ciple in  the  sense  of  Weismann."  12  .  .  .  "If  any  radical 
+conclusion  from  the  immense  amount  of  investigation  of  the 
+elementary  phenomena  of  development  be  justified  this  is: 
+That  the  cells  are  subordinate  to  the  organism,  which  pro- 
+duces them,  and  makes  them  large  or  small,  of  a  slow  or 
+rapid  rate  of  division,  causes  them  to  divide,  now  in  this 
+direction,  now  in  that,  and  in  all  respects  so  disposes  them 
+that  the  latent  being  comes  to  full  expression.  .  .  .  The 
+organism  is  primary,  not  secondary ;  it  is  an  individual,  not 
+by  virtue  of  the  cooperation  of  countless  lesser  individual- 
+ities, but  an  individual  that  produces  these  lesser  individu- 
+alities. .  .  .  The  persistence  of  organization  is  a  primary 
+law  of  embryonic  development."  13 
+
+Without  looking  further  into  recent  and  contemporaneous 
+literature,  enough  has  been  brought  forward  to  show  that 
+the  organismal  standpoint  has  a  solid  footing  in  current 
+biological  theory.  We  should,  however,  be  grievously  amiss 
+should  we  conclude  that  because  the  theory  has  captured 
+one  stronghold  it  has  won  the  whole  battle.  As  a  matter 
+of  fact,  the  very  men  who  have  admitted  the  rights  of  the 
+organism  as  against  its  cells  in  development  are  yet  far 
+from  admitting  those  rights  as  a  general  proposition;  that 
+is,  as  against  all  the  elements  of  whatever  order  that  enter 
+into  its  makeup.  Thus  Whitman  says,  "If  the  formative 
+
+
+Introduc  tory  15 
+
+processes  cannot  be  referred  to  cell-division,  to  what  can 
+they  be  referred?  To  cellular  interaction?  .  .  .  Tin- 
+answer  .  .  .  will  ...  as  Wicsner  has  so  well  insisted,  find 
+a  common  basis  for  every  grade  of  organization.  It  will 
+find  the  secret  of  organization,  growth,  development,  not  in 
+cell-division,  but  in  those  ultimate  elements  of  living  matter 
+for  which  idiosomes  seems  to  me  an  appropriate  name/" 
+This  sentence,  with  those  immediately  following  it,  leaves 
+no  question  that  in  1893,  when  he  wrote  the  essay  in  which 
+it  occurs,  Whitman  was  at  heart  an  elementalist  as  much  as 
+was  Lucretius  or  Schwann  or  Weismann.  The  only  real 
+step  he  had  taken  in  the  direction  of  the  organismal  stand- 
+point was  that  of  seeing  clearly  that  the  cells  could  not  be 
+"ultimate  units"  of  organization.  Indeed  there  is  consider- 
+able indication  that  so  far  as  the  general  problem  is  con- 
+cerned, the  position  he  held  in  189*5  was  somewhat  backward 
+from  that  which  he  held  five  years  before,  when  he  wrote  The 
+•at  of  Formative  and  Regenerative  Energy,  for  in  that 
+y  he  said:  "Let  us  now  consider  whether  any  rational 
+sis  can  be  found  for  the  idea  of  a  formative  power  as  a 
+suit  ant  from,  and  an  expression  of,  physiological  unity, 
+am  fully  conscious  that  the  subject  is  one  of  profound 
+stery,  the  solution  of  which  appears  to  lie  as  far  beyond 
+grasp  to-day  as  at  any  time  in  the  past.  We  draw 
+rer  to  the  problem,  but  the  effect  is  rather  to  enhance 
+n  to  reduce  its  apparent  magnitude.  Every  step  in  ad- 
+ce  only  brings  us  to  a  keener  sense  of  the  subtle  and 
+mprehcnsible  nature  of  the  force  or  forces  conteni- 
+ted."  15 
+
+The  extent  and  nature  of  Wilson's  faltering  between  the 
+wo  standpoints,  even  as  Ix'tween  the  organism  and  its  cells, 
+in  tfpite  of  his  constant  and  earnest  appeal  to  the  the  organ- 
+ism as  the  "only  real  unity"  we  shall  consider  in  some  de- 
+tail when  we  deal  with  the  cell-theory. 
+
+Lillie   has,   I   believe,   advanced    farther   toward    the   con- 
+
+
+J.  A   \Jll 
+
+Seat 
+essa 
+basi 
+
+
+16  The   Unity  of  the  Organism 
+
+ception  that  will  be  defended  in  this  work  than  either  of  the 
+other  biologists  whose  view  we  are  now  considering,  even 
+though  he  is  far  from  admitting  the  organism  to  full  stand- 
+ing in  his  conceptions.  "Undoubtedly,"  he  says,  "it  [the 
+principle  of  unity]  is  capable  of  further  analysis,  and  it 
+must  ultimately  be  derived  from  particular  relations  and 
+properties  of  material  particles"  ;10  and  the  conceptual  form 
+which  the  material  particles,  by  virtue  of  their  "particular 
+relations  and  properties"  assumes  in  Lillic's  mind  is  the 
+"formative  stuffs"  which,  since  the  theory  of  such  sub- 
+stances was  first  given  definiteness  and  plausibility  by  Julius 
+Sachs,  have  figured  largely  in  speculative  biology.  "The 
+theory  of  formative  stuffs,"  Lillie  writes,  "does  away  witli 
+any  'determinant'  hypothesis.  'Characters'  are  not  due  to 
+'unfolding'  of  the  'potencies'  of  'determinants'  but  are  re- 
+sults of  morphogenic  reactions  between  two  or  more  forma- 
+tive stuffs.  The  'character'  need  no  more  be  preformed  in 
+the  reagents  (formative  stuffs)  in  the  case  of  a  morphogenic 
+than  in  the  case  of  a  chemical  reaction."  17 
+
+This  interesting,  and  up  to  a  certain  point  entirely  ac- 
+ceptable, language  of  Lillie's  will  be  examined  more  closely 
+in  another  connection.  Enough  for  now  to  say  dogmatically 
+that  the  author's  "formative  stuffs"  is  only  another  elemen- 
+talist  refuge  and  so  no  more  satisfactory  than  is  the  cellular 
+refuge  which  he  himself  abandons,  or  than  are  any  of  the 
+innumerable  other  refuges  to  which  innumerable  other  ele- 
+mentalists  have  fled. 
+
+The  historic  background  for  our  enterprise  will  be  com- 
+pleted when  we  have  pointed  out  how  it  is  faring  with  these 
+two  theories  at  present.  This  can  be  done  with  great  brev- 
+ity since  what  we  find  will  be  exactly  what  will  most  occupy 
+us  when  we  come  to  the  substantive  rather  than  the  historic 
+part  of  our  task,  when  the  superstructure  rather  than  the 
+foundation  is  at  hand. 
+
+The  organismal  line  of  descent  which  our  cursory   sur- 
+
+
+lilt- 
+
+the 
+tha 
+loo 
+
+sidi 
+
+
+Introductory  17 
+
+vcy  lias  traced  from  the  period  of  Aristotelian  zoology, 
+through  that  of  French  comparative  anatomy  of  the  late 
+eighteenth  and  early  nineteenth  centuries,  through  what 
+might  with  propriety  he  called  the  period  of  American  em- 
+bryology, now  barely  ended,  holds  its  unmistakable  course 
+on  into  what  we  mav  speak  of  as  a  physiological  period, 
+in  the  midst  of  which  we  now  are.  It  should  be  remarked 
+that  "physiological"  as  here  used  does  not  refer  so  much 
+to  physiology  in  the  professional  sense  as  to  an  approach 
+to  certain  developmental  phenomena  of  the  organism  from 
+the  functional  side,  since  the  biologists  who  are  tending  to- 
+ward the  organismal  theory  arc  not  primarily  physiologists 
+but  students  of  individual  development. 
+
+The  term  most  characteristic  of  this  latest  outcrop  of 
+organisinalism  is  correlation,  and  what  is  distinctive  about 
+the  present  effort  as  contrasted  with  that  which  marked 
+the  idea  of  correlation  held  by  the  French  anatomists  is 
+that  now  the  correlatedness  of  parts  in  the  organism  is  being 
+ked  at  from  the  functional  more  than  from  the  structural 
+side;  and  that  the  necessity  is  felt  more  than  it  was  in  the 
+earlier  period,  of  finding  a  causal  explanation  of  the  correla- 
+tions. "Equilibrium"  is  another  term  that  is  frequently 
+used  bv  the  biologists  whose  thinking  is  of  this  cast,  and 
+he  kinship  of  this  to  Saint-Hilaire's  ''balance"  will  not 
+escape  the  reader's  notice.  This  doctrine  of  physiological 
+correlation  is  receiving  its  fullest  elaboration  at  the  hands 
+of  ('.  M.  Child,  though  numerous  investigators  are  con- 
+tributing important  ly  to  it.  K.  (ioehel,  F.  Kadi,  W.  Pfeffer, 
+L.  .Tost,  J.  Nusbainn,  F.  Scliult/,  II.  Kand,  S.  J.  Holmes 
+and  C.  Zelenv  mav  be  mentioned  as  biologists  who  have 
+dealt  more  or  less  directly  with  the  problem.  Undoubtedly 
+II.  Driesch's  "harmonious  equipotential  systems"  ought  to 
+be  mentioned  in  this  connection,  though  this  author's  un- 
+qualified commitment  to  an  extra-natural  explanation  of 
+biological  phenomena  will  hardly  permit  us  to  enroll  him 
+
+
+18  The  Unity  of  the  Organism 
+
+in  the  group  of  workers  referred  to. 
+
+The  organismal  standpoint  escapes  its  ancient  adversa- 
+ries when  it  comes  to  expression  as  physiological  correlation 
+just  as  little  as  it  has  escaped  when  it  has  appeared  under 
+any  of  its  earlier  forms.  Thus  although  correlation  plays 
+a  large  role  in  the  writings  of  W.  Roux,  the  founder  of 
+developmental  mechanics,  approach  to  the  correlation-com- 
+plex for  him  seems  always  to  be  from  the  direction  of  the 
+elements  in  the  complex  and  never  from  that  of  the  complex 
+itself;  so  it  results  that  the  organism  as  such  has  no  stand- 
+ing in  his  conceptions  on  a  par  with  that  of  the  elements 
+which  constitute  it.  This  fact  comes  out  clearly  from  an 
+examination  of  the  various  definitions  bearing  on  the  point 
+given  by  Roux  in  his  Terminologie  der  Entwicklungsme- 
+chanik  der  Tiere  und  Pflanzen.  Thus  as  a  definition  of  or- 
+ganism we  find  "Organism  means  a  complex  of  organs ;  hence, 
+of  instruments."  18  Or  for  living  being  (regarded  as  a  syn- 
+onym for  organism)  we  find:  "Living  beings,  bion,  pi.  bion- 
+ten,  are  natural  bodies  which  distinguish  themselves 
+'minimally'  from  inorganic  natural  bodies  through  a  sum 
+of  definite  elementary  functions  which  directly  or  indirectly 
+subserve  self-preservation,  as  also  through  self-regulation 
+in  the  exercise  of  all  these  functions ;  and  thereby,  in  spite 
+of  'self-alteration,'  and  through  the  same,  and  also  in  spite 
+of  the  necessary  complicated  and  soft  structure,  are  very 
+permanent."  10  Again,  "  'Ganzbildung,'  Holoplast,  is  a  more 
+or  less  fully  developed,  but  fully  formed  structure,  represent- 
+ing an  entire  organism,  which  has  arisen  out  of  a  blastomere, 
+or  egg- fragment."  : 
+
+From  these  as  typical  definitions  it  is  seen  that  in  no  case 
+is  organism  conceived  and  defined  as  having  characters 
+wholly  its  own,  but,  by  implication,  only  those  belonging  to 
+its  parts.  Indeed,  a  critical  study  of  the  speculative  writ- 
+ings of  Roux  and  his  adherents  will,  I  believe,  convince  any 
+one  that  the  most  characteristic  thing  about  developmental 
+
+
+Introductory  19 
+
+mechanics  as  a  system  of  thinking  on  biological  subjects  is 
+its  effort  to  deal  with  organisms  in  terms  of  parts  of  or- 
+(jtutitfuix;  otherwise  expressed,  that  it  is  a  systematic  effort 
+to  avoid  recognizing  the  organism  in  itself  as  a  true  objec- 
+tive entity.  Because  of  the  persistence,  industry,  enthusiasm, 
+and  withal  great  ability  shown  by  Roux  in  applying  ele- 
+mentalism  to  many  aspects  of  living  beings,  his  title  to 
+chieftainship  of  what  the  Germans  call  "Zersplitterungs- 
+theorien"  can  hardly  be  disputed,  at  least  so  far  as  this 
+present  era  is  concerned. 
+
+We  shall  have  to  deal  with  both  the  practical  and  theoret- 
+ical sides  of  the  Rouxian  school  under  several  other  captions, 
+but  this  much  may  be  said  now.  Developmental  mechanics 
+has  one  great  merit  over  any  other  form  that  elcmentalism 
+has  taken  at  any  time  in  the  history  of  biology,  in»  that  it 
+gives  ungrudging  recognition  to  many  orders  of  constituent 
+parts  of  plants  and  animals.  Organs  and  tissues  of  various 
+grades  and  classes — cells,  nuclei,  chromosomes — in  short  all 
+the  parts  of  the  organism,  are  accepted  as  real  existences, 
+only  the  organism  itself  being  ruled  out.  In  this  respect 
+Roux's  elementalisin  is  far  more  genuinely  biological  and 
+scientific  than  is,  for  example,  the  purely  chemical  form  of 
+eleinentalisiii,  that  form  which  virtually  denies  reality  not 
+only  to  the  organism  as  a  whole  but  to  all  of  its  parts  except 
+what,  in  its  most  general  mode  of  expression  it  calls  the 
+"living  substance." 
+
+Superior  in  some  respects  as  the  conceptions  underlying 
+developmental  mechanics  are  to  those  underlying  purely 
+chemical  elementalisin,  far  more  superior  are  they  to  that 
+form  of  elementalisin  the  citadel  of  whose  biological  faith 
+is  constructed  from  deepest  foundation  to  highest  pinnacle 
+of  "hypothetical  living  units,"  of  which  Spencer's  physio- 
+logical units,  Darwin's  pangens,  and  Weismann's  determi- 
+nants are  the  most  famous  examples.  The  reason  why 
+strictly  metaphysical  conceptions  of  this  type  all  prove  to 
+
+
+20  The   Unity  of  the  Organism 
+
+be  so  noxious  to  scientific  biology  \ve  shall  point  out  later. 
+
+Finally,  to  bring  our  historical  survey  to  the  present 
+hour,  brief  reference  must  be  made  to  the  form  the  contro- 
+versy has  assumed  in  its  very  latest  stage.  To  show  that 
+the  Mendelian-unit-charactcr-f actorial-chromosomal  theory 
+of  heredity  has  become  thoroughly  permeated  by  the  elemen- 
+talistic  philosophy  will  be  one  of  the  cardinal  aims  of  some 
+of  our  critical  chapters.  This  philosophy  more  than  the  in- 
+trinsic importance  of  the  objective  discoveries  is  what  has 
+.aroused  the  imagination  and  enthusiasm  and  stimulated  the 
+activity  of  geneticists,  as  the  new  school  of  investigators  of 
+sexual  reproduction  call  themselves.  Reference  to  this  lat- 
+e'st  phase  of  biological  elementalism  cannot  serve  the  future 
+in  any  better  way,  I  think,  than  by  calling  attention  to  the 
+remarkable  illustration  furnished  by  these  late  developments 
+of  the  narrowing  power  of  clementalistic  philosophy. 
+
+A  calm  and  just  judgment  of  what  the  strongest  motive 
+in  philosophical  biology  is  to-day,  would  be  that  it  is  a  firm 
+belief  that  the  most  important  problems  of  the  whole  living 
+world  are  centered  in — what?  Sex-cells?  No,  not  even  in 
+entities  thus  large  and  complex;  but  in  a  few  minute  and 
+relatively  simple  fractions  or  parts  of  these  cells,  the  chro- 
+mosomes ! 
+
+Viewed  broadly  both  as  to  historical  development  and 
+factual  content,  we  are  warranted  in  being  confident  of  the 
+triumph  of  the  organismal  standpoint  at  a  day  not  far  dis- 
+tant, this  confidence  being  warranted  largely  by  the  fact 
+that  it  seems  as  though  elementalism  has  run  nearly  its 
+whole  natural  course.  It  has  consumed  all  the  material  there 
+is  for  it  to  live  on,  as  one  may  say.  It  is  now  engaged  in 
+trying  out  the  very  last  portion  of  the  organism  as  the 
+"seat"  or  ultimate  explanation  of  life  phenomena.  This 
+judgment  of  the  situation  becomes  especially  cogent  if  the 
+broadly  generic  term  "chemical  substances"  be  put  in  the 
+place  of  "hereditary  substance"  or  "genes"  which  are  imag- 
+
+
+Introductory  21 
+
+ined  to  make  up  largely  or  wholly  the  chromosomes. 
+
+A  striking  example  of  the  rapid  progress  made  by  ele- 
+mentalism  toward  its  own  extinction  through  contracting 
+itself  to  nothingness  is  furnished  by  the  course  of  speculation 
+about  ultimate  biological  units  from  the  period  of  Spencer 
+and  Darwin  to  the  present  moment.  Spencer's  physiological 
+units  were  by  no  means  restricted  to  the  germ-cells  but 
+were  held  to  permeate  the  whole  organism.  In  this  the 
+doctrine  hud  a  strong  organismal  flavor.  And  Darwin's 
+gemmules  had  an  unmistakable  organismal  leaning  in  that 
+they  belonged  to  the  organism  as  a  whole  at  least  as  much 
+as  to  the  germ-cells.  His  conception  was  one  of  pan  or  uni- 
+versal gem-sis  and  not  merely  of  genesis  from  germ-cells 
+toward  soina.  In  fact,  the  main  object  of  his  quest  was  an 
+explanation  of  how  body,  or  soma,  may  influence  germ-cells. 
+
+After  Darwin  came  the  next  long  step  toward  elementalist 
+rctltictio  ad  absurdum  in  Weismann's  proposal  to  limit  the 
+efficient  ultimates  of  organization,  the  determinants,  to  the 
+germ-plasm  whether  this  be  in  sex  or  other  reproductive 
+cells ;  that  is,  to  so  conceive  the  ultimate  nature  of  the  or- 
+ganism that  there  should  be  no  reciprocal  action  between 
+soma  and  germinal  elements ;  that  the  whole  movement,  both 
+individual  and  racial,  in  organic  evolution  should  be  a  one- 
+wa\  movement,  that  wav  being  from  invisible  germ  to  visible 
+organism. 
+
+Finally,  there  has  arrived  the  ultra-modern  school,  the 
+geneticists,  with  those  wonderfully  efficient  instruments  of 
+analysis,  the  factorial  hypothesis  of  Mendelian  inheritance, 
+and  the  hypothesis  that  chromosomes  are  the  "seat'y  of  the 
+"factors"  of  heredity.  These  two  hypotheses  coupled  to- 
+gether and  with  the  hypotheses  that  all  evolution  is  by  mu- 
+tation, and  that  all  mutations  consist  in  the  dropping  out 
+or  losing  of  factors  and  characters,  need  only  to  be  pushed 
+hard  enough  and  speculative  biology  will  be  carried  to  its 
+apotheosis  and  objective  biology  to  its  extinguishment. 
+
+
+£2  The  Unity  of  the  Organism 
+
+How  far  theorizing  has  gone  on  this  road  is  indicated  by 
+the  much  noticed  address  by  William  Bateson,  one  of  the 
+foremost  Mendelian  geneticists,  as  president  of  the  British 
+Association  for  the  Advancement  of  Science  in  1914.  In  this 
+address  Bateson  suggested,  whether  with  full  seriousness  or 
+not  no  one  seems  quite  sure,  the  above  mentioned  hypotheses 
+of  the  loss-of-characters  method  of  origin  of  all  organic 
+species. 
+
+The  chromosome  theory  having  been  elaborated  into  what 
+it  now  is,  the  easy  step,  to  the  conception  that  the  First, 
+or  Original  Organism,  as  something  close  of  kin  to  a  chro- 
+mosome, has  already  been  taken  by  an  able  student,  E.  A. 
+Minchin,  the  imaginary  Primal  Organism  being  called  by 
+him  "Biococcus."  This  speculation  we  shall  consider  in  our 
+formal  discussion  of  the  chromosome  theory  of  heredity. 
+
+To  bring  together  these  suggestions  by  Bateson  and  Min- 
+chin and  elaborate  them  into  a  complete,  well-rounded  theory 
+requires  only  a  biologist,  preferably  a  German,  with  the 
+industry  and  learning  and  imaginative  logic  of  a  Weismann. 
+This  accomplished,  the  ultimate  nature  and  the  evolution 
+of  the  whole  past,  present,  and  future  organic  world  would 
+be  causally  explained  by  referring  it  to  a  primordial  chro- 
+matinic  hierarchy  which  contained  the  determiners,  or  fac- 
+tors, of  all  later  visible  organisms,  and  from  which  these 
+issued  by  the  transformation  of  latent  into  actual  organisms 
+through  the  removal  of  factors  which  inhibit  the  actuation 
+of  other  factors.  But  practicable  as  such  a  complete  ex- 
+planatory theory  is,  and  harmonious  as  it  could  readily  be 
+made  with  certain  far-reaching  and  widely  favored  concep- 
+tions in  modern  physics,  it  is  very  doubtful  if  the  enterprise 
+is  ever  carried  out — at  least  for  any  other  purpose  than  as 
+an  illustration  of  how  elaborate  and  consistent  and  withal 
+beautiful  a  structure  can  be  erected  by  pure  logic. 
+
+My  main  reason  for  believing  the  enterprise  will  never  be 
+carried  through,  seriously,  is  that  the  organismal  stand- 
+
+
+Introductory  £S 
+
+point  has  already  advanced  so  far  on  secure  observational 
+and  experimental  and  inductive  foundations,  that  the  scien- 
+tific useless  ness  if  not  folly  of  such  elcmentalistic  systems 
+will  deter  working  biologists  from  spending  their  time  on 
+them. 
+
+The  barest  mention  of  some  of  the  most  important  lines 
+of  organismal  advance,  just  referred  to,  will  fittingly  close 
+this  historical  sketch. 
+
+From  the  standpoint  of  biology  in  the  narrowest  sense, 
+no  researches  are  yielding  more  of  organismal  significance 
+than  are  those  on  internal  secretions  or  hormones,  or  "chem- 
+ical messengers"  as  they  have  been  called  by  Starling,  one 
+of  the  foremost  investigators  of  these  substances.  Two 
+chapters  of  the  constructive  part  of  this  work  are  devoted 
+to  this  subject. 
+
+Another  province  in  which  research  is  yielding  results 
+scarcely  if  at  all  secondary  in  significance  to  those  coming 
+from  the  biochemical  realm  just  mentioned,  is  that  on  the 
+integrating  office  of  the  nervous  system.  The  fundamental 
+and  extensive  work  of  Sherrington  is  of  prime  importance 
+here.  But  a  genuinely  organismal  aspect  is  recognized  in 
+the  tropism  theory  of  Jacques  Loeb,  which  turns  out  to  be 
+almost  as  important  for  our  general  enterprise  as  the  unify- 
+ing character  of  the  nervous  system. 
+
+Finally,  the  realm  of  the  indubitably  psychic  life  of  or- 
+ganisms, particularly  of  man,  is  found  to  contain  much  of 
+the  utmost,  usefulness  to  the  organismal  conception.  Espe- 
+cially to  be  mentioned  in  this  connection  is  the  doctrine 
+of  Apperception  as  understood  and  worked  out  by  Wundt, 
+and  its  relation  to  the  tropism  theory,  this  relation  having 
+apparently  been  first  pointed  out  by  Royce.  A  discussion 
+prominently  involving  this  relation  Avill  conclude  the  con- 
+structive part  of  the  volume. 
+
+
+24  The   Unity  of  the  Organism 
+
+Nature  and  Scope  of  the  Undertaking 
+
+The  foundation  of  our  enterprise,  so  far  as  historic  sum- 
+mary is  concerned,  being  laid,  we  may  now  exhibit  the  plans, 
+floor-plans  and  elevations,  as  architects  say,  of  the  super- 
+structure; but  the  barest  outlines  will  suffice.  Leaving  off 
+figurative  speaking,  we  must  now  state  in  bald  outline  the 
+central  aim  of  the  undertaking.  It  is  to  show  that  while 
+the  two  conceptions,  the  organismal  and  the  elemental,  con- 
+tain much  that  is  thoroughly  irreconcilable,  there  is  a  great 
+substratum  of  truth  underlying  both.  Adhering  to  the  mode 
+of  expression  previously  used  in  characterizing  the  two 
+points  of  view,  the  central  idea  which  we  shall  try  to  es- 
+tablish may  be  put  as  follows :  The  organism  in  its  totality 
+is  as  essential  to  an  explanation  of  its  elements  as  its  ele- 
+ments are  to  an  explanation  of  the  organism.  This  formula- 
+tion which  has  been  in  service  with  me  for  many  years  in 
+university  lectures  and  in  verbal  discussions  with  colleagues, 
+is  approached,  somewhat  remotely  by  several  authors,  earlier 
+and  later.  Thus  L.  Rhumbler  says  at  the  conclusion  of  the 
+article  Correlation,  in  the  Handworterbuch  der  Naturwis- 
+senschaften:  "One  may  assume  perhaps  that  each  function 
+of  an  organ,  etc.,  is  bound  correlatively  to  the  functions  of 
+all  other  organs,  even  though  perhaps  many  times  in  the 
+slightest  way  and  through  means  in  part  replaceable,  so  that 
+by  this  the  organism  as  a  whole  is  influenced  to  a  definite 
+degree  by  each  of  its  organs,  and  vice  versa  [that]  through 
+these  numberless  influences  the  so-called  influence  of  the 
+whole  upon  the  parts  in  turn  finds  its  explanation  even 
+though  complicatedly  and  at  present  reaching  only  to  some 
+details."  21  We  have  here  the  Rouxian  form  of  elementalism 
+at  which  we  have  already  glanced,  but  it  seemed  worth  while 
+to  notice  this  particular  expression  of  it  since  its  advance 
+toward  organismalism  as  contrasted  with  chemical  elemen- 
+talism is  well  brought  out. 
+
+
+,s, 
+
+si 
+
+SU 
+CO 
+
+.1. 
+
+
+Introductory  25 
+
+We  may  preface  a  slight  expansion  of  our  dogmatic 
+formula  by  asking  the  question,  "How  is  it  that  the  prin- 
+ciple, embodied  in  such  phrases  as  the  'Organism  as  a  whole' 
+so  confidently  used  by  eminent  investigators,  should  be  so 
+distrusted  by  most  biologists  as  to  give  it  little  influence  on 
+biological  conceptions?"  The  proximate  reply  is  that  for 
+most  biologists  the  notion  is  too  vague  and  general  to  be 
+of  high  and  permanent  worth.  One  statement  of  this  de- 
+preciatory estimate  is  that  to  take  the  organism  in  its  en- 
+tirety is  to  take  it.  unanaly/.ed  :  and  this,  so  such  a  view 
+holds,  is  superficial  and  contrary  to  the  whole  purpose  and 
+spirit  of  modern  research.  To  analyze  complexes  of  natural 
+phenomena,  that  is  to  reduce  them  to  their  elements  is,  ac- 
+cording to  this  view,  exactly  what  makes  science  science. 
+Scientific  knowledge  in  biology  as  in  all  other  fields,  is  ana- 
+lytic knowledge^;  and  conversely,  analytic  knowledge  not 
+only  is  science,  but  (at  least  so  says  full-fledged  elemental- 
+ism)  is  the  whole  of  science.  Our  undertaking  will  require 
+to  combat,  incidentally  but  yet  vigorously,  this  view. 
+Stated  positively,  while  assuming  as  science  always  does  as- 
+sume, the  validity  of  analytic  knowledge  of  nature,  we  shall 
+
+ntend  that  synthetic  knowledge  of  nature  is  not  only  valid 
+also,  but  that  it  is  as  foundat  iona]  and  essential  a  part 
+of  science  as  is  analytic  knowledge.  Furthermore  we  shall 
+touch  briefly,  but  as  we  believe  very  fundamentally,  the 
+question  of  the  nature  of  synthetic  knowledge  itself. 
+
+In  accordance  with  tliis  general  statement  of  purpose, 
+I  hope  to  be  able  to  clear  the  conception  of  the  "organism" 
+taken  alive  and  whole,  of  the  vagueness  that  has  hitherto 
+enveloped  it  and  make  it  as  clear,  as  serviceable,  and  as  in- 
+dispensable to  science  as  are  "foot"  or  "head"  or  "brain," 
+or  '"eye"  or  "muscle"  or  "cell"  or  "ovum"  or  "nucleus" 
+or  "chromosome"  or  "nucleo-proteid""1  or  "ptyalin"  or  any 
+other  fully  accredited  and  uneseapable  biological  entity. 
+Let  me  state  the  case  from  a  slightly  different  angle,  attach- 
+
+
+26  The   rtrity  of  the  Organism 
+
+ing  it  to  a  quotation  from  E.  B.  Wilson  given  in  our  historic 
+survey.  This  quotation  is :  "The  only  real  unity  is  that  of 
+the  entire  organism."  This  I  would  modify  thus :  The  entire 
+organism  is  not  the  only  real  unity  but  it  is  a  real  unity,  and 
+represented  by  the  highest  animals,  especially  man,  is  the 
+supreme  unity. 
+
+Whatever  warrantableness  there  may  be  in  the  prejudg- 
+ment  among  biologists  to  the  effect  that  the  "organism  as 
+a  whole"  connotates  "the  organism  unanalyzed"  even  if  not 
+unanalyzable,  will  I  hope  be  met  largely  by  the  phrase  "Or- 
+ganismal  Integrity"  of  which  I  make  much.  Obviously,  if 
+one  stops  to  reflect  a  little,  "the  organism  as  a  whole"  if 
+taken  strictly,  could  mean  nothing  less  than  the  organism 
+and  all  of  its  parts.  The  whole  would  not  be  the  whole  if 
+some  of  its  parts  were  omitted ;  so  even  from  this  standpoint 
+one  might  contend  that  "the  organism  as  a  whole"  must 
+mean  the  organism  taken  wholly,  that  is,  through  and 
+through,  no  part  being  neglected,  and  that  consequently 
+instead  of  connotating  the  organism  unanalyzed,  in  reality 
+it  connotates  just  the  opposite  and  thus  indicates  the  only 
+starting  point  for  complete  analysis  of  the  organism.  But 
+"organismal  integrity"  not  only  carries  all  the  other  phrase 
+implies  so  far  as  mere  totality  is  concerned,  but  it  docs  more 
+in  that  integrity  and  its  etymological  kindred,  point  defin- 
+itely not  only  to  the  parts,  but  to  them  as  interdependent. 
+The  past  participial  form  of  the  verb  integrate,  i.e.,  in- 
+tegrated, we  shah1  find  particularly  serviceable,  it  being  sus- 
+ceptible of  use  in  the  comparative  degree.  The  greater  or 
+less  extent  of  integratedness  of  organisms  we  shall  need  to 
+speak  much  about  as  we  proceed.  Again  such  terms  as 
+integration,  integrally,  and  integrality  will,  upon  occasion, 
+contribute  to  precision  and  flexibility  of  expression.  The 
+kinship,  both  as  to  terminology  and  conception,  between 
+what  is  foreshadowed  in  the  justification  of  the  phrase  or- 
+ganismal integrity  and  Herbert  Spencer's  Physiological  In- 
+
+
+Introductory  27 
+
+tegration  will  not  escape  the  notice  of  any  reader  acquainted 
+with  Spencer's  ideas,  particularly  if  he  be  at  the  same  time 
+acquainted  with  the  conception  as  adopted  by  O.  Hertwig 
+and  made  the  third  law  in  his  Theory  of  Biogenesis.  Hert- 
+wig's  elaboration  of  this  law  contains  more  probably  that 
+accords  with  my  central  thesis  than  does  any  other  writing 
+known  to  me. 
+
+A  brief  on  the  procedure  which  will  be  followed  in  devel- 
+oping our  thesis  may  now  be  given. 
+
+Part  I  will  be  devoted  to  setting  forth  efforts  that  have 
+been  made  in  recent  and  present-day  biology  to  deal  with 
+several  great  classes  of  the  constituent  parts  or  elements 
+of  organisms  in  accordance  with  the  elementalist  theory. 
+If  my  basal  proposition  be  true  that  the  organism  taken 
+alive  and  whole  is  as  essential  to  an  explanation  of  its  ele- 
+ments as  its  elements  are  to  an  explanation  of  the  organism, 
+then  it  would  follow  that  all  attempts  to  as>ii>n  explanatory 
+values  to  the  elements  in  their  relation  to  the-  whole  organ- 
+ism, while  at  the  same  time  denying  either  expressly  or 
+tacitly,  similar  values  to  the  entire  organism  in  its  rela- 
+tions to  the  elements,  must  fail  in  large  degree. 
+
+And  here  comes  in  sight  a  vitally  important  aspect  of  my 
+general  standpoint.  Were  the  basal  proposition  just  stated 
+handed  out  as  a  postulate,  that  is,  as  a  proposition  the  ac- 
+ceptance of  which  is  demanded  without  proof,  or  were  it 
+even  held  to  need  no  other  proof  than  such  as  might  be  ad 
+dueed  by  syllogistic  reasoning  alone,  in  the  manner,  for  ex- 
+ample, that,  both  Aristotle  and  Lucretius  mainly  supported 
+their  views,  our  task  would  be  comparatively  simple.  As  an 
+illustration  of  how  easily  organismalism  could  be  demon- 
+strated by  this  method,  take  the  case  of  the  relation  of  the 
+organism  to  its  cells.  We  should  first  point  out  in  general 
+terms  what  characters  certain  groups  and  classes  of  cells 
+might  be  expected  to  show  in  accordance  with  the  hypothesis 
+that  the  larger  structural  and  functional  requirements  of 
+
+
+28  The  Unity  of  tlie  Organism 
+
+the  organism  influence  its  elements,  and  then  search  among 
+the  cells  for  examples  of  such  influence.  But  this,  the  de- 
+ductive mode  of  reasoning,  is  a  complete  antithesis  to  that 
+on  which  we  shall  chiefly  rely  in  this  treatise,  indeed  to  that 
+on  which  biology  always  has  chiefly  relied  so  far  as  its  prog- 
+ress has  been  healthy  and  vigorous  and  straight  ahead. 
+
+Holding,  consequently  that  the  proposition  must  be  in- 
+ductively established  if  it  is  to  be  established  at  all,  the 
+heavy  task  devolves  upon  us  of  examining,  as  above  in- 
+dicated, a  great  range  of  the  biological  field  to  see  how  it 
+fares  with  the  two  opposing  hypotheses  (and  viewing  the 
+theories  from  the  present  stage  of  our  enterprise,  they 
+should  be  considered  as  hypotheses  in  the  strictest  sense) 
+when  they  are  tested  by  a  great  number  of  fully  authen- 
+ticated observations.  From  this  general  statement  it  is 
+apparent  that  the  first  division  must  be  for  the  most  part 
+distinctively  critical.  That,  however,  it  is  not  wholly  of 
+this  character,  I  trust  will  be  patent  enough  to  the  attentive 
+reader. 
+
+Part  II  will  consist  of  a  systematic  presentation  of  the 
+fully  established  inductive  evidence  which,  if  fairly  consid- 
+ered, compels,  as  I  believe,  the  adoption  of  some  such 
+general  view  as  that  here  defended  and  would  be  called, 
+according  to  nomenclatorial  precedent,  organismalixm. 
+
+On  behalf  of  this  unauthorized  and  rather  bungling  word, 
+I  make  no  plea.  In  fact,  the  use  of  it  goes  against  the  grain 
+with  me  somewhat  and  I  avoid  it  as  far  as  possible.  The 
+sum  and  substance  of  the  situation  is,  though,  that  the  term 
+seems  to  force  itself  upon  me  at  times.  It  corners  us,  so 
+to  speak,  and  will  not  let  us  escape  without  taking  it  up  and 
+carrying  it  with  us.  But  perhaps  the  possession  of  such 
+power  as  this  is  just  what  entitles  new  words  to  live.  If  so, 
+and  should  the  idea  prevail  for  which  the  word  stands,  the 
+word  will  prevail  too  unless  some  one  having  special  com- 
+petency in  fabricating  words  finds  a  better.  Which  of  these 
+
+
+In  troducto  ry  2  9 
+
+alternatives  may  befall  is  immaterial.  My  only  concern  is 
+for  the  idea.  If  that  survives  and  flourishes  I  shall  be  satis- 
+fied, no  matter  under  what  name  it  becomes  known. 
+
+
+1.  Aristotle   ('11)    
+
+2.  Lucretius    
+
+3.  Locy     139 
+
+1.   Mere     II,  240 
+
+:>.  Saint-Hilaire    214 
+
+(j.  Sc-hwann  &  Schleiden 191 
+
+7.   Whitman    ('93)    119 
+
+S.   Wl.it. nan    ('88)    49 
+
+<).  Wilson  ('93)    9 
+
+10.  I.illic,    F.    R 237 
+
+11.  Lillie,    F.    R 245 
+
+
+12.  Lillie,    F.    R... 251 
+
+13.  Lillir,    F.    R 202 
+
+11.   Whitman    ('93)    123 
+
+15.  Whitman    ('88)    43 
+
+If).  Lillie,    F.    R 253 
+
+17.  Lillie,    F.    R 258 
+
+18.  Roux    ('12)    287 
+
+19.  Roux    ('12)    241 
+
+,'().   Roux    ('12)     163 
+
+21.  Hanclworterbuch    II,  736 
+
+
+Chapter  II 
+THE  ORGANISM  AND  ITS  MAJOR  PARTS 
+
+Reflections  on  the  Problem  of  Individuality  m  the  living 
+
+World 
+
+THERE  has  been  a  great  deal  of  inconclusive  discussion 
+of  late  years,  about  the  nature  of  the  organic  indi- 
+vidual. Biologists  holding  the  natural-history  viewpoint 
+have  never  had  much  difficulty  in  making  up  their  minds  as 
+to  what  an  individual  is,  but  many  experimenters,  encounter- 
+ing problems  presented  by  the  parts  of  an  individual  and  by 
+individuals  as  parts  of  a  society,  have  tended  to  dodge  the 
+issue — have  attempted  to  find  a  solution  to  the  puzzle  of 
+individuality  by  the  rather  naive  method  of  changing  their 
+definitions  of  it. 
+
+To  get  some  clear-cut  idea  on  this  question,  out  of  the 
+welter  of  nebulous  notions  that  prevail  at  present,  is  so1  im- 
+portant for  our  general  discussion  that  we  can  afford  to 
+stop  for  a  moment  to  consider  it. 
+
+A  homely  and  common  illustration  will  serve  as  a  starting- 
+point.  When  a  scientific  dairyman  is  buying  a  milch  cow 
+or  a  bull,  the  deciding  factor  in  the  deal  is  usually  what  he 
+calls  the  animal's  "individual  performance."  That  is,  while 
+various  separate  "points"  are  taken  into  consideration  and 
+pedigree  lists  are  consulted,  the  final  decision  is  based  not 
+so  much  on  these  as  on  the  cow's  record  as  a  milk  producer 
+or  the  bull's  as  a  sire  of  good  calves.  In  the  estimation  of 
+the  purchaser,  the  animal  stands  or  falls  on  its  own  merits 
+as  an  individual. 
+
+30 
+
+
+SUl 
+
+
+77*6'  Organism   niiJ  UK  Major  Parts  31 
+
+While  the  individual  plant  does  not  appear  quite  so  con- 
+spicuously in  plant  husbandry  as  does  the  individual  in  ani- 
+mal husbandry,  it  is  still  never  a  negligible,  and  is  often  an 
+important  element.  This  is  especially  true  in  horticulture, 
+where  individual  performance  is  subject  to  much  the  kind  of 
+testing  that  is  applied  to  the  individual  animal,  namely  that 
+of  seasonal  repetition.  In  a  well  kept  orchard,  for  example, 
+the  individual  tree  holds  a  prominent  place. 
+
+To  question  the  reality  of  the  individual  cow  or  apple 
+tree  would  be,  to  a  breeder  or  orchardist,  equivalent  to 
+questioning  the  reality  of  any  such  animal  at  all  as  a  cow, 
+or  any  such  plant  as  an  apple  tree.  Yet  a  considerable 
+number  of  zoologists  and  botanists  have  been  thrown  into  a 
+distracted  state  of  mind  as  to  the  reality  of  the  individual, 
+especially  among  the  lower  orders  of  plants  and  animals. 
+Botanists  have  been  particularly  subject  to  this  malady, 
+obviously  because  in  none  of  the  plants,  not  even  the  highest, 
+are  the  individuals  so  thoroughly  integrated  as  they  are  in 
+most  animals,  particularly  in  the  higher  classes.  And  so, 
+~  we  shall  see  presently,  some  speculative  botanists  have 
+
+ne  to  the  ridiculous  extreme  of  asserting  that  there  is  no 
+
+ch  thing  as  an  individual  plant. 
+
+What,  exactly,  is  the  matter  with  biological  reasoning 
+which  lands  men  in  such  absurdities?  For  absurdities  they 
+surely  are,  even  though  given  the  habiliments  of  science. 
+Test  the  matter  this  way:  If  I  look  at  a  tree  and  a  man 
+standing  beside  each  other,  there  is,  so  far  as  this  observa- 
+tion is  concerned,  not  a  shred  of  valid  objection  against 
+applying  the  term  ''individual"  to  each.  The  one  is  an 
+individual  tree  and  the  other  an  individual  man,  and  the 
+individuality  of  neither  is  a  whit  less  certain  or  more  cer- 
+tain than  that  of  the  other,  as  I  now  perceive  the  two. 
+
+But  as  I  now  perceive  the  two  is  exactlv  what  we  are 
+here  discussing.  For  anybody  to  contend  that  one  of  these 
+beings — the  man — is  an  individual,  while  the  other — the  tn-c 
+
+
+32  The   Unity  of  the  Organism 
+
+— is  not,  merely  on  the  ground  of  what  is  learned  by  later 
+study  about  the  differences  in  makeup  of  the  two,  is  literal 
+nonsense.  It  is  a  virtual  denial  of  the  validity  of  oberva- 
+tional  knowledge.  Granted  that  science  can  not  rest  satis- 
+fied with  "common-sense"  knowledge,  there  is  still  no  ground 
+for  repudiating  all  commonsense. 
+
+Attempting  to  ascertain  what  the  trouble  is  with  biolo- 
+gists who  reason  thus  about  individuality,  one  soon  dis- 
+covers that  the  botanist  who  deals  with  a  tree  thus  unjustly 
+quite  ignores  the  obvious  and  unescapablc  fact  that  the  raw 
+material  of  all  his  botanical  knowledge  is  individual  plants 
+taken  one  after  another;  that  for  trees  there  is  an  each  tree; 
+that  each,  as  it  actually  stands  before  him,  is  one,  not  two 
+or  three  or  any  other  number ;  and  that  it  is  not  in  the  least 
+confusable  with  any  other  tree,  no  matter  if  several  are 
+connected  together  by  their  roots  or  in  some  other  way. 
+These  confused-minded  persons  either  ignore  the  patent  facts 
+of  observation,  or  if  their  sophistication  is  refined,  they  deny 
+the  validity  of  the  "mere  perception"  of  an  individual  when 
+that  way  of  predicating  individuality  is  measured  against 
+supposedly  more  fundamental  principles  of  scientific  knowl- 
+edge-getting, as  analysis  is  held  to  be. 
+
+This  question  of  more  and  less  fundamental  principles 
+of  scientific  procedure,  especially  those  involved  in  analysis, 
+is  undoubtedly  of  great  importance.  But  undoubtedly,  too, 
+it  is  a  question  of  the  nature  of  scientific  knowledge  rather 
+than  of  the  nature  of  plants  and  animals,  so  does  not  fall 
+within  the  scope  of  such  a  treatise  as  the  one  now  occupying 
+us.  The  question  before  us  is  that  of  the  nature  of  the  in- 
+dividual organism. 
+
+As  soon  as  we  see  the  necessity  of  separating  these  two 
+questions,  and  address  ourselves  to  the  strictly  objective 
+question,  we  perceive  that  the  difficulties  center  around  the 
+fact  that  no  individual  plant  or  animal  is  simple  in  its  con- 
+stitution, but  in  almost  all  cases  is  exceedingly  complex. 
+
+
+ml 
+an 
+po 
+
+F 
+
+lei 
+
+
+The  Organism  and  its  Major  Parts  33 
+
+The  kernel  of  the  difficulty  arising  from  the  complex  make- 
+up lies  in  the  fact,  emphasized  by  recent  investigations,  espe- 
+cially those  on  regeneration,  that  in  very  many  animals  and 
+plants,  when  the  individual  is  artificially  divided,  parts  of 
+individuals  have  remarkable  powers  of  independent  life,  even 
+to  the  extent  of  reconstituting  themselves  into  other  indi- 
+viduals as  perfect  as  the  one  that  was  divided.  The  reason- 
+ing from  these  facts  is,  essentially,  that  because  a  given  in- 
+dividual may  divide  or  be  divided  artificially  into  two  or 
+more  parts,  which  may  in  turn  develop  into  other  individuals 
+like  the  original,  the  original  was  therefore  not  a  single  in- 
+dividual. In  other  words,  individuality  is  denied  these  or- 
+ganisms because  of  what  parts  of  them  can  do  when  severed 
+from  the  whole.  The  unity,  the  integrity  of  the  individual 
+is  called  in  question,  not  on  account  of  what  it  is  here  and 
+now,  but  on  account  of  what  the  parts  may  do  after  they 
+have  been  severed,  naturally  or  artificially,  from  the  original 
+unity. 
+
+No  biologist,  and  especially  no  organismal  biologist,  would 
+minimize  the  significance  of  the  fact  that  the  severed  parts 
+of  many  organisms  possess  such  remarkable  reconstitutive 
+powers.  The  organismal  biologist,  I  assert,  is  especially 
+interested  in  the  phenomena  because  they  are  to  him  unique 
+
+d  unanticipated  evidence  favorable  to  his  general  stand- 
+point. What  he  denies  is  that  the  phenomena  count  a  scin- 
+tilla against  the  reality  and  essentiality  of  the  individual. 
+
+e  points  out  that  their  importance,  so  far  as  the  prob- 
+rm  of  individuality  is  concerned,  is  not  that  they  show  much 
+about  the  ultimate  nature  of  the  individual's  unity,  but  that 
+they  do  show  much  about  the  degree  of  that  unity. 
+
+The  Individual  Plant  and  Its  Parts 
+
+The  purposes  of  this  chapter  will  be  best  served  by  de- 
+voting a  section  to  examining  a  few  efforts  which  have  been 
+
+
+34  The  Unity  of  the  Organism 
+
+made  to  interpret  the  organism  in  accordance  with  the 
+theory  which  denies  its  individuality.  Our  first  instance  will 
+be  taken  from  botany.  But  before  proceeding  with  this,  it 
+is  desirable  to  point  out  that  some  of  the  most  distinguished 
+botanists,  especially  physiological  botanists,  have  recog- 
+nized the  unity  of  the  plant  without  stint  or  cavil. 
+
+We  appeal  to  only  one  of  the  botanists  of  this  class, 
+Pfeffer.  In  The  Physiology  of  Plants,  he  says:  "The  in- 
+timate correlation  of  the  entire  vital  mechanism  renders  it 
+probable  that  every  excitation  exercises  some  effect  upon 
+other  manifestations  of  irritability,  even  though  this  effect 
+may  not  always  be  directly  perceptible."1 
+
+Again:  "In  the  plant  community  the  activity  of  every 
+cell  and  of  every  organ  is  subservient  to  the  common  weal, 
+and  may,  when1  necessary,  be  modified  as  already  indicated 
+so  as  to  fulfill  the  changed  requirements  of  the  whole."2 
+
+It  is  true,  I  believe,  that  the  mode  of  thought  about  plants 
+illustrated  by  these  quotations  is  characteristic  of  botanists 
+in  whom  observation  and  speculation  maintain  a  due  bal- 
+ance; botanists  with  whom,  in  other  words,  speculation  has 
+not  got  the  upper  hand  of  observation. 
+
+It  is  highly  significant  that  one  of  the  most  pronounced 
+and,  so  far  as  I  have  discovered,  earliest  authors  to  specu- 
+late on  the  non-individuality  of  the  plant  was  Schleiden,  one 
+of  the  fathers  of  the  cell-theory.  In  his  famous  Contribu- 
+tion to  Phylogenesis  we  read  in  a  discussion  of  the  individu- 
+ality of  plants :  "In  the  strictest  sense  of  the  word,  only  the 
+separate  cell  deserves  to  be  called  an  individual."3  Elabor- 
+ating this  notion,  "The  woody  stem,"  he  tells  us,  "cannot 
+come  under  the  idea  of  a  plant."  And  further:  "It  neces- 
+sarily pertains  to  the  notion  of  a  plant,  that  it  produces 
+foliaceous  organs  on  its  stem,  yet  there  is  no  tree  which 
+produces  leaves."4  This  last  statement  sounds,  the  author 
+admits,  rather  paradoxical,  but,  he  contended  rightly 
+enough,  the  mere  circumstance  of  its  sounding  paradoxical 
+
+
+The  Organism  and  its  Major  Parts  35 
+
+docs  not  prove  it  false.  Since,  as  we  have  previously  seen, 
+Schleiden's  brand  of  clementalism  necessitated  the  sacrifice 
+of  the  individuality  of  the  plant  to  that  of  the  cell,  our 
+critical  examination  of  it  belongs  properly  to  our  examina- 
+tion of  the  cell-theory.  Here,  consequently,  we  do  no  more 
+than  point  out  that  Schleiden  himself  did  not  succeed  in 
+carrying  through  fully  his  simple  denial  of  the  plant's  unity. 
+The  oneness  of  the  young  dciwloping  plant  was  an  obstacle 
+to  his  theory,  even  though  he  seems  not  to  have  been  aware 
+of  the  fact.  "After  the  woody  mass  is  formed,  we  miss," 
+he  says,  "the  influence  of  the  law  of  formation,  which  until 
+then  had  without  exception  directed  the  growth  of  the  entire 
+plant  in  all  its  parts."5 
+
+Schleiden  seems  to  have  felt  no  difficulty  in  his  conception 
+that  the  "law  of  formation"  which  "directed  the  growth  of 
+the  entire  plant  in  all  its  parts"  could  be  accounted  for  by 
+the  "separate  cell,"  the  only  individual  "in  a  strict  sense." 
+His  immunity  from  qualms  on  this  score  was  due  probably 
+to  the  fact  that,  being  an  "ultimate  problem"  botanist  in- 
+stead of  a  naturalist  really  interested  in  plants,  it  did  not 
+occur  to  him  that  the  question  of  how  the  cells  could  explain 
+the  fact  that  in  one  instance  the  "entire  plant  in  all  its 
+parts"  should  IK-  an  apple  tree,  in  another  an  oak  tree,  in 
+a  third  an  orange  tree,  and  so  on,  might  be  considered  a 
+really  important  one  by  somebody. 
+
+We  now  pass  to  the  examination  of  a  single  modern  in- 
+stance of  the  attempt  to  "explain  away"  the  individuality 
+of  the  plant.  The  principle  made  use  of  in  this  attempt  is 
+that  of  symbiosis,  which  is  a  sort  of  partnership  between 
+organisms  of  different  species,  so  close  in  some  cases  as  to  be 
+really  organic.  Although  I  do  not  know  that  the  example 
+I  have  chosen  has  had  much  recognition  among  botanists,  it 
+yet  seems  justifiable  to  use  it  since  it  is  certainly  typical, 
+even  though  possibly  somewhat  extreme.  It  is  taken  from  H. 
+C.  Davidson,  an  English  botanist,  his  publication  being  en- 
+
+
+36  The  Unity  of  the  Organism 
+
+titled  The  Nature  of  the  Plant.  After  illustrating  the  prin- 
+ciple of  symbiosis  by  referring  particularly  to  the  case  of 
+the  mutually  dependent  combination  existing  between  the 
+flat-worm  Conroluta  roscoffcnsi.s  and  a  green  alga,  recently 
+well  studied  by  Keeble  and  Gamble,  Mr.  Davidson  goes  on 
+to  argue  that  if  a  typical  plant,  a  tree  for  example,  be 
+considered  to  be  a  like  symbiotic  complex,  "much  that 
+has  been  dark  in  the  vegetable  world  becomes  clear."6 
+
+The  members  of  the  partnership  in  the  plant  so  con- 
+ceived would  be  the  flowers,  equivalent  to  the  "hermaphro- 
+dites and  males  and  females"  occurring  in  the  world  of  in- 
+sects, and  the  buds  equivalent  to  the  underdeveloped  females 
+or  neuters.  Among  the  darknesses  enveloping  plant  life 
+which  the  author  believes  would  be  illumined  by  this  theory 
+he  mentions  that  of  the  plant's  individuality.  In  the  light 
+of  the  theory  it  becomes  obvious,  the  author  holds,  that  a 
+"plant  is  not,  as  is  generally  supposed,  an  individual  entity, 
+but  in  reality  a  group  or  family  of  individuals,  associated 
+within  a  common  protecting  envelope,  the  bark,  and  upon  a 
+common  root  for  the  common  good."7  These  "associated 
+individuals"  Mr.  Davidson  calls  plantagens  since,  he  says, 
+"they  cannot  well  be  written  about  unless  they  have  a  name." 
+
+Another  meritorious  thing  about  the  plantagen  theory, 
+its  inventor  believes,  is  that  it  removes  the  difficulties  in  the 
+way  of  the  germ-plasm  theory  of  Weismann,  presented  by 
+plants.  The  type  of  reasoning  which  has  given  rise  to  this 
+rather  ingenious  speculation  will  receive  due  attention  in 
+various  parts  of  this  volume.  I  bring  up  the  case  here  only 
+as  a  specific  instance  of  "certain  general  tendencies  to  er- 
+roneous reasoning"  above  referred  to.  There  is  always  the 
+inclination  to  ascribe  more  casually  interpretative  value  to 
+some  of  the  parts  of  organisms  in  their  relation  to  other 
+parts  and  to  the  whole  than  actually  belongs  to  them.  In 
+the  present  instance  this  effort  is  seen  in  the  fact  that  both 
+the  asexually  and  sexually  propagating  elements  of  any 
+
+
+The  Organism  ami  its  Major  Parts  37 
+
+given  plant  are  treated  as  though  they  were  distinct,  ulti- 
+mate data,  whereas  they  certainly  are  not.  The  term 
+"symbiosis"  was  introduced  into  biology  exactly  for  the 
+purpose  of  expressing  the  fact  that  individual  organisms, 
+usually  of  very  distinct  species,  get  together  in  an  intimate 
+relation  wherein  one  or  both  members  of  the  partnership 
+gain  some  advantage,  each  at  the  same  time  preserving  its 
+unmistakable  identity.  There  is  certainly  not  the  slightest 
+evidence  that  the  asexual  and  sexual  parts  of  plants  were 
+originally  independent  of  each  other  in  this  way. 
+
+Let  us  accept  momentarily  (since  his  speculation  is  de- 
+pendent on  our  doing  so)  Mr.  Davidson's  contention  that 
+"germ-cell  must  develop  from  germ-cell,  bud  from  bud,  in- 
+dividual from  individual."  Even  so,  no  biologist  who  is  a 
+genuine  believer  in  organic  evolution,  that  is,  in  the  teach- 
+ing that  all  organic  kinds  have  descended  from  ancestors  of 
+different  kinds,  can  allow  that  "much  that  has  been  dark 
+in  the  vegetable  world"  is  made  any  less  dark  by  the  as- 
+sumption of  such  a  fundamental  independence  of  germ-cells 
+and  germ-buds  and  "individuals"  until  he  is  informed  as  to 
+the  ancestry,  not  only  proximate  but  remote,  of  germ-cells 
+and  germ-buds  and  "individuals." 
+
+The  kinship  between  these  modern  speculations  about  sym- 
+biosis and  an  ancient  notion  due,  it  seems,  to  Empedocles, 
+comes  to  light  at  this  stage  of  the  discussion.  What  that 
+notion  is  we  shall  see  presently.  Mr.  Davidson's  symbiosis 
+theory  of  plants  involves,  he  points  out,  his  theory  of  plant- 
+iigens,  which  last  theory  involves,  as  he  rightly  says,  the 
+conception  that  "germ-cell  must  develop  from  germ-cell, 
+bud  from  bud,  individual  from  individual."  But  any  ten- 
+year-old  farmer's  son  may  know  this  statement  is  not  true. 
+Keeping  the  form  though  not  the  meaning  of  Davidson's 
+expression,  such  a  boy  can  assert  that  germ-cells  develop 
+not  only  from  germ-cells  but  also  from  buds,  and  that  buds 
+develop  not  only  from  buds  but  also  from  germ-cells. 
+
+
+38  The  Unity  of  the  Organism 
+
+Following  a  killing  frost  in  southern  California  a  few 
+years  ago,  thousands  of  lemon  trees  whose  normal  foliage 
+had  been  destroyed  put  forth  great  numbers  of  new  shoots 
+on  their  trunks  and  largest  branches.  Such  new  shoots  may 
+occur  anywhere  and  everywhere  on  the  trunk  and  branches, 
+and  since  they  rarely  arise,  so  long  as  there  is  no  occasion 
+for  them  because  of  the  activities  of  the  normal  foliage,  the 
+term  "adventitious"*  is  appropriately  applied  to  them.  So 
+lemon-tree  germ-cells  and  lemon-tree  plant agens,  or  speak- 
+ing in  terms  free  from  speculative  sophistry,  lemon-tree 
+seeds  and  lemon-tree  buds,  are  dependent  for  their  origin 
+upon  lemon  trees.  In  other  words,  the  tree  is  as  essential  to 
+a  causal  explanation  of  the  seed  and  the  bud  as  the  seed 
+and  the  bud  are  to  a  causal  explanation  of  the  tree. 
+
+Reproduction  by  adventitious  buds  among  the  higher 
+plants  is  so  important  from  the  organismal  standpoint  that 
+we  must  consider  it  a  little  further.  One  additional  fact 
+which  the  reader  should  appreciate  is  that  the  method  is  by 
+no  means  an  exceptional  and  insignificant  thing  in  plant 
+economy.  It  is  a  regular  way  many  trees  have  of  perpetu- 
+ating themselves.  An  illustration  of  this  even  more  striking 
+than  that  of  the  lemon  tree  is  furnished  by  the  Coast  Red- 
+wood of  California  (Sequoia  sempertnrens).  A  stump  of 
+this  tree,  even  a  stump  that  has  passed  through  a  severe 
+
+*  The  question  of  adventitious  or  cambium  buds  from  lemon  trees 
+sen i is  not  to  have  received  much  attention  from  botanists.  Judging  from 
+the  distribution  of  the  new  growths  in  such  an  epidemic,  as  it  might 
+be  called,  of  budding  as  that  which  takes  place  under  conditions  like 
+those  here  mentioned,  there  is  scarcely  a  doubt  that  very  many  of  the 
+new  branches  arise  quite  independently  of  previous  bud  germs;  in  other 
+words,  from  some  source  not  germinal  until  it  becomes  so  under  the 
+special  conditions.  The  only  experimentation  on  bud  production  in  the 
+lernon  with  which  T  arn  acquainted  has  been  carried  on  by  Prof.  II.  S. 
+Reed  of  the  Citrus  Kxperiment  Station  of  the  University  of  California, 
+at  Riverside.  Doctor  Reed  has  kindly  shown  me  the  results  of  his 
+work  and  permitted  me  to  make  use  of  them  in  this  connection.  So 
+far  as  these  experiments  go,  it  seems  that  while  leafless  pieces  of 
+branches  kept  under  suitable  conditions  readily  put  out  undoubted  cam- 
+bium buds,  these  produce  roots  only. 
+
+
+The  Organism  and  its  Major  Parts  39 
+
+forest  fire,  will  put  out  thousands  of  shoots.  That  these 
+arise  from  the  cambium  I  am  assured  by  Dr.  Percy  Brandt, 
+a  botanist  who  has  given  special  attention  to  the  matter. 
+Now  I  ask  the  reader  to  reflect  on  what  is  before  us  here. 
+When  the  tree's  life  not  merely  as  an  individual  but  as  a 
+potential  parent  is  destroyed,  so  far  as  all  visible  evidences 
+are  concerned,  one  of  the  general  tissues  of  the  stump,  its 
+cambium  layer,  proceeds  forthwith  to  do  what  under  the 
+normal  life-conditions  of  the  tree  it  does  not  do,  namely, 
+produce  new  buds,  ea'ch  one  a  potential  new  redwood  tree. 
+The  indubitable  facts  compel  us  to  recognize  that  any  part 
+whatever  of  the  cambium,  at  the  base  of  the  tree  at  least,  is 
+capable  of  being  diverted  from  its  normal  function  and 
+made  to  do  what  it  would  not  do  except  for  the  special  con- 
+ditions imposed.  I  say  it  is  "made  to  do"  these  things  rather 
+than  merely  that  it  "does"  them  as  though  from  its  own 
+inherent  nature  alone,  simply  because  it  does  not  do  them 
+unless  they  are  subjected  to  the  very  particular  conditions 
+which  are  imposed,  namely  those  of  the  destruction  of  the 
+normal  propagative  parts  of  the  tree. 
+
+Whether  one  has  in  mind  the  question  of  how  the  whole 
+cambium,  normally  not  reproductive,  becomes  endowed  with 
+reproductive  power;  or  the  negative  side  of  the  question, 
+that  of  why  it  should  not  be  reproductive  under  normal 
+conditions,  there  is  no  way  of  reasoning  adequately  about 
+the  causes  of  the  phenomena  without  bringing  in  the  tree 
+a  structural  and  functional  whole.  The  redwood  tree 
+as  a  whole  is  essential  to  a  causal  explanation  of  the  ca- 
+pacity of  its  cambium  tissue.  Efforts  to  escape  such  a  rec- 
+ognition by  resorting  to  conceptions  like  those  of  germ- 
+(ilasm  and  plantagens  is  unmitigated  sophistry. 
+
+The  Indiiidual  Animal  and  Its  Parts 
+
+So  obvious  is  it  that  in  the  full-grown   individual  of  any 
+of  the  higher   animals   the   organs   and   parts   are   in   some 
+
+
+40  The  Unity  of  the  Organism 
+
+measure  an  adaptation  to  one  another  and  have  some  struc- 
+tural dependence  upon  and  correlation  with  one  another, 
+that  it  would  be  superfluous  to  enumerate  the  facts  and  di- 
+late on  their  significance.  The  subject  constitutes  no  small 
+part  of  the  older  comparative  anatomy  and  physiology. 
+
+Almost  as  obvious  is  it,  too,  that  the  major  parts  of  such 
+animals  are  incapable  of  long-continued  life  when  they  are 
+severed  from  the  whole.  But  the  great  capacity  for  con- 
+tinuance in  the  living  state  possessed  by  certain  parts  of 
+some  classes  of  animals  has  attracted  much  attention,  most- 
+ly because  of  the  intrinsic  physiological  and  morphological 
+importance  of  the  phenomena  themselves  rather  than  of  any 
+assumed  support  afforded  by  them  to  the  doctrine  of  au- 
+tonomy of  the  parts  in  a  strictly  elementalistic  sense.  But 
+these  and  other  facts  of  organ-independence  have  been  used 
+as  a  groundwork  for  certain  elementalistic  conceptions  of 
+the  organism  which,  viewed  in  their  historical  setting,  are  of 
+much  broader  interest.  The  historical  setting  to  which  I 
+refer  goes  back  to  a  speculation  by  that  primal  elementalist 
+Empedocles,  and  may  be  called  an  organ-assembling  theory. 
+The  modern  relatives  of  this  old  theory  may  be  called  ag- 
+gregational  theories,  and  are  typified  by  the  conception  that 
+the  normal  individual  plant  or  animal  is  an  affair  of  sym- 
+biosis or  secondary  union  of  previously  independent  organ- 
+isms. A  concise  statement  of  Empedocles'  hypothesis  is 
+found  in  the  De  Generatione  Anvmalwm  of  Aristotle  (Book 
+I,  722b,  20):  "in  the  time  of  his  'Reign  of  Love'  says  he 
+[Empedocles],  'many  heads  sprang  up  without  necks,'  and 
+later  on  these  isolated  parts  combined  into  animals." 
+
+Symbiosis,  as  illustrated  by  Davidson's  speculation,  means 
+a  partnership  between  individual  organisms  of  different 
+species  so  intimate  as  to  make  each  member  of  the  combina- 
+tion really  dependent  to  some  extent  on  the  other.  A  con- 
+siderable number  of  such  cases  are  now  known  in  both  bot- 
+any and  zoology.  Perhaps  the  most  striking  example  is 
+
+
+The  Organism  and  its  Major  Parts  41 
+
+that  of  the  partnership  between  an  alga  and  a  fungus  to 
+make  a  lichen.  The  kinship  between  such  a  speculation  as 
+that  of  Empedocles  concerning  the  origin  of  the  individual 
+and  the  modern  speculation  which  would  have  the  individual 
+arise  symbiotically  is  unmistakable.  The  most  important 
+likeness  between  the  two  conceptions  is  the  fact  that  both 
+are  fundamentally  rfco-w-evolutional.  The  isolated  heads, 
+necks,  legs  and  arms  of  the  ancient  Greek,  like  the  germ- 
+cells  and  germ-buds  of  the  modern  Englishman,  are  just 
+taken  because  they  are  necessary  for  the  particular  specu- 
+lation. The  question  of  how  heads  and  legs  and  of  how 
+tree  germ-cells  and  germ-buds  arose  in  the  first  instance  is 
+not  raised,  or  if  it  were  it  could  be  answered  in  accordance 
+with  the  basal  principle  involved,  only  by  assuming  another 
+and  another  and  another  set  of  elements  of  the  same  kind, 
+ad  infinitum.  In  a  word,  the  theory  really  contains  no  pro- 
+vision in  a  truly  organic  sense  for  transformation,  which  is 
+the  very  essence  of  the  conception  of  organic  evolution.  It 
+should  be  noticed  that  the  principles  of  Love  and  Hate  ap- 
+pealed to  by  Empedocles  and  that  of  struggle  and  survival 
+appealed  to  by  neo-Darwinians  are  held  to  explain  not  the 
+of  the  heads,  legs,  etc.,  or  of  the  germ-cells  and  germ- 
+Is,  but  the  origin  of  actual  animals  and  plants  from  the 
+?spective  elements  once  the  elements  are  at  hand.  In  a 
+ford,  expressing  the  limitations  on  this  mode  of  theori/ing 
+the  familiar  language  of  Darwinism  proper  (not  neo- 
+Darwinism),  the  natural  selection  hypothesis  does  not  pre- 
+tend to  explain  the  origin  of  variations  and  variants,  but 
+assumes  them.  What  we  are  bound  to  see  if  we  look  at  the 
+relevant  facts  squarely  is  that  the  doctrine  of  organic  evo- 
+lution involves  the  conception  of  ancestry  as  fundamentally 
+as  it  does  that  of  progeny.  Observation  finds  organisms 
+produced  by  parents  no  less  indubitably  and  inevitably  than 
+it  finds  them  giving  origin  to  progeny,  so  that  the  effort 
+constantly  recurring  in  recent  biology  to  find  ultimate  se- 
+
+
+42  The  Unity  of  the  Organism 
+
+curity  in  something  or  other  to  which  the  word  genesis 
+can  be  attached,  but  which  can  yet  be  conceived  as  not  sub- 
+ject to  transformation,  is  everywhere  hostile  in  a  funda- 
+mental sense  to  the  descent  theory. 
+
+The  latest  manifestation  of  this  hostility  is  the  gene  or 
+factor  theory  of  the  ultra-Mendelians  among  present-day 
+geneticists.  The  gene  as  conceived  in  the  genotype  theory 
+turns  out  on  close  inspection  to  be  still  another  something- 
+or-other,  which  though  not  itself  transformable  can  explain 
+transformation  in  something  else,  and  which  has  been  ap- 
+pealed to  by  generation  after  generation  of  elemental- 
+minded  theorizers  about  the  origin  of  living  beings,  from  the 
+ancient  Grecian  period  at  least.  Jennings,  one  of  the  ablest 
+of  the  experimental  geneticists,  and  one  who  has  a  genuine 
+regard  for  the  visible  as  contrasted  with  the  invisible  and 
+hypothetical  data  of  organic  genesis,  has  lately  pointed  out 
+the  essentially  non-evolutionary  character  of  the  genotype 
+theory.  "The  whole  conception,"  he  rightly  says,  "is  in 
+its  essential  nature  static;  alteration  does  not  fit  into  the 
+scheme."  8  We  shall  have  occasion  to  consider  this  new 
+phase  of  the  non-transformism  in  other  connections.  Our 
+purpose  in  referring  to  it  here  is  merely  to  point  out  where 
+it  belongs  in  the  general  scheme  of  genetic  theorizing  when 
+this  scheme  is  viewed  historically.  Biology  at  present  needs 
+few  things  more  sorely  than  a  system  of  reasoning  which 
+shall  not  beget  in  students  the  mental  habit  of  allowing  re- 
+condite concepts  and  postulates  and  strange  words  to  cast 
+every-day,  familiar  facts  into  outer  darkness.  One  of  the 
+most  obvious  and  indubitable  facts  about  all  organic  de- 
+velopment is  transformation.  The  development  of  a  chick 
+from  a  hen's  egg  is  accomplished  not  merely  by  a  great  in- 
+crease in  size,  but  by  the  profoundest  sort  of  transforma- 
+tion, this  being  deployed,  as  one  may  say,  through  a  long 
+series  of  stages  grading  insensibly  one  into  another.  And 
+so  with  every  other  ontogeny,  animal  ontogeny  especially. 
+
+
+The  Organism  and  ?'/.?  Major  Parts  43 
+
+The  working  out  of  these  innumerable  transformational 
+stages  constitutes  the  science  of  embryogenetics. 
+
+This  transformational  character  of  individual  develop- 
+ment, or  ontogenesis,  is  even  more  startling,  and  in  some 
+ways  confusing,  in  certain  of  the  lower  animals  like  the 
+coral  polyps,  where  secondary  individuals  are  produced 
+asexually  but  do  not  become  wholly  severed  from  the  stock 
+or  colony.  But  each  multiple  animal,  as  these  may  be  called, 
+is  a  single  germ-cell  in  the  earliest  stage  of  its  life,  and  this 
+alone  is  proof  of  a  certain  measure  of  individuality  of  the 
+whole  "colony"  produced  from  the  same  egg.  Indeed,  some 
+zoologists,  Huxley  for  instance  9  have  used  this  as  the  sole 
+or  chief  criterion  of  organic  individuality,  and  have  defined 
+the  individual  as  all  that  arises  from  a  single  germ-cell. 
+There  can  be  no  doubt  about  the  validity  and  usefulness  of 
+this  conception  as  one  criterion  of  individuality,  even  though 
+it  does  not  constitute  a  basis  for  a  complete  definition.  An 
+exceedingly  fertile  field  of  zoological  research  is  that  of  the 
+varying  degrees  and  exact  character  of  functional  as  well 
+as  developmental  integration  in  these  metagenetically  built- 
+up,  loose  animal  individualities.  Much  is  already  known 
+on  the  subject,  but  very  much  is  not  known,  and  to  extend 
+knowledge  in  this  field  is  one  of  the  urgent  needs  of  zoology. 
+The  subject  received  much  more  attention,  relatively,  two 
+or  three  decades  ago  than  it  does  now;  so  that  few  of  the 
+investigations  on  which  he  have  to  rely  have  had  the  benefit 
+of  the  best  technical  methods.  We  may  confidently  antici- 
+pate that  when  the  later  technique  of  studies  on  neuro-mus- 
+cular  stimulus  and  response  and  on  internal  secretions  are 
+applied  to  metagcnetic  group-individuals,  such  as  are  found 
+in  many  of  the  eoeleiiterates  and  in  some  of  the  tunicates, 
+much  new  light  will  be  thrown  on  the  interrelationship  of 
+the  members  and  organs  in  these  poorly  unified  individuals. 
+
+But — and  the  point  is  cardinal  for  us — no  matter  how 
+much  or  what  new  knowledge  we  get  as  to  the  members  and 
+
+
+44  The  Unity  of  the  Organism 
+
+their  relations  to  one  another  in  these  individuals,  we  are 
+sure  that  that  knowledge  will  not  militate  in  the  least  against 
+the  reality  of  the  individuals,  nor  against  the  fact  that  every 
+individual  has  some  measure  of  unity,  of  integratedness, 
+structural,  functional  and  developmental. 
+
+REFERENCE  INDEX 
+
+1.  Pfeffer    18  6.  Davidson     407 
+
+2.  Pfeffer    27  7.  Davidson     405 
+
+3.  Schwann  and  Schleiden..  258  8.  Jennings    ('17)    283 
+
+4.  Schwann  and  Schleiden..  259  9.  Huxley    ('52)     146 
+
+5.  Schwann  and  Schleiden . .  261 
+
+
+Chapter  III 
+THE  ANIMAL  ORGANISM  AND  ITS  GERM-LAYERS 
+
+The  Germ-layers,  Their  Role  In  Development,  and  the 
+Germ-layer  Theory 
+
+OTRK'T  fidelity  to  the  natural  sequences  of  biological 
+^^-J  knowledge  as  viewed  in  this  work  would  not  permit  us 
+to  introduce  at  this  early  stage  of  our  discussion  such  a 
+subject  as  that  of  germ-layers,  or  indeed  any  other  purely 
+developmental  aspect  of  the  organism,  but  would  require  us 
+to  deal  more  fully  than  we  yet  have  with  the  completed  or- 
+ganism. However,  our  general  attitude  having  much  of  the 
+pragmatic  about  it  will  be  broadly  tolerant  in  the  matter  of 
+adapting  methods  to  ends  sought.  This  way  of  beginning 
+is  chosen  for  the  two-fold  reason  that  in  this  domain  my 
+own  researches  first  came  upon  facts  which  contributed 
+very  largely  to  the  ideas  underlying  this  whole  undertaking, 
+and  also  that  these  and  kindred  facts  constitute  some  of  the 
+most  striking  evidence  we  have  of  the  ability  of  the  organism 
+to  gain  its  developmental  ends  in  unusual  ways  when  the 
+usual  ways  chance  to  be  obstructed — evidence,  in  other 
+words,  of  the  domination  of  the  organism  as  a  totality  over 
+its  parts. 
+
+From  its  very  beginning  with  Wolff  and  von  Baer,  mod- 
+ern embryology  has  recognized  that  animal  embryos  pass 
+through  a  stage  in  which  the  body  consists  of  little  more 
+than  uniform  layers  of  cells,  first  one,  then  two,  then  three, 
+and  finally,  in  several  classes  of  animals,  four;  these  being 
+disposed  one  inside  the  other  and  more  or  less  regularly 
+
+45 
+
+
+46  The   Unity  of  the  Organism 
+
+concentric.  From  these  layers  all  the  organs  and  tissues 
+arc  developed  by  a  great  variety  of  unequal  thickenings  and 
+foldings  and  concentrations  and  cellular  differentiations. 
+Details  are  not  necessary  for  our  purpose.  As  expressed  by 
+one  standard  textbook  of  embryology,  these  layers  are  as 
+a  rule  "structural  units  of  a  higher  order  than  the  cells." 
+"Primary  organs  of  the  animal  body"  is  another  term  ap- 
+plied to  them.  The  appropriateness  of  the  descriptive  term 
+"germinal"  applied  to  these  layers  is  found  in  the  fact  that 
+the  tissues  and  organs  are  generated  from  them. 
+
+The  passage  of  the  embryos  of  so  many  different  animals 
+through  this  layered  condition  makes  the  phenomenon  a  law 
+of  animal  ontogeny  or  individual  development  of  wide  ap- 
+plicability and  this  law,  looked  at  from  the  standpoint  of 
+the  full-layered  stage,  is  found  to  reach  in  both  directions, 
+i.e.,  backward  to  the  mode  of  origin  of  the  layers  from  the 
+single  undivided  egg-stage  of  the  organism,  and  forward  to 
+the  mode  of  origin  of  the  tissues  and  organs  from  the  layers. 
+Because  of  the  great  measure  of  uniformity  among  many 
+groups  of  animals  which  pervades  the  passage  of  the  ern- 
+byro  from  the  egg-stage  to  the  full-layered  stage,  embry- 
+ologists  have  been  able  to  recognize  and  so  name  several 
+stages,  the  descriptions  of  which  are  in  many  cases  very 
+clear  and  precise.  The  best  defined  of  these  are  the  morula 
+or  cell-cluster  stage,  the  blastula  or  one-layer  stage,  and  the 
+gastrula  or  two-layer  stage. 
+
+On  the  other  hand,  looking  from  the  full-layered  stage 
+toward  the  completed  organism,  a  dominant  uniformity  in 
+developmental  procedure,  i.e.,  a  conspicuous  law  of  onto- 
+genesis, is  seen  in  the  part  contributed  by  each  layer  to  the 
+completed  animal.  Since  it  is  this  aspect  of  the  matter  that 
+particularly  concerns  us,  we  must  go  into  a  little  inon- 
+detail.  As  laid  down  in  the  standard  text-books  of  embry- 
+ology, three  layers  are  recognized,  namely  the  outermost, 
+called  the  ectoderm;  the  middle,  called  the  mesoderm  (in 
+
+
+The  Animal  Organism  and  its  Germ-Layers          47 
+
+many  groups  split  into  two,  thus  making  a  four-layered 
+stage);  and  the  innermost,  called  the  cndoderm.  The  deriva- 
+tives of  these  layers,  as  typically  stated,  are :  From  the 
+ectoderm,  "The  epidermis  and  its  appendages,  hairs,  nails, 
+epidermal  glands,  and  the  enamel  of  the  teeth.  The  mucous 
+membrane  lining  the  mouth  and  the  nasal  cavities,  as  well 
+as  that  lining  the  lower  part  of  the  rectum.  The  nervous 
+system  and  the  nervous  elements  of  the  sense-organs,  to- 
+gether with  the  lens  of  the  eye."  From  the  endodcnn:  "The 
+mucous  membrane  lining  the  digestive  tract  in  general,  to- 
+gether with  the  epithelium  of  the  various  glands  associated 
+with  it,  such  as  the  liver  and  pancreas.  The  lining  epithe- 
+lium of  the  larynx,  trachea,  and  lungs.  The  epithelium  of 
+the  bladder  and  urethra."  From  the  mesoderm :  "The  vari- 
+ous connective  tissues,  including  bone  and  the  teeth  (except 
+the  enamel).  The  muscles,  both  striated  and  non-striated. 
+The  circulatory  system,  including  the  blood  itself  and  the 
+rmphatic  system.  The  lining  membrane  of  the  serous  cavi- 
+of  the  body.  The  kidneys  and  ureters.  The  organs  of 
+reproduction." 
+
+The  summary  here  given  is  taken  from  The  Development 
+of  the  Human  Body,  by  J.  Playfair  McMurrich,  and  conse- 
+quently has  special  application  to  man;  but  it  is  a  presen- 
+tation of  what  is  usually  understood  to  be  contained  in  the 
+<rerm-layer  theory  applicable  to  all  the  meta/oa  with  cer- 
+tain general  modifications  for  the  groups  like  the  coelenter- 
+ata  which  never  advance  to  the  three-layered  condition.  As 
+thus  treated  the  germ-layers  are  structures  as  indubitably 
+as  are  bones  or  muscles  or  feet  or  hands  or  brains;  and  the 
+now  unquestioned  fact  that  they  are  so  alike  in  both  struc- 
+ture and  relations  in  so  great  a  range  of  animals,  and  give 
+rise  with  such  constancy  to  the  corresponding  parts  of 
+the  completed  animals,  has  been  and  ever  must  be  of  great 
+importance  for  the  interpretation  and  comprehension  of  the 
+vast  complexity  of  animal  structure.  Says  one  of  the  fore- 
+
+
+48  The  Unity  of  the  Organism 
+
+most  embryologists :  "As  our  knowledge  of  the  development 
+from  the  germ-layers  has  grown,  we  have  learned  with  ever- 
+increasing  certainty  that  each  germ-layer  has  its  specific 
+role  to  play."  2 
+
+Are  Germ-layers  Developmental  Organs  and  Subservient  to 
+the  Developmental  Requirements  of  the  Organism? 
+
+But  after  all  this  has  been  fully  and  gladly  granted,  there 
+still  remains  much  to  be  said  concerning  the  deeper  biologi- 
+cal meaning  of  the  germ-layers,  and  the  different  attitudes 
+of  mind  which  different  biologists  may  assume,  indeed  do 
+assume,  toward  these  layers.  What  we  have  to  offer  on  this 
+subject  will  be  from  the  standpoint  of  the  difference  bet- 
+tween  the  elemental  and  the  organismal  ways  of  looking  at 
+biological  phenomena  generally.  This  difference  may  be 
+brought  out  by  asking,  does  the  obviously  very  general  rule 
+of  origin  of  the  tissues  and  organs  from  the  different  layers 
+hold  with  genuine  universality,  that  is,  in  all  animals  in 
+which  the  three  (or  four)  layers  occur,  and  under  all  cir- 
+cumstances of  development  in  every  animal?  Or,  putting 
+essentially  the  same  question,  but  modified  so  as  to  show 
+more  clearly  its  relevancy  to  the  organismal  and  elemental 
+standpoints :  are  the  germ-layers,  when  looked  at  as  "struc- 
+tural units"  or  elements  "of  a  higher  order  than  cells"  so 
+fundamentally  independent  of  one  another  and  of  the  or- 
+ganism as  a  whole  that  they  always  and  under  all  conditions 
+must  give  rise  to  just  the  tissues  and  parts  typically  arising 
+from  them,  and  nothing  else?  Or,  shifting  the  point  of  view 
+a  little:  has  the  organism,  as  such,  needs  and  abilities  so 
+paramount  that  it  is  able  to  realize  these  needs  by  modi- 
+fying to  any  extent  the  developmental  course  usual  to  the 
+germ-layers? 
+
+
+The  Animal  Organism  and  its  Germ-Layers          49 
+
+A    Negative  Answer   to    the  Question  in  the  Last  Section 
+Expected  of  Element  alts  t   Biology 
+
+Any  one  who  perceives  the  essence  of  elementalism  and 
+so  has  seen  that  it  perforce  implies  a  denial  of  causal 
+power  of  the  whole  organism  over  its  parts  in  development 
+will  foresee  what  answer  biology  as  strongly  elementalist  as 
+tlie  science  has  been  in  the  recent  period  will  be  likely  to  give 
+to  these  questions.  It  will  not  be  satisfied  with  basing  its 
+expectation  that  an  organ  or  tissue  has  arisen  from  a  par- 
+ticular germ-layer  solely  on  the  fact  that  in  all  hitherto 
+observed  cases  it  has  so  arisen.  The  contention  may  be  ex- 
+pected that  the  independence  and  autocracy  of  the  layers 
+are  in  no  way  subject  to  modification  to  meet  the  require- 
+ments of  the  organism  as  a  unit:  that  in  case  of  conflict 
+between  the  needs  of  the  organism  as  such  and  the  proper 
+powers  of  the  layers,  the  organism  must  accommodate  itself 
+o  the  layers  if  any  accommodating  is  to  be  done.  As  a 
+tter  of  fact  the  germ-layer  theory  has  been  defended  with 
+great  vigor  in  just  this  hard-and-fast  way.  Nerve  tissue 
+
+ust  arise  from  ectoderm  if  it  comes  into  existence  at  all. 
+
+nder  no  circumstances  is  it  permissible  to  believe  it  to  have 
+risen  from  either  of  the  other  layers.  Muscle  tissue  must 
+arise  from  mesoderm  (or  mesenchyme)  or  not  at  all;  am} 
+so  on,  according  to  this  way  of  viewing  developmental  phe-. 
+nomena.  Numerous  biologists  say  in  substance  that  the 
+entire  teaching  of  embryology,  anatomy,  histology,  and 
+pathology,  should  be  based  on  the  doctrine  of  the  germ- 
+layers. 
+
+Evidence  That  Germ-Layers  Are  Thus  Subservient  to  the 
+Organism 
+
+This    brings    us    to    the    facts    previously    alluded    to    as 
+having  played  so  considerable  a  part  in  generating  the  sys,- 
+
+
+r~ 
+
+1 
+
+gr 
+
+5 
+
+
+50  The   Unity  of  the  Organism 
+
+tcni  of  ideas  set  forth  in  this  treatise.  Put  into  a  nutshell, 
+the  case  is  one  in  which  the  ontogeny  or  individual  develop- 
+ment being  much  out  of  the  ordinary,  several  of  the  germ- 
+layer  relationships  prevailing  in  ordinary  ontogeny  are 
+profoundly  modified,  the  end-results  being  the  same  as  that 
+resulting  from  an  ordinary  development.  To  be  explicit 
+on  a  single  point,  an  instance  is  presented  in  which  the 
+nervous  system  arises  not  from  the  ectoderm  in  accordance 
+with  the  general  rule,  but  from  the  endoderm,  this  profound 
+deviation  from  the  typical  being  explicable,  seemingly,  from 
+the  generally  different  entogenetic  course  followed  in  blasto- 
+genesis.  The  case,  well  known  to  embryologists  but  insuf- 
+ficiently heeded,  is  one  of  bud  propagation  in  some  of  the 
+compound  ascidians.  I  was  not  the  first  to  observe  the 
+uniqueness  in  this  form  of  development ;  but  since  in  one  of 
+the  instances  studied  by  me  the  facts  are  probably  clearer 
+than  in  any  other  that  has  been  examined,  it  will  be  best 
+to  present  in  the  barest  outline  only,  the  evidence  furnished 
+by  this  one  case.  Full  details  are  in  my  memoir.3 
+
+(a)  Evidence  From  Bud  Propagation  in  Compound  Ascidians 
+
+We  will  confine  our  attention  almost  entirely  to  the  one 
+*  peck's,  Goodsiria  dura  (according  to  the  later  classifica- 
+tion Metandrocarpd  dnra)9  an  abundant  species  on  the 
+coast  of  California.  To  understand  the  particular  points 
+with  which  we  are  concerned,  it  will  be  necessary  to  say  a 
+few  words  about  bud  formation  and  development  in  this 
+group.  The  buds  are  not  produced  by  "Stolons"  as  they 
+are  in  most  bud-propagating  ascidians,  but  each  blasto- 
+zooid,  as  the  bud-individuals  are  called,  arises  separately 
+and  directly  from  its  parent  zooid.  It  forms  at  the  anterior 
+end  of  the  parent  and  in  such  a  way  as  to  be  two-layered 
+from  the  very  first,  the  layers  being  ectoderm  or  outer 
+layer,  and  ciulodcnn  or  inner  layer,  The  bud  when  first 
+
+
+The  Animal  Organism  and  its  Germ-Layers          51 
+
+separated  from  the  parent  is  exceedingly  simple,  being  an 
+almost  perfect  sphere.  The  layers  are,  at  this  stage,  only 
+a  single  cell  thick  and  arc  quite  uniform  throughout.  The 
+eadodermal  layer,  or  "inner  vesicle"  as  it  is  spoken  of 
+technically,  is  separated  from  the  ectoderm  or  "outer  ves- 
+icle" by  a  wide  space  all  around.  Because  of  these  simple 
+conditions  the  investigator  is  able  to  make  out  with  great 
+certainty  most  of  the  events  in  the  transformation  of  the 
+vcsiculate  stage  into  the  completed  organism.  The  first 
+differentiating  step  noticeable  in  the  inner  vesicle  consists 
+of  a  somewhat  elongated  outpocketing  of  the  wall  of  the 
+dorsal  side  of  the  vesicle.  What  occurs  later  in  connection 
+with  this  outpocketing  may  be  stated  by  quoting  from  the 
+original  paper:  "Simultaneously  with  the  closing  off  from 
+the  inner  vesicle  from  before  backward  of  the  hypophyseal 
+duct,  the  ganglion  becomes  differentiated  in  the  same  order 
+from  the  cell  mass  that  forms  the  last  connection  between 
+the  duct  and  the  vesicle."  The  "ganglion"  is,  it  should 
+stated,  the  beginning  of  the  whole  central  nervous  system 
+>f  these  animals.  My  observations  being  a  confirmation  and 
+extension  of  those  by  other  /oologists  on  other  species,  not- 
+ably by  the  older  zoologists  Giard  and  Kowalevsky,  and  in 
+ic  period  of  recent  methods,  by  Hjort,  there  can  be  no 
+>tion  that  the  nervous  system  arises  in  some  gemmipar- 
+ously  produced  ascidians,  from  the  inner  germ-layer  whereas 
+in  individuals  of  the  same  species  produced  from  eggs,  the 
+nervous  system  arises  as  it  does  in  the  vast  majority  of 
+animals  from  the  outer  germ-layer. 
+
+The  only  point  that  has  been  or  can  be  made  against 
+this  as  an  instance  of  complete  transfer  of  the  place  of 
+origin  of  the  nervous  system  from  one  germ-layer  to  another, 
+is  that  the  "inner  vesicle"  of  the  bud  is  not  in  reality  endo- 
+derin  but  ectoderm,  this  resulting  from  the  manner  of  de- 
+velopment in  the  parent  of  the  laver  from  which  the  inner 
+vesicle  originates.  There  is  considerable  ground  for  this 
+
+
+52  The   Unity  of  the  Organism 
+
+interpretation  of  the  inner  vesicle  so  far  as  Botryllus  is 
+concerned,  but  much  ground  against  it  for  several  other 
+species.  Even  though  the  Irishism  that  the  endoderm  of  the 
+bud  is  not  endoderm  but  ectoderm,  that  is,  that  the  inner- 
+derm  is  really  an  outer-derm  be  accepted  as  true,  the  real 
+issue  so  far  as  this  discussion  is  concerned  remains  unaf- 
+fected. Whatever  the  inner  layer  should  be  considered  as 
+judged  by  its  origin,  judged  by  its  developmental  potency 
+its  endodermal  nature  is  beyond  question,  for  nothing  is 
+more  certain  than  that  it  gives  rise  to  the  main  part  of  the 
+alimentary  system  as,  in  accordance  with  the  general  rule, 
+it  ought  to.  The  kernel  of  the  matter  is  that  here  is  a  case 
+in  which  both  the  digestive  organ  and  the  nervous  system 
+arise  from  the  same  germ-layer,  which  is  contrary  to  the 
+almost  universal  rule.  What  that  layer  should  be  called 
+matters  not,  as  we  are  now  looking  at  the  situation. 
+
+We  can  see,  as  intimated  at  the  outset,  the  probable  im- 
+mediate cause  of  this  fundamental  modification  of  the  on- 
+togeny. Hjort  was  the  first  to  dwell  adequately  on  this 
+aspect  of  the  subject.  But  since  my  own  conclusions  were 
+drawn  before  his  memoir  reached  me  and  so  were  wholly  in- 
+dependent of  his,  it  will  be  permissible  to  present  the  ex- 
+planation in  my  own  way.  This  I  will  do  in  the  original 
+language  slightly  modified.  The  ectoderm  of  the  ascidian 
+bud,  even  at  its  very  beginning,  is  part  and  parcel  of  the 
+ectoderm  of  the  parent,  particularly  in  Goodsiria  and  Bot- 
+ryllus where,  in  the  absence  of  a  stolon,  the  budding  region 
+is  enveloped  in  the  cellulose  tunic  characteristic  of  aU 
+tunicata.  This  is  equivalent  to  saying  that  the  ectoderm 
+of  the  bud  is  not,  even  at  the  very  outset,  an  embryonic 
+structure  at  all.  It  is,  on  the  contrary,  a  differentiated 
+organ  whose  function  is,  as  in  the  parent,  to  secrete  the 
+cellulose  matrix  of  the  outer  tunic.  In  the  performance  of 
+this  function,  it  would  appear  to  be  vigorously  and  con- 
+sistently active,  for  the  matrix  is  large  in  quantity  and  prob- 
+
+
+The  Animal  Onjniiism-  ami  its  Germ-Layers  53 
+
+ably  constantly  renewed.  This  production  may,  as  Hjort 
+had  well  contended,  be  compared  with  the  production  of 
+horn,  or  still  better,  of  cartilage  matrix  by  the  cells  appro- 
+priate to  these  substances.  So  the  ectoderm  has  a  well- 
+established  physiological  role  to  play  from  the  very  earliest 
+stage  in  the  career  of  the  bud.  Quite  otherwise  is  it  with 
+the  endoderm.  It  is  difficult  to  see  how  a  structure  could  be 
+more  favorably  circumstanced  for  retaining,  so  far  as  its 
+physiological  relation  to  the  organism  as  a  whole  is  con- 
+cerned, an  undifferentiated  state  than  is  the  case  with  this 
+one.  It  is  wholly  protected  from  contact  with  the  external 
+world  by  being  enclosed  in  the  ectodermic  vesicle;  further- 
+more, it  has  little  or  nothing  to  do  with  the  preparation  of 
+its  own  nutriment,  since  it  is  constantly  and  completely 
+bathed  in  the  maternal  blood.  So  why  should  not  the  pro- 
+duction of  structures  which  in  embryogenesis  belong  to  the 
+be  here  transferred  to  the  endoderm?  And  so 
+
+
+K 
+i_ 
+This  conclusion  is  the  more  justified  when  one  considers 
+w   differently    circumstanced    are   the  two   layers   in    the 
+bryo.      Here   the   incipient  nervous    system    arises    from 
+the  ectoderm  while  the  layer  is  in  a  strictly  embryonic  stage 
+and  before  the  endoderm  has  freed  itself  from  the  rich  store 
+of  yolk  material  which  is  passed  on  to  it  from  the  egg.     We 
+seem   to  have  here  an  instance  in  nature  where  the  later 
+functional  requirements  of  the  organism  as  such  have  run 
+counter  to  the  way  in  which,  through  the  operation  of  re- 
+moter hereditary  influences  alone,  development  would  pro- 
+ceed ;  and  the  former  have  proved  more  powerful. 
+
+(b)  Evidence  From  Bud  Propagation  in  Bryozoa 
+
+Defiance  of  the  germ-layer  doctrine  is  by  no  means  re- 
+stricted to  the  gemmiparous  ascidians.  In  bud  propagation 
+in  bryozoa,  a  widely  different  group,  departure  from  the 
+
+
+54  Tl\e  Unity  of  tlie  Organism 
+
+rule  is  no  less  certain  and  fundamental.  The  developmental 
+processes  in  these  animals  are  somewhat  more  obscure  at 
+several  crucial  points  than  in  the  ascidians,  and  there  has 
+been  proportionately  more  diversity  of  interpretation  among; 
+investigators.  Nearly  all,  however,  from  H.  Nitsche  who 
+first  pointed  out  the  anomalies  here  presented,  to  the  latest 
+students  in  this  field,  Calvet  and  Romer,  agree  to  the  extent 
+of  recognizing  that  the  layers  of  the  buds  in  these  animals 
+do  not  conform  to  the  germ-layer  scheme  that  prevails  so 
+widely  in  ontogenesis  starting  from  the  egg. 
+
+A  good  summary  of  the  view  most  commonly  held  by 
+specialists  in  this  field  is  given  by  Harmer.4  "There  is 
+good  reason  for  believing  that  in  polyzoa  the  polypide-bud  is 
+developed  entirely  from  ectoderm  and  mesoderm.  This  bud  is 
+a  two-layered  vesicle,  attached  to  the  inner  side  of  the  body- 
+wall.  Its  inner  layer  is  derived  from  the  ectoderm,  which  at 
+first  projects  into  the  body-cavity  in  the  form  of  a  solid 
+knob  surrounded  by  mesoderm-cells.  A  cavity  appears  in 
+the  inner,  ectodermic  mass,  and  the  upper  part  of  the 
+vesicle  so  developed  becomes  excessively  thin,  forming  the 
+tentacle-sheath,  which  is  always  in  the  condition  of  retrac- 
+tion. The  lower  part  becomes  thicker;  its  inner  layer  gives 
+rise  to  the  lining  of  the  alimentary  canal,  to  the  nervous 
+system,  and  to  the  outer  epithelium  of  the  tentacles,  which 
+grow  out  into  the  tentacle  sheath.  The  outer  layer  gives 
+rise  to  the  mesodermic  structures,  such  as  the  muscles,  con- 
+nective tissue,  and  generative  organs."  Although  this  de- 
+scription may  not  give  a  very  clear  picture  to  readers  un- 
+acquainted  with  the  structure  and  development  of  the  bry- 
+ozoa,  the  point  of  central  importance  to  this  discussion  is 
+clear  enough :  The  outer  layer  of  the  body  wall  gives  rise 
+to  the  inner  layer  of  the  bud,  and  from  this  layer  is  pro- 
+duced the  lining  of  the  alimentary  canal,  and  the  entire 
+nervous  system.  No  matter  what  the  outer  layer  of  the 
+body-wall  and  its  continuation  as  inner  layer  of  the  undif- 
+
+
+;is 
+
+= 
+
+
+The  Ati'nnul  Ortjanixtii  <in<l  it  it  (term-Layers          55 
+
+ferentiated  bud  be  called,  the  germ-layer  doctrine  is  set 
+at  naught  since  one  layer  gives  rise  to  both  the  digestive 
+epithelium  and  the  nerve  ganglion. 
+
+As  a  matter  of  fact,  this  statement  falls  short  of  reveal- 
+ing the  full  measure  of  confusion  as  regards  germ-layers 
+which  prevails  in  these  animals,  since  one  layer,  the  outer 
+of  the  body-wall,  contributes  to  every  essential  part  of  the 
+polypide  in  some  species.  Thus  Culvert  shows  that  in  Bug- 
+ula  sabaticri  cells  are  set  free  into  the  body  cavity  from  the 
+outer  layer  at  the  time  that  the  knob  of  cells  of  that  layer, 
+which  is  the  foundation  of  the  bud,  makes  its  appearance, 
+and  these  freed  cells  assemble  to  produce,  in  part  at  least, 
+the  layer  on  the  surface  of  the  knob  usually  called  the  meso- 
+derm  of  the  hud.  And  this  observation  Romer  has  confirmed 
+"mit  aller  bestimmtheit"  for  another  species,  Aleyomdiuin 
+mytilc.  It  seems  that  the  entire  polypide  may  be  formed 
+from  a  single  germ-layer,  namely  the  ectoderm. 
+
+The  reader  should  not  fail  to  compare  what  is  here  set 
+forth  about  bryo/oan  budding  with  what  we  learned  about 
+asridian  budding  to  the  extent  of  noticing  that  whereas  in  the 
+
+cidian  we  found  the  inner  layer  (no  matter  whether  called 
+cndoderm  or  by  some  other  name)  producing  nearly  the  entire 
+xooid ;  in  the  bryo/oan  the  outer  layer  (no  matter  by  what 
+name  called)  produces  in  some  cases,  nearly  the  entire  poly- 
+ide. 
+
+If  it  be  asked  whether  the  principle  invoked  to  explain 
+why  the  ectoderm  of  the  ascidian  bud  takes  so  small  a  part 
+in  producing  the  future  animal  (namely,  that  of  greater 
+functional  specialization  and  activity  of  the  ectoderm  than 
+of  the  endodorm  at  the  place  of  origin  of  the  bud,)  be  also 
+available  for  explaining  the  reverse  order  in  layer  con- 
+tribution to  the  bud-produced  animal  in  the  bryozoan,  no 
+very  satisfactory  answer  is  forthcoming  from  the  infor- 
+mation we  nowr  possess.  Two  facts  may  be  adverted  to,  how- 
+ever, which  suggest  that  the  same  principle  is  operative  in 
+
+
+56  The  Unity  of  the  Organism 
+
+the  two  cases.  In  the  first  place,  it  may  be  reasonably 
+doubted  whether  the  thin  cuticular  covering  produced  by  the 
+outer  layer  of  the  body  wall  in  the  bryozoan  involves  as  great 
+a  degree  of  specialization  either  in  nature  of  product  or  in 
+extent  of  activity  as  does  the  far  more  voluminous  "test" 
+material  produced  by  the  ascidian  ectoderm.  In  the  second 
+place,  the  so-called  mesodermal  layer  of  the  bryozoan  body- 
+wall  surely  has  no  such  direct  and  intimate  connection  with 
+the  parent  polypides,  i.e.  the  other  members  of  the  colony, 
+as  does  the  "cloison"  or  inner  tube  of  the  ascidian  colony 
+from  which  the  inner  vesicle  of  the  bud  is  produced.  We  may 
+consequently  surmise  that  in  the  bryozoan  as  in  the  ascidian 
+the  layer  that  is  most  available  because  of  being  least  fully 
+occupied  with  activities  pertaining  to  the  parent  organism 
+is  most  largely  drawn  upon  in  bud  propagation.  A  kind 
+of  balance  between  the  functions  of  growth  and  maintenance 
+on  the  one  hand,  and  propagation  on  the  other,  is  struck  in 
+each  case  although  this  implicates  the  germ-layers  in  op- 
+posite ways  in  two  cases. 
+
+
+The  Animal  Organism  and  its  Germ-Layers          57 
+
+(c)  Evidence  from  the  Regeneration  of  the  Lens  of  the 
+Amphibian  Eye 
+
+The  supremacy  of  the  organism  over  its  germ-layer  is 
+shown  in  no  way  more  strikingly  than  in  facts  brought  to 
+light  in  some  of  the  researches  of  late  years  on  animal  re- 
+generation. Perhaps  the  case  at  once  the  best  established 
+and  most  discussed  is  that  of  the  way  the  extirpated  lens 
+of  the  eye  is  renewed  in  some  amphibians.  Referring  to  the 
+parts  enumerated  above  as  arising  from  each  of  the  three 
+genii-layers  in  vertebrates,  we  note  that  the  lens  is  assigned 
+to  the  ectoderm.  To  be  a  little  more  explicit,  this  member 
+originates  from  the  outermost  epithelial  layer  of  the  head 
+of  the  embryo.  Hardly  any  point  in  vertebrate  embryology 
+is  easier  to  demonstrate  than  this.  Experiments  have 
+proved,  however,  that  when  a  new  lens  is  produced  in  a  full 
+rown  animal,  to  take  the  place  of  one  that  has  been  de- 
+yed,  this  does  not  arise  as  did  the  original  from  the 
+
+rface  epithelium  but  from  the  edge  of  the  iris,  that  is, 
+rom  a  part  of  the  eye  itself.  The  discoverer,  Collucci,  did 
+ot  consider  it  to  be  out  of  accord  with  the  germ-layer  doc- 
+
+ine  because  the  iris  is  the  highly  modified  rim  of  the  orig- 
+
+al  optic  cup,  which  is  derived  from  the  cerebral  vesicle, 
+which  in  its  turn  is  derived  from  the  ectoderm,  so  that  in  a 
+round-about  way  the  iris  is  an  ectodennal  product.  The 
+'act  remains,  nevertheless,  that  the  mode  of  origination  of 
+the  new  lens  is  so  radically  different  from  that  of  the  old 
+that  to  regard  it  as  sufficiently  dealt  with  when  attention 
+is  called  to  the  fact  that  it  conforms  in  a  way  to  the  germ- 
+layer  doctrine  is  an  impressive  illustration  of  the  evil  effects 
+of  subserviency  to  a  theory — of  the  inhibiting  effect  of  such 
+a  mental  attitude  upon  interest  and  observation.  Later 
+investigators,  notably  G.  Wolff,  A.  Fischel,  and  W.  N. 
+Lewis,  have  shown  how  much  more  there  is  to  the  phenomena 
+of  development  and  regeneration  of  the  vertebrate  eye  than 
+
+
+58  The   Unity  of  the  Organism 
+
+the  single  matter  of  reference  of  the  several  parts  to  their 
+appropriate  germ-layers.  The  work  of  these  students  car- 
+ries the  subject  into  other  fields,  particularly  those  of  re- 
+generation, and  of  formative  stimulation. 
+
+The  Germ-Layer  Theory  and  the  Germ-Plasm  Theory 
+
+This  discussion  of  the  germ-layers  will  terminate  with  a 
+section  on  the  part  played  by  the  layers  in  producing  the  sex- 
+cells  where  propagation  is  by  the  sexual  method.  This  ter- 
+mination will  also  be  the  culmination  in  point  of  importance, 
+since  it  will  lead  as  well  into  the  examination,  to  be  con- 
+tinued in  other  sections  and  chapters,  of  the  results  and 
+the  general  modes  of  reasoning  of  the  Weismannian  school  of 
+speculation  about  heredity. 
+
+The  manner  of  involvement  of  the  layers  in  the  specula- 
+tions of  this  school  becomes  apparent  on  a  moment's  reflec- 
+tion. As  is  widely  known,  Weismann  and  his  adherents 
+conceive  a  particular  substance  known  as  germ-plasm  to 
+which  all  the  phenomena  of  heredity  are  due,  this  being  fun- 
+damentally different  from  and  independent  of  the  great  mass 
+of  substance  called  by  them  somatoplasm  which  makes  up 
+the  bodies  of  organisms.  Not  only  is  this  germ-plasm  quite 
+apart  from  the  somatoplasm  in  a  given  individual  plant  or 
+animal,  but  it  passes  along  from  parent  to  offspring,  gen- 
+eration after  generation,  wholly  uncontaminated,  as  one  may 
+say,  by  contact  with  the  somatoplasm.  This  supposition  of 
+a  propagative  stream  or  string  has  been  elaborated  into 
+what  is  known  as  the  doctrine  of  the  "continuity  of  the 
+germ-plasm."  A  point  fundamental  to  the  doctrine  is  that 
+not  merely  the  germ-plasm  may  pass  over  in  this  way  from 
+parent  to  offspring,  or  that  some  portion  of  it  always  does 
+thus  pass,  but  that  all  the  germ-plasm  the  offspring  ever  has 
+comes  from  this  source.  Otherwise  expressed,  the  doctrine 
+is  that  germ-plasm  is  never  produced  anew  in  a  strict  sense. 
+
+
+The  Animal  Organism  and  its  Germ-Layers          59 
+
+Weismann  is  sufficiently  explicit  on  this  point.  Not  only 
+does  IK-  assume  that  germ-plasm  cannot  be  produced  by  the 
+transformation  of  soinatoplasm,  but  he  holds  it  cannot  be 
+produced  in  any  other  way.  Touching  the  more-  special  case 
+we  read:  "AIL  these  facts  support  the  assumption  that  so- 
+matic idioplasm  is  never  transformed  into  germ-plasm,  and 
+this  conclusion  forms  the  basis  of  the  theory  of  the  compo- 
+sition of  the  germ- plasm  as  propounded  here."  5 
+
+A  fairly  typical  expression  of  the  author's  all-embracing 
+denial  of  new  germ-plasm  is  the  following:  "The  off- 
+spring owes  its  origin  to  a  peculiar  substance  of  extremely 
+complicated  structure,  vi/.:  the  'germ-plasm.'  This  sub- 
+stance can  never  be  formed  anew;  it  can  only  grow,  multiply, 
+and  be  transmitted  from  one  yenertttion  to  another."  °  A 
+form  of  expression  much  used  by  Weismann  particularly  in 
+his  later  writings,  which  somewhat  disguises  though  does 
+not  surrender  the  main  point,  is  that  of  "primary  con- 
+stituents" of  the  germinal  substance.  Thus  in  his  discus- 
+sion of  the  germ-plasm  doctrine  in  his  last  extensive  work, 
+The  Krolution  Theory,  we  find  "I  am  forced  to  see  in  this 
+act  alone  [that  of  metamorphosis  in  ontogeny]  an  invalida- 
+tion of  all  epigenetic  theories  of  development,  that  is  of  all 
+theories  which  assume  a  germ-substance  without  primary 
+
+nstitucnts,  which  can  produce  the  complicated  body  solely 
+by  varying  step  by  step  under  the  influence  of  external  in- 
+fluences, both  extra-  and  intra-soiiiatic."7  * 
+
+The  Exact  Mode  of  Involvement  of  the  Germ- pi  asm  Theory 
+in  the  Germ-Layer  Theory 
+
+We  return  now  to  the  immediate  point,  namely  that  of 
+the-  wav  the  germ-plasm  doctrine  involves  the  germ-layers. 
+
+*  While  this  is  not  the  place  to  point  out  in  detail  the  far-reaching 
+consequences  of  this  assumed  impossibility  of  new  formation  in  or- 
+ganic evolution,  much  less  to  show  the  subtle  fallacy  which  it  involves, 
+the  general  subject  is  so  important  and  will  loom  up  so  greatly  in  our 
+enterprise  as  a  whole,  that  I  would  wish  to  get  it  well  into  the  read- 
+er's attention  even  at  this  early  stage  of  our  progress. 
+
+
+in 
+
+r: 
+
+
+60  The  Unity  of  the  Organism 
+
+Since  it  is  the  main  office  of  the  sex-cells  to  carry  the  sup- 
+posed germ-plasm,  and  since  germ-plasm  cannot  be  distin- 
+guished from  somatoplasm  by  direct  observation,  and  since 
+sex-cells  are  not  present  in  the  individual  organism  of  most 
+species  up  to  and  including  the  layered  stage  of  its  life,  the 
+question  of  exactly  how  and  where  the  sex-cells  arise  will 
+be  seen  to  involve  the  question  of  which  of  the  layers  they 
+arise  in.  The  problem  may  be  stated  more  explicitly  as 
+follows :  Where  is  the  germ-plasm  between  the  time  when  the 
+germ-cell  which  is  the  beginning  of  a  new  individual  disap- 
+pears through  division,  and  the  appearance  of  new  germ- 
+cells  within  that  individual,  as  the  first  stage  in  the  life  of 
+an  individual  of  the  next  generation?  Or,  stating  the  ques- 
+tion still  more  explicitly,  by  what  means  and  by  what  route 
+does  the  assumed  pre-existent  germ-plasm  get  from  its  orig- 
+inal place  in  the  sex-cell  which  produces  a  given  individual 
+to  the  sex-cell  produced  by  that  individual? 
+
+Weismanns  Studies  on  the  Origin  of  Germ-Cells  m  Hydroids 
+
+Our  purpose  restricts  our  examination  of  the  question 
+stated  in  this  general  form,  to  the  particular  question  of 
+where  and  how  (relative  to  the  germ-layer)  the  sex-cells 
+arise  in  an  individual.  Since  Weismann  elaborated  his  solu- 
+tion of  the  problem  largely  on  the  basis  of  phenomena  pre- 
+sented by  the  Hydromedusae,  many  of  which  phenomena 
+were  brought  to  light  by  his  own  researches,  we  shall  give 
+these  animals  the  central  place  in  our  examination.  In  the 
+first  place,  the  fact  should  be  clearly  understood  that  Weis- 
+mann has  never  contended  that  a  direct  observable  continu- 
+ity between  the  parent  sex-cell  and  the  sex-cells  of  the  off- 
+spring occurs  in  this  group  of  animals.  On  the  contrary, 
+he  fully  recognizes,  as  do  all  students  of  these  animals  who 
+have  occupied  themselves  with  this  particular  point,  that 
+a  wide  gap  separates  the  parental  from  the  filial  sex-cells. 
+
+
+i; 
+
+
+The  Animal  Organism  and  its  Germ-Layers          61 
+
+The  very  earliest  recognizable  sex-cells  occur  in  the  one  or 
+the  other  of  the  two  body  layers ;  that  is,  in  the  ectoderm 
+or  the  endoderm  of  the  fully  developed  animal.  Since  Weis- 
+mann's  theory  denies  the  possibility  of  the  origin  of  the 
+sex-cells,  or  at  least  the  essential  part  of  these,  the  germ- 
+plasm,  from  somatoplasm,  his  theory  of  sex-cell  production 
+in  such  animals  as  the  hydroids  must  contain  two  quite 
+distinct  parts:  one  as  to  the  route  by  which  the  germ-plasm 
+travels  from  parental  to  filial  sex-cell,  and  the  other  as  to 
+the  force  or  forces  by  which  the  journey  is  accomplished. 
+
+The  first  part  of  the  theory  starts  from  the  indubitable 
+facts  that  in  those  hydromedusa1  having  a'  free-swimming 
+medusa,  or  jelly  fish,  the  sex-cells  are  borne  by  this  and  not 
+by  the  polyp;  that  these  cells  do  not  as  a  rule  arise  in  the 
+medusa  itself,  but  somewhere  in  the  colony  of  polyps,  from 
+which  location  they  migrate  (in  some  cases  for  considerable 
+distances)  to  the  buds  which  later  develop  into  medusa?;  and 
+that  in  the  majority  of  species  which  have  been  examined 
+with  reference  to  the  point,  the  mature  sex-cells  are  found 
+in  the  ectoderm  and  not  in  the  endoderm.  On  the  basis  of 
+
+ese  facts  Weismann  thought  out  a  very  elaborate  and  in- 
+genious theory  by  means  of  which  through  various  assump- 
+tions about  the  evolutionary  history  of  the  hydromedusac, 
+was  able  to  make  the  facts  seem  not  only  to  harmonize 
+with,  but  to  support  positively  the  doctrine  of  the  con- 
+tinuity of  the  germ-plasm.  Into  that  part  of  the  theory 
+which  concerns  the  phylogcnetic  relation  of  the  medusoid  to 
+the  polypoid  forms  of  the  group,  we  need  not  go  further 
+than  to  say  that  through  his  speculations  on  this  point  he 
+was  able  to  provide  a  Mortchroute  or  germinal  highway  or 
+germ  track  from  the  parent  sex-cell  to  the  filial  sex-cell.  The 
+question  of  where  this  Marschroute  runs,  with  reference  to 
+the  germ-layers  is  what  immediately  concerns  us. 
+
+According  to  the  theory,  the  germ-plasm  of  the  parental 
+sex-cells  passes  first  into  certain  cells  of  the  ectoderm  of 
+
+
+6£  The  Unity  of  the  Organism 
+
+the  polyp-generation  from  which  place  those  cells  make  their 
+journey  to  the  ectoderm  of  the  medusa,  usually  to  some 
+portion  of  it  connected  with  the  manubrium  or  digestive 
+part  of  the  animal.  But — and  here  we  come  to  the  real 
+point  of  the  present  discussion — since  sex-cells  are  found  by 
+actual  observation  in  the  endoderm,  in  several  genera  and 
+species,  the  theory  is  that  the  Marschroute  lies  first  in  the 
+ectoderm,  then  passes  over  into  the  endoderm  and  returns 
+later  to  the  final  goal  of  the  sex-cells  in  the  manubrial  ec- 
+toderm. The  ectoderm  therefore  is  the  home  by  natural- 
+ization, so  to  say,  of  the  germ-plasm  in  these  animals ;  it  is 
+originally  planted  there  from  the  parental  egg  and  finally 
+matured  there.  As  will  be  seen  from  what  has  previously 
+been  said,  the  kernel  of  the  theory  is  to  account  for  the 
+positions  and  movements  of  the  sex-cells  in  accordance  with 
+the  supposition  that  their  most  essential  part,  their  germ- 
+plasm,  cannot  be  formed  anew  from  somatoplasm  of  any 
+sort  either  entodermal  or  ectodermal,  but  must  come  over 
+in  direct  continuity  from  the  germ-plasm  of  the  parental 
+egg.  The  reason  why  the  theory  is  so  insistent  on  ascrib- 
+ing the  sex-cells  to  -the  ectoderm  is  that  it  supposes  that 
+originally  in  the  evolutional  history  of  the  group,  the  germ- 
+plasm  destined  for  the  next  generation  of  sex-cells  was 
+lodged  in  the  ectoderm,  and  that  this  predestined  it  to  that 
+layer  for  all  time. 
+
+Inconclusivencss   of   Weismann's   1{  exults  Shown  by  Goette 
+and  Others 
+
+We  have  now  to  inquire  how  it  has  fared  in  later  research 
+with  the  numerous  subsidiary  hypotheses  which  enter  into 
+this  complex  theory  of  germ-plasm  behavior  in  these  organ- 
+isms. Alexander  Goette  has  lately  gone  over  almost  the 
+entire  grounds  covered  by  Weismann  in  the  monograph  al- 
+ready mentioned,  and  his  results  and  general  conclusions 
+
+
+The  Animal  ()r(/aiii.sm   aiul  its   (t'cnti- Layers  63 
+
+arc  interesting  in  the  highest  degree.  It  would  be  impossible, 
+even  were  it  desirable,  to  review  the  memoir  exhaustively. 
+As  to  the  most  general  aspect  of  it,  it  will  suffice  to  say  that 
+Goette  takes  issue  with  nearly  every  one  of  Weisnmnn's  most 
+important  conceptions.  The  hypothesis  that  the  gonophores 
+are  in  all  cases  degenerate  medusae;  the  hypothesis  of  Mar- 
+scliroute  (of  hard  and  fast  germ  tracks);  the  hypothesis 
+of  entirely  independent  activity  of  the  sex-cells  in  migration 
+supported  by  the  suggestion  that  the  cells  migrate  by  virtue 
+of  a  "homing  instinct"  something  like  that  supposed  by 
+some  naturalists  to  be  possessed  by  migratory  birds;  and 
+finally  and  most  relevant  to  the  present  discussion,  the  hy- 
+pothesis which  denies  the  actual  origin  of  the  germ  cells  in 
+the  endoderm  :  all  these  hypotheses  and  others  which  could 
+be  mentioned,  Goette  holds  to  be  either  in  positive  opposition 
+to  the  observed  facts  or  not  necessitated  by  them. 
+
+It  would  be  contended  on  the  Weismannian  mode  of  theor- 
+i/ing  that  since  the  issue  is  mainly  one  of  interpreting  facts, 
+and  not  of  what  the  facts  are,  Goette's  views  are  entitled 
+to  no  more  weight  than  are  Weismann's,  and  so  do  not  con- 
+stitute a  disproof  of  the  hypotheses  in  question.  As  this  con- 
+tention comes  very  near  to  the  center  of  Weissmann's  logical 
+>rocedure,  we  must  look  at  it  attentively.  Assuming  that 
+reismann  and  Goette  are  equally  endowed  by  nature  and  by 
+lining  as  observational  biologists  (and  I  have  no  doubt 
+great  majority  of  unbiased  zoologists  who  know  the 
+>rk  of  the  two  men  would  allow  this),  it  must  be  granted 
+lat  Goette  as  pitted  against  Wcismann  does  not  constitute 
+disproof  of  the  hitter's  hypotheses.  But  does  this  admis- 
+sion leave  these  hypotheses  just  where  they  were  before 
+Goette's  attack  upon  them?  By  no  means.  We  may  state 
+the  case  this  way :  Weismann  observes  a  long  series  of  facts 
+concerning  the  structure  and  development  of  a  particular 
+group  of  animals,  and  on  the  basis  of  these  and  in  the 
+interest  of  a  theory  of  still  more  general  scope,  and  of  prc- 
+
+
+64  The   Unity  of  the  Organism 
+
+vious  formulations,  sets  up  a  number  of  hypotheses.  That 
+these  are  fully  proved  is  not  contended  even  by  Weismann 
+himself:  they  are  only  given  a  good  degree  of  -plausibility 
+or  probability.  Then  comes  another  investigator  of  equal 
+competency  who  goes  over  essentially  the  same  ground  and 
+reaches  essentially  the  same  factual  results,  but  who  does  not 
+believe  the  hypotheses  propounded  by  the  first  investigator 
+are  supported  by  the  facts.  What  can  a  third  person  legiti- 
+mately see  in  the  total  situation  other  than  that  whatever 
+probability  was  given  the  hypotheses  by  the  one  investigator 
+has  been  taken  away  from  them  by  the  other  investigator? 
+So  far  as  we  have  yet  gone  with  our  examination  we  are,  I 
+think,  compelled  to  recognize  that  as  regards  interpretation 
+of  structure  and  reproduction  in  the  hydromedusae,  Goette's 
+work  leaves  the  matter  just  where  it  was  before  Weismann 
+propounded  his  hypothesis.  But  we  have  not  concluded  the 
+inspection ;  we  have  only  considered  Goette's  work  in  its  re- 
+futational  or  destructive  aspect.  Whatever  of  positive  re- 
+sults both  as  to  observation  and  hypothesis  he  has  to  set 
+over  against  Weismann's  must  now  be  briefly  considered. 
+And  here  we  return  to  the  matter  in  hand  in  this  section, 
+that,  namely,  of  the  relation  of  the  sex-cells  to  the  germ- 
+layers. 
+
+Goette  believes  he  has  proved  incontestably  that  the  sex- 
+cells  do  arise  in  the  endoderm  in  some  species,  so  that  Weis- 
+mann's  assertion  that  in  this  group  they  always  arise  in  the 
+ectoderm  is  wrong.  But  of  far  greater  importance,  Goette 
+shows  that  not  only  the  endodermal  but  also  the  ectodermal 
+origin  of  the  sex-cells  is  such  as  not  to  give  the  least  warrant 
+for  the  hypothesis  that  any  part  of  the  cell  (the  supposed 
+germ  plasm  being  of  course  aimed  at)  does  not  arise  by  trans- 
+formation of  the  material  of  the  layer  in  which  they  first 
+appear.  And  in  this  it  seems  to  me  he  has  made  his  case. 
+His  description  accompanied  by  numerous  drawings  of  the 
+sex-cells  in  Corydendrium  parasiticum,  may  be  instanced 
+
+
+The  Animal  Organism  and  its  Germ-Layers          65 
+
+as  a  particularly  clear  case  of  the  genuine  transformation  of 
+endoderm  cells  into  sex-cells.  To  be  still  more  explicit,  in 
+his  figure  (115  plate  V,)  is  shown  a  sex-cell  so  slightly  differ- 
+ent from  the  neighboring  endoderm  cells,  and  so  related  to 
+the  surrounding  cells,  that,  no  one  would  hesitate  to  conclude 
+that  it  had  very  recently  arisen  by  division  of  one  of  the 
+endoderm  cells  unless  influenced  by  considerations  other  than 
+the  evidence  actually  before  his  eyes.  Exactly  the  same 
+conditions,  he  says,  are  observable  in  Clava,  Sertularia,  and 
+Scrtularella;  and  he  then  remarks:  "From  these  observations 
+it  becomes  unfair  to  assume  that  in  other  cases  where  germ 
+cells  arc  found  in  the  endoderm  that  they  have  wandered 
+from  the  ectoderm.  Proof  of  this  must  be  absolute."  8  The 
+full  force  of  this  remark  is  seen  only  when  it  is  taken  in 
+connection  with  Weismann's  own  statements  about  the  sex- 
+cells  of  Corydendrmm  para^siticum.  He  saw  here  no  less 
+)sitively  than  did  Goette,  very  young  stages  of  the  cells  in 
+ie  endoderm;  but  since,  he  says,  he  could  not  find  the  ab- 
+)lutely  first  stages  "the  possibility  of  the  ectodermal  ori- 
+gin of  the  sex-cells  is  not  excluded."  !  In  other  words,  the 
+?nce  of  absolute  proof  of  the  endodermal  origin  of  the 
+•Us  is  used  to  support  the  n  /triori  conclusion  that  they 
+irise  in  the  ectoderm!  So  far  as  the  observational  evidence 
+this  specific  case  goes,  it  strongly  supports,  as  \Ycismann 
+limself  grants,  the  conclusion  that  the  reproductive  cells 
+arise'  in  the  endoderm,  hut  since  the  evidence  falls  a  little 
+short  of  finality  if  may  be  cast  aside  wholly  in  favor  of 
+purely  theoretical  grounds  for  supposing  the  origin  to  be 
+Isrwhere!  Against  this  method  of  reasoning  Goette 
+strongly  protests,  and  every  biologist  who  genuinely  be- 
+Heves  that  speculative  proof  must  yield  to  observational 
+proof  when  the  two  come  into  conflict,  will  say  amen.  And 
+when  once  one  sees  the  extent  to  which  Weismann's  whole 
+system  rests  upon  this  method,  and  sees  at  the  same  time 
+how  widely  influential  the  system  is,  he  will  recognize  that 
+
+
+66  The  Unity  of  the  Organism 
+
+it  is  hardly  possible  to  overestimate  the  importance  of  cor- 
+recting the  method  and  neutralising  the  evil  it  has  wrought. 
+
+0 
+
+Weismanrfs  Erroneous  Conclusions  Concerning  the  Origin 
+of  Sex-Cells   in   Hydroids    as    an   Example   of   the 
+Effect  on  the  Observing  Powers  of  the  Germ- 
+Plasm  Type  of  Speculation. 
+
+A  striking  example  of  the  effect  of  this  system  of  specula- 
+tion on  the  observing  and  reasoning  faculties  is  afforded  by 
+Weismann's  way  of  viewing  the  part  played  by  the  germ- 
+layers  in  bud  propagation  in  young  animals.  We  might 
+have  presented  the  case  when  we  were  dealing  with  budding 
+in  ascidians  and  bryozoans,  but  as  it  implicates  germ-cells 
+and  germ-plasm  more  intimately  than  we  were  prepared  for 
+at  that  time  we  speak  of  it  here. 
+
+As  pointed  out  above,  Weismann's  general  interpretation 
+of  the  sex-cells  in  the  hydromedusae  led  him  to  conceive  that 
+the  germ-plasm  is  lodged  in  the  ectoderm  in  these  animals. 
+This  being  so,  he  naturally  concluded  that  his  imaginary 
+bound  ("gebunden"),  or  unalterable,  or  accessory  germ- 
+plasm  set  aside  for  bud  propagation  ("blastogenic  germ- 
+plasm")  must  also  be  confined  to  the  ectoderm.  But  ac- 
+cording to  the  various  researches,  both  endoderm  and  ecto- 
+derm participate,  as  a  rule,  in  giving  origin  to  the  bud. 
+What  was  to  be  done  about  this?  Notice  carefully  what, 
+according  to  the  system,  would  be  a  sufficient  confirmation 
+of  the  theoretical  view  that  buds  really  arise  solely  from 
+the  ectoderm:  To  find  one  or  a  few  instances  in  which  the 
+buds  do  either  certainly  or  probably  begin  in  that  layer,  to 
+assume  this  to  be  the  phylogenetically  primitive  condition, 
+and  then  to  point  out  that  in  cases  in  which  the  two  layers 
+undoubtedly  enter  into  the  bud  in  the  earliest  stage,  the 
+"possibility  is  not  excluded"  that  latent  invisible  germ-plasm 
+is  present  in  the  ectoderm,  becomes  active  at  the  place  where 
+
+
+The  Animal  Organism  and  its  Germ-Layers          67 
+
+a  bud  is  to  form,  migrates  into  the  endodcrm,  and  so  ex- 
+plains the  participation  of  the  endoderm  in  bud  production. 
+Goette's  conclusions  as  to  the  actual  endodermal  origin 
+of  sex-cells  in  the  hydroids  are  not  unsupported  by  other 
+workers.  Tlius  Tichomiroff  liolds  that  the  sperm  cells  of 
+Kudcndritun  (uircntuim  arise  in  this  layer,  and  C.  W.  Har- 
+gitt,  who  has  devoted  much  time  to  the  question,  is  unquali- 
+fied in  his  statements.  He  writes  in  a  summary  presentation 
+of  his  results :  "It  may  be  said  that  while  in  Eudendrium 
+ramosum  and  E.  tenue  the  ova  arise  strictly  in  the  endo- 
+derm, and  never  at  any  time  find  their  way  into  the  ectoderm, 
+in  the  species  racemosum  and  diapar  these  products  are 
+found  abundantly  in  both  tissues."  So  the  observations 
+seem  conclusive  that  taking  the  group  of  hydromedusae  as 
+a  whole,  the  sex-cells  arise  in  the  ectoderm  in  some  species 
+and  in  the  endoderm  in  other  species,  and  that  this  origina- 
+tion is  by  a  transformation  of  substance  in  both  cases  from 
+what  it  was  originally  into  that  of  the  reproductive  elements. 
+Indeed  the  power  of  the  propagative  function  of  the  organ- 
+ism to  start  indifferently  with  either  cctodcrmal  or  endo- 
+
+ermal  material  and  reach  the  same  end  as  seen  in  different 
+genera  of  the  hydromcdusa>,  seems  in  some  cases  to  extend 
+to  different  species  of  the  same  genus.  "If  one  holds  rigor- 
+ously to  the  facts,"  writes  Goette,  "he  must  in  spite  of  all 
+hold  to  it  as  most  probable  that  the  Kewnst'dtte  in  different 
+species  of  Etifft'inlriHnt,  perhaps  indeed  in  the  same  spe- 
+cies, changes."  J1 
+
+Finally,  and  as  a  cap-sheaf  to  the  arguments  here  pre- 
+
+•nted  in  favor  of  the  view  that  sex-cells  do  arise  genuinely 
+anew  in  each  individual  in  the  hydromedusa?,  it  remains  to  be 
+shown  that  Weismann  himself  was  really  in  accord  with 
+Goette  on  this  point  when  he  wrote  the  monograph  on  the 
+origin  of  the  sex-cells ;  and  that  only  later  under  the  impul- 
+sion of  his  speculations  about  germ-plasm  did  he  come  to 
+repudiate  this  view.  On  page  284  of  the  monograph  we  find 
+
+
+68  The   Unit  if  of  the  Organism 
+
+the  following:  "After  all  this,  there-  can  he  no  doubt  that  the 
+germ  cells  may  reach  their  differentiation  and  separation 
+from  somatic  cells  only  when  the  germ-layers  have  long  since 
+lit  en  formed,  and  it  is  impossible  to  accept'  as  a  genera]  law 
+the  view  of  Xnxxbanni.  that  sex  ceils  are  'absolutely  indepen- 
+dent of  the  germ  layers.'  So  far  as  we  can  now  see,  the  sex- 
+cells  always  arise  in  the  hydro  ids  from  elements  of  one  of  the 
+germ-layers  and  they  are  not  merely  inclusions  in  a  germ- 
+layer  but  are  derivatives,  are  division  products  of  it." 
+Stripped  of  all  sophistry,  how  is  it  possible  to  avoid  seeing 
+that  we  have  before  us  a  clear  case  in  which  Weismann  can 
+defend  his  doctrine  of  heredity  at  one  of  its  most  critical 
+points  only  by  making  purely  speculative  considerations 
+supplant  observational  evidence  which  he  himself  produced 
+at  an  earlier  period  in  his  career? 
+
+The  conception  of  an  "hereditary  substance"  distinct 
+from  a  non-hereditary  substance,  by  whatever  name  called, 
+and  continuous  from  parent  to  offspring  is  contrary  to  the 
+observed  facts  of  sexual  reproduction  in  the  hydromedusa- 
+as  established  by  Weismann  himself  and  by  other  and  later 
+biologists  of  unquestioned  competency  and  trustworthiness. 
+To  this  conclusion  we  are  forced  by  an  examination  of  the 
+available  knowledge  of  the  sex-cells  in  their  relation  to  the 
+germ-layers  in  this  group  of  organisms. 
+
+
+The  Strongly  Ory(ininm<d  Implications  of  Gocttc'x  Conclu- 
+sions on  the  Origin  and  Migration  of  Germ- 
+Cells  in  Hydroids 
+
+With  this  conclusion  we  return  to  the  examination  of  the 
+constructive  as  contrasted  writh  the  destructive  results  of 
+Goette's  research.  We  have  shown  the  most  specific  and  im- 
+mediate of  these  as  viewed  from  the  standpoint  of  this  sec- 
+tion on  the  organism  and  its  germ-layers,  that,  namely. 
+
+
+The  Animal  Oryairistn    +  tnl   its   (term-Layers  60 
+
+wlu-mii  he  proves  the  actual  origin  of  the  sex-cells  from 
+the  ciuiodenu.  The  only  other  positive  result  which  I  will 
+touch  upon  is  that  concerning  the  route  and  cause  of 
+migration  of  the  sex-cells  from  their  place  of  origin  to  their 
+place  of  maturing.  Goette  denies  that  they  have  any  single 
+road  which  is  the  same  for  all  species,  as  contended  by 
+\\Yismann.  He  affirms  on  the  contrary,  that  at  least  four 
+paths  are  demonstrable,  namely,  the  gastric  endoderm ;  the 
+liases  of  the  pouches  of  the  radial  canal;  the  spadix ;  and  the 
+ectoderm  of  the  mamibrium.  The  kernel  of  Goette's  con- 
+clusion on  this  subject,  as  opposed  to  Weismann's  is,  as  I 
+understand,  that  the  sex-cells  arise  widely  scattered  in  the 
+parts  and  tissues  of  the  polypoid  colony,  and  that  the  de- 
+velopment of  the  gonads  or  sex  glands  consists  in  large  part 
+in  the  drawing  together  or  concentration  of  these  dissemi- 
+nated elements,  in  some  cases  into  buds  that  are  to  become 
+medusa-  proper,  and  in  other  cases  where  the  medusoid  is 
+whollv  absent,  into  the  gonophores  or  brood-sacs  which  arc 
+outgrowths  on  the  polyps.  The  diversity  of  the  place  of 
+origin  precludes  the  possibility  of  any  single  "germ  track." 
+Again  Goette  does  not  believe,  as  Weismann  does,  that 
+
+lu  /journey ings  of  the  sex-cells  arc-  due  wholly  to  their  own 
+independent  activity,  and  considers  the  comparison  of  their 
+movements  with  those  of  migratory  birds,  and  the  ascrip- 
+
+ion  to  them  of  an  innate  instinct,  to  be  entirely  fanciful. 
+He  holds,  on  the  contrary,  that  these  cells  are  largely  car- 
+riid  along  passively  by  forces  which  originate  in  the  sur- 
+rounding tissues  and  structures.  His  observations  on  the 
+cells  of  I'orfocorync  have,  he  says,  been  particularly  con- 
+vincing that  the  wanderings  are  largely  passive,  and  that 
+even  where  there  is  intrinsic  movement  this  is  indeterminate 
+as  to  direction,  so  that  the  final  goal  of  the  cells  is  in  every 
+case  determined  chiefly  by  influences  which  lie  outside  Hu- 
+t-ells themselves. 
+
+What  the  outside  force  is  which  Goette  conceives  to  pro- 
+
+
+70  The  Unity  of  the  Organism 
+
+duce  and  direct  the  movements,  we  will  hear  him  state  in  his 
+own  words.  It  is  "a  result  of  the  directive  activity  of  the 
+definite  and  always  similar  developmental  processes,  .  .  . 
+therefore  of  those  conditions  which  determine  not  only  the 
+form  of  a  body  part,  or  organ,  but  also  the  transportation 
+and  definitive  emplacement  of  the  separate  particles.  I  re- 
+tain for  this  the  expression  'form-conditions'  used  by  me 
+several  years  ago."13  Obviously  this  statement  by  Goette 
+carries  us  far  beyond  the  bounds  of  germ-layers  or  even  of 
+sex-cells  and  hereditary  substance. 
+
+To  the  numerous  biologists  who  would  refuse  to  accept 
+Goette's  "directing  activity  of  the  developmental  process" 
+and  his  "Form-conditions"  as  an  explanation  of  the  mi- 
+gration of  the  sex-cells  in  the  hydromedusae,  because  they 
+are  vague  and  "unanalysed"  conceptions,  I  put  the  question : 
+Are  Weismann's  conceptions  of  a  wholly  independent  power 
+of  movement  possessed  by  the  cells,  and  a  determination  of 
+the  route  followed  by  them  as  an  innate  instinct  of  their  an- 
+cestral home  possessed  by  the  cells,  less  vague  and  more 
+satisfactory  because  of  the  results  of  such  an  "analysis"? 
+Let  it  be  granted  for  a  moment  that  the  cells  perform  their 
+journeys  by  activities  wholly  their  own,  that  they  are  com- 
+petent both  to  travel  and  to  reach  the  end  proper  to  them. 
+What  then  about  the  elements  which  enter  into  their  make- 
+up, for  surely  no  one  would  contend  for  a  moment  that  they 
+are  without  elements  ?  Shall  we  conceive  that  in  moving  they 
+do  so  by  making  use  of  their  elements  or  parts  in  such  fash- 
+ion as  may  be  necessary  to  enable  them  to  accomplish  their 
+journeys?  Or  shall  we  deny  to  the  cells  as  such  the  power 
+of  using  their  parts,  but  conceive  that  the  parts  are  the 
+real  seat  of  power — that  in  reality  they  move  the  cells  instead 
+of  being  moved  by  the  cells?  If  we  accept  the  latter  alter- 
+native, as  in  consistency  with  the  elementalist  standpoint  we 
+should  have  to,  we  shall  be  committed  to  either  a  never- 
+ending  though  ever-vanishing  series  of  biological  elements, 
+
+
+The  Animal  Orgamtm  and  its  Germ-Layers          71 
+
+or  to  ultimate  chemical  elements  endowed  with  homing  in- 
+stincts and  the  rest.  Surely  if  either  of  these  sub-alterna- 
+tives be  accepted  the  analysis  which  goes  no  farther  than 
+that  of  ascribing  to  the  sex-cells  power  and  instinct  suffi- 
+cient to  enable  them  to  do  what  they  do,  would  have  gone 
+but  a  short  way  on  its  course  and  ought  not  to  make  any 
+pretence  of  being  a  complete  explanation  of  the  phenomena. 
+On  the  other  hand,  if  we  conceive  that  the  sex-cells  move 
+through  the  agency  of  their  elements  and  are  not  merely 
+moved  by  means  of  these  elements,  why  not  as  well  allow  that 
+the  developing  organism  as  such  may  move  its  cells  to  meet 
+its  needs?  As  a  purely  logical  matter  there  would  be  no 
+more  hesitancy  in  admitting  that  the  organism  moves  its 
+parts  than  in  contending  that  the  cell  moves  its  parts,  for 
+the  difficulty  of  conceiving  how  the  thing  is  done  is  no  greater 
+in  the  one  case  than  in  the  other.  The  only  reason  why  the 
+conception  that  the  cells  migrate  wholly  by  their  own  pow- 
+ers seems  less  vague,  that  is  more  analyzed,  than  the  concep- 
+ion  that  the  cells  are  moved  by  the  growing  organism,  is 
+
+at  in  the  first  case  a  whole  set  of  inevitable  collateral  phe- 
+nomena, that  is  those  pertaining  to  the  parts  'of  the  cells 
+themselves,  is  unconsciously  excluded  from  the  view.  In 
+other  words,  the  satisfaction  felt  by  analysis  of  this  sort 
+is  an  entirely  spurious  and  illegitimate  satisfaction  begot- 
+ten of  the  fact  that  the  analysis  is  false.  It  is  a  process 
+of  searching  for  the  factors  involved  in  the  complex  of 
+phenomena  under  contemplation,  but  ignoring  all  excepting 
+a  few  of  these  factors.  And  this  criticism  of  Weismann's 
+attempt  to  explain  fully  the  migration  of  the  sex-cells  holds 
+or  the  attempt  to  explain  on  elementalist  principles  any 
+iological  phenomena  whatever. 
+
+I  remarked  above  that  as  a  "purely  logical  matter"  there 
+is  no  more  ground  for  refusing  to  believe  the  organism  directs 
+the  movements  of  the  sex-cells  than  for  refusing  to  believe 
+the  cells  direct  their  own  movements.  It  will  not  do  to  let 
+
+
+Ki 
+.    I 
+
+
+72  The  Unity  of  the  Organism 
+
+this  remark  go  even  in  a  tentative  discussion  of  this  vastly 
+important  subject.  If  it  is  merely  a  question  of  equality 
+of  claim  upon  belief  as  between  the  two  conceptions  so  far 
+as  logic  is  concerned,  what  is  to  determine  the  choice?  Why 
+not  accept  the  elemental  as  well  as  the  organismal  way  of 
+interpreting  the  case  if  logically  its  claims  be  equal  to  that 
+of  the  latter?  Because,  I  answer  with  emphasis,  the  observa- 
+tional evidence  is  stronger  in  favor  of  the  organismal  inter- 
+pretation. That  is  the  sole  legitimate  ground  on  which  to 
+rest  the  decision.  Assuming,  as  we  do,  that  Weismann  and 
+Goette  are  equally  competent  and  trustworthy  investigators, 
+and  basing  the  decision  for  the  present  on  their  results  alone, 
+we  are  bound  to  recognize  that  Goette  has  brought  forward 
+much  more  observational  evidence  that  the  migration  of  the 
+sex-cells  is  largely  though  not  wholly  passive  than  Weis- 
+mann has  that  it  is  wholly  active. 
+
+Remarks  on  the  Relation  of  Germ-Cells  to  Germ-Layers  and 
+to  the  Organism  Generally 
+
+Before  taking  leave  of  the  concrete  objects,  germ-layers 
+and  germ-cells,  I  speak  of  one  aspect  of  the  general  results 
+of  our  examination  which  may  escape  the  reader  unless  his 
+attention  is  specially  directed  to  the  matter.  In  all  those 
+animals  in  which  the  sex-cells  do  not  appear  until  the  lay- 
+ered stage  of  the  embryo  is  reached,  and  in  which  these  cells 
+arise  by  a  genuine  transformation  of  cells  of  the  layer,  as 
+they  do  in  hydromedusse,  the  layers  are  germinal  in  a  very 
+fundamental  sense,  for  it  is  in  them  that  the  transformations 
+begin  which  issue  in  the  completed  tissues  and  organs  of  all 
+sorts,  the  sexual  tissues  and  organs  with  the  rest.  Viewed  in 
+this  light  the  germ-layers  have,  on  the  whole,  gained  rather 
+than  lost  in  importance  and  interest,  for  while  we  are  led 
+to  deny  the  rigorous  specificity  to  each  particular  layer  as 
+to  what  may  or  may  not  arise  from  it  that  often  constituted 
+
+
+The  Animnl  Organism  and  it*  (Jcmi-Layers          1% 
+
+a  part  of  the  germ-layer  theory,  it  is  a  great  gain  to  have 
+perceived  clearly  that  it  is  in  the  layered  stage  of  the  in- 
+dividual's life  in  many  species  that  the  next  generation  of 
+individuals  takes  its  rise.  However,  it  does  not  by  any 
+means  follow  that  because  the  sex-cells  are  born,  as  one 
+might  say,  at  this  early  time  in  the  life  of  the  parent,  they 
+are  fully  exempt  from  parental  influence  during  all  the  per- 
+iod intervening  between  the  layered  stage  of  the  parent  and 
+its  stage  of  sexual  maturity,  that  is,  of  final  separation  and 
+extrusion  of  the  sex-cells. 
+
+It  seems  to  me  the  fact  that  the  sex-cells  of  even  some 
+vertebrates  are  found  at  an  early  stage  of  embryonal  life 
+embedded  in  one  or  another  of  the  germ-layers  at  points  far 
+removed  from  where  the-  definitive  germ  glands  will  later  ap- 
+pear, may  signify  .just  such  influence.  In  other  words,  it 
+may  be  the  meaning  of  the  "precocious  segregation,"  as  it  is 
+called,  of  germ-cells  ought  to  be  taken  along  with  their  wide 
+lissemination  in  the  embryo,  and  interpreted  as  speaking 
+tinst  and  not  for  the  fundamental  isolation  of  the  germ- 
+
+The  distribution  of  sex-cells  in  the  early  embryos  of  ver- 
+>rates  has  been  studied  by  several  /oologists,  among  them 
+ing  C.  H.  Kigenmann  and  H.  M.  Allen.  Allen's  investiga- 
+ms  are  specially  important  because  of  their  wide  com- 
+irative  scope.  In  The  Origin  of  the  Sex-Cells  of  Amid  and 
+isteus  he  gives  a  set  of  useful  diagrammatical  com- 
+irative  drawings  showing  the  mod;-  of  origin  of  the  sex- 
+rills  from  the  endoderm  of  a  reptile  ( Cli r/y.vo /////. v),  an  am- 
+phibian (Frog),  and  two  fishes  (Anna  and  Lepidosteus) ,  but 
+reaffirms  in  his  discussion  the  result  that  the  cells  arise  in 
+the  mesoderm  in  the  tailed  amphibians. 
+
+
+74  The  Unity  of  the  Organism 
+
+The  Relation  of  Ideas  and  Observations  as  Exemplified  in 
+the  Discussions  of  This  Chapter 
+
+I  would  have  this  discussion  stand  as  one  example  of  the 
+general  method  of  interpretation  which  underlies  our  whole 
+undertaking:  while  interpretation  of  biological  phenomena 
+is  wholly  impossible  without  ideas,  some  of  which  take  the 
+form  of  hypotheses  and  theories,  equally  true  is  it  that 
+hypothesis  and  theory  are  wholly  dependent  upon  observa- 
+tion for  validity.  To  this  every  biologist  in  whatever  field 
+of  research  and  of  whatever  manner  of  thinking,  would  as- 
+sent. But  I  go  farther  and  assert  that  no  hypothesis  is 
+proved,  nor  can  be  elevated  to  the  rank  of  a  general  theory 
+or  doctrine  until  it  is  brought  into  acdord  with  all  relevant 
+and  fully  verified  observational  knowledge.  To  this  no  ele- 
+mentalist  assents  in  practice  even  though  he  may  in  words. 
+Measured  by  this  standard  our  final  constructive  discussion 
+will  reveal  the  fact  that  such  conceptions  as  those  of  Weis- 
+mann's  germ-plasm  and  DeVries'  pangens  are  not  legitimate 
+scientific  theories  at  all.  They  are  not  because  they  can  be 
+maintained  only  by  positively  refusing  to  admit  as  evidence 
+many  of  the  demonstrable  relevant  observational  facts. 
+
+REFERENCE  INDEX 
+
+1.  McMurrich 79        8.  Goette    63 
+
+2.  Minot     250         9.  Weismann   ('83)    42 
+
+3.  Ritter  ('96)    183       10.  Hargitt     240 
+
+4.  Harmer     514       11.  Goette    63 
+
+5.  Weismann    ('12)    190       12.  Weismann   ('83)    284 
+
+6.  Weismann    ('12)     xiii       13.  Goette     301 
+
+7.  Weismann    ('04)     400 
+
+
+Chapter  IV 
+THE  ORGANISM  AND  ITS  CHEMISTRY 
+
+Standpoint  of  the  Discussion  that  of  the  Evolutionary 
+Naturalist 
+
+PHYSIOLOGISTS  and  biochemists  are  not  forced  into 
+*•  contact  with  questions  of  organic  evolution  to  any  such 
+extent  as  are  botanists  and  zoologists.  Occupied  as  they 
+are  in  any  particular  investigation  with  relatively  restricted 
+aspects  of  one  or  a  few  organisms,  such  matters  as  geogra- 
+phic distribution,  geologic  succession,  abundance  and  variety 
+of  individuals  and  species,  adaptation,  and  so  on,  come  to 
+their  attention  very  little  or  not  at  all.  But  these  are 
+exactly  the  problems  with  which  the  naturalist  is  occupied, 
+and  they  are  at  the  same  time  the  very  building  stones  of 
+the  evolution  theory.  This  difference  in  interests  and  occu- 
+pations doubtless  accounts  for  the  fact  that  the  great 
+evolutionists  of  history  have  lx.«en,  without  exception,  natu- 
+ralists primarily.  The  three  names  that  stand  out  with 
+mountain  like  conspicuousness  among  those  who  in  modern 
+times  have  made  the  idea  of  evolution  a  household  posses- 
+sion, Lamarck,  Darwin,  and  Wallace,  sufficiently  illustrate 
+the  point.  These  men  were  each  botanist  and  zoologist  in 
+almost  equal  degree  and  in  the  strictest  sense.  Their  work 
+began  out  of  doors  with  the  vast  riches  of  living  plants 
+and  animals,  and  the  impetus  from  this  source  dominated  all 
+they  did. 
+
+In  the  highly  subdivided  and  specialized  biological  realm 
+of  to-day,  those  who  are  trained  in  either  botany  or  zoology 
+
+75 
+
+
+76  The   Unity  of  the  Organism 
+
+or  in  both,  are  perforce  the  ones  who  think  most  in  terms 
+of  the  doctrine  of  evolution,  and  whose  undertakings  are 
+most  guided  and  fashioned  by  evolutionary  conceptions : 
+How  and  where  and  under  what  influences  did  these  organ- 
+isms, these  organs  and  tissues  have  their  beginnings  and 
+undergo  development?  So  it  happens  that  when  a  zoologist, 
+for  example,  is  confronted  with  the  vast  array  of  chemical 
+compounds  which  his  co-workers  in  the  chemical  laboratories 
+have  made  known,  he  is  bound  to  extend  to  them  his  usual 
+string  of  queries.  No  matter  how  much  information  he  is 
+given  about  the  molecular  construction,  the  solubility,  the 
+reactions,  the  methods  of  laboratory  production,  of  organic 
+compounds,  he  can  be  in  no  wise  satisfied  until  he  has  been 
+to^I  something  about  their  original  source,  their  way  of  get- 
+ting into  existence,  not  only  in  the  individual  organisms  but 
+also  in  the  race.  Many  physiologists  on  the  other  hand,  and 
+also  it  must  be  confessed,  a  considerable  number  of  modern 
+botanists  and  zoologists,  are  very  little  concerned  with  such 
+questions.  In  fact  it  seems  as  though  the  evolution  doctrine 
+had  not  made  the  slightest  impression  on  many  biologists 
+animated  by  the  chcmico-physiological  spirit,  so  far  as  cjon- 
+cerns  their  attitude  toward  their  special  problems.  These 
+students  appear  to  "take"  the  substances  they  deal  with  as 
+things  without  beginnings,  as  eternally  existent,  or  as  com- 
+ing into  being  "by  free  grace,"  in  some  such  way  as  pre- 
+Darwinian  naturalists  "took"  their  species.  We  had  oc- 
+casion to  refer  at  some  length  to  a  similar  un-evolutionary 
+character  of  elementalist  biology  in  a  preceding  chapter. 
+
+The  question  of  how  far  such  an  attitude  is  due  to  the 
+fact  that  physics  is  preeminently  not  an  evolutionary  science 
+is  one  of  great  interest,  both  practical  and  theoretical.  The 
+very  basal  conception  of  modern  physics,  that  of  Matter  and 
+Energy  as  the  only  real  things  (as  in  the  quotation  from 
+Watson:  ".  .  .  in  the  physical  universe  there  are  only  two 
+classes  of  things ;  to  these  the  names  Matter  and  Energy  are 
+
+
+The  Organism   and  its  Chemistry  77 
+
+given."),  or  at-  least  as  the  most  real  of  all  things  in  nature, 
+seems  to  carry  with  it  an  element  of  hostility  to  evolution, 
+to  tin-  conception  of  origination  by  transformation  and 
+Drouth.  But  this  is  no  place  to  deal  with  the  yast  problems 
+thus  intimated;  sufficient  to  have  mentioned  the  matter  for 
+the  sake  of  a  background  for  the  discussion  now  before  us. 
+Our  standpoint  in  this  chapter  on  the  organism  and  its 
+chemical  .siib.stanci  >  is  to  be  that  of  tin-  evolutionary  natu- 
+ralist. We  are  to  push  our  studies  of  the  structure  and 
+function  (the  morphology  and  physiology)  of  organisms 
+into  chemical  foundations,  and  are  then  to  inquire  concern- 
+ing the  mode  and  place  of  origin  of  the  foundational  sub- 
+stances,  and  also  concerning  the  adaptation  of  those  to  the 
+needs  of  the  organism.  In  other  words,  we  are  to  look  upon 
+the  chemical  elements  and  compounds  entering  into  the  make 
+up  of  organisms  in  the  same  way  that  we  look  upon  the  cells, 
+tissues,  and  organs  which  enter  into  their  composition.  In 
+fidelity  to  the  best  traditions  and  practices  of  natural  his- 
+tory for  the  last  century  at  least,  the  evolutional  and  adap- 
+tational  aspects  of  our  inquiry  will  presuppose  much  careful 
+description,  definition,  comparison  and  classification  of  these 
+substances. 
+
+Touching  the  descriptions  presupposed,  the  following 
+qualifying  considerations  should  always  be  kept  in  mind: 
+The  naturalist  is  entirely  unable  to  "go  behind  the  returns'" 
+of  tin4  chemist  in  estimating  the  accuracy  and  fulness  of  the 
+descriptions.  He  must  accept  what  is  furnished  him  from 
+the  chemical  laboratories,  exercising  no  critical  judgment 
+beyond  that  always  requisite  in  the  choice  of  authorities 
+where  one  is  obliged  to  go  into  fields  not  his  own  for  facts. 
+From  this  consideration  very  little  actual  description  of 
+organic  chemical  substances  will  be  given  in  our  discussion. 
+We  shall  in  general  restrict  ourselves  to  substances  the 
+existence  and  main  attributes  of  which  seem  to  be  no  longer 
+in  quest  ion  among  chemists  themselves. 
+
+
+78  The  Unity  of  the  Organism 
+
+The  second  and  more  fundamental  qualifying  considera- 
+tion is  that,  knowing  as  he  does  something  of  the  methods 
+by  which  the  chemist  gets  at  the  chemical  substances  of  or- 
+ganisms in  order  to  describe  them,  the  naturalist  is  unable 
+to  suppose  the  compounds  and  processes  described  by  his 
+chemical  coworkers  to  be  anything  better  than  more  or  less 
+distant  approaches  to  the  substances  that  actually  exist, 
+and  the  processes  that  actually  go  on  in  the  organism  as  the 
+naturalist  is  primarily  concerned  with  it;  that  is,  as  living 
+normally.  The  naturalist  accepts  not  only  without  hesita- 
+tion but  with  eagerness  and  gratitude  the  chemist's  report 
+on  what  he  is  able  to  get  out  of  the  organism.  That  these 
+reports  come  near  setting  forth  what  the  organism  actually 
+is,  the  naturalist  is  bound  to  recognize  cannot  be  the  case. 
+
+This  reservation  the  naturalist  feels  the  more  justified  in 
+making  by  noticing  that  there  are  physiologists  of  unques- 
+tioned standing  who  hold  views  which  amount  really  to  the 
+same  thing.  Thus  the  distinction  between  living  and  dead 
+albumen  (Eiweiss),  first  sharply  drawn  by  Pfliiger  (Ueber 
+die  physiologische  Verbrennung  in  d>en  lebendigen  Organis- 
+men,  Archiv  fiir  die  gesamten  Physiologic,  Bd.  10,  1875) 
+and  since  recognized  by  other  investigators  hardly  less 
+eminent  is  manifestly  of  the  same  import.  (  Sec,  for  example, 
+Max  Verworn,  p.  596,  Allegemeine  Physiologic,  sechste  Aufl.) 
+
+The  Organism  as  a  Chemical  Laboratory 
+
+Immediately  the  fertilized  egg  begins  to  develop,  chemical 
+substances  are  produced  within  it.  Among  the  higher  ani- 
+mals the  hen's  egg  has  been  the  most  studied  in  this  as  in 
+many  other  aspects.  "Neither  nucleo-proteins  nor  pentoses 
+are  present  in  the  fresh  egg,  and  purine  bases  are  present 
+only  in  very  small  amounts.  The  fact  that  during  develop- 
+ment these  substances  rapidly  increase  in  amount  indicates 
+therefore  that  a  synthesis  of  nucleo-protein  from  the  reserve 
+
+
+The  Organism  and  its  Chemistry  79 
+
+material  of  the  egg  (proteins  and  phosphorizcd  fats)  takes 
+place  during  development."1  This  statement  by  Marshall 
+on  the  authority  of  Kossel  and  of  Mendel  and  Leavenworth, 
+may  be  taken  as  typifying  a  wide  range  of  present-day 
+knowledge  of  the  synthesizing  power  of  the  growing  embryo. 
+Because  of  its  inaccessibility  the  mammalian  ovum  has 
+been  but  little  studied  chemically.  However  from  what  is 
+known  of  the  chemistry  of  the  eggs  and  embryos  of  other 
+animals,  particularly  of  the  chick,  we  are  entirely  warranted 
+in  asserting  that  a  full  grown  man,  for  example,  contains  an 
+enormous  number  of  chemical  substances  which  are  not  pres- 
+ent in  the  egg  from  which  he  developed.  The  chondrin  of 
+cartilage,  the  paraglobulin  of  blood  serum,  the  haemoglobin 
+of  red  blood  corpuscles,  the  myosin  of  striated  muscles,  the 
+various  enzymes  of  the  digestive  glands,  the  neurokeratin 
+and  protagon  of  the  central  nervous  system,  and  innumer- 
+able other  compounds  more  or  less  specific  for  particular 
+organs  and  tissues,  come  into  existence  in  the  course  of 
+development.  And  this  production  of  new  substances  con- 
+tinues, with  many  organisms  at  least,  up  to  the  very  end 
+of  the  developmental  series,  even  to  the  end  of  the  lives  of 
+the  organisms.  This  is  well  illustrated  by  the  more  or  less 
+distinctive  oils,  essences,  acids,  etc.  occurring  in  ripe  fruit. 
+And  few  facts  bring  home  more  forcibly  the  subtlety  and 
+intricacy  of  the  organism  as  a  producer  of  chemical  sub- 
+stances than  do  odors  and  flavors  of  flowers  and  fruits. 
+The  products  of  the  organism's  operations  as  a  manufac- 
+turing chemist  are  seen  to  be  of  two  rather  sharply  dis- 
+tinguishable sorts  when  the  total  chemical  make-up  of  the 
+developed  organism  is  compared  with  the  total  make-up  <of 
+the  germ-cells.  First  there  is  a  considerable  number  of  sub- 
+stances common  to  adult  and  germ.  Thus  both  tail  and 
+head  of  the  spermatozoa  of  various  fishes  were  shown  by 
+the  well  known  researches  of  Miescher  and  Kossel  to  contain 
+lecithin  and  cholestrin,  both  substances  occurring  also  in  a 
+
+
+80  The   Unity  of  the  Organism 
+
+large  number  of  adult  tissues,  as  the  blood,  brain  and  nerves. 
+The  nucleic  acid  of  the  spermatozoa  is  said  by  Cramer  to  be 
+very  similar  to  that  of  the  somatic  cells  and  "probably  iden- 
+tical with  the  nucleic  acid  prepared  from  the  thymus." 
+But  more  interesting  than  the  substances  of  identical  struc- 
+ture which  may  be  extracted  from  both  genii  and  adult  are 
+the  series  of  mixtures  of  phosphorized  fats  more  complex 
+than  lecithin,  which  are  present  in  the  yolk  of  various  eggs, 
+some  portions  of  which  disappear  as  development  progresses, 
+seemingly  being  consumed  as  a  part  of  the  energy  of  develop- 
+ment.3 Other  portions  are  transformed  (?)  substances  of 
+the  same  general  nature  in  the  tissues.4 
+
+So  far  then  as.  concerns  substances  that  are  identical  in 
+germ-cells  and  cells  of  the  mature  organism,  development 
+consists  merely  or  primarily  in  increasing  their  quantity. 
+Such  substances  may  consequently  be  looked  upon  as  an 
+actual  realization  of  the  doctrine  of  preformation  which 
+formerly  played  so  great  a  role  in  speculative  embryology. 
+But  the  number  of  substances  remaining  exactly  the  same 
+from  the  earliest  to  the  latest  stages  of  development  is  very 
+small  in  comparison  with  the  number  wholly  or  partly  new 
+in  the  later  stages.  So  that  from  the  chemical  standpoint 
+development  is  for  the  most  part  strictly  epigenetic ;  that 
+is,  it  is  a  process  not  merely  of  increasing  the  mass,  the 
+quantity,  of  what  previously  existed,  but  as  well  of  coming 
+into  existence  of  new  kinds  of  substance.  It  is  a  qualitative 
+as  well  as  a  quantitative  process.  The  living,  growing  or- 
+ganism is  creative  in  the  strictest  sense  and  that  on  a  vast 
+scale.  "The  lout,"  writes  Oliver  Wendell  Holmes,  "who  lies 
+stretched  on  the  tavern  bench,  with  just  mental  activity 
+enough  to  keep  his  pipe  from  going  out,  is  the  unconscious 
+tenant  of  a  laboratory  where  such  combinations  are  con- 
+stantly being  made  as  never  Wcihler  or  Berthelot  could  put 
+together:  where  such  fabrics  are  woven,  such  colors  dyed, 
+such  a  commerce  carried  on  with  the  elements  and  forces 
+
+
+The  Organism  and  its  Chemistry  81 
+
+of  the  outer  universe,  that  the  industries  of  all  the  factories 
+ami  trading  establishments  in  the  world  are  mere  indolence 
+and  awkwardness  and  unproductiveness  compared  with  the 
+miraculous  activities  of  which  his  la/y  bulk  is  the  unheeding 
+center."  5 
+
+The  scientist  cannot  afford  to  let  the  literary  quality  of 
+this  paragraph  obscure  the  truth  it  expresses.  The  ac- 
+complishments of  organic  chemistry  in  producing  substances 
+in  the  laboratory  which  it  was  formerly  supposed  could  be 
+produced  only  by  the  living  organism,  have  been  so  brilliant 
+as  to  obscure  somewhat  the  significance  of  the  f**ct  that  these 
+artificial  products  are  imitations:  Nature  made  them  before 
+man  did,  and  for  the  ends  they  originally  answered  they  are 
+still  produced  only  as  they  formerly  were,  by  the  organism 
+itself. 
+
+The  fact  that  the  chemist  is  able  to  produce  what  the 
+organism  produces  in  no  way  derogates  from  the  significance 
+of  the  fact  that  the  organism  does  produce  them.  One  can 
+hardly  see  the  import  of  the  point  here  made  until  he  reflects 
+on  the  difference  between  the  chemist's  ability  to  produce 
+in  his  laboratory  compounds  which  are  the  same  as  the  dis- 
+carded end  products  of  the  living  organism's  operations,  or 
+which  can  be  extracted  from  the  dead  body  of  the  organism, 
+d  the  elaboration  of  substances  which  constitute  the  es- 
+ntial  parts  of  the  organism  while  it  is  still  living  and  work- 
+g.  The  problem  ••an  be  put  in  concrete  form  by  noting 
+that  the  chemist  produces  certain  substances  ///  his  labora- 
+tory by  the  actnities  of  his  brain  and  hands,  and  certain 
+other  substances  ///  //./.v  bod  i]  bv  the  activities  of  his  digestive 
+organs,  glands,  muscles,  brain  and  so  on;  and  then  asking 
+how  far  those  produced  by  the  first  means  can  be  the  same 
+as  those  produced  bv  the  second.  Mav  the  operations  of 
+the  first  kind  be  fully  substituted  for  those  of  the  second 
+kind?  May  the  brain  and  the  hands  with  the  appropriate 
+laboratory  apparatus  ever  be  able  to  do  the  actual  work 
+
+
+82  The   Unity  of  the  Organism 
+
+of  the  liver  for  example,  or  the  blood,  or  the  testes  or  the 
+ovary?  The  views  prevailing  to-day  among  physiologists 
+and  biochemists  would  favor  an  affirmative  answer  to  these 
+questions.  In  order  to  maintain  some  show  of  modesty  the 
+contention  would  be  that  while  the  chemist  is  not  yet  able 
+to  make  these  substances,  there  is  no  reason  for  supposing 
+he  will  not  be  later.  At  any  rate,  so  the  view  is,  except  for 
+practical  manipulative  difficulties  the  substitutions  might 
+be  made. 
+
+And  it  should  be  pointed  out  that  thinking  of  the  organ- 
+ism as  a  chemical  laboratory,  as  suggested  above,  is  not  a 
+mere  literary  fancy  somewhat  tinctured  with  science.  By 
+modifying  the  conception  to  the  extent  of  making  cells  and 
+tissues  instead  of  an  individual  man  the  laboratory,  it  has 
+figured  considerably  in  recent  biochemistry.  According  to 
+Bayliss,6  Hofmeister  definitely  formulated  the  idea  in  1901, 
+so  far  as  the  cell  is  concerned,  and  it  "is  rapidly  gaining 
+ground." 
+
+About  the  clearest  statement  of  it  I  have  come  upon  was 
+made  in  1913  by  F.  G.  Hopkins.  This  biochemist  illustrates 
+the  synthesizing  activities  of  the  organism  by  several  spe- 
+cific examples,  the  last  of  which  concerns  nicotinic  acid. 
+When  this  "is  fed  to  animals,  it  is  excreted  as  trigonellin,  a 
+known  vegetable  base.  This  conversion  involves  methyla- 
+tion,  and  is  of  striking  character  as  an  instance  of  the 
+artificially  induced  production  of  a  plant  alkaloid  in  the 
+animal  body."  7  *  At  the  conclusion  of  the  illustrations 
+Hopkins  says:  "The  known  facts  have,  one  feels,  an  aca- 
+demic character  in  the  view  of  the  physiologist  and  even  in 
+that  of  the  pharmacologist,  to  whom  we  owe  most  of  our 
+knowledge  about  them.  But,  in  my  opinion,  the  chemical 
+response  of  the  tissues  to  the  chemical  stimulus  of  foreign 
+
+*  Looking  upon  the  production  here  instanced  as  "artificially  induced" 
+is  worth  noticing,  since  it  clearly  suggests  that  the  conception  of  the 
+organism  as  "chemical  laboratory"  implies  not  only  the  laboratory  but 
+fir-  chemist  who  works  in  it. 
+
+
+The  Organism  and  Its  Cliemistrij  83 
+
+substances  of  simple  constitution  is  of  profound  biological 
+significance.  Apart  from  its  biological  bearings  as  the  sim- 
+plest type  of  immunity  reaction,  it  throws  vivid  light,  and 
+its  further  study  must  throw  fresh  light,  on  the  potentiali- 
+ties of  the  tissue  laboratories."  8 
+
+Different  Organisms  as  Different  Chemical  Laboratories 
+
+But  this  glance  in  the  exclusively  descriptive  way,  at  the 
+chemical  foundations  of  the  organism  in  the  various  stages 
+of  its  life,  in  no  wise  satisfies  the  modern  natural  history 
+standpoint.  As  indicated  in  the  remarks  introductory  to 
+this  chapter,  that  standpoint  is  comparative  as  essentially 
+as  it  is  descriptive.  The  moment  this  methodological  plank 
+in  the  natural  historian's  platform  is  reached,  the  insuffi- 
+ciency is  seen  of  the  conclusion  that  some  individual  organ- 
+isms are  *  manufacturing  chemists  or  even  that  all  are. 
+Taken  thus  the  result  is  altogether  too  general.  The  most 
+cursory  observation  leads  to  the  recognition  that  if  every 
+organism  be  a  producer  of  chemical  substances,  not  all 
+organisms  can  be  producers  of  the  same  substances,  and 
+that  the  extent  and  nature  of  the  diversity  of  products 
+would  be  interesting  and  important  from  both  scientific  and 
+practical  considerations.  Now  the  comparative  method  in 
+/oology  has  its  roots  in  the  every  day  knowledge  that  ani- 
+mals and  plants  are  to  some  extent  different  from  one 
+another.  Applying  this  method  consistently  and  with  suffi- 
+cient rigor  for  the  present  inquiry,  the  problem  formulates 
+itself  as  follows :  How  far  do  the  readily  observable  re- 
+semblances and  differences  between  organisms  reach  down 
+into  their  chemical  make-up?  Does  the  present  state  of 
+advancement  of  biochemistry  warrant  the  supposition  that 
+for  every  well-established  similarity  and  for  every  well-es- 
+tablished difference  between  organisms,  both  as  to  individuals 
+and  species  and  as  to  structure  and  function,  there  is  a 
+corresponding  chemical  similarity  and  difference? 
+
+
+84  The  Unity  of  the  Organism 
+
+(a)  Different  Odors  and  Flavors  of  Annuals  and  Plants  as 
+Distinguishable  by  Man 
+
+The  attempt  to  answer  these  questions  should  be  prefaced 
+by  calling  attention  to  the  fact  that  experience  is  very 
+familiar  with  a  group  of  phenomena  that  bears  directly  on 
+the  problem  even  though  not  much  definite  chemical  knowl- 
+edge of  these  phenomena  has  yet  been  acquired.  I  refer  to 
+the  odors  and  flavors  so  wide-spread  in  the  organic  world. 
+Everybody  knows  that  the  odor  of  the  cow  is  different  from 
+that  of  the  sheep,  and  that  that  of  the  pig  is  different  from 
+both.  Equally  familiar  is  the  fact  that  the  flavor  of  the 
+meat  of  these  three  animals  is  different.  Apples  are  dif- 
+ferent from  pears  in  both  smell  and  taste,  as  are  peaches 
+from  apricots.  No  one  with  normal  senses  of  smell  and 
+taste  would  ever  mistake  potatoes  for  turnips  even  though 
+he  did  not  touch  or  sec  them.  We  might  go  on  indefinitely 
+mentioning  differences  of  this  sort  in  both  the  animal  and 
+plant  worlds.  That  these  differences  have  a  chemical  basis 
+is  certain.  As  is  well  known,  the  odors  of  living  animals  are 
+to  a  large  extent  dependent  upon  the  secretions  of  various 
+glands  of  the  skin,  some  of  these  being  sweat-glands  and 
+others  glands  of  more  specialized  character.  But  the  urine 
+and  feccs  contribute  much  to  animal  odors,  a  large  number 
+of  more  or  less  well  known  chemical  substances  being  im- 
+plicated ;  and  the  flavors  of  meat  are  known  to  be  connected 
+to  some  extent  with  the  bile. 
+
+These  facts  of  common  experience  and  of  fragmentary 
+chemical  experience  lead  naturally  to  more  specific  ques- 
+tions in  two  widely  different  directions.  In  the  first  place 
+we  wish  to  know  how  far  the  odor  differences,  so  sharply 
+characteristic  of  animal  and  plant  groups  widely  separated 
+from  one  another  in  classification,  hold  as  between  groups 
+less  and  less  separated ;  and  second,  we  inquire  whether  the 
+phemical  differences  which  reveal  themselves  by  differences 
+
+
+Tlit-  On/finixm  <uul  its  Che  mis  try  85 
+
+in  smell  and  taste,  are  the  only  or  even  the  chief  chemical 
+differences  between  the  organisms  eoneeriied.  Taking  the 
+first  question  first,  we  may  make-  it  more  specific  by  asking 
+it'  there  is  any  evidence  as  to  whether  or  not  species  of  the 
+same  gi  mis  ;u,(l  varieties  of  the  same  species  are  kn,own 
+to  differ  from  one  another  in  smell,  or  their  flesh  in  taste. 
+
+Special  students  of  mammals  and  birds  seem  to  have  given 
+less  attention  to  odors  as  specific  differences  in  these  classes 
+than  the  subject  deserves.  I  find  little  beyond  incidental 
+reference  to  the  matter  in  the  literature  consulted,  and  Dr. 
+.Joseph  Grinnell,  Director  of  the  Museum  of  Vertebrate 
+Zoology  at  the  lTni versify  of  California,  writes  "I  know  of 
+no  naturalist  who  has  attempted  to  make  a  general  classi- 
+ficatory  study  of  odors."  Answering  my  question  as  to 
+whether  the  different  species  of  skunks  and  petrels  are  dis- 
+tinguishable by  their  odors,  this  experienced  naturalist  tells 
+me  he  cannot  smell  any  difference  between  two  species  of 
+skunk,  a  SpilogaU  and  a  Mephitis,  and  that  the  species  of 
+the  genus  Oceanodroma  (petrels)  produce  an  odor  which, 
+"as  far  as  my  experience  lias  gone,  seems  identical  in  all 
+the  species."  But  Dr.  Grinnell  says  he  can  distinguish  a 
+weasel  from  a  skunk  by  smell,  not  only  in  the  volume  as  one 
+might  say,  but  in  the  quality  of  the  odor.  And  the  two 
+genera  Mustila  and  Mephitis  to  which  these  animals  belong, 
+are  allowed  by  all  mammologists  to  be  rather  close  of  kin. 
+
+As  to  petrels,  Mr.  L.  M.  Loomis,  whose  work  on  the  water 
+birds  of  the  Pacific  Coast  of  North  America  is  widely  and 
+favorably  known,  writes:  "The  strong  musky  odor  of  the 
+petrels  renders  their  discovery  in  the  rock  piles  easy.  It  is 
+only  necessary  to  insert  the  nose  into  likely  crevices  to  find 
+them.  With  little  practice  one  may  become  very  expert 
+in  this  kind  of  hunting,  readily  determining  whether  it  is  an 
+anklet  or  a  petrel  that  has  its  residence  in  any  particular 
+cranny."  The  anklets  and  petrels  are  rather  widely  sep- 
+arated in  the  system  of  classification,  being  assigned  to  dif- 
+
+
+86  The  Unity  of  the  Organism 
+
+ferent  orders.  Nevertheless  their  similarity  in  food  and 
+other  habits  makes  this  difference  in  odor  interesting. 
+
+The  great  variety  not  only  as  to  form  and  secretion  but 
+as  to  position  on  the  body,  of  the  scent  glands  in  the  mam- 
+malia has  an  obvious  bearing  on  the  topic  in  hand.  The 
+abdominal  glands  of  the  shrew-mice,  the  hip  glands  of  the 
+mouse  genus  Microtus;  the  leg  glands  and  foot  glands  and 
+suborbital  glands  of  the  deer  family ;  the  anal  glands  of 
+many  orders;  and  the  almost  universal  presence  of  glands 
+whose  secretions  are  odoriferous  connected  with  the  sexual 
+organs,  may  be  mentioned  as  illustrating  the  wide  distribu- 
+tion of  such  structures  in  the  body.  And  it  is  noteworthy 
+that  these  may  be  present  or  absent  in  closely  allied  forms. 
+Thus  the  Indian  rhinoceros  (Rhinoceros  indicus)  is  said 
+to  have  hoof  glands  while  the  Sumatran  species  (Rh.  Su- 
+matrensis)  has  none.11 
+
+The  well  known  fact  may  also  be  recalled  that  scent 
+glands  are  often  distinctive  of  the  sexes.  The  musk-deer 
+(Moftch'H'S  moschiferus)  affords  a  particularly  striking  il- 
+lustration of  this,  not  merely  as  to  the  production  of  the 
+perfume  which  makes  this  animal  famous,  but  as  to  a  glandu- 
+lar secretion  of  quite  another  sort.  In  the  adult  male  there 
+is  a  naked  area  around  the  root  of  the  tail  which  is,  as 
+Darwin  expresses  it,  "bedewed  with  an  odoriferous  fluid." 
+This  area  is  neither  devoid  of  hair  nor  secretory  in  the 
+female  at  any  time  in  life,  nor  does  it  appear  in  the  male 
+until  he  is  two  years  old.  That  the  musk-gland  of  this 
+species  is  a  strictly  masculine  affair  goes  without  saying 
+when  it  is  recalled  that  it  is  connected  with  the  male  sexual 
+organs. 
+
+Ants  are  particularly  instructive  from  this  as  from  many 
+other  standpoints,  the  sense  of  smell  in  them  being  of  far 
+greater  importance  relatively  to  the  other  senses  than  in 
+the  higher  orders.  This  has  been  established  particularly 
+by  the  admirable  researches  of  Forel  and  Wasmann.  Cor- 
+
+
+The  Organism  and  its  Chemistry  87 
+
+responding  to  the  high  development  of  the  olfactory  sense 
+there  is  a  great  diversity  of  odoriferous  substances  produced 
+by  these  animals.  Something  of  the  extent  of  this  diver- 
+sification is  indicated  by  Wheeler,  the  foremost  student  of 
+ants  in  this  country,  who  remarks:  "Even  the  degenerate 
+human  olfactories  can  detect  the  different  species  and  in 
+some  cases  even  the  different  castes  of  ants  (Eciton)  by  their 
+odors."12 
+
+Among  plants  there  are  many  examples  of  easily  recog- 
+nizable differences  in  smell  and  taste  between  species  of  the 
+same  genus  and  even  between  varieties  of  the  same  species. 
+In  some  species  of  Rims,  for  example  R.  integrifolia,  the 
+ripe  fruit  is  covered  with  a  thick,  white,  pasty  exudate 
+which  is  extremely  sour,  while  the  fruit  of  R.  laurina  has 
+no  trace  of  such  a  product.  Since  these  species  are  both 
+native  of  southern  California  and  often  occur  together,  they 
+furnish  an  impressive  instance  of  difference  in  chemical  ac- 
+tivity of  two  closely  related  plants.  While  referring  to 
+Rhus,  the  familiar  fact  that  some  of  the  species  as  Rhu& 
+lobata  "Poison-oak"  produce  an  exceedingly  active  poison 
+while  others  do  not,  may  be  noted  as  a  case  of  undoubted 
+chemical  difference  between  species  that  are  close  of  kin. 
+And  this  difference  in  the  poison  producing  habit  of  plants 
+is  rather  common  and  found  in  widely  separated  portions  of 
+the  plant  world.  The  cases  of  Rlius  and  Solanum,  some 
+species  of  which  are  poisonous  and  some  are  not,  chosen 
+from  the  higher  plants,  are  paralleled  by  the  genus  Amanita 
+(mushrooms)  among  lower  plants.  According  to  Charles 
+Alcllvaine,  of  the  twenty-seven  species  of  the  genus,  nine  are 
+edible,  nine  are  known  to  be  either  deadly  or  are  so  closely 
+allied  to  deadly  species  that  it  is  unsafe  to  class  them  as 
+other  than  poisonous ;  while  about  the  others  nothing  is 
+known  in  this  regard. 
+
+Some  tests  on  apples  make  it  highly  probable  that  the 
+different  kinds  might  be  distinguished  from  one  another  to 
+
+
+88  The   Unity  of  flic  Oryanism 
+
+a  high  degree  of  nicety,  by  smelling  them.  This  is  the  case 
+with  three  varieties  selected  by  chance  and  known  locally  as 
+"wine-saps,"  "pippins,"  and  "pearmains."  In  attempts  to 
+recognize  them  blindfolded  the  successes  were  considerably 
+more  numerous  than  the  failures.  This  conjecture  is  clearly 
+supported  by  the  familiar  fact  that  some  groups  of  varie- 
+ties, as  for  example  the  russets,  are  less  odoriferous  than 
+other  groups ;  and  that  other  varieties  as  the  "belle  fleur" 
+have  a  highly  characteristic  odor. 
+
+The  suggestion  that  not  only  apples  and  fruits  and  flow- 
+ers are  distinguishable  by  their  odors  to  a  far  greater  ex- 
+tent than  we  are  accustomed  to  suppose,  is  in  keeping  with 
+the  well  known  trade  practices  of  tea-tasting,  wine-tasting, 
+tobacco  sniffing  and  so  on. 
+
+(b)  Differences  in  Animal  Odors  as  Distinguished  by  Animals 
+Themselves 
+
+Even  though  the  little  effort  that  has  been  made  by  na- 
+turalists to  distinguish  species  and  varieties  of  animals  and 
+plants  by  smell  does  not  warrant  the  assertion  that  differ- 
+ences of  this  degree  of  refinement  do  not  exist,  it  yet  would 
+not  be  worth  while  to  speculate  on  the  possibility  of  their 
+existence  had  we  not  evidence  of  their  existence  of  quite  a 
+different  sort  from  that  furnished  by  the  naturalist's  nose. 
+I  refer  to  the  evidence  furnished  by  the  noses  of  the  animals 
+themselves ;  evidence,  in  a  word,  of  the  extent  to  which  ani- 
+mals recognize  one  another  by  smell.  Although  we  have 
+only  a  few  thoroughgoing  researches  in  which  animals  have 
+been  made  to  serve  through  their  sense  of  smell  as  analytical 
+chemists  of  one  another,  the  few  we  have  are  exceedingly 
+interesting.  The  case  of  ants  which  has  received  so  much  at- 
+tention in  recent  years  may  be  brought  forward  first  in 
+illustration  of  the  point.  "The  multiplicity  of  lodors,"  says 
+Forel,  "is  enormous,  and  it  is  possible  to  demonstrate,  as  I 
+
+
+The  Organism  and  its  Chemistry  89 
+
+have  done  for  the  ants,  and  von  Buttel-Reepen  for  the  bees, 
+that  these  animals  in  distinguishing  their  different  nest- 
+mates  and  their  enemies,  betray  nothing  beyond  the  percep- 
+tion of  extremely  delicate  and  numerous  gradations  in  the 
+qualities  of  odors."  13  And  continuing  the  statement  quoted 
+from  above  relative  to  the  odors  of  ants  recognizable  by 
+man,  Wheeler  says,  "but  these  insects  carry  the  discrimina- 
+tion much  further.  They  not  only  differentiate  the  different 
+odors  peculiar  to  species,  sex,  caste,  and  individual,  and  the 
+adventitious  or  'incurred'  odors  of  the  nest  and  environ- 
+ment, but,  according  to  Miss  Ficlde,  they  can  detect  'pro- 
+gressive odors'  due  to  change  of  physiological  condition 
+with  the  age  of  the  individual."12 
+
+Miss  Fielde's  formulation  of  her  hypothesis  referred  to 
+by  Wheeler  is  as  follows:  "1.  The  Specific  Odor— The  moth- 
+er-ant transmits  to  her  offspring  the  distinctive  odor  which 
+is  identical  for  ants  of  all  ages  and  of  both  sexes  within 
+the  species.  2.  Progressive  Odor. — Female  ants,  including 
+queens  and  workers,  have,  beside  their  specific  odor,  an  odor 
+which  may  In-  termed  progressive.  Queens  of  different  lin- 
+eage have  different  progressive  odors.  In  a  queen  this  odor 
+is  either  unchanging  or  changes  very  slowly,  and  it  is  sim- 
+ilar to  that  of  her  newly  hatched  offspring.  As  worker- 
+ants  advance  in  age  their  progressive  odor  intensifies  or 
+changes  to  such  a  degree  that  they  may  be  said  to  attain 
+a  new  odor  every  two  or  three  months."14 
+
+To  Ernest  Seton  is  due  credit  for  the  nearest  approach 
+that  has  been  made  to  a  scientific  application  of  this  method 
+of  discovering  chemical  differences  between  animals  of  the 
+vertebrate  orders.  The  theory  of  what  he  calls  scent- 
+language  is  founded  on  his  studv  of  carnivorous  animals 
+which  limit  by  smell. 
+
+Nor  can  we,  while  on  this  subject  of  odors  as  a  means  by 
+which  individual  animals  of  the  same-  group  distinguish  one 
+another,  neglect  the  case  of  the  human  anima!. 
+
+
+90  The   Unity  of  the  Organism 
+
+The  well  known  fact  that  some  at  least  of  the  races  of 
+mankind  emit  distinctive  odors  may  be  first  alluded  to. 
+
+"The  Lord  He  loves   the  nigger  well, 
+He  knows  His  nigger  by  the  smell," 
+
+is  the  way  the  negroes  of  the  West  Indies  are  said  to  express 
+their  claim  to  distinction  through  this  character.  Anthro- 
+pologists generally  recognize  that  races  are  differentiated  to 
+some  extent  in  this  way.  Thus  Deniker,9  while  not  certain 
+that  the  claims  made  by  such  travelers  as  Erman  and  Hue, 
+can  be  fully  allowed  that  populations  may  be  recognized  by 
+their  odors,  still  affirms  the  constancy  of  difference  between 
+some  races  in  this  regard.  He  accepts  the  statement  that 
+peculiarities  in  the  smell  of  negroes  and  Chinese  cannot  be 
+fully  obliterated  even  "with  most  scrupulous  cleanliness." 
+Nor  has  this  author  neglected  to  note  the  importance  of 
+distinguishing  between  odors  that  are  "sui  generis"  as  he 
+says,  and  those  due  to  odoriferous  foods  or  other  substances 
+with  which  certain  peoples  are  habitually  associated. 
+
+Ludwig  Hopf  asserts,  largely  on  the  authority  of  Jager, 
+that  "some  people  have  the  power  of  differentiating  rela- 
+tively insignificant  odours  of  individuals  as  well  as  family 
+odours,  and  even  the  peculiar  scent  attaching  to  the  inhabi- 
+tants of  the  same  village  (spezifische  dorferriiche)."  10 
+
+The  Naturalist's   Approach  to  Biochemical  Problems 
+
+We  now  pass  to  the  examination  of  the  chemical  nature 
+of  organisms  as  this  has  been  determined  by  chemical  re- 
+searches proper.  The  first  remark  to  be  made  under  this 
+head  must  be  on  the  exceedingly  detached  and  haphazard 
+character  of  the  knowledge  in  this  realm  when  it  is  looked 
+upon  from  the  standpoint  of  the  zoologist  and  the  botanist. 
+I  hasten  to  explain  my  meaning  of  "detached  and  haphaz- 
+ard" and  of  being  "looked  upon  from  the  standpoint  of  the 
+
+
+The  Organism  and  its  Chemistry  91 
+
+zoologist  and  botanist"  for  the  statement  may  sound  dep- 
+reratory  of  biochemistry  and  its  allied  branches. 
+
+As  to  actual  quantity  of  knowledge  and  also  as  to  the 
+complexity  and  rcconditeness  and  exactness  of  much  of  that 
+knowledge,  the  chemistry  of  organisms  is  an  impressive  and 
+admiration-compelling  science  indeed.  When,  however,  the 
+naturalist  plunges  into  the  great  archives  and  monographs 
+and  handbooks  in  which  the  knowledge  is  stored,  that  he 
+may  find  what  there  is  that  will  contribute  to  the  deepening 
+and  broadening  of  his  systematic  information  about  and  in- 
+terpretation of  the  animal  and  plant  worlds,  he  soon  becomes 
+aware  that  this  knowledge  has  not  been  gathered  with  any 
+reference  to  the  initial  and  most  elemental  needs  of  his  en- 
+terprise; that  is,  with  reference  to  the  necessities  of  describ- 
+ing and  classifying  the  natural  objects,  the  animals  and 
+plants  with  which  he  deals.  What  he  finds  is  that  the  in- 
+vestigators who  have  produced  the  knowledge  have  been 
+in  the  main  impelled  by  their  interest  in  certain  fiwctions 
+as  displayed  by  the  most  familiar  anitnulx  and  plants,  man's 
+own  organ-activities  being  by  far  the  most  usual  starting 
+point.  For  example,  some  young  physiologist,  ambitious 
+and  energetic,  becomes  interested  in  a  particular  function, 
+say  the  circulation  of  the  blood  or  muscular  contraction  or 
+digestion,  wins  a  reputation  by  his  studies,  and  being,  as 
+m<»t  investigators  have  ever  been,  a  teacher  in  some  institu- 
+tion of  learning,  draws  assistants  and  students  into  the  re- 
+searches, and  much  new  knowledge,  with  perhaps  a  whole 
+system  of  theoretical  views,  is  developed  concerning  this 
+particular  activity.  And  what  has  been  the  material  on 
+which  the  researches  have  been  prosecuted?  If  blood  and 
+its  physiological  role  stands  at  the  center  of  his  interest, 
+blood  first  and  foremost,  is  what  lie  wants  and  must  have 
+for  his  studies.  What  animal  within  wide  limits  it  comes 
+from  matters  little.  The  very  fact  that  a  fluid  is  found 
+in  many  animals  so  alike  as  to  receive  a  single  name, 
+
+
+92  Tin-   Unit i)  of  ilic 
+
+accepted  without  question  as  applicable  in  all  the  cases,  is 
+a  guarantee  that  it  has  more  in  common  in  all  the  cases 
+than  the  attributes  by  which  it  is  familiarly  recognized.  For 
+instance  the  redness  of  the  fluid  in  all  vertebrates  "makes  it 
+almost  certain  that  with  the  obviously  common  color  there 
+will  be  other  common  attributes  not  obvious  to  ordinary  ob- 
+servation. And  so  it  happens  that  our  physiologist  goes 
+to  the  dog  or  the  ox  or  the  horse  or  the  rabbit,  or  with  a 
+little  more  hesitancy,  to  the  frog  for  his  supply,  these  being 
+as  a  rule  the  most  convenient  sources. 
+
+One  cannot  reflect  too  carefully  on  the  difference  between 
+this  mode  of  approach  to  the  phenomena  of  organisms,  and 
+that  peculiar  to  the  natural  historian.  Consider  a  moment 
+the  difference  as  touching  one  thing,  the  blood,  and  as  be- 
+tween only  two  animals,  the  dog  and  ox  let  us  say.  Notice 
+first  that  whereas  the  physiologist's  primary  interest  would 
+be  satisfied  with  what  he  might  get  from  a  study  of  the  blood 
+of  either  of  these  animals  without  reference  to  the  other, 
+not  so  with  the  naturalist.  Just  blood  is  what  the  physiolo- 
+gist is  concerned  with  in  this  particular  scries  of  researches. 
+Comparison  is  no  essential  part  of  his  enterprise.  All  he 
+does  in  this  way  is  incidental,  is  secondary.  Could  he  get  all 
+the  dog's  bliood  he  needed  to  make  out  all  that  can  be  learned 
+about  that  blood,  he  would  never  concern  himself  as  a  strict 
+physiologist  about  the  blood  of  any  other  animal.  The 
+physiologist  so  far  as  he  holds  himself  to  his  calling,  and 
+accepts  his  calling  as  it  has  delimited  itself  in  modern  times, 
+namely,  as  having  for  its  field  oue  aspect  of  organisms, 
+i.e.,  their  functions,  can  never  consistently  go  outside  of 
+function  except  incidentally — except  for  such  morphological 
+facts  as  are  essentially  related  in  one  way  or  another  to 
+function.  To  the  physiologist  blood  is  blood  no  matter 
+whether  from  a  dog  or  an  ox. 
+
+To  the  zoologist,  on  the  other  hand,  blood  is  never  /just 
+blood.  It  is  always  blood  of  a  dog  or  of  an  ox,  or  of  some 
+
+
+The  Organism  and  its  Chemistry  93 
+
+other  animal,  for  the  animal  as  <ni  animal,  the  dog  as  a 
+(log,  the  ox  as  an  ox,  is  an  avowed  concern  of  his.  So  it 
+comes  about,  as  said  in  a  former  section,  that  the  compara- 
+tive- method  is  fundamental  to  the  naturalist.  From  this  it 
+directly  follows  that  for  him  difference.*  between  organisms 
+are  no  less  basal  than  are  similarities.  As  a  zoologist  in  the 
+strict  sense  lie  is  no  more  concerned  with  the  problem  of 
+wherein  the  bloods  of  the  dog  and  the  ox  are  alike  than  in 
+that  of  wherein  they  are  unlike.  This  is  so  because  the  dog 
+and  the  ox  being  both  animals,  neither  can  be  to  him  of  any 
+more  significance  or  interest  than  the  other,  so  that  which 
+makes  the  dog  a  dog  is  no  more  and  no  less  significant  than 
+that  which  makes  the  ox  an  ox,  and  it  matters  not  at  all 
+whether  the  differentiating  attributes  pertain  to  the  feet 
+or  teeth  or  ears  or  stomach  or  blood.  See  then  what  this 
+implies  as  regards  the  zoologist's  attitude  toward  the  chem- 
+ical makeup  of  the  dog  and  the  ox.  lie  wants  to  know 
+everything  about  the  chemistry  of  the  dog,  and  also  of  the 
+ua\  It  implies  that  the  taxonomi/ing  naturalist  must  be 
+chemical-minded  to  some  extent  and  also  that  the  biochemist 
+must  be  a  taxonomic  naturalist  to  some  extent. 
+
+That  the  comparative  method,  so  fundamental  and  indis- 
+pensable to  the  naturalist,  becomes  no  less  so  to  the  bio- 
+chemist before  his  work  is  done,  finds  no  better  illustration 
+than  in  this  verv  problem  of  the  chemistry  of  the  blood. 
+The  effects  of  the  bloods  of  different  species  of  animals  upon 
+one  another  has  now  become  a  recogni/ed  and  important 
+branch  of  biochemistry.  Hut  here  is  a  point  the  significance 
+of  which  neither  biologists  nor  chemists  appear  to  have  fully 
+gra>ped:  the  discoveries  in  this  field  could  not  have  been 
+made  by  any  other  means  than  those  by  which  they  were 
+made,  that  is,  by  actually  mingling  the  bloods  of  different 
+animals  in  the  living  animals.  Chemical  rfiscorerics  of  great 
+
+/Kirtancr  arc  here  <le/>cnJcnf  absolutely  on  one  of  the 
+naturalist's  most  cherished  methods,  the  comparative,  the 
+
+
+94  The  Unity  of  the  Organism 
+
+chemist  having,  however,  surpassed  the  naturalist  in  the 
+refinement  of  the  method.  This  coming  of  the  chemist  into 
+the  field  of  the  taxonomist  is  of  the  utmost  interest  to  the 
+naturalist,  since  on  the  naturalist's  principle  of  "neglect 
+nothing"  it  is  impossible  for  him  to  be  satisfied  until  he 
+knows  the  chemical  as  well  as  the  anatomical  and  histolo- 
+gical  makeup  of  organisms. 
+
+Not  organic-chemistry  nor  physiologic-  nor  bio-chemistry 
+is  what  he  wants,  but  homonine,  bovine,  canine,  salmonine, 
+quercine  chemistry,  and  so  on.  Surely  nothing  less  than 
+this  will  satisfy  him  and  probably  this  will  not,  for  even  it 
+is  only  generic  chemistry;  it  is  not  species  chemistry,  much 
+less  individual  chemistry,  and  in  all  probability  the  time 
+is  not  far  distant  when  he  will  demand  individual  or  per- 
+sonal chemistry. 
+
+From  the  standpoint  of  chemical  practice  this  demand  is 
+almost  overwhelming.  Take  a  live  dog  or  even  a  live  shark 
+to  the  best  manned  and  best  equipped  chemical  laboratory 
+on  earth  and  seriously  propose  that  a  complete  chemical 
+analysis  be  made,  and  what  sort  of  an  answer  do  you  sup- 
+pose you  would  get?  Still  more  what  will  the  answer  be 
+when  you  go  on  to  say  to  the  director  of  the  laboratory  that 
+the  analysis  of  this  dog  alone  will  not  meet  your  needs,  but 
+that  one  other  animal  at  least  must  be  analyzed  with  equal 
+care  and  completeness  since  your  enterprise  is  as  essentially 
+comparative  as  it  is  descriptive  and  that  really  what  you 
+will  finally  call  for  will  be  an  equally  thorough  analysis  of 
+every  animal. 
+
+These  reflections  lead  straight-away  to  the  inquiry,  first 
+in  a  general  way,  as  to  how  much  may  be  found  in  the  store- 
+houses of  chemical  knowledge  that  is  to  the  naturalist's 
+purpose;  and  second,  as  to  whether  or  not  chemical  re- 
+searches of  the  sort  needed  by  him  have  been  undertaken 
+to  any  extent.  Or  turning  this  into  language  in  which  the 
+naturalist  is  wont  to  express  himself,  how  far  has  biochrni- 
+
+
+The  Organism  find  itx  Chemistry  95 
+
+istry  become  systematic  biochemistry?  How  far  lias  it  un- 
+dertaken to  contribute  to  the  vast  task  of  describing  and 
+classifying  and  interpreting  the  world  of  living  beings?  Or 
+varying  the  form  of  the  question  a  little,  how  far  lias  biotic 
+chemistry  become  biologic  chemistry?  How  far  has  the 
+chemistry  of  organisms  become  biologically  scientific  in  the 
+systematic  sense? 
+
+Some  Biochemical  Results  Viewed  from  tJie  Naturalist's 
+Standpoint 
+
+With  a  stronger  desire  to  indicate  a  naturalist's  apprecia- 
+tion than  to  observe  historical  or  logical  sequences  in  treat- 
+ment, I  speak  first  of  the  most  important  research  which 
+up  to  that  time  had  been  made  in  this  direction.  Reference 
+is  made  to  the  monumental  undertaking  conceived  and  now 
+well  advanced  by  E.  T.  Rcichcrt.  The  title  to  the  install- 
+ment so  far  published  deserves  special  notice :  "The  Differ- 
+entiation and  Specificity  of  Corresponding  Proteins  and 
+other  Vital  Substances  in  relation  to  Biological  Classifica- 
+tion and  Organic  Evolution ;  The  Crystallography  of  Hemo- 
+globins." 
+
+Highly  significant  from  the  standpoint  of  method  no  less 
+than  from  that  of  accomplishment  is  the  fact  that  in  order 
+to  carry  through  this  piece  of  work,  Rcichcrt  was  obliged 
+to  associate  himself  with  a  mineralogist,  and  that  in  his 
+university  colleague,  A.  P.  Brown,  he  found  a  man  both 
+capable  and  willing  to  undertake  the  task. 
+
+(ti)    Rcichcrt  and  Browns  Results  on  Haemoglobin 
+
+The  discussion  will  be  best  served  by  seeing  first  the  main 
+factual  results  of  the  research.  Afterward  Reichert's  mode 
+of  approach  and  interpretation  of  these  results  can  be  con- 
+sidered. Rcichcrt  has  summed  up  in  a  short  paragraph  of 
+
+
+96  The   Unity  of  the  Organism 
+
+the  preface  written  by  himself  alone  what  was  made  out  by 
+the  observations :  "It  has  been  conclusively  shown  not  only 
+that  corresponding  hemoglobins  are  not  identical,  but  also 
+that  their  peculiarities  are  of  positive  generic  specificity, 
+and  even  much  more  sensitive  in  their  differentiations  than 
+the  'zooprecipitin  test.'  Moreover  it  has  been  found  that 
+one  can  with  some  certainty  predict  by  these  peculiarities, 
+without  previous  knowledge  of  the  species  from  which  the 
+hemoglobins  were  derived,  whether  or  not  interbreeding  is 
+probable  or  possible,  and  also  certain  characteristics  of 
+habit,  etc.,  as  will  be  seen  in  the  context.  The  question  of 
+inter-breeding  has,  for  instance,  seemed  perfectly  clear  in 
+the  case  of  Canidae  and  Muridae,  and  no  difficulty  was  ex- 
+perienced in  forecasting  similarities  and  dissimilarities  of 
+habit  in  Sciuridae,  Mwridae,  Felidae,  etc.,  not  because  hemo- 
+globin is  per  se  the  determining  factor,  but  because,  accord- 
+ing to  this  hypothesis  it  serves  as  an  index  (gross  though 
+it  be,  with  our  present  knowledge)  of  those  physico-chemical 
+properties  which  serve  directly  or  indirectly  to  differ- 
+entiate genera,  species,  and  individuals."  15  This  investiga- 
+tion was  extended  to  the  blood  of  more  than  one  hundred 
+species  of  vertebrates  'and  included  representatives  of  all 
+the  classes  of  the  phylum,  though  many  more  mammals 
+than  any  of  the  other  classes  were  studied.  In  several  gen- 
+era, as  C'finifi  and  Felis,  a  number  of  species  and  varieties 
+\M  if  included. 
+
+The  crystallographies  method  was  used  almost  exclusively 
+in  the  investigation.  Concerning  the  value  of  this  method 
+for  recognizing  chemical  similarities  and  differences,  the  au- 
+thors, trusting  partly  to  such  authorities  as  Groth,  rest  on 
+the  view  that  "Differences  of  chemical  constitution  are  ac- 
+companied by  differences  of  physical  structure,  and  the 
+crystallographic  test  of  the  differences  of  chemical  consti- 
+tution is  recognized  as  the  most  delicate  test  of  such  dif- 
+ferences," 1G  In  accordance  with  this  the  dictum,  "Sub- 
+
+
+The  Organism  and  its  Chemistry  97 
+
+stances  that  show  differences  in  crystallographic  structure 
+are  different  chemical  substances"  1T  is  accepted. 
+
+As  far  as  the  conditions  of  the  researches  would  permit, 
+the  crystals  of  oxyhemoglobin  were  made  the  standard  of 
+comparison.  When  several  forms  of  this  are  obtained  from 
+the  same  blood  "each  form,  A-oxyhemoglobin,  B-oxyhemo- 
+globin,  etc.,  appears  always  in  its  own  proper  form  and 
+axial  ratio  when  the  blood  of  different  individuals  of  the 
+same  species  are  examined.  The  same  is  true  of  the 
+other  hemoglobins — metoxyhemoglobin,  reduced  hemoglobin, 
+UK  Hiemoglobin;  so  that  the  hemoglobins  of  any  species  are 
+definite  substances  for  that  species.  But  upon  comparing 
+the  corresponding  substances  in  different  species  of  a  genus 
+it  is  generally  found  that  they  differ  the  one  from  the  other 
+to  a  greater  or  less  degree ;  the  differences  being  such  that 
+when  complete  crystallographic  data  are  available,  the  dif- 
+ferent species  can  be  distinguished  by  these  differences  in 
+their  hemoglobins.  As  these  hemoglobins  crystallize  in  iso- 
+niorphous  series,  tlie  differences  between  the  angles  of  the 
+crystals  of  the  species  of  a  genus  are  not,  as  a  rule,  great; 
+but  they  are  as  great  as  is  usually  found  to  be  the  case 
+with  minerals  or  chemical  salts  that  belong  to  an  isomor- 
+phous  group."  18  In  illustration  we  may  select  the  table 
+for  the  species  of  cats  studied,  this  being  based  on  the  crys- 
+tals of  reduced  hemoglobin.  The  crystals  belong  to  the 
+orthorhombic  system  and  are  optically  positive  for  all  the 
+species,  so  these  items  need  not  appear  in  the  table. 
+
+Angle  of   mii/  Angle  of 
+
+.\tinn    of  XjH'firti           .Li-itil  rn/io             prisms  (normals')  macrodome 
+
+normals 
+
+Felis     leo                        0.9743:1:0.3707                      8830'  4150' 
+
+F.    tigris                         0.9742:1 :0.3S:W                      8830'  43     0' 
+
+I-',    lirnji-Mlmsis              0.9657:1  :0.3<i<»7                      88     0'  4135' 
+
+F.    pardalis                  o.<HS!>:l  :0.393l                    87    0'  45    0' 
+
+I'.    (Idiiiivstic.-.                  0.9(i.5(i:l:0.:W39                       88     O'  4320' 
+
+Lynx    fufus                  <>.<»s<i!):l  :0.3914                     8915'  4246' 
+
+L.    canadensis             0.9605:1:0.3944                    87  42'  41  30* 
+
+
+98  The  Unity  of  th€  Organism 
+
+As  another  example  the  table  for  the  crystals  of  B-oxy- 
+hemoglobin  from  the  baboons  of  the  genus  Papio  is  chosen. 
+These  all  belong  to  the  monoclinic  system  and  all  except 
+those  from  the  Guinea  Baboon  (P.  sphinx)  are  optically 
+positive. 
+
+Prism 
+
+Name    of    species                     Axial    ratio  Angle  B  angle 
+
+Yellow   Baboon    (Papio   babuin)              1.6808 :l:c'  72°  72'  30"  118    30' 
+
+Guinea    Baboon    (P.    sphinx)                   1.8418  :l:c'  70°  123       0' 
+
+Long-armed    Baboon    (P.   Langheldi)    1.655  :l:c'  70°  30'  117     44' 
+
+Chacma     (P.    porcarius)                            1.732   :l:c'  75°  120       0' 
+
+Anubis    (P.   anubis)                                   1.737  :l:c'  72°  30'  120°  11' 
+
+So  far  as  one  with  little  knowledge  of  crystallography 
+may  judge  the  numerous  tables  of  which  these  two  are  sam- 
+ples, the  copious  illustrations  many  of  which  are  from  pho- 
+tographs, and  the  discussions,  seem  to  justify  fully  the 
+generalizations  above  quoted,  with  others  to  which  no  ref- 
+erence has  been  made.  It  would  however  be  quite  wrong  to 
+gain  the  impression  that  the  very  positive  conclusions  as  to 
+the  specificity  of  hemoglobin  crystals  reached  by  these 
+authors  is  in  accord  with  all  researches  that  have  been  made 
+on  the  subject.  Summing  up  their  rather  extensive  re- 
+view of  studies  previous  to  theirs,  the  authors  say :  "Equally 
+expert  observers  working  with  blood  of  the  same  species 
+have  arrived  at  very  different  conclusions  as  to  the  specific- 
+ity or  non^-specificity  of  hemoglobin  crystals  in  relation  to 
+species,  some  claiming  that  the  crystals  are  occasionally 
+specific,  others  that  they  are  always  specific,  and  others  that 
+they  are  not  specific  because  the  same  blood  may  yield  crys- 
+tals of  very  different  forms  and  that  the  differences  are 
+probably  accidental.  Crystals  of  various  colors  and  vary- 
+ing forms  have  been  obtained  from  the  same  blood."  21 
+
+A  highly  significant  thing  that  comes  from  considering 
+the  results  reached  by  those  students  who  have  opposed  the 
+idea  of  specificity  of  hemoglobin  from  different  kinds  of 
+animals,  is  not  that  they  claim  that  all  hemoglobin  crystals 
+
+
+The  Ortjunlam  and  its  Chemistry  99 
+
+arc  alike,  or  even  that  only  a  few  sorts  can  be  demonstrated, 
+but  that  the  great  number  of  kinds  do  not  correspond  in 
+any  definite  way  to  different  kinds  of  animals.  And  here 
+comes  the  particular  point  made'  against  these  views  by 
+Keichert  and  Brown — and  it  is  of  great  importance  gener- 
+ally, and  peculiarly  interesting  to  the  natural  historian. 
+They  show  that  the  reason  why  so  many  previous  observers 
+have  failed  to  find  a  correspondence  between  kinds  of  erv> 
+tals  and  kinds  of  animals,  is  that  the  crystals  have  not  been 
+described  icitli  sufficient  fulness  and  accuracy.  In  a  word 
+the  issue  is,  to  the  naturalist,  the  old  and  familiar  one  of 
+description,  comparison  and  cl-a-xx'tficution.  For  example, 
+the  authors  lay  particular  stress  upon  the  insufficient  atten- 
+tion hitherto  given  to  the  crystal  forms  of  the  different 
+sub-species  of  hemoglobins,  namely,  oxyhemoglobin,  re- 
+duced hemoglobin,  metoxyhemoglobin,  methemoglobin,  etc. 
+Again  they  point  out  the  great  inadequacy  of  earlier  studies 
+in  the  determination!  of  the  axial  relations  and  other  phys- 
+ical attributes  of  the  crystals.  The  upshot  of  their  criti- 
+cism of  previous  studies  as  seen  in  the  light  of  their  own, 
+is  that  when  a  classification  of  hemoglobin  crystals  from 
+the  blood  of  many  kinds  of  animals  is  based  on  sufficiently 
+tli.orou(/h(/oin(/  description,  that  classification  correlates 
+itself  with  the  kinds  of  animals  from  which  the  blood  is 
+taken. 
+
+(b)    The  Prcclnltln   Reaction   llcticccn   Woods   of  Different 
+
+Animals 
+
+If  our  comparative  chemical  knowledge  of  vertebrate 
+blood  were  limited  to  the  results  of  studies  like  this  by 
+Reichert  and  Brown,  the  presumption  in  the  absence  of  very 
+positive  evidence  to  the  contrary,  woulcl  yet  be  strongly 
+in  favor  of  the  hypothesis  that  the  blood  of  each  animal 
+species  is  in  some  of  its  constituents  unique  to  that  species. 
+
+
+100  The   Unity  of  the  Organism 
+
+As  is  now  widely  known,  this  hypothesis  is  supported  by 
+another  great  mass  of  evidence  from  quite  a  different  source, 
+which  though  not  as  directly  chemical  as  that  just  adduced, 
+is  still  so  clearly  so  in  its  implications  that  reference  to  it 
+in  this  chapter  is  undoubtedly  justifiable.  What  is  in  mind 
+are  the  discoveries  of  recent  years  touching1  the  compatibility 
+and  non-compatibility  of  the  blood  of  one  kind  of  animal 
+for  that  of  another  kind;  discoveries  in  other  words,  con- 
+cerning the  so-called  "precipitin  reaction"  as  between  or- 
+ganisms of  different  kinds.  Although  this  subject  has  at- 
+tracted a  good  measure  of  attention,  only  a  portion  of  its 
+more  fundamental  significations  has  been  much  regarded. 
+Its  bearings  on  problems  of  affinity  and  racial  descent,  for 
+example,  have  elicited  their  due  of  interest.  But  its  con- 
+tribution to  light  upon  the  opposite  aspect  of  animal  nature, 
+namely,  that  of  difference  as  well  as  of  likeness  between 
+kinds,  has  not  been  appreciated  in  proportion  to  its  merits. 
+Once  grasp  the  conception  of  each  organic  species,  to  say 
+nothing  of  each  individual,  as  something  genuinely  unique 
+in  the  world  in  certain  of  its  more  obvious  attributes,  as  a 
+scheme  of  organization,  shape,  etc.,  and  then  extend  this 
+down  into  basal  composition  and  process,  so  that  the  organ- 
+ism is  seen  in  its  role  not  merely  of  transformer  and  creator, 
+but  to  some  extent  of  exclusive  transformer  and  creator  of 
+the  elements  of  which  it  is  constructed,  and  these  and  kin- 
+dred discoveries  fall  into  their  right  perspective  of  meaning 
+and  interest. 
+
+The  underlying  general  principle  of  the  precipitin  reac- 
+tion is  that  of  the  production  within  the  organism  of  a  nil- 
+bodies  as  a  result  of  injecting  into  it  certain  foreign  sub- 
+stances which,  when  the  reaction  occurs,  are  known  as  anti- 
+gen*, the  anti-ye-nx  and  anti-bodies  usually  reacting  definitely 
+and  specifically  upon  each  other.  In  one  form  of  this  re- 
+action the  antibody  acting  upon  certain  proteins,  forms  a 
+precipitate,  this  precipitate  carrying  down  both  the  antigen 
+
+
+The  Organism  and  it.s  Ckemigtry  101 
+
+and  the  antibody.  The  point  of  special  significance  for  us 
+now  is  that  the  blood  of  a  given  species  of  animal  has  been 
+found  to  act  as  an  antigen  when  injected  into  the  circula- 
+tion of  another  species,  and  the  extent  of  the  reaction  is  in 
+large  measure  dependent  on  the  degree  of  affinity  between 
+the  animal  species  to  which  the  different  bloods  pertain. 
+
+A  particularly  instructive  case  worked  out  by  Hamburger 
+is  given  by  Arrhenius.  Serum  from  a  rabbit  was  treated 
+with  serum  from  a  sheep,  the  rabbit  serum  being  in  this  way 
+made  to  contain  an  antibody.  The  rabbit  seriim  thus  af- 
+fected was  then  used  for  experimenting  upon  the  serum  of 
+a  normal  sheep,  a  goat  and  an  ox,  with  a  view  to  testing 
+quantitatively  the  action  in  the  three  cases.  The  same 
+quantity  of  rabbit  serum  containing  the  antibody  was  used 
+in  each  case,  as  was  also  the  same  quantity  of  equally  diluted 
+serum  of  the  animals  to  be  tested,  and  the  amount  of  pre- 
+cipitate in  each  case  was  measured.  The  results  given  in 
+terms  of  the  antibody  or  preeipitin,  rather  than  in  that  of 
+the  precipitate  are,  in  Arrhenius'  words,  as  follows:  "On 
+injection  of  sheep-serum  into  rabbit  blood  we  have  obtained 
+an  antiserum  containing  per  centimeter  cube  300  equivalents 
+of  precipitin  against  sheep-serum,  212  equivalents  of  preci- 
+pitin  against  goat-serum,  and  only  90  equivalents  of  pre- 
+cipitin against  bullock-serum."  :  This  result  is  obviously 
+in  agreement  with  the  general  zoological  evidence  that  the 
+goat  and  the  sheep  are  somewhat  closer  of  kin  than  the 
+ox  and  the  sheep  or  the  ox  and  the  goat. 
+
+Another  inference  of  quite  different  import  drawn  from 
+the  experiments  is  not  to  be  missed,  namely,  that  the  dif- 
+ferent amounts  of  precipitation  in  the  three  sera  is  not  due 
+merely  to  a  quantitative  difference  in  the  precipitin  con- 
+tained in  the  rabbit  scrum,  but  that  there  are  really  three 
+precipitins  involved.  This  conclusion,  Arrhenius  points  out, 
+srems  necessitated  by  the  fact  that  a  unit  quantity  (1  c.  c.) 
+of  the  normal  serum  from  each  of  the  three  animals  tested 
+
+
+102  The   Unity  of  the  Organism 
+
+contains    nearly    the    same    number    of    equivalents    of    the 
+precipitate. 
+
+In  his  well  known  work  Blood  Immunity  and  Blood  Re- 
+lationship, G.  Nuttall  has  applied  this  principle  more  widely 
+to  the  animal  kingdom  than  any  one  else. 
+
+(c)  Comparative  Chemistry  of  the  Sperm  of  Different 
+Species   of  Fishes 
+
+Several  biologists  are  impressed  with  the  importance  of 
+knowledge  in  this  field  as  bearing  on  philosophical  natural 
+history.  No  physiologist  has  so  far  as  I  am  aware,  ventured 
+quite  so  far  into  the  realm  of  prophecy  with  reference  to  it 
+as  has  E.  Abderhalden.  He  points  out  the  possibility  of 
+increasing  the  number  of  attributes  now  recognized  as  dis- 
+tinguishing not  only  species  but  individuals  through  a  sys- 
+tematic and  concerted  carrying  out  of  researches  already 
+begun  in  this  field,  and  foresees  the  time  when  biochemistry 
+will  play  a  leading  role  in  problems  of  racial  descent  and 
+taxonomic  affinity.23  The  march  of  research  in  tjie  decade 
+since  Abderhalden  made  these  forecasts,  has  undoubtedly 
+been  toward  a  fulfillment  of  them,  at  least  as  touching  bio- 
+chemical distinctions  between  individuals.  Thus  C.  Todd 
+has  very  recently  given  a  useful  summary  of  what  has  been 
+done  up  to  the  present  hour  on  the  comparative  chemistry 
+of  the  blood  as  revealed  by  the  methods  here  being  consid- 
+ered, and  an  account  of  an  exceedingly  interesting  rcsarch 
+of  his  own. 
+
+The  chemico-zoological  researches  standing  next  in  in- 
+terest and  importance  to  those  on  the  blood  are  the  well 
+known  ones  inaugurated  by  Miescher  and  continued  by  Kos- 
+sel  and  his  students,  on  the  spermato/oa  of  fish.  Miescher 
+discovered  in  the  sperm  of  the  salmon  a  group  of  protein 
+substances  called  by  him  protamines,  which  arc  said  not 
+to  have  been  found  as  yet  elsewhere  than  in  fish  sperm. 
+
+
+The  Organism  and  its  Chemistry  103 
+
+There  has  been  some  question  whether  these  are  true 
+proteids,  but  at  any  rate  they  seem  to  be  relatively  simple 
+and  definite  in  composition  so  that  Kossel  has  regarded 
+them  as  the  foundation  of  the  protein  bodies.  It  has  been 
+possible  to  work  out  probable  empirical  formulae  for  them, 
+and  herein  their  natural  history  significance  comes  strikingly 
+to  view.  The  formula  C32H54Ni8O4  was  assigned  by  Miescher 
+to  the  protamine  of  Salmon  sperm,  the  substance  being 
+proved  to  contain  the  nucleic  acid  radical.  The  comparative 
+studies  of  Kossel  and  his  students  extended  to  the  sperm 
+of  the  herring,  mackerel,  sturgeon,  and  perch,  and  brought 
+out  the  fact  that  while  the  nucleic  acid  part  of  the  molecule 
+is  the  same  for  the  different  genera,  the  basic  part  is  dif- 
+ferent in  each,  so  a  name  is  required  for  the  protamine  de- 
+rived from  each  kind  of  fish.  The  names  salmine,  clupeme, 
+scombrine,  sturine,  cyprinine,  cyclopterine,  etc.,  proposed 
+by  Kossel  have  consequently  come  into  general  use.  These 
+differ  in  formulae.  Thus  Kossel  gives  clupine  as  C3oHC2N14 
+00  and  sturine  as  C3flHfloN1907.  They  also  differ  in  the 
+cleavage  products  yielded,  histidine  for  example,  being  ex- 
+tracted from  sturine  and  from  none  of  the  others,  and  tyr- 
+rosine  from  cyclopterine  exclusively.  All,  on  the  other 
+hand,  yield  arginine  while  lycine  was  found  only  in  sturine 
+and  cyprinine,  and  so  on. 
+
+(</)  Comparative  Chemistry  of  Milk  From  Different  Species 
+
+The  milk  of  several  species  of  mammals  has  been  ex- 
+tensively investigated  mostly  from  physiological  and  dietetic 
+standpoints,  but  the  difference  between  the  milks  of  dif- 
+ferent groups  has  come  out  with  positiveness.  It  seems  that 
+on  the  whole  the  milks  of  carnivorous  species  are  more  alike, 
+and  those  of  herbivorous  species  are  more  alike,  than  those 
+of  either  of  these  categories  are  like  those  of  the  other,  but 
+there  are  not  enough  observations  to  warrant  laying  this 
+
+
+104  The  Unity  of  the  Organism 
+
+down  as  a  law.  As  thorough  a  chemico-zoological  investi- 
+gation of  milk  as  that  made  by  Reichert  and  Brown  of 
+blood,  ought  to  yield  highly  interesting  results,  for  not  only 
+common  knowledge,  but  technical  knowledge  as  well,  obtained 
+in  connection  with  the  dairy  industry  recognizes  that  even 
+as  between  different  breeds  of  cows  the  milk  differs  in  con- 
+stitution. Jersey  cows  for  example,  produce  milk  contain- 
+ing a  larger  proportion  of  butter  fat  than  do  Ayrshires,  and 
+some  at  least  of  these  breed-differences  in  milk  cannot  be 
+explained  on  the  basis  of  differences  in  food  or  other  en- 
+vironmental factors,  powerfully  as  these  do  undoubtedly 
+influence  milk. 
+
+Attention  may  be  called  to  the  extreme  chemical  sensitive- 
+ness of  this  fluid  as  a  registering  instrument.  "Circum- 
+stances tending  to  cause  discomfort  usually  lower  the  pro- 
+portion of  volatile  acids  present  in  the  butter-fat,  but  the 
+variation  in  the  composition  is  very  irregular,  and  appears 
+to  depend  partly  upon  the  nervous  temperament  of  the 
+cow."  24  And  there  is  ample  evidence  that  the  character  of 
+the  milk  of  women  may  be  so  changed  by  nervous  and  mental 
+conditions  as  to  become  unfit  for  the  nursing  babe.25 
+
+(e)    Comparative  Chemistry  of  Digestive  Enzymes 
+
+Another  great  field  of  chemico-zoological  research  has 
+recently  been  opened  up  by  studies  on  the  enzymes  of  diges- 
+tion. The  investigations  of  this  sort  which  we  will  notice 
+have  been  specially  prosecuted  by  the  Swedish  chemist,  S. 
+Hedin.  The  results  are  given  in  outline  by  A.  Hardens 
+and  from  this  the  following  statement  is,  in  the  main, 
+drawn.20  The  problem  concerns  rennet,  the  familiar  milk 
+clotting  substance  produced  in  the  calfs  stomach,  and 
+Hedin's  results  are  not  influenced  so  far  as  I  can  see,  by 
+the  much  debated  question  of  whether  or  not  pepsin  and 
+rennin  are  two  entirely  distinct  bodies.  It  is  shown  that  the 
+
+
+The  Organism  and  its  Chemistry  105 
+
+mother-substance,  the  zymogen,  of  the  clot-inducing  sub- 
+stance is  not  simple  but  is  a  compound  of  the  enzyme  and  an 
+inhibitant  for  that  en/yme.  By  proper  treatment  of  the 
+water  extract  of  rennet  with  dilute  acid,  the  enzyme  is 
+liberated  and  the  inhibitant  destroyed,  while  if  the  treat- 
+ment be  with  dilute  alkali  the  enzyme  is  destroyed  and  the 
+inhibitant  liberated.  Hut  if  the  solutions  containing  the 
+two  opposing  substances  are  mixed,  recombination  takes 
+place  and  the-  resulting  solution  has  the  attribute  of  the 
+original  water  solution  of  rennet,  namely,  that  of  clot-pro- 
+duction to  a  slight  degree  only. 
+
+To  be  specially  noted  is  the  fact  that  the  inhibitant  of  a 
+given  rennet  neutralised  the  enzyme  of  that  same  rennet. 
+Now  comes  the  thing  of  special  importance  from  the  stand- 
+point of  comparative  zoology:  When  solutions  of  both  en- 
+zymes and  inhibitants  are  prepared  from  different  species 
+of  animals  (the  calf,  the  pig,  the  guinea  pig,  and  the  pika, 
+were  used  in  the  e\j>eriments),  it  turns  out  that  the  in- 
+hibitant from  the  rennet  of  one  species  does  not  inhibit  the 
+en/vme  from  the  rennet  of  another  species.  And  so  it  is 
+concluded  that  "both  the  enzyme  and  the  inhibitant  are  dif- 
+ferent for  each  animal,  a  fact  of  great  interest  and  impor- 
+tance," to  repeat  Harden's  words. 
+
+Special  attention  should  be  called  to  the  circumstance  that 
+not  only  is  this  another  method  of  differentiating  species 
+chemically,  but  that  it  is  an  exceedingly  delicate  method. 
+This  is  particularly  seen  in  the  fact  that  the  rennets  of  the 
+species  investigated  were  found  capable  of  clotting  cow's 
+milk  in  spite  of  their  being  different  in  other  respects  as 
+just  shown,  it  being  thus  revealed  that  the  fact  that  rennets 
+from  two  different  animals  may  act  alike  on  cow's  milk, 
+<lo«'s  not  prove  them  to  be  alike  in  all  their  attributes.  No 
+careful  student  of  nature  will  ever  neglect  the  principle 
+involved  in  this.  We  may  take  this  as  an  impressive  re- 
+minder that  the  problems  of  the  dependence  and  the  inde- 
+
+
+The  Until/  of  the  Organism 
+
+pendence  of  characters,  so  much  to  the  front  now  in  con- 
+nection with  the  Mendelian  mode  of  biological  inheritance, 
+extends  down  into  the  chemical  reactions  taking  place  within 
+the  organism. 
+
+(/)   Instances  in  General  Biochemistry   Where  Interesting 
+
+Facts  of  Comparative  Chemistry  are  Incidentally 
+
+Brought  Out 
+
+If  now,  taking  our  cue  from  these  several  distinct  groups 
+of  positive  evidence  of  a  close  correlation  between  attributes 
+hy.  which  the  naturalist  ordinarily  distinguishes  individuals. 
+varieties,  species,  genera,  etc.,  and  chemical  attributes  of 
+these  groups,  we  look  through  biochemical  works  which  have 
+no  natural  history  intent  so  far  as  their  authors  are  con- 
+cerned, with  the  end  in  view  of  seeing  to  what  extent  they 
+nevertheless  contain  incidental  facts  and  statements  which 
+are  in  keeping  with  the  results  of  the  chemico-zoological  re- 
+searches just  considered,  we  find  an  almost  unlimited  number 
+of  records  of  such  import.  We  will  notice  a  few  of  these, 
+selecting  them  mainly  with  reference  to  the  very  wide  range, 
+both  chemical  and  biological,  from  which  they  may  be  drawn. 
+
+One  of  these  works  has  lately  produced  good  experimental 
+reasons  for  believing  that  trypsin  of  the  liver  of  "the  star 
+ti<h"  is  considerably  different  from  that  derived  from  the 
+same  organ  of  the  "large  soft-shelled  California  Clam."  ^ 
+far  as  concerns  the  research  here  referred  to.  what  sp 
+of  starfish  was  used  probably  did  not  matter  much,  but  to 
+the  zoologist  bent  on  pushing  as  far  as  possible  his  knowl- 
+of  the  differences  between  animals,  the  point  is  of 
+genuine  interest  since  the  fragment  of  information  thrown 
+out  might  serve  as  the  starting  place  for  an  important 
+chemieo-zoological  study  of  the  organs  rather  indiscrimin- 
+ately called  liver  occurring  in  many  invertebrates.  But 
+even  this  additional  knowledge,  for  we  have  much  besides, 
+tuxorable  to  the  conception  that  trypsin  can  never  be  looked 
+
+
+The  Orcjfinititn   find  its   Chcnitstrtj  107 
+
+upon  as  just  trypsin,  but  must  be  regarded  as  the  trypsin 
+of  some  particular  species,  or  possibly  variety,  or  even 
+individual. 
+
+A.  P.  Mathcws,  more  regardful  of  the  source  of  his  scien- 
+tific blessings,  that  is,  of  the  material  on  which  he  works, 
+as  well  as  of  other  essentials,  is  explicit  and  informs  us  that 
+the  eggs  of  the  sea-urchin  Arbacea  punctulata,  differ 
+markedly  in  their  physiological  properties  from  those  of 
+the  starfish  Axterias  forbexii.  The  differences  in  "physi- 
+ological properties''  noticed  consist  in  the  greater  stability 
+of  the  sea-urchin  egg  as  manifest  in  its  resistance  to  oxida- 
+tion, low  rate  of  respiration,  and  relative  insensibility  to 
+stimuli  inducing  artificial  parthenogenesis.  These  differences 
+Mat  hews  finds  to  be  correlated  with  the  possession  by  the 
+sea-urchin  egg  of  considerable  quantities  of  the  widespread 
+substance  cholesterol,  and  the  absence  either  wholly  or  in 
+part,  of  that  substance  in  the  starfish  egg. 
+
+The  Coalescence  of  Natural  History  and  Comparative 
+
+Chemistry* 
+
+It  seems  then  from  all  this  that  natural  history  and  bio- 
+chemist ry  are  being  inevitably  drawn  together  by  the  very 
+
+*  Since  this  chapter  was  written  J.  Loeb's  The  Organism  as  a  Whole 
+has  lieiMi  published.  It  is  gratifying  to  find  in  this  book  evidence  that 
+the  author  is  being  carried,  as  it  seems  to  me,  unconsciously  perhaps, 
+toward  the  organi.Miial  and  natural  history  standpoint.  One  piece  of 
+such  evidence  may  be  appropriately  noticed  at  this  point.  It  is  that 
+Loeb  gives  us  a  chapter  with  the  title  The  Cficniirnl  />'</.v/,v  of  Gfeivus  and 
+S/xrit.f.  This  seems  to  show  that  now,  since  specificity  is  coming  down 
+to  a  chemical  basis,  taxonomy  is  assuming  a  reality  and  significance  in 
+this  author's  mind  which  it  did  not  have  formerly.  But  attention  should 
+lie  called  to  the  fact  that  knowledge  of  the  chemical  differentiation  of 
+taxonomic  categories  has  not  made  their  reality  one  whit  more  posi- 
+tive than  it  was  before.  T/K'  clu'inixt  /.s-  follniriiKj  the  iialnrnHst  and 
+ri'fitihif/  /hi'  hiltcr'n  nirl1nnl$  in  i-frlain  parti&tlttfi  Ix-tjund  din/thin;/  he 
+liiin.fi'lf  ix  ciifnililc  of.  "In  certain  particulars,"  I  say,  because  in  certain 
+other  particulars  the  naturalist  is  still  far  in  advance  of  the  chemist. 
+Thus  the  naturalist  knows  beyond  a  trace  of  uncertainty  innumerable 
+"specific  differences"  among  plants  and  animals  which  the  chemist,  as 
+a  chemist,  can  not  yet  so  much  as  touch.  In  fact,  the  lack  of  compre- 
+
+
+108  The  Unity  of  the  Organism 
+
+nature  of  the  subject  matter  with  which  they  are  occupied. 
+Descriptive  zoology  and  botany  are  to  become  chemical  in 
+part,  and  the  chemistry  of  organisms  is  to  become  zoological 
+and  botanical  in  part.  Each  science  is  to  supplement, 
+and  reciprocally  to  be  supplemented  by  the  other  far  more 
+essentially  than  has  hitherto  been  the  case.  In  one  of  its 
+aspects  biochemistry  will  become  a  branch  of  systematic 
+zoology  and  botany,  just  as  biology  in  one  of  its  depart- 
+ments, is  already  a  branch  of  chemistry.  Although  such  a 
+state  of  things  is  -very  far  from  full  realization,  that  the 
+movement  is  in  this  direction  seems  unmistakable.  The  con- 
+ception that  animals  and  plants  as  producers  of  chemical 
+substances,  and  that  each  kind  if  not  each  individual  is  to 
+some  extent  a  producer  of  different  substances  is  receiving 
+new  confirmation  all  the  time. 
+
+When  we  pass  from  the  primary  task  of  identifying  and 
+describing  the  chemical  substances  produced  by  different, 
+animals  and  plants  to  that  of  gaining  an  insight  into  the 
+methods  by  which  these  substances  are  produced ;  when,  in 
+other  words,  we  pass  from  the  problems  of  What  to  those 
+of  How,  the  vast  complexity  and  uniqueness  not  only  of  the 
+chemical  operations  of  organisms  as  distinguished  from 
+non-organisms,  but  as  well  the  uniqueness,  within  limits,  of 
+these  operations  come  even  more  impressively  into  view.  A 
+
+hensiveness  and  of  refinement  in  some  directions  of  the  chemist's  descrip- 
+tions receives  striking  illustration  in  this  very  book  "The  Organism 
+as  a  Whole."  Restricting  his  consideration  of  the  chemical  bases  of 
+species  to  the  evidence  drawn  from  laboratory  experimentation,  Loeb 
+writes:  "Ford  claims  to  have  obtained  proof  that  a  glucoside  contained 
+in  the  poisonous  mushroom  Amantta  phdlloidcs  can  act  as  an  antigen. 
+But  aside  from  this  one  fact  we  know  that  proteins  and  only  proteins 
+can  act  as  antigens  and  arc  therefore  the  bearers  of  the  specificity  of 
+living  organisms."  (p.  OS).  Kxactly  what  is  meant  by  "bearers  of  the 
+specificity  of  organisms"  no  one  knows,  but  if  the  assertion  implies,  as 
+it  seems  to,  that  all  such  differences  are  due  exclusively  to  proteins,  it 
+is  contrary  to  a  vast  array  of  indubitable  facts  of  natural  history.  Dif- 
+ferential odors  and  flavors,  for  example,  as  dwelt  upon  above,  are 
+certainly  not  all,  probably  not  usually,  proteid  in  nature. 
+
+
+The  Organism  and  its  Chemistry  109 
+
+comprehensive  discussion  of  the  problems  of  how  organisms, 
+all  of  them,  from  the  simplest  unicellulars  to  the  most  com- 
+plex mult icellulars,  accomplish  the  chemical  transformations 
+which  they  do  accomplish,  would  require  a  broader  knowl- 
+edge of  chemistry,  both  physico-  and  bio-chemistry  than  I 
+suppose  anv  professional  chemist  would  pretend  to  have. 
+It  would  be,  then,  wholly  presumptuous  for  one  who  like 
+myself  is  exceedingly  mragcrly  possessed  of  first-hand  chem- 
+ical knowledge  even  to  touch  it.  Nor  do  I  intend  to  do  this 
+beyond  the  very  simple  extent  of  trying  to  present  in  schem- 
+ati/ed  fashion  the  various  ways  in  which  organisms  operate 
+chemically,  with  the  special  end  in  view  of  presenting  strik- 
+ingly to  both  naturalists  and  chemists  what  is  in  store 
+for  them  from  the  standpoint  of  research  undertakings  if 
+the  ideas  set  forth  in  this  chapter  are  to  be  realized. 
+
+Provisional   Enumeration    of   Chemico>- naturalist    Inquiries 
+
+A  rough-and-ready  enumeration  and  classification  of  the 
+chemico-transfoi  matory  methods  employed  by  organisms 
+may  be  given  as  follows : 
+
+1.  The  methods   by    which   green    plants   use   the   radiant 
+energy  of  the  sun  in  constructing  their  own  substance,  and 
+doing  it  in  such   fashion  as  to  store  away  the  great  quanti- 
+ties of  this  energy   that    is   characteristic   of   them. 
+
+2.  The  methods  by  which   plants  utilize  water  and  the  in- 
+organic elements  of  the  soil  to  their  needs. 
+
+li.  The  methods  by  which  plants  store  up  organic  sub- 
+stances for  future  needs  in  seeds,  bulbs,  roots,  etc.,  and  make 
+use  of  these  supplies  when  the  proper  time  comes. 
+
+4.  The  methods  by  which  the  organic  foods  of  animals  are 
+reduced   to  a   state  in  which  they  can  be  taken  into  the  cir- 
+culation. 
+
+5.  The  methods  by  which  from  the  foods  thus  reduced  the 
+substances  of  and  in  the  tissue's  characteristic  of  particular 
+
+
+110  The   Unity  of  the  Organism 
+
+species   are   built   up;   the   methods,   that   is,   of  particular 
+as  contrasted  with  general  assimilation. 
+
+6.  The  methods,   oxidative   and   otherwise,   by   which   the 
+force  liberated  in  muscular  and  other  work  is  accomplished; 
+that  is,  the  methods  of  particular  as  contrasted  with  general 
+work  by  organisms. 
+
+7.  The  methods  by  which  the  germinal  elements  of  plants 
+and  animals,  sex-cells,  plant  and  animal  buds,  gemmae,  bulbs, 
+propagative  cambium  cells,  etc.,  become  so  constituted  as  to 
+be  able  to  develop  into  other  individuals  like  those  from  which 
+they  themselves  originated. 
+
+8.  The   methods    by   which    the    chemical   substances   dis- 
+tinctive   of   organic    varieties,    species,    etc.,    are    originally 
+produced,   the   phytogeny,   in   a   word,   of   biochemical   sub- 
+stances. 
+
+9.  The  methods  by  which  acts  of  volition,  memory,  intel- 
+lection, and  emotion  are  accomplished. 
+
+Peculiar  Importance  to  Natural  History  of  the  Application 
+
+of  Physical  CJiemistry  to   the  Chemistry  of  Liiitnj 
+
+Beings 
+
+The  ascertainment  of  details  of  structure  and  process 
+implied  by  this  inventory  obviously  belongs  to  biochemistry 
+alone.  By  himself,  the  naturalist  is  helpless  in  his  longings 
+for  knowledge  in  these  realms.  But  chemistry's  initial 
+answer  to  the  naturalist's  appeal  is  not  very  comforting, 
+for  if  the  particular  chemist  to  whom  the  naturalist  appeals 
+is  broadly  experienced  and  learned,  is  thoroughly  objective- 
+minded,  and  quite  frank,  he  assures  the  naturalist  that  his 
+request  is  for  light  in  one  of  the  darkest  places  in  the  whole 
+realm  of  chemical  phenomena.  Nevertheless,  if  plied  closely, 
+chemistry  is  found  to  have  a  certain  amount  of  positive 
+knowledge  and  certain  well-supported  conceptions  which  in- 
+terest the  naturalist  of  the  organismal  cast  of  mind  very 
+
+
+The  Organism  and  its  Chemistry  111 
+
+much — more,  indeed,  than  they  interest  the  chemist  himself. 
+This  special  interest  of  the  naturalist  in  chemical  facts  and 
+ideas  is  due  to  his  seeing  possibilities  in  them  that  the  chemist 
+sees  but  dimly  if  at  all. 
+
+(a)  Individuation  and  Specuition  of  "Organic  Matter1' 
+Fundamental  Biologic  Facts 
+
+That  some  physiologists  are  not  fully  awake  to  tin-  sig- 
+nificance of  certain  of  their  possessions  is  shown,  I  think,  by 
+the  following  appraisement  of  plant  productions  that  arc 
+used  for  drugs :  "It  is  remarkable  how  great  a  variety  of 
+these  active  substances  are  formed  by  plants.  It  seems 
+evident  that  they  must  be  more  or  less  accidental  products 
+of  chemical  change.  A  very  small  number  would  suffice 
+for  protection  of  the  plant  from  being  consumed  by  animals 
+for  food.  Similar  conclusions  may  be  drawn  from  the  oc- 
+currence of  adrenaline  and  a  substance  related  to  digitalir, 
+in  the  'paratoid'  glands  of  a  tropical  toad,  described  by 
+Abel.  It  is  impossible  to  see  what  use  to  a  toad  a  rise  of 
+blood  pressure  in  the  animal  which  attacks  it  would  be."  -'•' 
+
+The  naturalist  must  object  to  this  view  very  strenuously. 
+In  the  first  place,  he  is  bound  to  point  out  the  unquestioned 
+fact  that  these  substances  are  subject  to  the  law  of  hered- 
+ity, one  of  the  securest  and  most  probably  universal  of  all 
+the  laws  thus  far  established  by  biology.  Hence  to  pro- 
+nounce the  substances  accidental  is  to  commit  what  mav 
+justly  be  characterized  as  a  scientific  misdemeanor.  Such  a 
+pronouncement  is  about  as  unsound  in  the  general  living 
+realm  as  would  be  a  declaration  that  the  musical  talent  is  an 
+"accidental"  product  in  the  human  realm.  The  really  mod- 
+ern naturalist  has  outgrown  the  old  practice  of  putting  aside 
+whatever  he  can  not  explain  as  accidental  or  abnormal. 
+
+Hut  the  naturalist  must  go  on  and  point  out  that  if  the 
+particular  plant  substances  which  have  won  the  attention 
+
+
+112  The   Unity  of  the  Organism 
+
+of  chemists  because  of  their  toxic  or  medicinal  properties 
+may  be  regarded  as  accidental,  then  it  would  follow  that  an 
+incalculably  vast  array  of  the  phenomena  of  the  living  world 
+taken  as  a  whole  would  come  under  the  same  stigmatization. 
+This  would  follow  from  the  fact  that  the  thoughtful  natur- 
+alist is  certain  that  the  criterion  of  accidental  (to  wit,  that 
+of  non-usefulness  from  the  survival-of-the-fittest  standpoint, 
+invoked  by  Bayliss)  is  no  more  applicable  to  these  particu- 
+lar substances  than  to  myriads  of  structures  and  substances 
+and  activities  of  the  most  diverse  sort  presented  by  plants 
+and  animals.  To  illustrate,  probably  a  majority  of  all 
+organic  odors,  and  all  flavors  so  far  as  these  are  differen- 
+tiable  from  odors,  would  have  to  be  cast  into  the  scientific 
+discard  of  accidentals.  In  fact,  I  believe  any  open-minded 
+taxonomist  to-day  will  recognize  that  such  a  criterion  of 
+accidental  would  thus  dispose  of  a  majority,  probably,  of 
+the  attributes  upon  which  he  depends  for  distinguishing 
+species,  varieties,  and  races.  And  this  brings  up  the  ex- 
+ceedingly important  question,  is  not  such  a  physiological 
+conception  as  that  expressed  by  Bayliss  due  largely  to  the 
+influence  of  the  natural  selection  hypothesis,  a  conception 
+which  came  straight  from -natural  history?  Bayliss's  own 
+words  seem  to  constitute  an  affirmative  answer  to  this  query. 
+But  natural  history  is  becoming  convinced  that  while  the 
+numerous  activities  of  organisms  which  Darwin  grouped  to- 
+gether and  named  the  struggle  for  existence  are  of  very 
+great  importance,  they  have  very  little  originative  power 
+in  a  strict  sense.  This  conviction  is  being  forced  upon  nat- 
+ural history  from  two  of  its  main  fields  of  research,  namely 
+from  that  of  taxonomy  and  that  of  genetics.  The  exact 
+taxonomic  studies  of  to-day,  especially  such  of  them  as 
+give  due  attention  to  the  relation  of  the  groups  to  their 
+environment,  are  at  one  with  studies  on  mutation  and  Men- 
+delian  heredity  in  denying  to  adaptation  and  natural  selec- 
+tion the  supreme  role  in  evolution  assumed  by  the  Darwinian, 
+
+
+The  Organism  and  its  Chemistry  113 
+
+and  especially  the  neo-Darwinian  hypothesis. 
+
+Natural  history,  then,  is  able  with  a  strength  peculiarly 
+its  own  to  deny  physiology's  right  to  set  aside  as  accidental 
+myriads  of  biological  phenomena  in  the  interest  of  inorganic 
+hypothesizing  about  organic  beings.  Naturalists  are  in 
+position  to  insist  that  physical  and  chemical  conceptions 
+as  applied  to  organisms  must  be  somehow  so  shaped  that 
+they  will  neither  disregard  nor  minimize  the  importance  of 
+vast  numbers  of  facts  about  the  living  world  which  natural 
+history  from  her  own  peculiar  labors  knows  to  be  facts. 
+
+So  the  naturalist  pushes  his  quest  among  his  biochemical 
+confreres  still  more  closely  and  broadly,  for  his  general 
+scientific  sense  and  faith  lead  him  to  surmise  that  some- 
+where chemistry  has  something  better  than  the  accident 
+hypothesis  for  dealing  with  the  undeniable  difficulties  which 
+the  individual,  varietal,  specific  and  generic  substances  and 
+activities  present.  Physiology  almost  certainly  found  the 
+right  starting  point  or  base  of  operations  for  a  broader, 
+more  adequate  application  of  physics  and  chemistry  to 
+biology  when  it  recognized  (as  indicated  on  a  previous 
+page)  the  fundamental  difference  between  living  and  dead 
+protoplasm.  Once  the  full  significance  of  this  difference 
+is  recognized,  biochemistry  will  be  able  to  go  ahead  in  its 
+service  of  biology — and  of  human  weal  in  general — unham- 
+pered by  hypotheses  that  are  really  narrowing  because  too 
+grasping. 
+
+Let  me  assure  those  biological  readers  whose  scientific 
+thinking  has  been  more  or  less  deranged  by  the  dread  bogy, 
+Vitalism,  that  there  is  not  the  slightest  real  danger  of  run- 
+ning into  Vitalism  in  the  direction  indicated.  There  is  no 
+such  danger  because  what  we  are  here  concerned  with  does 
+not  raise  the  metaphysical  problem  of  a  Vital  Force,  or  for 
+that  matter  of  any  other  "ultimate  force."  The  strictly 
+scientific  problem  before  us  is  in  deepest  essence  of  the  same 
+nature  as  jt  is  in  its  most  obvious,  most  practical  expression, 
+
+
+114  The  Unity  of  the  Organism 
+
+It  is  this :  Arc  a  man  and  a  dead  man,  a  horse  and  a  dead 
+horse,  the  same  thing  or  are  they  different  things?  If  the 
+materialistic  biologist  and  the  vitalistic  biologist  will  answer 
+this  question  with  an  unfaltering  "They  are  different 
+things,"  and  wih1  give  due  attention  to  both  the  objective 
+and  the  subjective  grounds  on  which  the  answer  is  based, 
+they  will  find  that  the  words  materialism  and  vitalism,  to 
+which  they  have  clung  so  tenaciously,  are  emptied  of  any 
+important  significance  as  applied  to  their  doctrines.  Both 
+vitalist  and  materialist  will  then  become  aware  that  the  very 
+nature  of  biochemistry,  its  nature  in  virtue  of  which  it  has 
+a  certain  measure  of  independence,  or  self-sufficiency,  is  a 
+peculiar  revealer  of  both  the  necessity  and  the  method  of 
+application  of  physical  chemistry  to  biology. 
+
+So  I  bring  this  discussion  of  the  organism  and  its  chem- 
+ical substances  to  a  close  with  a  brief  natural-history  state- 
+ment of  the  probable  role  of  physical  chemis-try  in  inter- 
+preting organic  beings.  First  of  all,  we  must  insist  that  the 
+obvious,  the  never-refuted,  the  universal  fact  that  all  living 
+substance  or  protoplasm  is  individualized,  shall  not  be  ig- 
+nored or  cavalierly  tossed  aside.  Nor  can  we  permit  its 
+significance  to  be  obscured  by  sophistical  reasoning — by 
+such  reasoning  as,  for  example,  may  be  indulged  in  from 
+the  discovery  that  certain  organs  and  cells  may  live  for  a 
+long  time  and  carry  on  their  activities  more  or  less  normally, 
+after  being  separated  from  the  organism.  What  these 
+important  observations  prove  is  that  many  living  organs, 
+tissues,  and  cells  have  wonderful  tenacity  of  life,  once  they 
+have  been  brought  into  existence.  From  this  viewpoint 
+the  facts  are  of  great  interest,  but  they  do  not  furnish  a 
+scintilla  of  evidence  that  organic  substance  or  cells  or  or- 
+gans are  independent  of  individual  organisms  in  the  sense 
+of  being  able  to  come  into  existence  independently  of  in- 
+dividual organisms.  Some  physiologists  talk  about  "organic 
+matter"  as  though  it  had  as  little  connection  with  organ- 
+
+
+The  Organism  and  its  Chemistry  115 
+
+isms  as  has  inorganic  matter.  "Living  substance,"  unin- 
+dividuated  in  a  strict  sense,  lias  no  better  standing  in  the 
+world  of  objective  reality  than  have  the  ghosts  and  other 
+apparitions  with  which  the  imagination  of  primitive  men 
+populates  the  world. 
+
+All  the  living  substance  that  has  existed  on  this  earth 
+or  anywhere  else  has  existed  through  and  in  and  because  of 
+individual  living  beings.  That  this  is  a  truism  is  no  reason 
+for  treating  it  as  though  it  were  not  true. 
+
+(b)   Indication*  That   Variation  and  Indwiduation  are 
+Primarily  Chemical,  While  Constancy  and  Uni- 
+formity are  Primarily  Physical 
+
+Fixing  attention,  now,  on  organic  matter  as  the  matter 
+of  individual  organisms,  which  individuals  are  subject  to 
+the  laws  of  variation  and  heredity,  and  remembering  that 
+according  to  these  laws  no  two  individuals  are  exactly  alike, 
+and  that  every  individual  is  derived  from  other  individuals 
+which  it  resembles  because  of  being  thus  derived,  see  how 
+in  their  very  nature  physics  and  chemistry  are  adapted  to 
+the  needs  of  the  natural  historian  in  his  efforts  to  interpret 
+the  "matter"  of  the  organisms  with  which  he  is  occupied. 
+From  being  par  excellence  the  science  of  transformation, 
+of  the  production  of  what  is  absolutely  different  and  abso- 
+lutely new  relative  to  that  from  which  the  products  come, 
+chemistry  seems  to  the  naturalist  to  be  above  all  others 
+the  science  which  ought  to  illuminate  the  variational,  the 
+transformational,  the  production*]  side  of  "organic  sub- 
+stance." On  the  other  hand,  from  being  par  excellence  the 
+science  of  the  general,  the  persistent,  the  non-  and  quasi- 
+transformational  side  of  natural  objects,  physics  appeals 
+to  the  naturalist  as  tin-  science  which  ought  to  bring  light 
+into  the  darkness  that  envelops  the  repetitional,  the  like- 
+begets-like,  the  heredity  side  of  the  same  substance. 
+
+
+116  The   Unity  of  the  Organism 
+
+And  since  physics  and  chemistry  have  fused  together  as 
+regards  many  phenomena  in  their  own  special  fields  to  pro- 
+duce a  single  two-parted  science,  physical  chemistry,  natu- 
+ral history  looks  with  much  hopefulness  to  this  new  science 
+for  light  on  the  "living  matter"  aspect  of  its  problem.  It 
+is  almost  certain  that  the  application  of  physical  chemistry 
+to  the  study  of  organisms  has  actually  made  a  good  start 
+in  the  very  quarter  which,  as  indicated  above,  the  naturalist 
+would  expect  help  from  the  new  science. 
+
+As  regards  the  Cell,  biochemistry,  prosecuted  under  the 
+guidance  of  physical  chemistry,  is  bringing  out  facts  and 
+formulating  conceptions  that  are  unmistakably  organismal, 
+it  seems  to  me,  in  their  trend.  Deferring  to  the  biochem- 
+ist's predilection  for  the  cell  rather  than  for  the  organism, 
+let  us  reflect  on  how  the  problem  of  the  cell  presents  itself 
+to  the  naturalist  in  one  of  its  main  aspects,  that,  namely, 
+of  its  existence  only,  that  is,  its  phenomena  other  than  those 
+connected  with  cell  reproduction  through  division  or  other- 
+wise. The  basal  problem  thus  arising  is :  what  is  the  cell's 
+constitution  in  virtue  of  which  it  is  able  so  to  transform  the 
+matter  and  the  energy  flowing  through  it  as  to  enable  it  to 
+carry  out  the  various  activities,  contraction,  secretion, 
+conduction  of  stimuli  and  so  on,  peculiar  to  it,  and  at  the 
+same  time  maintain  its  identity  as  a  space-occupying  object; 
+that  is,  maintain  its  individuality? 
+
+Place,  now,  alongside  this  formulation  of  the  natural  his- 
+tory problem  of  the  cell's  existence  the  following  summary 
+statement  of  what  the  cell  is  to  a  biochemist  who  sees  physico- 
+chemically:  "But  it  is  clear  that  the  living  cell  as  we  now 
+know  it  is  not  a  mass  of  matter  composed  of  a  congregation 
+of  like  molecules,  but  a  highly  differentiated  system ;  the 
+cell,  in  the  modern  phraseology  of  physical  chemistry,  is 
+a  system  of  co-existing  phases  of  different  constitutions. 
+Corresponding  to  the  difference  in  their  constitution,  dif- 
+ferent chemical  events  may  go  on  contemporaneously  in 
+
+
+The  Organitm  (tinl  it*  CKcuriitry  117 
+
+different  phases,  though  every  change  in  any  phase  affects 
+the  chemical  and  physico-chemical  equilibrium  of  the  whole 
+system.  Among  these  phases  arc  to  be  reckoned  not  only 
+the  differentiated  parts  of  the  bioplasm  strictly  defined  (if 
+we  can  define  it  strictly)  the  macro-  and  micro-nuclei,  nerve 
+fibers,  muscle  fibers,  etc.,  but  the  material  which  supports 
+the  cell  structure,  and  what  have  been  termed  the  meta- 
+plasmic  constituents  of  the  cell.  These  last  comprise  not 
+only  the  fat  droplets,  glycogen,  starch  grains,  aleurone 
+grains,  and  the  like,  but  other  deposits  not  to  be  demon- 
+strated histologically.  They  must  be  held,  too — a  point 
+which  lias  not  been  sufficiently  insisted  upon — to  comprise 
+the  diverse  substances  of  smaller  molecular  weight  and 
+greater  solubility,  which  are  present  in  the  more  fluid  phases 
+of  the  system,  namely,  the  cell  juices.  It  is  important  to  re- 
+member that  changes  in  any  one  of  these  constituent  phases, 
+including  the  metaplastic  phases,  must  affect  the  equilib- 
+rium of  the  whole  cell  system,  and  because  of  this  necessary 
+equilibrium-relation  it  is  difficult  to  say  that  any 
+one  of  the  constituent  phases,  such  as  we  find  permanently 
+present  in  a  living  cell,  even  a  metaplastic  phase,  is  less 
+essential  than  any  other  to  the  'life'  of  the  cell,  at  least 
+when  we  view  it  from  the  point  of  view  of  metabolism." 
+
+Or,  again  notice  this:  "For  the  dynamic  chemical  events 
+which  happen  within  the  cell,  these  colloid  complexes  yield 
+a  special  milieu,  providing,  as  it  were,  special  apparatus,  and 
+an  organized  laboratory." 
+
+Some  of  the  particularly  important  features  of  the  "col- 
+loid complexes"  which  make  them  a  "special  milieu,"  i.e., 
+a  special  environment,  of  so  remarkable  a  character  are: 
+The  commingling  in  them  of  the  solid  and  fluid,  or  "gel" 
+and  "sol"  conditions  of  the  colloids ;  the  "surface  effects"  of 
+colloidal  particles  as  the  free  surface  energy,  the  osmotic 
+pressure,  and  perhaps  the  enzymic  action,  of  such  surfaces; 
+the  so-called  aihorptive  properties  of  solid  colloids,  that  is, 
+
+
+118  The  Unity  of  the  Organism 
+
+the  power  the  substances  have,  dependent  upon  temperature, 
+pressure,  etc.,  to  take  up  varying  quantities  of  different  sub- 
+stances, making  them  thus  highly  selective;  and  the  ready 
+transformation  of  the  substances  back  and  forth  from  the 
+colloid  to  the  crystalloid  conditions  to  meet  the  needs  of 
+the  living  cell.* 
+
+Such  expressions  as  those  quoted  from  Hopkins  (and 
+others  of  similar  purport  could  be  quoted  from  other  au- 
+thors) it  seems  to  me  say  merely  this:  The  physical  (in  con- 
+tradistinction to  the  chemical)  constitution  of  the  living  cell 
+is  such  as  to  enable  it,  as  a  complex  unitary  whole,  to 
+accomplish  the  chemical  transformations  of  substance  and 
+energy  which  it  is  observed  to  accomplish.  By  its  purely 
+physical  properties,  its  spacial  and  energy  magnitudes  and 
+changes,  the  cell  is  primarily  quantitative,  while  by  its  chem- 
+ical properties,  its  transformation  of  substances  and  ener- 
+gies, it  is  primarily  qualitative. 
+
+The  physical  principles  implicated  in  organic  phenomena 
+make  of  the  cell  an  "organized  laboratory,"  in  Hopkins' 
+phrase,  for  bringing  about  "dynamic  chemical  events," 
+events,  that  is,  which  are  qualitatively  transformative. 
+
+So  our  appeal  as  naturalists  to  physical  chemistry  for 
+help  in  interpreting  the  substances  of  which  organisms  are 
+composed  is  carrying  us  toward  some  such  conception  as  to 
+their  individ  nation,  apart  from  which  we  are  obliged  to  con- 
+clude organic  substance  never  exists,  as  that  individuation 
+is  dependent  primarily  on  the  chemical  nature  of  the  sub- 
+stance ;  while  the  continued  existence  of  individuals  and 
+their  genetic  repetition  is  dependent  primarily  on  the  phys- 
+ical nature  of  the  substance. 
+
+This,  I  say,  is  the  direction  in  which  the  evidence  thus 
+far  considered  seems  unmistakably  to  carry  us.  But  we 
+
+*  See  especially  The  General  Physical  Chemistry  of  the  Cells  and 
+Tissues,  hy  VV.  Punli,  in  Physical  Chemistry  in  the  Service  of  Medicine, 
+translated  by  M.  H.  Fischer. 
+
+
+The  Organism  and  its  Chemistry 
+
+
+119 
+
+
+have  not  yet  examined  all  the  relevant  evidence.  For  ex- 
+ample, what  we  have  seen  up  to  now  does  not  go  beyond  the 
+cell  in  individuating  the  living  substance.  So  a  further  stage 
+of  our  discussion  will  have  to  deal  with  the  nature  of  the 
+cell  and  its  place  in  the  organic  scheme. 
+
+
+K  INFERENCE  INDEX 
+
+
+5. 
+
+(i. 
+
+7. 
+
+8. 
+
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+
+
+Marshall     ..............     269  15. 
+
+Marshall     ..............     293  16. 
+
+Tan-le     ............  423;     327  IT. 
+
+(a)   Thierfelder   u.    Stern  18. 
+
+....................  370-385  19. 
+
+(h)   Tangl    u.    Fa  rkas.  .624-638  20. 
+
+(c)   Marshall    .........  267-273  21. 
+
+Brooks     ................     325  22. 
+
+Bayliss     ................       19  23. 
+
+Hopkins     ...............     216  24. 
+
+Hopkins     ...............     217  25. 
+
+Deniker     ...............     109  26. 
+
+Hopf    ..................     240  27. 
+
+Brddard    ...............     254  28. 
+
+Wheeler     ...............     510  29. 
+
+Forel    ..................       46  30. 
+
+Fielde    .  1 
+
+
+Reichert     iv 
+
+Reichert    144 
+
+Reichert    145 
+
+Reichert    326 
+
+Reichert    282 
+
+Reichert    139 
+
+Reichert    138 
+
+Arrhenius    295 
+
+Hertwig,  O.    ('12) 477 
+
+Marshall    566 
+
+Marshall    366 
+
+Hardens 363 
+
+Taylor    343 
+
+MM  thews     465 
+
+Bayliss     727 
+
+Hopkins    220 
+
+
+Chapter  V 
+THE  ORGANISM  AND  ITS  PROTOPLASM 
+
+Protoplasm  and  Mystification 
+
+NOT  many  words  belonging  to  purely  technical  and  de- 
+scriptive botany  and  zoology  have  become  so  much 
+involved  as  has  "protoplasm"  in  obscure  speculation  on  the 
+part  of  biologists  themselves,  and  in  more  or  less  spurious 
+regard  by  both  biologists  and  generally  intelligent  persons. 
+"The  new  Anthony  studies  the  protean  forms  of  life  and  at 
+the  end  is  ravished  by  the  sight  of  protoplasm.  'O  bliss,' 
+he  cries,  and  longs  to  be  transformed  into  every  species  of 
+energy,  'to  be  matter !' ' 
+
+Though  this  is  an  undisguised  bit  of  imaginative  writing, 
+it  undoubtedly  expresses  a  feeling  toward  "the  physical 
+basis  of  life"  that  in  essence  is  no  fiction.  Many,  perhaps 
+most,  educated  persons  know  its  meaning  in  some  degree 
+from  personal  experience.  Whence  this  ravishment?  Justi- 
+fication for  approaching  the  protoplasm  question  from  this 
+direction  is  found  in  the  belief  that  the  validity  of  what  is 
+generally  held  to  be  strictly  scientific  observation  and  gen- 
+eralization is  to  some  extent  at  stake. 
+
+Were  Purkinje,  Dujardin,  von  Mohl,  Cohn,  Schultze,  and 
+the  other  discoverers  of  protoplasm  thrown  into  any  such 
+state  of  mind  by  what  they  saw?  Not  so  far  as  any  one 
+knows.  Yet  I  do  not  for  an  instant  believe  these  observers 
+were  less  sensitive  to  the  deeper  meanings  of  the  phenomena 
+of  organic  beings  than  have  been  other  persons,  scientific 
+and  non-scientific,  who  more  recently  have  been  affected  much 
+
+120 
+
+
+The  Organism  and  its  Protoplasm 
+
+as  St.  Anthony  was,  on  seeing  or  even  hearing  about  proto- 
+plasm. Particularly  may  we  believe  Max  Schultze,  chief 
+among  the  pioneers  in  this  realm,  was  not  thus  defective, 
+for  we  have  explicit  information  that  he  was  an  artist  as 
+well  as  a  scientist,  and  of  a  highly  imaginative,  sensitive 
+nature.1 
+
+
+Responsibility  for  the  Mystification  of  Protoplasm 
+
+Great  as  was  Huxley's  service  in  enlightening  the  rank 
+and  file  of  English-speaking  people  concerning  matters  bio- 
+logical, I  believe  what  he  did  for  protoplasm  in  this  way 
+by  his  renowned  address,  "On  the  Physical  Basis  of  Life," 
+he  did  partly  at  the  cost  of  "making  a  Magic,"  as  Kipling 
+would  say,  of  protoplasm. 
+
+A  soberly  scientific  discussion  of  protoplasm  cannot  pos- 
+sibly ignore  the  fact  that  in  the  light  of  the  extensive  exact 
+knowledge  now  in  our  possession,  at  least  one  excellent  biol- 
+ogist has  believed  that  it  would  be  advantageous  to  give  up 
+the  word  "protoplasm"  altogether,  so  far  as  technical  biol- 
+ogy is  concerned,2  because  at  the  present  time  it  promotes 
+confusion  rather  than  clearness  of  thought.  And  even  those 
+who  do  not  hold  so  extreme  a  view  about  tlu-  value  of  the 
+term,  still  admit  that  "on  many  sides  the  word  is  used  in 
+different  ways."  For  Max  Schult/e,  to  whose  writings  the 
+legitimate  protoplasm  doctrine  probably  owes  more  than  to 
+any  other  one  of  the  pioneers,  the  word  had  connected  with 
+it  a  "quite  definite  conception."  Without  taking  grounds 
+one  way  or  the  other  on  the  question  of  whether  it  is  or 
+is  not  desirable  to  abandon  the  word,  we  will  look  at  what 
+came  to  pass  both  as  concerns  concrete  knowledge  and  in- 
+terpretation of  the  theory  of  protoplasm  between  1861, 
+when  Schult/e  wrote  the  phrase  just  quoted,  and  1912, 
+when  ().  Hertwig  last,  defended  the  right  of  the  term  to  exist 
+even  though  used  in  many  different  senses;  for  by  so  doing 
+
+
+122  The   Unity  of  Hie  Organism 
+
+we  shall  come  upon  that  which,  to  a  large  extent,  has  de- 
+termined the  present  writer's  attitude  toward  protoplasm. 
+
+To  begin  with,  there  can  be  no  doubt  that,  historically 
+considered,  "protoplasm  is  a  biological  conception,"  as  O. 
+Hertwig  insists.4  Furthermore,  *equally  certain  is  it  that 
+when  so  considered  it  is  a  term  of  descriptive  biology  pure 
+and  simple.  The  discoverers  of  protoplasm  were  engaged 
+in  the  enterprise  of  describing  and  comparing  the  minute 
+structure  of  animals  and  plants,  no  less  avowedly  than  the 
+discoverers  of  the  capillaries  of  the  blood  system  were  en- 
+gaged in  the  same  enterprise.  They  were  telling  what  they 
+saw  under  their  microscopes  and  were  drawing  conclusions 
+from  their  observations.  Even  the  titles  of  many  of  the 
+foundational  memoirs  of  the  protoplasm  theory  show  this. 
+
+On  the  plant  side,  Corti  (1772)  was  describing  what  he 
+saw  in  the  interior  of  the  living  twigs  of  Chara;  Meyen 
+(1827)  what  he  could  see  in  the  fresh  leaves  of  water-celery 
+(V allesnaria}  ;  Robert  Brown  (1831)  what  the  living  hairs 
+of  the  still  higher  plant  Tradescantia  revealed  to  him,  and 
+so  on.  Similarly  from  the  account  left  by  Rosel  V.  Rosen- 
+hof  (1755)  of  the  examination  of  his  "Proteus  animalcule" 
+we  know  he  had  an  amoeba  under  his  microscope  and  was 
+studying  it  as  he  had  numerous  other  organisms,  low  and 
+high,  to  find  out  how  it  was  constituted.  It  was  what  seemed 
+to  Dujardin  (1855)  the  resemblance  of  the  soft,  living  mate- 
+rial of  the  foraminifera  examined  by  him,  to  the  flesh  of 
+higher  animals  that  made  him  propose  the  name  sarcode  for 
+this  material.  Finally,  to  mention  no  others  of  the  many 
+whose  observations  contributed  to  the  upbuilding  of  the 
+science  of  microscopic  anatomy,  it  was  Max  Schultze's  exam- 
+ination of  the  minute  structure  of  a  great  range  of  animals 
+and  animal  tissues,  from  amoebae  and  the  foraminiferae  to 
+the  muscles  and  retinas  of  the  higher  vertebrates,  that  fur- 
+nished the  raw  materials  for  his  splendid  inductions. 
+
+If  we  inquire  how  a  strictly  objective  discovery  concern- 
+
+
+Tl\e  Organism  and  its  Protoplasm 
+
+ing  the  structure  of  organic  beings  should  have  become 
+enveloped  in  so  much  sentimental,  half-mystical  interest,  one 
+large  element  in  the  answer  soon  comes  into  view:  it  is  due  to 
+Huxley's  address.  Undoubtedly  what  contributed  most, 
+historically,  to  the  fame  of  this  discourse  was  its  populariza- 
+tion of  the  conception  that  life  has,  in  deepest  reality,  a 
+physical  basis.  Both  its  good  fame  and  bad  fame  have 
+rested  largely  on  this. 
+
+I  want  to  make  it  entirely  clear  that,  important  as  this 
+aspect  of  the  matter  is,  there  is  another  aspect  very  dif- 
+ferent from  this  and  almost  as  important,  with  which  alone 
+we  are  concerned  in  this  section.  I  refer  to  the  conception, 
+not  definitely  expressed  by  the  phrase,  but  obviously  implied 
+in  it  as  used  both  by  Huxley  and  by  nearly  everybody  since, 
+that  "all  life  is  one,"  and  that  tin-  "seat"  of  it  is  the  single 
+wonderful  substance,  protoplasm.  Huxley's  essay  abounds 
+in  sentences  and  phrases  expressive  of  this  notion:  "Beast 
+and  fowl,  reptile  and  fish,  mollusk,  worm  and  polype,  are  all 
+composed  of  structural  units  of  the  same  character,  namely, 
+masses  of  protoplasm  with  a  nucleus."  '  "With  such  qual- 
+ifications as  arise  out  of  the  fast-mentioned  fact  [the  chlo- 
+rophyll function  of  green  plants]  it  may  be  truly  said  that 
+the  acts  of  all  living  things  are  fundamentally  one."6 
+"Hence  it  appears  to  be  a  matter  of  no  great  moment  what 
+animal,  or  what  plant,  I  lay  under  contribution  for  proto- 
+plasm [for  food],  and  the  fact  speaks  volumes  for  the 
+general  identity  of  that  substance  in  all  living  beings."  7 
+
+Conception  of  Animal  Sarcode  and  Plant  ProtopUum    us 
+"Identical   Stuffs" 
+
+Since  Huxley  spoke  (how  far  because  he  spoke  it  is  im- 
+possible to  say  definitely)  this  notion  has  become  a  dogma, 
+having  all  the  object ionableness  of  all  dogma  in  science. 
+"Subsequently,  Max  Schultze  and  de  Bary  proved,  after 
+
+
+The   Unity  of  the  Organism 
+
+most  careful  investigation,  that  the  protoplasm  and  the 
+sarcode  of  the  lowest  organisms  are  identical"  l  "However, 
+Max  Schultze  in  particular  .  .  .  produced  incontrovertible 
+evidence  that  the  protoplasm  of  plants  and  animals  and  the 
+sarcode  of  the  lowest  organisms  are  identical  stuffs."  °  "As 
+the  culmination  of  a  long  period  of  work,  Max  Schultze,  in 
+1861,  placed  the  conception  of  the  identity  between  animal 
+sarcode  and  vegetable  protoplasm  upon  an  unassailable 
+basis,  and  therefore  he  hW  received  the  title  of  'the  father 
+of  biology.'  "  l  "Protoplasm,  the  physical  basis  of  life, 
+the  living  part  of  every  living  being,  and  essentially  the 
+same  in  its  general  properties  and  functions  in  all.  .  .  ." 
+
+These  quotations,  picked  up  at  random,  will  perhaps  suf- 
+fice to  illustrate  the  wide  prevalence  of  the  view.  But  though 
+widely  held,  acquiescence  to  it  is  by  no  means  universal  and 
+whole-hearted,  judging  from  a  considerable  number  of  ex- 
+pressions that  might  be  cited. 
+
+This  not  being  the  place  to  present  in  detail  the  facts  and 
+arguments  which  make  the  conception  of  the  absolute  iden- 
+tity of  all  protoplasm  untenable,  I  shall  do  no  more  than 
+put  this  question  to  those  biologists  who  subscribe  to  the 
+creed :  In  the  light  of  what  we  now  know  about  the  reactions 
+of  the  blood  of  animals  of  different  genera  and  even  species 
+to  one  another,  and  about  the  chemical  composition  of  the 
+nitrogen-containing  substances  of  tissues  and  elements  in 
+different  groups  of  organisms,  if  the  protoplasm  of  a  dog, 
+say,  could  be  wholly  removed,  and  that  of  a  fish  or  even  a 
+tree  could  be  substituted,  would  the  dog  continue  to  be  the 
+same  dog,  and  none  the  worse  for  the  change?  No  biologist 
+untrammeled  by  speculative  considerations  will  hesitate  to 
+answer  this  negatively,  unless,  indeed,  it  seems  too  ridiculous 
+a  question  to  deserve  serious  treatment.  Yet  if  the  "con- 
+ception of  the  identity  between  animal  sarcode  and  vegetable 
+protoplasm"  is  warranted  by  what  nature  actually  presents 
+to  us,  the  answer  would  certainly  have  to  be  diametrically 
+
+
+The  Organism  and  its  Protoplasm  125 
+
+the  opposite;  that  is,  it  would  have  to  be  to  the  effect  that 
+a  dog  would  be  strictly  himself  and  as  well  off  with  a  tree's 
+protoplasm  as  with  his  own  sarcode. 
+
+But  the  particular  point  I  want  to  bring  out  is  that,  tak- 
+ing the  utterances  of  not  merely  the  father  but  the  fathers 
+of  modern  biology  at  their  inaturest  and  best,  one  finds 
+that  not  only  did  they  not  teach  the  identity  of  protoplasm 
+in  all  living  beings,  but  that  what  they  did  teach  was  some- 
+thing very  different.  Ferdinand  Colin,  for  example,  said  of 
+the  protoplasm  which  he  saw  escaping  through  the  cell-wall 
+of  the  alga  studied  by  him,  "if  not  identical"  with  animal 
+sarcode,  it  "must  be  at  any  rate  in  the  highest  degree  anal- 
+ogous*' to  it.  u 
+
+Mitx  Schidtze's   Actual   Teacluuyx    ax    to   Protoplasm   and 
+
+Sarcode 
+
+In  1861,  after  a  great  many  trustworthy  observations 
+had  been  made  in  widelv  separated  portions  of  the  organic 
+realm,  of  substances  so  closely  resembling  one  another,  came 
+Max  Schult/c  with  the  essay  which  gained  for  him  the  widely 
+recognized  title  k4the  father  of  modern  biology."  Kxactly 
+what  did  Schult/c  aim  at  in  this  essay?  He  was  primarily 
+concerned  with  the  nature  of  the  cell  and  not  of  the  proto- 
+plasm. The  title  chosen  indicates  this  definitely  enough: 
+"Concerning  muscle  corpuscles  and  that  which  has  been 
+named  a  Cell."  What  he  undertook  was  to  dispose  of  the 
+then  prevalent  doctrine  that  the  cell-wall  is  the  most  essen- 
+tial part  of  the  cell,  by  proving  that  the  body  itself,  not 
+the  skin  or  membrane  of  the  cell,  is  the  really  important 
+thing;  and  partly  by  showing  that  even  in  cells  having  a  dis- 
+tinct membrane,  what  is  contained  within  it  is  similar  to  the 
+bodies  of  non-membranous  cells  and  is  the  really  active, 
+living  part  of  the  cell.  His  definition,  "A  cell  is  a  little  mass 
+of  protoplasm  in  the  interior  of  which  lies  a  nucleus"  L2  epit- 
+
+
+126  The  Unity  of  the  Organism 
+
+omizes  his  results  so  far  as  concerns  his  understanding  of 
+the  nature  of  the  cell.  But  while  Schultze's  central  aim  in 
+his  essay  was  clearly  to  answer  his  own  question,  "Was  is 
+das  Wichtigste  an  einer  Zelle?"  the  nature  of  that  which  is 
+the  "Wichtigste"  concerned  him  greatly  although  seconda- 
+rily; and  for  the  topic  now  occupying  us,  the  author's  con- 
+clusions under  this  head  are  of  the  utmost  interest. 
+
+(a)   Cell  Nucleus  Distinct  from  Protoplasm  But  Both 
+Nucleus  and  Protoplasm  Essential  to  Life  of  Cell 
+
+In  the  first  place,  it  cannot  be  too  strongly  emphasized 
+that  Schultze  did  not  consider  the  cell  nucleus  to  be  proto- 
+plasm in  any  sense:  "To  the  conception  of  a  cell  there  be- 
+long two  kinds  [of  things]  a  nucleus  and  protoplasm,  and 
+both  must  be  division  products  of  corresponding  parts  of 
+another  cell.  Both  constituents  are  equally  important.  A 
+disappearance  of  one,  like  that  of  the  other,  destroys  the 
+conception  of  the  cell."  1S 
+
+This  unqualified  recognition  of  nucleus  and  protoplasm  as 
+"equally  important"  appears  over  and  over  again  in  the 
+essay,  so  even  from  this  point  of  view  it  is  obvious  that 
+Schultze  could  not  have  subscribed  to  the  conception  that 
+"protoplasm  is  the  physical  basis  of  life."  For  him  proto- 
+plasm could  be  no  more  this  basis  than  the  nucleus,  and  the 
+nucleus  was  not  protoplasm.  The  expression  which  comes 
+nearer  than  anything  else  in  the  essay  to  the  Huxleyan 
+notion  reads:  "The  cell  leads  an  exclusive  (abgeschlossenes) 
+life,  as  one  may  say,  the  bearer  of  which  is  again  preem- 
+inently the  protoplasm,  but  there  falls  to  the  nucleus  also 
+a  role  at  least  as  significant  although  as  yet  not  more  defi- 
+nitely specifiable." 
+
+This  seeming  ascription  to  the  protoplasm  of  the  place 
+of  first  importance  in  the  life  of  the  cell  in  no  way  contra- 
+dicts the  conception  of  correlative  essentiality  of  the  nucleus. 
+
+
+The  On/tiHixni  <in<l  its  Protoplasm 
+
+But  the  most  vital  point  at  which  the  teachings  of  the 
+essay  are  contravened  b\  the  dogma  that  protoplasm  is  the 
+physical  basis  of  life;  that  is,  that  "all  life  is  one"  and  that 
+its  basis,  protoplasm,  is  "essentially  identical"  in  all  living 
+beings,  involves  quite  another  matter  than  that  of  the  rela- 
+tion between  nucleus  and  protoplasm.  That  what  Schultze 
+actually  says  comes  far  from  implying  such  identity  I  shall 
+now  point  out.  The  crucial  part  of  his  discussion  of  the 
+relation  between  plant  protoplasm  and  animal  sarcode  is 
+introduced  by  a  brief  reference  to  his  studies,  previously 
+published,  on  rhi/opods.  This  reference  he  thinks  important 
+as  a  starting  point  for  the  comparison,  in  that  the  rhizo- 
+pods  furnish  a  solution  to  the  "question  of  what  in  reality 
+the  unformed  contractile  substance  of  the  Protozoa  is." 
+He  remarks  that  Sarcode,  brought  into  prominence  by  Du- 
+jardin,  had  become  discredited  because  given  too  wide  and 
+indefinite  an  application.  The  term  as  used  by  Dujardin 
+was  intended  to  apply  to  a  "contractile  substance  which 
+can  not  be  resolved  into  cells*  and  which  does  not  contain 
+other  contractile  form-elements,  as  fibers  and  so  on."  1D  But, 
+Schult/e  contends,  a  substance  of  this  sort  is  exactly  what 
+we  find  the  protoplasm  of  cells  to  be,  and  supports  his  con- 
+tention by  instancing  the  contents  of  many  plant  and  animal 
+cells,  especially  where,  as  in  the  cells  of  the  hairs  of  Trades- 
+cfuitia,  protoplasmic  movements  within  the  cell  can  be  wit- 
+nessed. Concerning  the  substance  of  these  cells,  he  says 
+there  can  hardly  be  a  doubt  that  "we  have  to  do  here  with 
+a  contractile  substance  in  the  same  sense  as  it  constitutes 
+the  body  of  many  rhi/opods."  Since,  then,  Schultze  rea- 
+sons, the  term  Sarcode  was  employed  originally  to  designate 
+a  substance  which  is  now  brought  into  the  same  category  as 
+Protoplasm,  "Sarcode"  should  be  dropped. 
+
+
+128  The   Unity  of  the  Organism 
+
+(b)    Recognized  Common  Attributes  But  Not  Identity  of 
+Protoplasm  in  All  Organisms 
+
+It  is  clear  that  Schultze's  central  purpose  was  to  com- 
+pare the  contents  of  cells  from  widely  different  organisms 
+for  the  purpose  of  showing  that  as  concerns  some  attributes 
+of  these  contents,  that  of  contractility  being  foremost,  the 
+substances  agree  with  one  another.  We  shall  do  well  to  be 
+attentive  to  the  language  in  which  this  is  expressed.  As 
+to  the  protoplasmic  movements  within  the  hairs  of  Trades- 
+cantia  and  in  the  bodies  of  many  rhizopods  there  can  be  no 
+doubt  that  we  have  to  do  with  "contractile  substance"  "in 
+the  same  sense."  For  the  point  I  wish  to  make  I  transfer 
+the  emphasis  from  where  the  author  placed  it,  namely  on 
+"contractile  substance,"  to  "in  the  same  sense."  To  affirm 
+or  even  to  imply  (neither  of  which  the  author's  words  do) 
+that  the  substances  of  two  or  more  cells  are  the  same  in  so 
+far  as  they  are  contractile,  is  very  different  from  saying 
+that  the  substances  are  the  "same"  or  "identical."  And  look 
+closely  at  another  sentence:  "The  proofs  for  the  relation- 
+ship of  both  substances  have  only  multiplied  by  my  own  ob- 
+servations directed  at  this  point."  Note  that  a  relation 
+between  at  least  two  substances,  not  a  single  substance,  nor 
+yet  two  substances  which  are  identical,,  is  here  talked  about. 
+
+That  there  are  other  attributes  than  that  of  contractility 
+in  which  these  substances  agree  is  made  sufficiently  clear,  and 
+it  is  on  these  attributes-in-common  that  the  author  bases 
+his  proposal  to  attach  to  the  word  "protoplasm"  an  "en- 
+tirely definite  conception,"  and  have  it  displace  the  word 
+"sarcode,"  to  which,  he  says,  no  such  conception  has  been 
+attached.  But  that  the  attributes-in-common  possessed  by 
+the  protoplasm  of  different  organisms  comprehend  all  the 
+attributes  of  protoplasm,  Schultze  neither  says  nor  implies. 
+On  the  contrary,  several  facts  and  arguments  on  which  he 
+lays  no  little  emphasis  ought,  I  believe,  to  be  interpreted  as 
+
+
+The  Organism  and  its  Protoplasm  129 
+
+meaning  that  he  conceived  protoplasm  to  be  essentially  dif- 
+ferent in  different  organisms  as  concerns  some  of  its  at- 
+tributes. For  example,  after  speaking  of  the  differences 
+he  had  observed  in  two  species  of  rhizopods  of  the  same 
+genus,  Gromia  ovtfornm  and  (j.  Dujardinia,  he  says,  "I 
+bring  this  forward  only  in  order  to  point  out  in  indubitable 
+cases  of  naked  protoplasm  differences  again  in  movement, 
+consistency,  and  tendency  to  fuse  with  like  substances  with 
+which  it  conies  into  contact,  upon  which  differences  we  come 
+again  in  the  naked  cells  of  the  tissues  of  higher  animals." 
+The  immediate  point  Schultze  was  aiming  to  establish  here 
+was  the  individuality,  in  the  sense  of  preservation  of  iden- 
+tity, of  the  protoplasmic  mass  which  he  was  contending  to  be 
+the  essential  thing  in  the  cell,  without  the  presence  of  a 
+membrane  or  any  sort  of  limiting  outer  layer  to  insure  that 
+individuality;  so  it  is  only  secondarily  that  his  argument 
+touches  upon  the  attributes  of  differentiation  of  the  proto- 
+plasm itself  as  between  different  cells.  Nevertheless  his  in- 
+sistence in  several  connections  on  the  differences,  particu- 
+larly in  consistency  and  resistance  of  the  protoplasm,  surely 
+bears  strongly  in  this  direction.  I  believe,  then,  enough  has 
+been  said  to  show  that  the  conception  of  protoplasm  held 
+by  the  "father  of  modern  biology"  gives  no  warrant  for  the 
+Huxlevan  and  more  recent  conception  of  the  essential  iden- 
+tity of  the  protoplasm  in  all  organic  beings. 
+
+Ernst  Brilckc's  Conception  of  the  CeU  as  a/n  Organism 
+
+Another  essay  recognized  as  constituting  part  of  the 
+classical  literature  of  modern  biology  is  Ernst  Brucke's 
+"Die  Elementarorganismen."  This  essay  is  likewise  particu- 
+larly important  for  our  enterprise,  though  in  a  considerably 
+different  way  from  the  one  just  examined.  Although 
+Brucke's  labors  lay  so  largely  in  the  same  field  with  those 
+of  Schultze,  and  although  he  was  familiar  with  his  con- 
+
+
+130  The  Unity  of  the  Organism 
+
+frere's  writings,  significantly  enough  the  theses  he  upheld  in 
+this  essay  led  him  to  regard  somewhat  lightly  Schultze's 
+leading  contention,  namely,  for  the  importance  of  the  cell- 
+contents,  protoplasm  and  nucleus,  as  against  the  cell-mem- 
+brane. That  the  cell  should  be  regarded  as  an  organism 
+was,  as  is  well  known,  what  Briicke  undertook  to  show,  and 
+his  motive  should  be  distinctly  recognized.  He  was  working 
+in  the  interest  of  observational  and  descriptive  histology  and 
+physiology.  Nothing  in  this  essay,  at  least,  indicates  that 
+he  was  particularly  interested  in  the  broader  implications 
+of  his  main  thesis,  and  there  is  much,  as  we  shall  presently 
+see,  to  show  that  he  was  decidedly  wary  of  "ultimate  ques- 
+tions." 
+
+The  very  ward  "organism"  implies  organization,  and 
+organization  implies  some  thing  organized;  something,  that 
+is,  composed  of  parts  a  number  of  which,  at  least,  are  in- 
+dispensable and  correlated  with  one  another.  An  organism, 
+then,  or  an  organized  thing,  and  a  thing  of  ultimate  sim- 
+plicity, are  terms  not  only  contradictory  but  are  mutually 
+annihilative  of  meaning.  Briicke  does  not  say  this  in  just 
+this  language,  but  his  whole  argument  is  a  setting  forth  of 
+the  idea  in  a  concrete,  particular  case,  namely  that  of  the 
+cell.  After  calling  attention  to  the  similarity  of  the  cells 
+to  the  organism  in  various  attributes,  as  that  of  growth 
+by  ingestion  of  foreign  material,  movement,  change  of  form, 
+response  to  stimulation,  and  so  on,  and  after  reminding  us 
+further  of  the  fact  that  organisms  arc  composed  of  parts 
+which  we  call  organs  and  systems  of  the  body,  he  says,  "We 
+can  hardly  think  otherwise  than  that  in  the  cell  also  the 
+different  activities  proceed  from  differently  constructed 
+parts."17 
+
+Going  further  with  this  idea,  he  writes :  "We  naturally 
+do  not  expect  that  the  organs  and  systems  repeat  themselves 
+as  we  find  them  in  the  human  organism  taken  in  its  entirety. 
+We  know  this  is  no  more  the  case  even  in  the  lower  animals. 
+
+
+The  Orytniixni   and  it  a   Protoplasm  131 
+
+We  know  that  with  reduction  in  dimensions  nature-  changes 
+the  means  b\-  which  the  energies  of  the  inorganic  world  are 
+made  serviceable-  in  the  organism.  Hut  witli  the  exception  of 
+the  differences  conditioned  by  this  fact,  and  with  the  ex- 
+ception of  the  less  number  of  constituting  parts,  we  have 
+no  right  to  hold  one  of  these  smaller  organisms  as  less 
+ingeniously  constructed  than  one  of  another  or  greater  di- 
+mensions, and  this  consciousness  we  ought  to  bring  not  only 
+to  the  investigation  of  the  smallest  animals,  but  likewise  to 
+the  investigation  of  plant  and  animal  cells.  We  may  always 
+set  in  the  cell  a  small  animal  body,  and  ought  never  to 
+lose  sight  of  the  analogies  which  exist  between  it  and  the 
+smallest  animal  forms."  1T 
+
+Characteristic  Organisation  in  Att  Cells 
+
+But  it  is  in  connection  with  the  problem  of  the  more  de- 
+tailed structure  of  all  parts  of  the  cell,  membrane,  nucleus, 
+and  cell-body  alike,  that  this  investigator's  conclusions  and 
+attitude  of  mind  are  most  fully  revealed,  his  great  point 
+being  that  there  must  be  far  more  of  organization  in  the 
+cell  than  microscopes  reach.  "What  right  have  we  to  be- 
+lieve," he  says,  "that  in  our  scheme  we  have  exhausted  the 
+organization  of  the  cell?  Is  it  a  ground  for  such  an  as- 
+sumption that  we  can  perceive  no  further  details  in  the 
+relatively  giant  retinal  image  given  us  by  our  present  high 
+magnifications?  .  .  .  Shall  we  conceal  from  ourselves  the 
+fact  that  many  circumstances  limit  the  field  of  our  mi- 
+croscopical determination?" 
+
+In  view  of  the  fact  that  later  speculative  biologists  have 
+appealed  to  Briicke's  contention  that  there  must  be  cell  or- 
+ganization beyond  that  revealed  by  the  microscopes,  in  sup- 
+port of  their  fancied  "ultimate  biological  units,"  it  should 
+be  emphatically  pointed  out  that  not  only  does  Briicke's  ar- 
+gument not  give  passive  sanction  to  such  hypotheses,  but 
+
+
+132  The   Unity  of  the  Organism 
+
+rightly  interpreted  it  opposes  them.  He  does  indeed  main- 
+tain that  molecular  structure  a*s  known  to  the  chemist 
+can  not  be  the  only  kind  which  eludes  observation.  "These 
+molecules,"  he  says,  are  "not  merely  building  stones  placed 
+one  beside  the  other  in  a  simple  fashion,  but  are  united  to- 
+gether in  an  ingenious  (kunstreich)  living  organization." 
+
+And  referring  back  to  the  paragraph  quoted,  in  which 
+the  differences  in  structure  between  small  and  large  or- 
+ganisms are  dwelt  upon,  we  find  an  unmistakable  indica- 
+tion that  the  mode  of  conceiving,  as  one  may  say,  which 
+Briicke  would  hold,  might  be  legitimately  applied  to  the 
+ultrarnicroscopic  structure  of  organisms :  "We  may  always 
+see  in  the  cell  a  small  animal  body  and  ought  never  to  lose 
+sight  of  the  analogies  which  exist  between  it  and  the  smallest 
+animal  forms."  20  That  is,  each  living  cell  at  any  and  every 
+moment  has  organization  of  its  own  beyond  what  we  can  see 
+with  the  microscope,  the  organization  being  analogous  to 
+that  which  exists  in  the  smaller  animals.  No  vagaries  here 
+about  an  organization  in  one  cell  (a  germ  cell)  which  rep- 
+resents the  visible  organization  of  some  other  cell-organism 
+developed  from  that  cell. 
+
+In  another  passage  Briicke  sounds  a  warning  about  theo- 
+rizing in  this  domain  of  biology  which,  had  it  always  been 
+heeded,  would  have  prevented  much  wandering  about  in  a 
+morass  of  speculation.  "Desirable  as  it  is,"  he  says,  "al- 
+wavs  to  hold  rigorously  to  immediate  observation,  equally 
+necessary  is  it  not  to  close  the  spiritual  eye  to  that  which 
+is  inaccessible  to  observation,  so  that  we  overprize  the  work 
+of  our  microscopical  determinations  and  with  the  help  of 
+final  words  (Schlagworter) — ceU-membrane,  cell-contents 
+and  cell-nucleus,  erect  physiological  doctrines  which  a  fu- 
+ture generation  may  refuse  recognition." 
+
+To  be  sure,  the  author  was  aiming  in  this  at  doctrinal 
+perils  considerably  different  from  those  of  recent  "repre- 
+sentative biological  units,"  but  the  essence  of  his  warning 
+
+
+The.  Organism  and  UK  Protoplasm 
+
+is  applicable  in  the  one  case  as  in  the  other.  He  would  have 
+no  pseudo-scientific  explanations,  whether  hidden  behind 
+"Schlagwdrttr"  or  entities  of  the  pure  imagination,  given 
+a  semblance  of  objective  reality  by  being  connected  with 
+actual  objects.  One  of  the  great  merits  of  Briicke's  attitude 
+toward  the  problem  of  the  constituents  of  the  living  beings 
+which  lie  beyond  the  reach  of  direct  observation  should  be 
+specially  pointed  out,  though  this  is  not  the  place  to  speak 
+of  it  in  detail.  From  several  of  his  statements,  but  par- 
+ticularly from  that  about  the  analogies  between  the  cell  and 
+the  smallest  animals,  we  may  infer  that  he  had  a  genuine 
+appreciation  of  the  distinction  there  is  between  the  concep- 
+tion that  there  must  be  some  sort  of  organization  beyond 
+what  the  microscope  reveals,  and  a  conception  of  what  the 
+specific  nature  of  that  organization  is  in  particular  cases. 
+So  a  critical  examination  of  Briicke's  fundamental  essay 
+reveals  the  fact  that  though  starting  from  a  quite  different 
+standpoint  from  that  of  Max  Sehultze  it  contains  as  little 
+as  does  Schult/e's  essay  to  support  belief  in  the  identity 
+of  protoplasm  in  all  living  things. 
+
+Hex  nits   of  Later  Description  and  Classification   of  Cell 
+Substances 
+
+The  question  still  to  be  considered  is  whether  or  not  the 
+discoveries  made  since  the  pioneer  era  have  furnished,  by 
+the  actual  study  of  protoplasm,  more  support  for  the  be- 
+lief in  such  identity.  I  do  not  believe  any  candidly  critical 
+student  will  maintain  that  they  have.  On  the  contrary  I 
+believe  such  a  student  will  recognize  that  the  indubitable 
+tendency  of  the  evidence  is  toward  the  opposite  conclusion ; 
+namely,  that  the  protoplasm  not  only  of  all  organisms,  but 
+of  many  different  parts  of  the  same  organism,  is  to  some 
+extent  different. 
+
+That  the  observational  knowledge  of  the  substances  con- 
+
+
+The   Unity  of  tlte  Organism 
+
+stituting  living  organisms  has  been  vastly  increased  since 
+Schultze  and  Briicke  wrote,  hardly  needs  affirmation.  This 
+greatly  augmented  store  of  knowledge  may  well  be  regarded 
+for  a  moment  in  the  light  of  the  circumstances  referred  to 
+some  pages  back.  One  outcome  of  later  work  has  been  a 
+serious  questioning  of  the  scientific  desirability  of  longer 
+retaining  the  word  "protoplasm."  To  be  sure,  this  ques- 
+tion was  not  raised  primarily  because  of  interpretations  of 
+the  substance  of  the  cells  of  different  organisms,  but  rather 
+because  of  interpretations  placed  upon  different  substances 
+in  the  same  ceU.  Strasburgcr,  who  seems  to  have  been  the 
+first  to  depart  from  Schultze's  sharp  distinction  between  the 
+protoplasm  of  the  cell  and  the  nucleus,  was  led  to  this  by 
+determinations  made  largely  by  himself,  which  had  accu- 
+mulated during  the  two  decades  of  research  since  Schultze 
+wrote,  that  the  nucleus  is  by  no  means  the  simple,  homo- 
+geneous thing  it  appeared  to  the  earlier  investigators,  but 
+has  itself  an  elaborate  organization,  portions  of  which  re- 
+semble protoplasm  in  many  respects. 
+
+Not  without  significance  is  the  fact  that  beginning  about 
+the  same  time  the  'custom  has  grown  up  of  using  the  term 
+plasm  or  plasma  instead  of  protoplasm.  It  is  not  unusual 
+to  regard  these  words  as  exactly  synonymous,  and  to  sup- 
+pose the  only  advantage  in  plasma  is  its  brevity.  Obviously 
+the  term  is  more  non-committal  in  meaning  than  is  proto- 
+plasm, the  idea  of  a  "first  formed  substance"  being  undoubt- 
+edly very  different  from  that  of  merely  a  "formed  sub- 
+stance." But  Strasburger's  proposal  went  further  than 
+merely  to  name  the  whole  cell  substance  protoplasm.  He 
+proposed  to  replace  it  by  cytoplasm  for  that  part  of  the 
+cell  to  which  alone  Schultze  had  applied  the  word  proto- 
+plasm, and  to  call  the  portion  in  the  nucleus  nucleo  plasm. 
+This  last,  being  a  mongrel  word,  was  soon  replaced  by 
+karyoplasm. 
+
+In  other  words,  the  change  in  the  scope  and  meaning  of 
+
+
+Tlic  Orf/artixm  find  its  Protoplasm  135 
+
+terms  introduced  the  really  more  significant  tiling,  namely, 
+that  of  a  definite  effort  toward  a  scientific  classification 
+of  the  constituents  of  the  cell,  this  being  based  upon  and 
+necessitated  by  the  fuller  and  exacter  descriptions  of  the 
+cell  that  had  been  reached. 
+
+This  brings  us  to  where  we  can  formulate  more  closely 
+the  question  now  before  us :  Do  the  descriptions  fully  agreed 
+upon  at  the  present  day,  of  the  substances  entering  into 
+the  constitution  of  living  beings,  warrant  the  belief  that  a 
+single  substance,  under  whatever  name,  is  the  basis  of  life, 
+and  is  identical  for  all  organisms?  No  one  should  fail  to 
+notice  the  two  parts  of  the  question:  (1)  Is  there  a  single 
+substance  which  is  the  basis  of  the  whole  life  of  any  one 
+organism?  (2)  If  this  were  answered  affirmatively,  would 
+that  substance  be  identical  for  all  organisms? 
+
+(a)  Cytoplasm  and  Karyoplasm  Differentiated  Areas  of  a 
+Common  Basic  Substance 
+
+Several  competent  investigators  in  this  department  of 
+biology  have  summarized  both  the  observational  and  the 
+interpretative  knowledge  now  in  our  possession.  A  liberal 
+appeal  to  these  summaries  will  furnish  a  direct  and  sure 
+answer  to  the  first  part  of  the  question,  and  an  indirect 
+though  hardly  less  sure  answer  to  the  second  part.  To  be- 
+gin with,  I  quote  from  Wilson,  the  first  point  to  be  brought 
+out  being  that  of  the  relation  between  the  nucleus  and  the 
+rest  of  the  cell.  "Careful  study  of  the  nucleus,"  he  says, 
+"during  all  its  phases  gives,  however,  reason  to  believe  that 
+its  structural  basis  is  similar  to  that  of  the  cell-body;  and 
+that  during  the  course  of  cell-division,  when  the  nuclear 
+membrane  usually  disappears,  cytoplasm  and  karyoplasm 
+come  into  direct  continuity.  Even  in  the  resting  cell  there 
+is  good  evidence  that  both  the  intranuclear  and  the  extra- 
+nuclear  material  may  be  structurally  continuous  with  the 
+
+
+136  The  Unity  of  the  Organism 
+
+nuclear  membrane.  .  .  .  For  these  and  other  reasons  the 
+terms  'nucleus'  and  'cell-body1  should  probably  be  regarded 
+as  only  topographical  expressions  denoting  two  differen- 
+tiated areas  in  a  common  structural  basis.  The  terms  kary- 
+oplasm  and  cytoplasm  possess,  however,  a  specific  signif- 
+icance owing  to  the  fact  that  there  is  on  the  whole  a  definite 
+chemical  contrast  between  the  nuclear  substance  and  that  of 
+the  cell-body.  .  .  . 
+
+"Both  morphologically  and  physiologically  the  differen- 
+tiation of  the  active  cell-substance  into  nucleus  and  cell-body 
+must  be  regarded  as  a  fundamental  character  of  the  cell 
+because  of  its  universal  .  .  .  occurrence,  and  because  there 
+is  reason  to  believe  that  it  is  in  some  manner  an  expression- 
+of  the  dual  aspect  of  the  fundamental  process  of  metabolism, 
+constructive  and  destructive,  that  lies  at  the  basis  of  cell 
+life."  22 
+
+So  far  as  I  am  able  to  make  out,  authorities  are  in  essen- 
+tial agreement  as  concerns  the  directly  observational  part 
+of  this  statement  touching  the  relation  between  nucleus  and 
+cell-body.  The  general  conclusion  is  that,  keeping  an  eye 
+on  the  actual  structure  of  the  cell  and  ignoring  for  the 
+moment  the  system  of  naming  applied  to  the  different  parts, 
+Schultze  and  Strasburger  were  both  right ;  Schultze  in  hold- 
+ing that  there  is  something  fundamental  in  the  distinction 
+between  nucleus  and  cell-body,  and  Strasburger  in  holding 
+that  there  is  something  fundamental  in  the  kinship  between 
+the  two.  Interpretatively,  therefore,  the  question  resolves 
+itself  into  one  of  naming  and  classifying  what  is  observed, 
+and  there  can  be  no  doubt,  as  Wilson  and  a  majority  of 
+recent  authors  have  recognized,  not  only  of  the  convenience 
+but  of  the  scientific  soundness  of  using  the  term  plasm  for 
+the  living  substance  of  the  cell  as  a  whole,  and  then  des- 
+ignating the  kindred  but  yet  different  kinds  of  plasm  by 
+the  terms  karyoplasm  and  cytoplasm. 
+
+
+The  Organism  find  i/.v   1'roloplasm  137 
+
+(6)   Details  of  Cytoplasmic  Structure 
+
+Concerning  the  details  of  structure  of  these  two  main 
+classes  of  cell  material,  Wilson  writes :  "As  ordinarily  seen 
+under  moderate  powers  of  the  microscope,  protoplasm  ap- 
+pears as  a  more  or  less  vague  granular  substance  which 
+shows  as  a  rule  no  definite  structure.  More  precise  exam- 
+ination under  high  powers,  especially  after  treatment  with 
+suitable  fixing  and  staining  reagents,  often  reveals  a  highly 
+complex  structure  in  both  nucleus  and  cytoplasm.  Since 
+the  fundamental  activities  of  protoplasm  are  everywhere  of 
+the  same  nature,  investigators  have  naturally  sought  to 
+discover  a  corresponding  fundamental  morphological  or- 
+ganization common  to  all  forms  of  protoplasm  and  under- 
+lying all  its  special  modifications.  Up  to  the  present  time, 
+however,  these  attempts  have  not  resulted  in  any  con- 
+sensus of  opinion  as  to  whether  such  a  common  organization 
+exists.  In  many  forms  of  protoplasm,  both  in  life  and 
+after  fixation  by  reagents,  the  basis  of  the  structure  is  a 
+more  or  less  regular  framework  or  meshwork,  consisting  of 
+at  least  two  substances.  One  of  these  forms  the  substance 
+of  the  mcshwork  proper:  the  other,  often  called  the  grownd- 
+titil)t:tance,  (also  cell-sup,  enchylcina,  hyaloplasma,  parami- 
+tome,  interfilar  substance,  etc.),  occupies  the  intervening 
+spaces.  To  these  two  elements  must  be  added  minute,  deep- 
+ly-staining yrtninlat  or  'microsomes'  scattered  along  the 
+branches  of  the  inesliwork,  sometimes  quite  irregularly,  some- 
+times with  such  regularity  that  the  rncshwork  seems  to  be 
+built  of  them.  He-sides  the  foregoing  three  elements,  which 
+we  may  provisionally  regard  as  constituting  the  active  sub- 
+stance, the  protoplasm  almost  invariably  contains  various 
+passive  or  metaplastic  sub.staiire  in  the  form  of  larger  gran- 
+ules, drops  of  liquid,  crystalloid  bodies,  and  the  like.  These 
+bodies,  which  usually  lie  in  the  spaces  of  the  meshwork,  are 
+often  difficult  to  distinguish  from  the  microsomes  lying  in 
+
+
+138  The.    Unity  of  the  Organism 
+
+the   meshwork   proper — indeed,   it  is   by   no   means   certain 
+that  any  adequate  ground  of  distinction  exists."  23 
+
+(c)   Three  Main  Theories  of  the  Structure  of  Protoplasm 
+
+Wilson  then  sets  forth  in  general  terms  the  three  lead- 
+ing interpretational  views  of  the  nature  of  what  is  here 
+described;  that  is,  the  well-known  reticular  or  filar  theory, 
+the  alveolar  theory,  and  the  granular  theory.  It  may  not 
+be  superfluous  to  state  briefly  what  each  of  these  theories 
+is.  The  reticular  theory  interprets  what  is  seen  in  the 
+protoplasm  in  its  simplest  form,  as  a  network  of  actual  fi- 
+bers which  branch  and  anastomose  with  one  another  so  as 
+to  make,  according  to  the  familiar  comparison,  something 
+like  the  network  of  a  sponge,  the  spaces  within  the  retic- 
+ulum  being  filled  by  the  fluid  or  semi-fluid  portions  of  the 
+protoplasm.  This  view  holds  that  the  granules,  supposed 
+by  the  older  observers  to  be  essential  constituents  of  the 
+protoplasm,  are  the  angles  where  the  threads  join,  the 
+threads  seen  end-on,  and  in  some  cases  true  granules  at- 
+tached to  the  threads.  The  alveolar  theory,  proposed  and 
+defended  with  great  detail  of  observation  and  argument  by 
+O.  Biitschli,  compares  the  protoplasm  with  foam  rather 
+than  with  a  sponge.  It  contends  that  protoplasm  consists 
+of  separate,  closely  crowded  minute  drops  of  a  liquid  alve- 
+olar substance  suspended  in  a  continuous  interalveolar  sub- 
+stance, likewise  liquid,  but  of  different  nature.  According 
+to  this  interpretation  what  are  taken  by  the  reticular 
+theory  to  be  fibers  are  the  walls  of  the  alveoli,  there  being 
+in  reality  no  fibers  present.  The  granular  theory  holds 
+that  granules  of  various  sizes  and  nature  are  the  fundamen- 
+tal constituents  of  protoplasm,  the  fluid  and  the  semi-fluid 
+parts,  as  also  the  fibers  whenever  present,  being  of  sec- 
+ondary significance. 
+
+
+Tlic  ()r(junixin  <int/  its   Protoplasm  139 
+
+(<7)    "ATr>    Umrersal  Formula   for  Protoplfismic  Structure'9 
+
+Finally,  summing  up  his  own  conclusions  regarding  these 
+three  theories,  Wilson  says:  "My  own  long-continued  stud- 
+ies on  various  forms  of  protoplasm  have  likewise  led  to  the 
+conclusion  that  no  universal  formula  for  protoplasmic  struc- 
+ture can  be  given.  ...  It  is  impossible  to  resist  the  evi- 
+dence that  fibrillar  and  granular  as  well  as  alveolar  struc- 
+tures are  of  wide  occurrence;  and  while  each  may  be  char- 
+acteristic of  certain  kinds  of  cells  or  of  certain  physiological 
+conditions,  none  is  common  to  all  forms  of  protoplasm.  If 
+this  position  be  well  grounded,  we  must  admit  that  the 
+attempt  to  find  in  visible  protoplasmic  structure  any  ade- 
+quate insight  into  its  fundamental  modes  of  physiological 
+activity  has  thus  far  proved  fruitless.  We  must  rather 
+seek  the  source  of  these  activities  in  the  ultramicroscopical 
+organization,  accepting  the  probability  that  apparently 
+homogeneous  protoplasm  is  a  complex  mixture  of  substances 
+which  may  assume  various  forms  of  visible  structure  accord- 
+ing to  its  modes  of  activity."  24 
+
+And  so  we  have  this  excellent  authority's  answer  to  the 
+first  part  of  the  question  above  formulated :  The  knowledge 
+we  now  possess  derived  from  observational  studies  on  the 
+minute  structure  of  organic  beings  does  not  warrant  the  be- 
+lief that  there  is  a  single  substance  which  is  the  basis  of  the 
+whole  life  of  any  one  organism. 
+
+But  if  the  facts  do  not  warrant  such  belief  what  possible 
+ground  is  there  for  the  doctrine  of  the  identity  of  proto- 
+plasm in  all  organic  beings?  Were  there  no  other  evidence 
+against  it  than  this  drawn  from  the  microscopical  morphol- 
+oo-\  of  organisms,  here  alone  is  sufficient  evidence  to  banish 
+the  dogma  completely  and  forever  from  scientific  biology. 
+But  as  we  see  in  other  sections  of  this  treatise,  particularly 
+those  on  the  organism  and  its  chemical  compounds,  there 
+are  even  more  compelling  evidences  against  the  doctrine  than 
+those  here  passed  in  review. 
+
+
+140  The   Unity  of  the  Organ  ism 
+
+Preliminary  Remarks  on  the  Bearing  of  Physical  Chemistry 
+on    the  Protoplasm   Doctrine 
+
+The  theory  of  protoplasm  as  the  living  substance,  as 
+though  there  were  a  single  substance  identical  in  all  or- 
+ganisms and  in  ah1  parts  of  the  same  organism,  has  passed 
+into  a  new  and  peculiarly  subtle  stage  during  the  last  two 
+or  three  decades.  This  has  been  one  of  the  results  of  the 
+application  which  was  sure  to  be  made  of  physical  chemistry 
+to  biological  phenomena. 
+
+An  understanding  of  what  is  implied  by  this  will  be 
+facilitated  by  reflecting  on  some  of  the  most  obvious  dif- 
+ferences between  physics  and  chemistry,  and  on  what  phys- 
+ical chemistry  as  contrasted  with  chemistry  pure  and 
+simple  is ;  that  is,  chemistry  as  it  was  prior  to  the  rise  of 
+physical  chemistry.  But  since  we  are  invading  a  perilous 
+realm,  one  in  which  diverse  and  strenuously  contested  views 
+prevail,  we  must  confine  ourselves  to  what  is  most  obvious. 
+
+That  that  vast  series  of  transformations  of  natural  sub- 
+stances which  occur  when  two  or  more  of  the  substances 
+come  together  under  certain  conditions,  so  profound  that 
+the  new  substance  is  wholly  different  from  the  originals,  are 
+real  objective  phenomena,  and  are  the  bases  of  the  science 
+of  chemistry,  no  one  will  gainsay  however  unqualifiedly  he 
+may  be  committed  to  the  theory  that  these  phenomena  be- 
+long to  the  domain  of  physics  after  all.  The  reality  of  the 
+transformations,  and  hence  the  reality  of  the  discrete,  in- 
+dividuated bodies  or  substances,  both  those  entering  into  the 
+combinations  and  those  arising  from  the  combinations,  is 
+what  especially  concerns  us.  Whether  the  combinations  and 
+transformations  are  influenced  by  physical  as  contrasted 
+with  chemical  forces,  and  what  names  and  classifications 
+shall  be  employed  in  dealing  with  the  phenomena,  are  of 
+very  secondary  importance  to  this  discussion. 
+
+On  the  other  hand,  that  there  is  an  almost  if  not  quite 
+
+
+T?he  Organism  and  its  Protoplasm 
+
+equally  vast  series  of  phenomena  presented  by  natural  bod- 
+ies and  substances  which  do  not  involve  such  combinations 
+and  transformations  and  which  are  the  basis  of  the  great 
+science  of  modern  physics,  will  also  probably  be  accepted 
+without  cavil.  But  the  point  to  be  specially  noticed  is  that 
+since  physics  as  thus  indicated  is  primarily  concerned  with 
+those  attributes  of  bodies  and  substances  which  are  common 
+to  very  great  numbers  of  them,  and  are  not  only  common  to 
+them  but  while  rendering  the  bodies  subject  to  great  chanyc, 
+do  not  make  them  subject  to  complete  transformation,  the 
+discrete,  the  individuated  bodies  fall  much  into  the  back- 
+ground. 
+
+Physics  is  preeminently  from  its  very  nature  an  individ- 
+ual-ignoring science.  Concentrated  as  its  attention  is,  on 
+the  force  of  gravitation  for  example,  or  on  the  behavior  of 
+light,  and  finding  these  manifested  almost  everywhere  re- 
+gardless of  how  many  kinds  of  bodies  are  concerned,  it  is 
+not  surprising  that  the  habit  should  be  formed  by  persons 
+who  devote  themselves  to  studying  these  phenomena,  of  neg- 
+lecting almost  entirely  the  bodies  themselves  which  have 
+weight  and  emit  and  receive  light.  Then  when  this  habitual 
+tendency  to  neglect  the  bodies  finds  encouragement  by  well- 
+reasoned  hypotheses  that  the  bodies  arc  actually  less  im- 
+portant and  real  than  certain  essences  or  entities  "behind" 
+them,  the  ignoring  of  I  he  bodies  passes  easily  from  the  realm 
+of  habit  to  that  of  dogma,  and  such  strange  conceptions  of 
+the  "Province  of  Phvsics"  as  the  following  arise:  "If  further 
+we  give  the  name  thing  to  that  with  the  objective  existence 
+of  which  we  are  acquainted  by  our  senses,  then  it  follows 
+that  in  the  physical  universe  there  are  only  two  classes  of 
+things;  to  these  the  names  Matter  and  Energy  are  given."1 
+That  protoplasm,  of  just  such  a  conceptual  character  as 
+we  are  pointing  out  in  this  chapter  does  not  exist,  would 
+obviously  be  acceptable  to  a  physics  holding  such  an  unob- 
+jectified,  denatured  conception  of  nature  as  that  just 
+
+
+142  The   Unity  of  the  Organism 
+
+quoted.  If  there  are  "only  two  classes  of  things"  in  the 
+universe,  "Matter  and  Energy,"  it  would  follow  that  the 
+myriads  of  individual  organisms  which  according  to  our 
+senses  certainly  seem  to  exist,  are  after  all  phantasms  of 
+some  sort,  and  those  departments  of  science  which  deal  with 
+the  phantasmal  individuals  would  have  to  concern  them- 
+selves chiefly  with  "getting  behind"  the  apparitions  to  the 
+two  real  things,  the  Matter  and  the  Energy. 
+
+But  even  those  physiologists  and  biologists  who  adopt  the 
+physical-chemistry  standpoint  most  unreservedly  speak  of 
+the  matter  of  which  organisms  are  composed  as  "living" 
+and  so  do  not  quite  accept  the  restrictions  upon  them  of 
+such  a  conception  of  the  "province  of  physics"  as  that 
+formulated  by  physics  itself  in  the  quotation  above  given. 
+They  seem  to  insist  by  implication  that  "living  matter"  is 
+a  real  thing,  no  less  than  are  Matter  and  Energy.  This  is 
+very  significant  from  our  standpoint  and  will  be  exceedingly 
+important  if  finally  physics,  too,  shall  fully  accept  it.  It 
+will  be  thus  important  because  if  biology  is  driven,  as  this 
+treatise  holds  it  will  be,  to  recognize  that  the  individual  or- 
+ganism, each  and  every  one  that  exists  or  ever  has  existed, 
+is  as  real  a  thing  as  are  any  of  its  parts  or  substances,  by 
+whatever  criterion  of  reality  science  or  philosophy  can  ap- 
+ply; and  if  physics  goes  with  biology  in  this,  then  will  ob- 
+jective science  as  a  whole  be  committed  to  a  doctrine  of  the 
+universe  vastly  different  from  that  which  now  dominates  the 
+physico-mathematical  sciences.  Put  into  the  briefest,  most 
+concrete  form  possible,  such  a  consummation  would  establish 
+the  so-called  natural  history,  or  descriptive,  or  "inexact" 
+(sic?)  sciences  in  a  place  at  least  as  secure  and  exalted  as 
+that  held  through  the  centuries  in  western  civilization  by 
+the  mathematico-physical,  the  so-called  exact  sciences. 
+
+And  we  must  not  forget  the  important  fact  that  physics 
+itself  as  conceived  by  some  of  its  eminent  devotees,  occupies 
+no  such  all-inclusive,  all-dominating  and  domineering  place 
+
+
+The  Organism  and  its  Protoplasm 
+
+in  the  hierarchy  of  the  sciences  as  that  implied  by  the  quo- 
+tation given  above.  Thus:  "Physics  in  the  largest  sense 
+of  the  word  is  the  science  of  unorganised  matter  and  the 
+phenomena  which  it  manifests.  These  phenomena  are  called 
+physical  phenomena.  All  the  other  sciences  which  occupy 
+themselves  with  matter,  have  to  do  with  organized  substance 
+(the  biological  sciences)."-" 
+
+The  whole-hearted  recognition  by  physics  as  thus  con- 
+ceived, of  matter  in  two  fundamentally  different  conditions, 
+these  giving  rise  to  two  coequal  realms  of  science,  places  no 
+obstacles  in  the  way  of  biology's  bringing  into  clear  view  the 
+significance  of  individuals  as  natural  phenomena.  That 
+physical  chemistry  can  be  of  enormous  service  in  the  inter- 
+pretation of  living  beings  if  only  it  docs  not  claim  too  much 
+for  itself,  if  it  recognizes  physiologdco-,  or  better  bio- 
+chemistry, to  be  on  a  par  with  itself,  we  shall  see  to  some 
+extent  in  later  chapters. 
+
+Experimental  Evidence  of  the  Specificity  of  Protoplasms 
+
+Up  to  this  point  the  burden  of  the  facts  and  arguments 
+of  this  chapter  has  been  in  a  sense  negative.  It  has  been  in 
+opposition,  merely,  to  the  generalization  that  protoplasm 
+is  one  and  the  same  thing  in  all  organisms.  Although  rela- 
+tively few  researches  in  microscopic  comparative  morphology 
+and  embryology  have  been  carried  out  with  the  avowed  pur- 
+pose of  discovering  in  how  far  each  organism  or  group  of 
+closely  related  organisms  has  its  own  fundamental  sub- 
+stances, the  few  which  have  been  made  have  yielded  highly 
+significant  results  and  open  the  gate  to  an  alluring  realm  for 
+future  exploration. 
+
+(a)   Greater  Fuxihilitt/  lletu'cen  Closely  Helated  Species,  as 
+in  Tissue  Mixtures  <iu<l  Grafts 
+
+The  morphological  investigations  which  will,  perhaps,  be 
+most  crucial  when  carried  far  enough,  are  those  on  the  fusi- 
+
+
+144  The  Unity  of  the  Organism 
+
+bility  of  naked  protoplasm  from  different  organisms — from 
+different  individuals  of  the  same  and  of  different  species. 
+
+The  experiments  of  H.  V.  Wilson  on  the  coalescence  of 
+dissociated  cells  of  sponges  and  hydroids  particularly,  have 
+blazed  a  seemingly  very  practicable  manipulative  path  into 
+the  subject.  Wilson  cuts  portions  of  the  animals  into  small 
+pieces,  then  squeezes  these  through  bolting  cloth.  This 
+operation  separates  the  tissues  into  small  groups  of  cells, 
+and  to  some  extent  into  completely  isolated  cells.  These 
+cells,  kept  under  favorable  conditions,  soon  assemble  together 
+into  compact  masses,  and  from  the  masses  normal  animals 
+frequently  develop.  Although  Wilson  has  thus  far  been 
+chiefly  occupied  with  showing  that  various  animals  are  able 
+within  their  own  species  to  rehabilitate  themselves  under 
+such  conditions,  he  has  not  failed  to  raise  the  question  of 
+how  far  coalescence  and  normal  development  may  take  place 
+when  tissues  of  different  species  are  mixed  together.  His 
+experiments  under  this  head  are  far  less  extensive  than  those 
+on  the  commingling  of  cells  from  different  individuals  of  the 
+same  species,  but  are  nevertheless  highly  instructive.  In  his 
+paper  of  1907  his  statement,  "Unlike  specific  substances 
+(protoplasms  of  quite  different  species)  do  not  tend  to 
+fuse,"  27  is  perhaps  a  somewhat  more  unqualified  denial  of 
+the  fusibility  of  the  protoplasms  of  different  species ;  or 
+stated  affirmatively,  a  somewhat  more  unqualified  assump- 
+tion of  the  specificity  of  the  protoplasms  of  each  species 
+than  the  observations  presented  by  him  in  a  later  publication 
+/justify. 
+
+But  if  this  much  of  restriction  upon  his  conclusions  may 
+be  necessary,  there  still  remains  evidence  of  the  most  con- 
+vincing sort  in  his  results  of  the  specific  nature  of  the  pro- 
+toplasm of  different  species.  The  only  details  he  has  so 
+far  given  of  his  negative  results  are  contained  in  his  report 
+on  sponge  culture  to  the  Bureau  of  Fisheries.  In  this  he 
+describes  experiments  on  intermingling  the  tissues  of  Micro- 
+
+
+The  Organism  and  its  Protoplasm  145 
+
+dona  prolifera  with  those-  of  Litsodendoryx  carolwensis, 
+and  M.  prolifcra  with  Stylotclla  hcliophild.  In  both  cases 
+the  larger  fragments  were  discarded,  and  only  the  cells  and 
+small  cell  masses  experimented  with.  These  were  thoroughly 
+mixed  together  in  watch  glasses  by  jets  of  water  from  a 
+pipette.  "The  mixture  was  spread  evenly  over  the  bottom 
+of  the  watch  glass,  and  looked  like  a  fine  sediment."  But 
+the  cells  of  each  species  could  be  readily  distinguished,  those 
+of  Liiiodendoryx  being  greenish  and  those  of  Microciona 
+being  bright  red  (to  speak  of  these  two  species).  "Fusion 
+began,  and  the  bottom  was  soon  covered,  no  longer  with  a 
+continuous  'sediment'  but  with  discrete  small  masses,  some 
+red,  some  green.  ...  In  general  red  mass  fused  with  red 
+mass,  and  green  mass  with  green  mass.  Nevertheless  fusion 
+was  also  observed  in  some  instances  between  red  and  green 
+masses.  .  .  .  Such  fusions,  as  the  further  history  of  the 
+watch  glass  showed,  must  have  been  temporary  or  the  com- 
+bined masses  soon  died.  For  as  fusion  progressed  and  the 
+masses  increased  in  size,  the  distinction  between  red  and 
+green  tissue  became  more  evident."  The  outcome  was 
+
+that,  young  sponges  of  pure  Microciona  were  developed  but 
+none  of  L,%88odendoTyxt  the  development  going  no  further 
+than  the  early  fusion  stages.  Likewise  in  the  mixture  of 
+Microciona  and  Stt/Iotclhi  there  was  no  fusion  between  the 
+cells  of  the  two  species  nor  was  there  a  full  development  of 
+Stfflotclla  sponges  alone. 
+
+The  point  wherein  these  negative  results  are  somewhat 
+less  conclusive  than  might  be  wished  is  that  neither  in  Lis- 
+todendoryx  nor  StiflotcUa  were  full  fledged  young  sponges 
+produced  from  the  dissociated  tissues  even  when  these  were 
+treated  each  species  by  itself.  It  may  be  said  that  a  fusion 
+of  two  species  could  not  be  expected  if  one  of  them  is  in- 
+capable of  fusion  and  development  alone.  Nor  is  this  ob- 
+jection fully  met  by"  the  fact  that  in  one  of  the  species  at 
+least,  I^ssodendoryx,  the  early  stages,  that  is  the  fusion 
+
+
+146  The  Unity  of  the  Organism 
+
+stages,  do  occur.  To  make  the  case  quite  satisfactory  fail- 
+ure to  fuse  ought  to  be  shown  between  species  both  of  which 
+are  able,  and  about  equally  able,  to  develop  into  typical 
+animals  of  their  own  species. 
+
+But  the  evidence  of  specificity  of  the  protoplasm  of  the 
+different  species  indicated  by  the  experiments  is  by  no  means 
+restricted  to  the  nonfusibility  of  the  cells  of  the  several  ani- 
+mals. Quite  as  conclusive  is  difference  in  behavior  of  the 
+various  preparations.  Although  Wilson  does  not  go  into 
+this  particularly,  his  experiences  show  that  the  tissues  of 
+Microciona  produce  young  sponges  considerably  more  read- 
+ily than  do  those  of  the  other  species  when  treated  in  exactly 
+the  same  manner.  As  to  the  relative  viability  and  develop- 
+ability  of  dissociated  cells  of  Lissodendoryx  and  Stylotella 
+the  descriptions  are  not  full  enough  to  enable  one  to  decide. 
+A  comparison  of  the  species  on  the  basis  of  quantitative 
+determinations  of  both  the  extent  of  development  and  the 
+conditions  of  the  water  under  which  the  development  takes 
+place  would  probably  settle  this  and  would  be  highly  in- 
+structive. 
+
+Another  investigator,  Karl  Miiller,  reports  that  the  dis- 
+sociated cells  of  individuals  of  different  species  are  able  to 
+fuse  together  but  that  the  fusion  masses  "never  regenerate 
+to  small  sponges."  No  details  are  given  under  this  head, 
+but  are  promised  in  a  later  publication. 
+
+Obviously  the  fusibility  or  non-fusibility  of  isolated  tis- 
+sues as  brought  out  by  experiments  of  this  kind  are  phe- 
+nomena close  of  kin  with  those  of  the  degree  of  compati- 
+bility of  grafts  in  the  ordinary  sense  with  the  "stock"  upon 
+which  they  are  grafted.  It  was  mentioned  in  another  con- 
+nection that  we  now  have  sufficient  information  about  graft- 
+ing in  animals  to  show  that  much  the  same  rules  hold  here 
+as  among  plants. 
+
+Morgan  reviews  the  work  that  has  been  done  in  animal 
+grafting,  and  sums  up  the  results  on  the  congeniality  be- 
+
+
+The  Orgamtm  <ind  its  Protoplasm 
+
+tween  different  kinds  as  follows:  "The  general  statement 
+nia  v  be-  made  for  both  cases  [grafting  and  fertilization]  that 
+closely  related  species  combine  more  readily  than  those  far 
+a j tart,  i.e.,  the  results  are  more  successful  for  unions  be- 
+tween closely  'related'  forms  than  between  distantly  'related' 
+forms.  Certain  exceptions  exist,  however,  in  both  direc- 
+tions." 29 
+
+Hut  while  the  fusibility  or  non-fusibility  of  the  tissues  of 
+different  animals  as  revealed  by  Wilson's  methods  are  phe- 
+nomena closely  related  to  the  compatibility  or  non-compati- 
+bility of  scion  and  stock  in  plant  grafting,  the  former  would 
+seem  to  be,  so  far  as  the  methods  can  be  employed,  a  con- 
+siderably better  test  of  the  specificity  of  the  protoplasms 
+of  different  individuals  and  species.  This  is  so  because  by 
+comminuting  the  animals,  as  Wilson  does,  and  then  thor- 
+oughly mixing  the  elements,  every  part  and  kind  of  substance 
+of  the  one  may  be  supposed  to  be  brought  into  contact  with 
+every  part  and  kind  of  substance  of  the  other,  whereas  in 
+grafting  only  a  relatively  small  portion  of  the  scion  can 
+actually  touch  the  stock,  and  generally  speaking  only  in 
+such  manner  that  the  corresponding  kinds  of  substance  i.e., 
+corresponding  tissues,  come  together.  From  this  it  may  well 
+be,  that  there  is  really  more  specificity  of  substances  in  the 
+ordinary  graft  than  might  at  first  thought  be  inferred  from 
+the  perfection  of  the  union.  Actual  fusion  may  occur  only 
+between  some  substances  of  each  party  to  the  union,  and 
+the  general  life  and  activities  of  the  graft  may  be  kept  up 
+through  its  ordinary  metabolic  processes,  it,  however,  using 
+as  food  to  some  extent,  .substances  received  from  its  host, 
+instead  of  wholly  from  the  outside  world. 
+
+Indeed  some  such  interpretation  as  this  appears  to  be 
+necessitated  by  the  strict  maintenance  of  type  of  both 
+graft  and  host.  From  this  standpoint  a  successfully  grafted 
+individual  plant  or  animal  might  be  defined  as  a  partnership 
+in  which  each  partner  while  maintaining  most  of  its  own 
+
+
+148  The   Unity  of  the  Organism 
+
+former  individuality  still  supplies  to  the  others  certain  es- 
+sential food  substances  from  its  own  body  and  activities  es- 
+sential to  the  other.  The  relation  between  the  two  organ- 
+isms which  are  grafted  together  seems  similar  in  important 
+respects  to  the  relation  between  two  organisms  living  to- 
+gether symbiotically.  In  fact,  a  graft  combination  might 
+be  spoken  of  as  an  artificial  symbiosis.  On  the  whole,  then, 
+the  morphologico-physiological  study  of  the  ability  of  or- 
+ganisms to  fuse  together  bodily  points  unmistakably  to  the 
+belief  that  different  kinds  of  organisms  must  contain  in  their 
+make-up  certain  fundamental  substances  that  are  different 
+as  well  as  certain  others  that  arc  very  much  alike  if  not 
+quite  identical.  In  other  words  such  studies  furnish  no 
+warrant  for  the  conception  of  a  physical  basis  of  life  identi- 
+cal in  all  living  beings. 
+
+(b)  Protoplasms,  Not  Protoplasm,  Must  He  the  Form  of  the 
+Protoplasmic  Conception 
+
+Studies  of  this  kind  show  that  if  the  term  protoplasm  is 
+to  have  any  scientific  usefulness  it  must  be  used  in  the  plural 
+— protoplasms — and  so  must  be  subject  to  the  practices 
+and  principles  of  biological  description  and  classification  in 
+the  same  way  that  all  other  biological  entities  are,  and  the 
+great  and  ever-increasing  number  of  elements  now  known 
+with  more  or  less  definitencss  as  entering  into  the  makeup 
+of  living  substance  must,  I  believe,  be  looked  at  in  this  light 
+by  all  departments  of  biology  as  well  as  by  natural  history. 
+Protoplasms  are  the  substances  of  which  individual  or- 
+ganisms are  composed,  so  the  protoplasms  as  well  as  the 
+organisms  must  be  individuated. 
+
+To  set  forth  the  facts  and  reasonings  upon  which  such  a 
+conception  of  protoplasm  must  rest  is  one  of  the  foremost 
+objects  of  several  of  the  discussions  in  this  treatise.  Those 
+on  the  organism  and  its  chemistry,  and  the  organism  and  its 
+cells,  are  especially  dedicated  to  this  end. 
+
+
+The  Organism  and  its  Protoplasm 
+
+
+149 
+
+
+REFERENCE  INDEX 
+
+
+Locy 
+
+
+273 
+
+
+2.  Hertwig,    O.     ('95) 12 
+
+:}.  Schult/.e     17 
+
+4.  Hcrtwig,   O.    ('I-') 12 
+
+5.  Huxlry     ('68)     140 
+
+6.  Huxley    ('68)     138 
+
+7.  Huxley    ('68)     148 
+
+8.  Hertwig,  O.   ('95) 7 
+
+9.  Hertwig,  O.    ('12) 8 
+
+10.  Needham     88 
+
+11.  Geddes     829 
+
+12.  Schult/e     11 
+
+13.  Schult/r     23 
+
+11.  Schult/e     11 
+
+15.  Schnlt/c     .  16 
+
+
+1<>.  Schultze     17 
+
+17.  Briicke     387 
+
+IK.  Hriickc     383 
+
+1!).  Briicke     386 
+
+!.>().  Hriicke     387 
+
+21.  Hriicke     385 
+
+22.  Wilson,  E.    B.    ('00) ....  22 
+
+23.  Wilson,  E.    B.    ('00) ....  23 
+Jk  Wilson,  K.     B.     ('00)....  27 
+
+25.  Watson    1 
+
+26.  Chwolson     1-2 
+
+2~.  Wilson,    II.    V.    ('07) 257 
+
+X.  Wilson,    H.    V.    ('10) 14 
+
+29.  Morgan    ('07)    298 
+
+
+Chapter   VI 
+THE  ORGANISM  AND  ITS  CELLS 
+
+What  the  Cell-Theory  Is,   Viewed  Historically  and 
+Subs  tantively 
+
+(a)  Importance  and  General  Character  of  the  Theory 
+
+THE  cell-theory  seems  to  some  biologists  second  to  the 
+evolution  theory  alone  in  its    importance  to   biological 
+science.     This  may  be  too  high  an  -appraisement ;  but  beyond 
+question  it  is   and  ever  will  be  one  of  the  most  influential 
+generalizations  yet  readied  by  the  science. 
+
+(b)  Varioiw  Forms  of  the  Theory  as  Currently  Held 
+
+The  views  of  the  cell  incident  to  our  general  standpoint 
+necessitate  a  critical  consideration  of  the  theory.  What, 
+exactly,  is  included  in  it?  Does  it  contain  more  than  one 
+crucial  idea?  If  so  are  all  equally  well  grounded  in  observa- 
+tion? Clearly  it  has  differed  considerably  in  both  scope  and 
+specific  meanings  at  different  times  and  for  different  authors. 
+The  formulation  of  it  by  Theodor  Schwann,  generally  re- 
+garded as  its  founder,  undoubtedly  left  it  open  to  a  con- 
+siderable range  of  interpretation.  Schwann  says,  "The 
+development  of  the  proposition  that  there  exists  one  gen- 
+eral principle  for  the  formation  of  all  organic  productions, 
+and  that  this  principle  is  the  formation  of  cells  as  well  as 
+the  conclusion  which  may  be  drawn  from  this  proposition, 
+may  be  comprised  under  the  term  cell- theory,  using  it  in 
+its  more  extended  signification,  while,  in  a  more  limited 
+
+150 
+
+
+The  Organism  and  It .?  Cells  151 
+
+sense,  by  the  theory  of  cells  we  understand  whatever  may 
+be  inferred  from  this  proposition  with  respect  to  the  powers 
+from  which  these  phenomena  result."1 
+
+Two  meanings,  a  broader  and  a  narrower,  are  thus  ex- 
+pressly indicated;  and  the  permissive  phrase  "whatever  may 
+be  inferred"  attached  to  the  more  restricted  one,  points  a 
+way  to  diversification  of  interpreting  it  that  was  sure  to  be 
+followed. 
+
+In  view  of  the  comprehensiveness  of  the  theory  as  thus 
+initially  conceived,  it  is  surprising  to  find  Virchow,  one  of  the 
+earliest  and  most  distinguished  promoters  of  it,  speaking 
+of  it  as  pertaining  to  the  mode  of  origin  of  cells.  "This 
+description  of  the  first  development  of  cells  out  of  free 
+blastema,  according  to  which  the  nucleus  was  regarded  as 
+preceding  the  formation  of  the  cell,  and  playing  the  part  of 
+a  real  cell-former  (cytoblast),  is  the  one  which  is  usually 
+concisely  designated  by  the  name  cell-theory  (more  ac- 
+curately theory  of  free-cell-formation)."2 
+
+().  Hertwig's  statement  of  the  theory  is  as  follows:  "Plants 
+and  animals,  so  dissimilar  in  external  appearance,  agree  in 
+the  foundation  of  their  anatomical  structure;  for  both  are 
+composed  of  similar  elementary  units  mostly  visible  by  the 
+aid  of  the  microscope  only.  According  to  an  old  theory, 
+now  abandoned,  these  units  are  called  cells,  so  that  the  doc- 
+
+Eine  that  animals  and  plants  consist  in  a  similar  way  of 
+ch  smallest  particles  is  designated  the  cell-theory."  3 
+But  Hertwig's  treatment  of  the  cell  in  his  earlier  volume 
+le  Zelle,  and  in  his  later  more  comprehensive  work, 
+'lyi'incinc  Biologie,  (4th  ed.),  surely  adds  much  to  the 
+theory  that  is  not  hinted  at  in  this  brief  definition. 
+
+The  characterization  of  the  theory  by  E.  B.  Wilson  more 
+adequately  expresses  its  scope  as  practically  understood  and 
+used  by  many  recent  biologists,  including  Hertwig  himself. 
+''In  its  broader  outlines,"  writes  Wilson,  "the  nature  of  this 
+organization  is  now  accurately  determined;  and  the  'cell- 
+
+
+The  Unity  of  the  Organism 
+
+theory,'  by  which  it  is  formulated,  is,  therefore,  no  longer 
+of  an  inferential  or  hypothetical  character,  but  a  generalized 
+statement  of  observed  fact  which  may  be  outlined  as  fol- 
+lows":— [only  the  baldest  essentials  of  the  outline  are  here 
+given].  (1)  "In  all  higher  forms  of  life,  whether  plants  or 
+animals,  the  body  may  be  resolved  into  a  vast  host  of  minute 
+structural  units  known  as  cells,  out  of  which,  directly  or 
+indirectly,  every  part  is  built."  (2)  "Essentially  the  cell  is  a 
+minute  mass  of  protoplasm,"  this  substance  being  "uni- 
+versally recognized  as  the  immediate  substratum  of  all  vital 
+activity."  (3)  All  the  cells  of  each  individual  organism  are 
+descended  by  cell  division  from  preceding  cells  and  finally 
+from  one  single  cell,  the  fertilized  egg-cell.  (4)  This  fer- 
+tilized egg-cell,  which  is  the  beginning  of  each  individual 
+organism,  is  produced  by  the  fusion  of  two  cells  one  of 
+which  comes  from  the  mother,  the  other  from  the  father 
+of  the  individual  in  question,  so  that  "the  ultimate  prob- 
+lems of  sex,  fertilization,  inheritance,  and  development  are 
+shown  to  be  cell- problems."  4 
+
+The  tout  ensemble  of  meaning  and  of  importance  of  the 
+theory  for  Wilson  are  forced  home  in  the  very  first  sentence 
+of  his  excellent  book:  "During  the  half-century  that  has 
+elapsed  since  the  enunciation  of  the  cell-theory  by  Schleiden 
+and  Schwann,  in  1838-39,  it  has  become  ever  more  clearly 
+apparent  that  the  key  to  all  ultimate  biological  problems 
+must,  in  last  analysis,  be  sought  in  the  cell."  5 
+
+A  concise  formulation  of  the  theory  with  the  expansive 
+meaning  given  it  by  Wilson  is  furnished  by  Locy  in  Biology 
+and  its  Makers.  "A  statement  of  the  cell-theory  at  the 
+present  time,  then,  must  include  these  four  conceptions : 
+the  cell  as  a  unit  of  structure,  the  cell  as  a  unit  of  physio- 
+logical activity,  the  cell  as  embracing  all  hereditary  quali- 
+ties within  its  substance,  and  the  cell  in  the  historical  de- 
+velopment of  the  organism." 
+
+This  expanded  form  of  the  theory  of  cells,  held  implicitly 
+
+
+The  Organism  and  Its  Cells  153 
+
+rather  than  explicitly,  lias  brought  it  to  pass  that  many 
+biologists  seem  to  do  most  of  their  scientific  thinking  in 
+terms  of  cells.  The  multiform  activities  of  "cell-life,"  as 
+a  common  expression  has  it,  appear  to  be  the  final  thought- 
+goal  of  such  biologists.  But  the  theory  is  not  by  any  means 
+allowed  so  broad  a  scope  by  all  biologists.  This  finds  illus- 
+tration in  the  article  on  the  theory  furnished  to  the  Dic- 
+tionary of  Philosophy  and  Psychology  by  C.  Lloyd  Morgan 
+and  K.  S.  (ioodrich.  As  understood  by  these  authorities, 
+the  theory  is,  "The  doctrine  that  all  organisms  are  composed 
+either  of  individual  cells  (unicellular  organisms)  or  of  a 
+compound  aggregate  of  cells  (the  higher  plants  and  animals) 
+with  certain  cell-products ;  and  that  every  cell,  no  matter 
+how  differentiated  in  structure  or  function,  is  derived  from 
+a  preceding  cell."  7 
+
+A  few  good  authorities,  for  example,  Driesch,  even  go  so 
+far  in  restricting  the  cell-theory  to  this  aspect  of  it,  and  in 
+standing  so  confidently  on  its  factual  nature  as  to  deny 
+that  there  really  is  now  a  cell-theory  at  all.  The  cellular 
+composition  of  all  organisms  (the  unicellulars  of  course 
+exceptcd)  is,  he  says,  "a  simple  fact  of  observation,  and  I 
+therefore  cannot  agree  with  the  common  habit  of  giving  to 
+this  plain  fact  the  title  of  cell-theory.  There  is  nothing 
+theoretical  in  it."  The  examination  of  definitions  has 
+gone  far  enough  to  bring  out  several  points  of  prime  moment 
+for  our  enterprise:  The  cell-theory  has  been  in  the  past, 
+and  still  is,  understood  quite  differently  by  different  biolo- 
+gists. In  the  narrower  signification  given  it  by  such  au- 
+thorities as  Morgan  and  Goodrich,  it  is  held  to  the  strict 
+bounds  of  a  generalization  of  observations  on  the  minuter 
+make-up  of  both  adult  and  all  developmental  stages  of  plants 
+and  animals.  Such  observations,  vast  in  range  and  num- 
+ber, have  thus  far  found  no  exception  to  the  rule  that  each 
+plant  and  animal  body  can  be  resolved  into  very  small  units 
+and  products  thereof,  all  the  units  in  each  organism  being 
+
+
+The   Unity  of  the  Organism 
+
+derived  by  division  from  preceding  units.  These  units  have 
+so  much  in  common  both  structurally  and  functionally  that 
+the  same  name  may  be  applied  to  them  all.  The  name  fixed 
+upon,  though  a  bad  misfit  because  of  serious  errors  of  obser- 
+vation and  interpretation  on  the  part  of  several  early  inves- 
+tigators, is  cell. 
+
+When  held  down  to  these  narrower  limits,  the  theory 
+contains  no  express  reference  to  heredity ;  it  makes  no  claim 
+to  "embracing  all  the  hereditary  qualities  in  its  substance." 
+Still  less  does  it  contain  even  by  implication  the  notion 
+that  the  "key  to  all  ultimate  biological  problems  must,  in 
+last  analysis,  be  sought  in  the  cell." 
+
+(c)  Statement  of  Theory  Justified  by  Present  State  of 
+Knowledge 
+
+I  may  now  state  categorically  my  view  of  the  cell- 
+theory  :  If  accepted  in  the  broad  signification  given  it  by  Wil- 
+son and  many  others,  it  must  be  recognized  as  consisting  of 
+two  very  distinct  parts.  First,  there  is  the  part  which  ex- 
+presses in  the  generalization,  no  longer  questioned  by  any 
+one,  the  cellular  constitution  of  all  organisms  and  the  origin 
+of  individual  cells.  And  second,  there  is  the  vaguely  hypo- 
+thetical part  about  the  cells  "embracing  in  their  substance 
+all  hereditary  qualities,"  and  for  this  and  other  reasons  be- 
+ing the  "key  of  all  ultimate  biological  problems."  If  our  dis- 
+cussion of  "The  organism  and  its  cells"  accomplishes  its 
+aims,  it  will  remove  the  vagueness  of  this  second  part  of 
+the  cell-theory,  and  in  doing  so,  while  questioning  in  no 
+manner  any  established  truth  which  it  contains,  will  reveal 
+the  inadequacy  of  some  of  its  central  conceptions. 
+
+"The  whole  of  an  organism  is  as  essential  to  the  inter- 
+pretation of  its  parts  as  the  parts  are  to  the  interpretation 
+of  the  whole."  So  runs  the  first  of  our  fundamental  prop- 
+ositions. Let  us  substitute  "cells"  for  "parts"  in  this  and 
+examine  it.  The  organism  is  as  essential  to  the  interpre- 
+
+
+The  Organ/win  and  It*  (V//.v  155 
+
+tation  of  its  cells,  as  the  cells  are  to  the  interpretation  of 
+the  organism.  A  brief  excursion  into  the  history  of  the 
+cell-theory  is  essential  to  the  discussion. 
+
+It  is  well  known  that  the  early  workmen  on  the  cell- 
+theory  had  quite  erroneous  notions  of  the  nature  of  cells. 
+The  error  has,  unfortunately,  left  its  conspicuous  and  in- 
+eradicable mark  on  biology  in  the  term  cell.  This  name 
+was  chosen  from  the  circumstance  that  the  first  studies  were 
+made  on  grown  plants  where  the  cell-wall  is  the  most  easily 
+observable  part  of  the  cell,  so  that  the  cells  frequently  ap- 
+pear like  vesicles  either  quite  empty  or  containing  a  clear 
+fluid  or  semi-fluid.  Cells  were  closed  chambers  the  walls  of 
+which  were  the  main  thing,  according  to  these  pioneering 
+views.  For  a  long  time  the  nature,  structural  and  func- 
+tional, of  the  contents  of  these  chambers  played  only  a 
+subordinate  part.  Gradually,  however,  from  widely  scat- 
+tered observations,  partly  on  the  simplest  unicellular  or- 
+ganisms, partly  on  the  contents  of  certain  simple  plant  cells, 
+and  partly  on  the  tissues  of  higher  animals,  it  dawned  upon 
+biologists  that  the  material  within  the  cell-wall  is  the  main 
+thing,  and  that  this  material  is  much  the  same  in  all  cells, 
+whether  plant  or  animal,  of  low  or  high  degree.  The  pro- 
+toplasm of  Purkinje  and  Von  Mohl,  the  sarcode  of  l)ti  jardin, 
+the  "cell  sap"  of  Corti  and  Treviranus,  and  the  "plant 
+mucilage''  of  Schleiden,  were  all  brought  together  because 
+of  their  close  resemblance  and  designated  by  a  single  name. 
+On  account  of  the  seeming  simplicity  of  this  material  and 
+the  undoubted  dependence  of  life  phenomena  upon  it,  pro- 
+toplasm is  the  designation  now  almost  universally  applied 
+to  it.  To  Max  Schult/e,  writing  in  1861,  belongs  the  credit 
+more  than  to  any  other  one  man,  of  comprehending  the 
+nature  of  cells  as  we  now  understand  them,  and  the  terminol- 
+ogy in  which  Oscar  Hertwig  expresses  Schult/e's  achieve- 
+ment is  of  prime  significance.  Although  Schult/e  retained 
+the  name  cell,  naturali/ed  in  anatomy  by  Schleiden  and 
+
+
+156  The  Unity  of  the  Organism 
+
+Schwann,  he  "defines  it,"  Hertwig  says,  "as  a  bit  of  proto- 
+plasm endowed  with  life,  in  which  lies  a  nucleus."  ! 
+
+Almost  simultaneously  with  this  insight  by  Schultze,  Carl 
+Briicke,  contemplating  cells  from  the  standpoint  of  their 
+complex  structure  as  well  as  from  that  of  their  ensemble  of 
+life  activities,  advanced  to  the  conception  of  the  cell  as  an 
+organism. 
+
+The  language  in  which  Briicke  expresses  himself  on  this 
+point  is  of  sufficient  interest  to  warrant  quoting:  "We 
+must  ascribe  to  the  living  cell,  in  addition  to  the  molecular 
+structure  of  the  organic  compounds  which  it  contains,  still 
+another  and  a  differently  constituted  structure,  and  it  is 
+this  which  we  designate  as  organization  " IQ  And  in  another 
+connection  he  introduces  the  phrase,  now  firmly  established 
+in  biology,  elementary  organism,  as  a  designation  for  the 
+cell. 
+
+One  of  the  securest  aspects  of  the  cell-theory  was  reached 
+only  when  the  conception  organism  was  applied  to  the  cell. 
+Both  historically  and  logically,  the  organism  is  made  to  do 
+duty  in  interpreting  the  cell.  Whatever  validity  the  con- 
+ception cell  has  in  the  modern  cell-theory,  is  due  in  large 
+measure  to  whatever  validity  the  conception  organism  has. 
+But  the  conception  organism  was  well  established  in  biology 
+long  before  the  conception  cell  was;  hence  the  justification 
+of  the  statement  that  historically  the  organism  interprets 
+the  cell.  Organism  as  an  idea  is  prior  and  contributory  to 
+cell  as  an  idea.  That  logically  also  the  cell  is  partly  in- 
+terpreted by  the  organism  is  seen  in  the  fact  that  observers 
+agree  in  ascribing  to  the  cell  the  most  distinctive  attributes 
+of  the  organism :  namely  those  of  metabolism,  reproduction, 
+response  to  stimuli,  etc. 
+
+Our  birds-eye  view  of  the  cell-theory  enabled  us  to  see 
+that  if  it  be  held  in  the  broad  sense  in  which  it  is  con- 
+ceived by  many  but  not  by  all  biologists,  it  consists  of  two 
+parts : — one  a  firmly  established  generalization  of  observed 
+
+
+The  Organism  and  Its  Cells  157 
+
+facts,  the  other  a  vaguely  stated  hypothesis.  We  further 
+saw  that  the  secure  generalization  has  two  quite  distinct 
+parts,  the  one  stating  that  higher  organisms  are  made  up 
+of  cells,  the  other  stating  certain  cardinal  facts  about 
+the  cell  itself.  But  later  examination  fixed  attention  on  the 
+fact  that  the  theory  as  now  held  regards  the  cell  itself  as  an 
+organism.  In  other  words,  the  two  essential  components 
+of  that  part  of  the  theory  which  is  solidly  grounded  interpret 
+each  other :  By  showing  how  the  organism  is  made  up,  the 
+cells  interpret  the  organism;  and  by  showing  wbat  the  cell 
+7.v  ///  itx  fundamental  attributes,  the  organism  interprets  the 
+cell.  The  cell  is  a  "key"  to  the  nature  of  the  organism,  but 
+not  so  in  "last  analysis"  for,  at  least  in  equal  measure,  is 
+the  organism  a  "key"  to  the  cell.  Or,  if  the  idea  of  heredity 
+hi-  introduced  into  the  cell-theory,  not  more  than  half  the 
+truth  is  contained  in  the  statement  that  the  cell  "embraces 
+all  hereditary  qualities  in  its  suhstance,"  for  we  have  seen 
+that  one  of  the  corner-stones  of  the  modern  conception  of 
+the  cell,  as  laid  down  by  Schult/e  and  Briicke,  is  that 
+the  attrihntes  of  the  organism  belong  to  it  also,  not  indeed 
+merely  hidden  "in  its  suhstance,"  but  patent  and  observable. 
+If  we  restrict  attention  to  the  germ-cells  and  apply  to 
+them  the  idea  of  hereditary  qualities  embraced  in  their  sub- 
+stance, we  are  still  bound,  as  consistent  evolutionists,  to  ask 
+how  the  germ-cells  came  by  these  qualities.  No  answer  is 
+forthcoming  to  this  inquiry  which  does  not  essentially  involve 
+the  fact  that  the  germ-cells  received  the  qualities  from  the 
+p.-irent  organisms.  The  interpretative  relation  between  the 
+organism  and  its  cells  is  one  of  strict  reciprocality  whether 
+the  germ-cells  or  soma-cells  be  regarded,  even  in  the  broad 
+general  terms  of  the  cell-theory.  The  problem  of  the  or- 
+ganism and  its  cells  is  the  general  form  of  the  old  special 
+problem  of  the  hen  and  the  egg.  Which  came  first,  runs  the 
+familiar  conundrum,  the  hen  or  the  egg?  Expressed  ii? 
+scientific  terms,  the  question  is,  which  interprets  or  explains 
+
+
+158  The   Unity  of  the  Organism 
+
+the  other,  the  parent  organism  or  the  germ-cells?  If  the 
+cell-theory  be  taken  in  the  broad  sense  above  considered, 
+the  aspect  of  it  which  we  are  holding  to  be  erroneously 
+hypothetical,  would  answer  that  the  germ-cells  interpret  the 
+parents.  According  to  our  standpoint,  on  the  other  hand, 
+this  hypothesis  is  inadequate  in  that  it  tells  at  least  no  more 
+than  half  the  truth.  The  parents  interpret  the  germ-cells 
+quite  as  truly  as  the  germ-cells  interpret  the  parents.  They 
+follow  each  other  in  a  casually  related,  regularly  alternating 
+series ;  and  biology  has  no  inductive  ground  for  supposing 
+that  either  term  came  first  in  any  ultimate  sense. 
+
+Certain  Inadequacies  of  the  Cell-Theory 
+
+Having  now  seen  that,  in  the  general  development  and 
+formulation  of  the  cell-theory,  it  is  literally  true  that  the 
+organism  has  interpreted  the  cell  as  much  as  the  cell  has 
+interpreted  the  organism,  we  must  see  something  of  how 
+this  works  out  in  detail. 
+
+The  impossibility  of  fully  explaining  an  organism  in  terms 
+of  its  constituent  cells  seems  to  have  been  felt  earlier  and 
+more  poignantly  by  students  of  the  normal  development 
+of  individuals  than  by  any  other  class  of  biologists.  De 
+Bary's  epigrammatic  statement,  already  quoted,  "The  plant 
+forms  cells;  the  cell  does  not  form  plants  (Die  Pflanze  bildet 
+Zellen,  nicht  die  Zelle  bildet  Pflanzen)"  was  induced  primar- 
+ily by  observations  of  his  own  and  others  on  developing 
+plants.  Here  it  is  easily  demonstrable  that  the  form  of 
+the  growing  tip  is  often  assumed  before  the  mass  divides 
+up  into  cells.  In  other  words,  the  formation  of  cells  is 
+certainly  in  these  cases  a  secondary  even  though  an  essential 
+phenomenon.11 
+
+(a)  As  Tested  by  Embryonic  Development 
+
+On  the  side  of  animal  development,  C.  O.  Whitman  was 
+the  first  to  produce  arguments,  both  comprehensive  and  ir- 
+
+
+The  Orynmxm   and  Its  Cells  159 
+
+refutable,  against  the  doctrine  of  cell  hegemony,  though  Carl 
+Rauber,  Adam  Scdgwick,  ().  Ilertwig  and  a  few  others  had 
+already  become  more  or  less  positive  dissenters  from  the 
+prevailing  view.  Whitman's  studies  on  the  initial  embryonal 
+stages  of  bony  fishes  appears  to  have  stronglv  impressed 
+upon  him  the  subordination  of  the  cells  to  the  general  needs 
+of  the  developing  fish.  "That  the  forms  assumed  by  the 
+embryo  in  successive  stages  are  not  dependent  on  cell-division, 
+may  be  demonstrated  in  almost  any  egg.  Watch  the  ex- 
+pansion of  the  blastoderm  in  the  pelagic  teleost  egg,  the 
+formation  of  the  germ-ring,  and  especially  the  axial  con- 
+centration of  material,  which  is  so  beautifully  illustrated  in 
+these  eggs.  Such  developmental  processes  are,  if  I  mistake 
+not,  clearly  indicative  of  some  sort  of  organization."  12  And 
+approaching  the  problem  from  a  slightly  different  angle, 
+he  says:  "May  we  not  go  further,  and  say  that  an  organism 
+is  an  organism  from  the  egg  onward,  quite  independently 
+of  the  number  of  cells  present?  In  that  case,  continuity  of 
+organization  would  be  the  essential  thing,  while  division  into 
+cell-territories  might  be  a  matter  of  quite  secondary  im- 
+portance." 13 
+
+It  was  the  domination  of  cell  division  by  forces  other  than 
+those  belonging  to  the  cells  taken  independently  that  especi- 
+ally held  his  interest.  "The  more  carefully  we  compare  the 
+cleavage  in  different  eggs,  the  more  clear  it  becomes  that  the 
+test  of  organization  in  the  egg  docs  not  lie  in  its  mode  of 
+cleavage,  but  in  subtile  formative  processes.  The  plastic 
+forces  heed  no  cell-boundaries,  but  mould  the  germ-mass  re- 
+gardless of  the  way  it  is  cut  up  into  cells."14  And  he 
+clearly  saw  that  to  fly  from  cells  to  nuclei,  there  to  seek 
+final  explanatory  refuge,  as  Sedgwick  particularly  had  pro- 
+posed, was  no  more  satisfactory  than  to  stay  with  the 
+cells. 
+
+"The  essence  of  organization,"  he  says,  "can  no  more 
+lie  in  the  number  of  nuclei  than  in  the  number  of  cells.  The 
+
+
+160  Tie   Unity  of  the  Organism 
+
+structure  which  we  see  in  a  cell-mosaic  is  something  super- 
+added  to  organization,  not  itself  the  foundation  of  organi- 
+zation." Then  follows  this  pregnant  sentence:  "Compara- 
+tive embryology  reminds  us  at  every  turn  that  the  organism 
+dominates  cell  formation,  using  for  the  same  purpose  one, 
+several,  or  many  cells,  massing  its  material  and  directing 
+its  movements,  and  shaping  its  organs,  as  if  cells  did  not 
+exist,  or  as  if  they  existed  only  in  complete  subordination  to 
+its  will,  if  I  may  so  speak."  15  After  sketching  the  rise  and 
+fall  of  that  puzzling  structure  in  many  vertebrate  embryos 
+known  as  Kupffer's  vesicle,  Whitman  writes:  "This  re- 
+markable reproduction  of  a  form-phase  that  is  to  last  only 
+a  few  hours  and  then  pass  away  without  leaving  a  visible 
+trace  of  its  existence,  cannot  be  explained  as  due  to  cell- 
+formation  nor  as  the  result  of  tndiiidiial  action  or  inter- 
+action on  the  part  of  the  cells.  The  embryonic  mass  acts 
+rather  as  a  unit,  tending  always  to  assume  the  form  peculiar 
+to  the  state  of  development  reached  by  its  essential  'archi- 
+tectonic elements,'  (Briicke),  elements  that  are  no  less  real 
+because,  like  the  atom  and  molecule,  they  are  too  minute  to 
+be  seen  by  the  aid  of  our  present  microscopes.  That  cells 
+as  such  do  not  participate  in  this  formative  act,  is  shown 
+by  the  mode  of  development  of  the  vesicle  and  by  the  absence 
+of  cells  in  its  ventral  and  lateral  wall."  16 
+
+We  have  now  examined  Whitman's  position  far  enough 
+for  our  present  point;  that,  namely,  of  showing  the  strength 
+of  his  conviction  that  cells  taken  individually  furnish  no 
+adequate  explanation  of  the  normally  developing  individual 
+organism.  The  evidence  he  presents  to  this  end  never  has 
+been  nor,  I  am  persuaded,  can  ever  be  overpowered.  On  the 
+other  hand,  any  one  who  will  study,  as  Whitman  himself 
+says,  "more  faithfully  the  living  embryo  during  its  forma- 
+tion" 1T  will  find  abundance  of  further  evidence  to  the  same 
+effect.  So  far — and  this  is  a  very  long  way — Whitman  was 
+crystal  clear.  Further  than  this  he  was  unable  to  break  away 
+
+
+The  Organism  and  Its  Cells  161 
+
+from  the  old  elementalist  form  of  reasoning. 
+
+The  name  of  E.  B.  Wilson  was  coupled  with  that  of  Whit- 
+man in  my  general  introductory  remarks  on  the  appearance 
+in  modern  biology  of  the  conception  of  the  organism  as  a 
+whole.  We  will  now  examine  in  some  detail  this  authority's 
+views  concerning  the  cell  in  development.  Discussing  the  so- 
+t-ailed Mosaic  theory  of  development  in  1893  Wilson  said, 
+"I  will  here  point  out  one  all-important  point  which  is 
+definitely  established  by  the  work  of  Driesch  and  other  ex- 
+perimentalists, and  which  is  accepted  by  all  opponents  of 
+the  mosaic  theory,  namely,  that  the  cell  cannot  be  regarded 
+as  an  isolated  and  independent  unit.  The  only  unity  is  that 
+of  the  entire  organism,  and  as  long  as  its  cells  remain  in 
+continuity  they  are  to  be  regarded  not  as  morphological 
+individuals,  but  as  specialized  centres  of  action  into  which 
+the  living  body  resolves  itself,  and  by  means  of  which  the 
+physiological  division  of  labor  is  effected."  18 
+
+After  referring  to  Schwann's  having  drawn  "the  con- 
+clusion that  the  life  of  the  organism  is  essentially  a  com- 
+posite; that  each  cell  has  its  independent  life;  and  that  the 
+whole  organism  subsists  only  by  means  of  the  reciprocal 
+action  of  the  single  elementary  parts,"  Wilson  says :  "It  is, 
+however,  becoming  more  and  more  clearly  apparent  that  this 
+conception  expresses  only  a  part  of  the  truth,  and  that 
+Sch warm  went  too  far  in  denying  the  influence  of  the  or- 
+ganism upon  the  local  activities  of  the  cells.  It  would,  of 
+course,  be  absurd  to  maintain  that  the  whole  can  consist 
+of  more  than  the  sum  of  the  parts.  Yet,  as  far  as  growth 
+and  development  are  concerned,  it  has  now  been  clearly 
+demonstrated  that  only  in  a  limited  sense  can  the  cells  be 
+regarded  as  co-operating  units.  They  are  rather  local 
+centres  of  a  formative  power  pervading  the  growing  mass 
+as  a  whole,  and  the  physiological  autonomy  of  the  individual 
+cell  falls  into  the  background.  Broadly  viewed,  therefore, 
+the  life  of  the  multicellular  organism  is  to  be  conceived  as  a 
+
+
+162  The  Unity  of  the  Organism 
+
+whole,  and  the  apparently  composite  character  which  it  may 
+exhibit  is  owing  to  a  secondary  distribution  of  its  energies 
+among  local  centres  of  action." 
+
+Our  only  object  in  this  section  is  to  place  before  the 
+reader  as  much  as  practicable  of  the  views  of  biologists  that 
+the  organism  and  not  the  cells  of  which  it  is  composed  is 
+the  main  thing  in  development.  It  would  consequently  be 
+put  of  place  to  go  into  a  critical  examination  of  this  lan- 
+guage. It  will,  however,  be  permissible  by  way  of  intimation 
+of  what  will  be  involved  in  the  discussion,  to  ask  how  the  view 
+that  "the  life  of  the  multicellular  organism  is  to  be  con- 
+ceived as  a  whole,"  can  be  made  to  tally  with  the  view  ex- 
+pressed in  the  first  sentence  of  The  Cell,  already  quoted, 
+that  "the  key  to  all  ultimate  biological  problems  must,  in 
+the  last  analysis,  be  sought  in  the  cell."  5 
+
+Wilson's  authority  is  deservedly  so  great  in  all  these 
+matters  that  his  utterances  will  be  taken  as  one  of  the 
+main  centres  around  which  our  examination  of  the  cell  theory 
+will  hover.  On  this  account,  I  quote  somewhat  more  at 
+length  than  would  be  essential  to  show  merely  his  general 
+position.  In  the  chapter,  "Cell-division  and  Development," 
+he  writes :  "It  remains  to  inquire  more  critically  into  the 
+nature  of  the  correlation  between  growth  and  cell-division. 
+In  the  growing  tissues,  the  direction  of  the  division-planes 
+in  the  individual  cells  evidently  stands  in  a  definite  relation 
+with  the  axes  of  growth  in  the  body,  as  is  especially  clear 
+in  the  case  of  rapidly  elongating  structures  (apical  buds, 
+teloblasts,  and  the  like),  where  the  division-planes  are  pre- 
+dominantly transverse  to  the  axis  of  elongation.  Which  of 
+these  is  the  primary  factor,  the  direction  of  general  growth 
+or  the  direction  of  the  division-planes?  This  question  is  a 
+difficult  one  to  answer,  for  the  two  phenomena  are  often  too 
+closely  related  to  be  disentangled.  As  far  as  the  plants  are 
+concerned,  however,  it  has  been  conclusively  shown  by  Hof- 
+meister,  De  Bary,  and  Sachs  that  the  growth  of  the  mass 
+
+
+The  Organism  and  It,s  Ccllx  163 
+
+is  the  primary  factor;  for  the  characteristic  mode  of  growth 
+is  often  shown  by  tin-  growing  mass  before  it  splits  up  into 
+cells,  and  the  form  of  cell-division  adapts  itself  to  that  of 
+the  mass:  'Die  1'tlan/e  bildet  /ellen,  nicht  die  Zellc  bildct 
+I'flan/i-n.'  Much  of  the  recent  work  in  normal  and  experi- 
+mental embryology,  as  well  as  that  on  regeneration,  indi- 
+cates that  the  same  is  true,  in  principle,  of  animal  growth. 
+.  .  .  Still  more  recently  this  view  has  been  almost  demon- 
+strated through  some  remarkable  experiments  on  regenera- 
+tion, which  show  that  definitely  formed  material,  in  some- 
+cases  even  the  adult  tissues,  may  be  directly  moulded  into 
+new  structures."  20 
+
+I  go  no  farther  here  in  the  examination  of  Wilson's  biolog- 
+ical philosophy  than  to  point  out  that,  in  spite  of  his  clear 
+perception,  as  indicated  by  these  quotations,  that  the  organ- 
+ism as  a  whole  plays  a  determining  part  in  the  development 
+of  its  constituent  elements,  his  latest  statements  show  that  he 
+is  succeeding  all  too  well  in  obeying  the  ancient  injunction: 
+"Let  not  thy  right  hand  know  what  thy  left  hand  doeth." 
+Presumably  his  left  hand  still  clings  to  the  "whole  mass 
+as  a  moulding  power  of  the  parts."  But  his  right  hand 
+seems  now  more  confident  than  ever  of  finding  the  "key  to 
+all  ultimate  biological  problems"  in  the  cells,  or  maybe  in 
+the  chromosomes. 
+
+In  a  lecture  published  in  1{)1#,  speaking  of  the  inter- 
+e>ting  phenomenon  of  ''criss-cross  heredity"  in  the  short 
+•ind  !onguwinged  flies  lately  studied  by  Morgan,  where  the 
+>on>,  are  like  their  mothers  and  the  daughters  are  like  their 
+fathers,  Wilson  says:  "This  case,  and  many  others  of  similar 
+type,  may  be  completely  explained  through  our  knowledge 
+of  the  relation  of  the  chromosomes  to  sex.  .  .  .  All  the  facts 
+revealed  by  experiment  are  very  simply  and  completely  ac- 
+counted for  by  the  simple  assumption  that  the  x-chromosomc 
+is  responsible  not  only  for  sex,  but  also  for  the  short-winged 
+character."  21  Our  critical  examination  of  this  whole  mat- 
+
+
+164  The   Unity  of  the  Organism 
+
+ter,  when  we  come  to  it,  will  lead  us  to  see  that  the  essenee 
+of  Wilson's  criticism  of  Schwann  relative  to  cells,  quoted 
+above,  will  now  have  to  be  applied  to  himself  relative  to 
+chromosomes:  "This  conception  expresses  only  part  of  the 
+truth,  and  Schwann  went  too  far  in  denying  the  influence 
+of  the  totality  of  the  organism  upon  the  local  activities  of 
+the  cells,"  said  Wilson  in  1900.  Now  we  shall  have  to  say 
+that  Wilson  goes  too  far  in  denying,  by  implication,  the 
+influence  of  the  totality  of  the  organism  in  determining  sex; 
+for  the  assumption  that  the  x-chromosome  is  "responsible 
+for  sex,"  and  that  the  facts  arc  "simply  and  completely  ac- 
+counted for"  by  this  assumption  surely  involves  this  impli- 
+cation. 
+
+Driesch's  views  touching  the  relation  of  the  organism  to 
+its  constituent  elements  generally  are  very  important,  and 
+will  have  to  be  considered  under  several  heads.  We  have 
+already  referred  to  his  proposal  to  purge  the  cell-theory  of 
+all  that  is  hypothetical  in  it.  Continuing  the  previous  quota- 
+tion, we  have  this :  "  .  .  .  attempts  to  conceive  the  organ- 
+ism as  a  mere  aggregate  of  cells  have  proved  to  be  wrong. 
+It  is  the  whole  that  uses  the  cells,  ...  or  that  may  not 
+use  them."  22  His  much  discussed  theory  of  "equipotentiiil 
+morphogenic  system''  had  its  inception,  as  is  well  known,  in 
+his  study  of  the  blastomeres  in  early  embryonic  development. 
+At  present,  I  go  no  further  than  to  point  out  that  while  it 
+seems  certain  to  Driesch  that  the  "organism  as  a  whole" 
+is  essentially  implicated  in  some  fashion  in  producing  organic 
+structure,  it  also  seems  certain  to  him  that  he  knows  nothing 
+significant  about  the  nature  of  that  implication.  He  says: 
+"So  all  we  know  about  the  proper  stimuli  of  restrictions  is 
+far  from  resting  on  any  valid  grounds  at  all;  let  us  not 
+forget  that  we  are  here  on  the  uncertain  ground  of  what 
+may  be  called  the  newest  and  most  up-to-date  branch  of 
+the  physiology  of  form.  No  doubt  there  will  be  something 
+discovered  some  day,  and  tile  idea  of  the  'whole'  in  organi- 
+
+
+The  Organism  and  Its  Cells 
+
+7;ition  will  probably  play  some  part  in  it.  But  in  what  man- 
+ner that  will  happen  we  are  quite  unable  to  predict." 
+
+I  conclude  this  inventory  of  expressed  recognitions  by 
+competent  observers  that  the  organism  dominates  its  cells 
+in  embryogenesis,  with  two  modes  of  formulating  this  recog- 
+nition that  are  specially  significant.  They  are  expressions 
+of  the  unity  or  oneness  of  the  individual  organism  in  time; 
+and  of  its  unity  or  oneness  in  space. 
+
+E.  G.  Conklin  has  expressed  the  first  truth  with  com- 
+mendable decisiveness  and  simplicity:  "Furthermore,  from 
+its  earliest  to  its  latest  stage  an  individual  is  one  and  the 
+same  organism;  the  egg  of  a  frog  is  a  frog  in  an  early  stage 
+of  development  and  the  characteristics  of  the  adult  frog 
+develop  out  of  the  egg,  but  are  not  transmitted  through  it 
+by  some  'hearers  of  heredity.'  "  24  This  proposition  is  so 
+nearly  self-evident  that  it  would  not  need  insisting  upon 
+hut  for  its  having  been  obscured  by  sophistical  discussions 
+of  whether  development  is  "predetermined"  or  "epigenetic." 
+Huxley  stated  it  in  essence  when  he  declared  it  to  be  "certain 
+that  the  germ  is  not  merely  a  body  in  which  life  is  dormant 
+or  potential,  but  that  it  is  itself  simply  a  detached  portion 
+of  the  substance  of  a  pre-existing  living  body." 
+
+Niigeli  put  it  in  still  more  concrete  terms  when  he  af- 
+firmed that  the  hen's  egg  differs  from  the  frog's  egg  as 
+much  as  the  grown-up  hen  differs  from  the  grown-up  frog; 
+that  the  species  is  no  less  certainly  contained  in  the  egg 
+than  in  the  adult.  However  this  speculator  befogged  the 
+truth  with  his  fanciful  idioplasm.  The  best  expression  of 
+the  spacial  unity  of  the  developing  organism  with  which  I 
+am  acquainted  is  that  by  F.  R.  Lillie:  "The  traditional 
+view,  held  by  many  embryologists  at  the  present  day,  is  that 
+the  physiological  unity  arises  in  the  course  of  embryonic 
+development  by  the  secondary  adaptation  of  originally  in- 
+dependent parts  to  one  another.  But  this  explanation  lias, 
+in  my  opinion,  become  untenable,  and  must  be  replaced  by 
+
+
+Ififi  The   Unity  of  the  Organism 
+
+the  view  that  there  are  certain  properties  of  the  whole,  con- 
+stituting a  principle  of  unity  of  organization,  that  are  part 
+of  the  original  inheritance,  and  thus  continuous  through 
+the  cycles  of  the  generations  and  do  not  arise  anew  in 
+each."  25 
+
+For  the  present  I  do  no  more  than  remind  the  reader  that 
+the  italics  here  are  Lillie's,  not  mine ;  and  that  his  clear  and 
+emphatically  expressed  conclusion  does  not  rest  alone  on  the 
+experiments  presented  in  the  paper  quoted  from,  but  had 
+been,  in  essentials,  reached  by  him  through  earlier  studies 
+on  normally  developing  animals. 
+
+Several  of  the  few  biologists  who  have  taken  a  positive 
+stand  against  the  dogma  of  the  all-sufficiency  of  the  Cell  in 
+biology  have  deplored  the  well-nigh  universal  custom  of 
+early  indoctrinating  young  students  with  that  part  of  the 
+cell-theory  which  I  have  characterized  as  vaguely  hypothe- 
+tical. Adam  Sedgwick  in  particular  concentrated  his  fire 
+on  this  aspect  of  the  matter.  There  can  be  no  doubt  that 
+many  if  not  most  recent  elementary  text-books  are  unwitting 
+sinners  in  this.  On  the  outmost  threshold  of  the  temple 
+of  biological  science,  the  student  is  made  to  feel,  by  the 
+priests  within,  that  the  head  should  be  bowed,  the  knee  bent 
+and  the  voice  subdued  when  certain  things,  some  difficultly 
+visible,  some  wholly  invisible,  things  situated  deep  in  the 
+interiors  of  the  plants  and  the  animals  to  be  studied,  are 
+mentioned.  Among  these  minute  objects  of  adoration,  the 
+Cell  holds  a  commanding  place.  "Every  scientific  animal 
+and  plant  anatomy  must,  consequently,  take  its  starting 
+point  in  the  doctrine  of  the  Cell."  2G  No  matter  how  long 
+a  shelf  of  elementary  text-books  on  botany  and  zoology  one 
+examines,  he  will  rarely  fail  to  find  something  akin  to  this 
+explicit  statement  in  It.  Hertwig's  excellent  Lehrbuch  der 
+Zoologie. 
+
+According  to  this  the  anatomy  of  Vesalius,  Win.  Harvey, 
+John  Hunter  and  George  Cuvior,  and  others  who  lived  and 
+
+
+The  Organism  and  Its  Cells  167 
+
+wrought  before  there  was  any  cell-theory,  are  unscientific. 
+But  not  quite  all  writers  of  guides  for  the  young  see  the  mat- 
+ter this  way.  B.  Hatschek  may  be  mentioned  as  one  excep- 
+tion. In  his  Lelirbnch  he  writes:  "If  therefore  we  raise  the 
+question  why  one  cell  body  undergoes  this,  another  that 
+transformation,  we  shall  indicate  as  a  chief  cause  the  rela- 
+tion of  the  cells  first  of  all  to  their  neighbor  cells,  and  then 
+to  the  totality  of  the  body."  For  the  moment  we  will  be 
+satisfied  with  this  recognition  that  in  the  relation  of  the 
+cells  to  the  totality  of  the  body  as  well  as  to  one  another, 
+resides  a  cause  of  differentiation  of  the  cells  in  the  com- 
+pleted organism,  and  will  not  be  querulous  over  the  state- 
+ment that  this  relation  stands  "first  of  all"  as  a  cause. 
+
+I  believe  enough  has  now  been  brought  forward  on  the 
+pros  and  cons  of  the  cell-theory  of  development  to  establish 
+two  things :  Those  biologists  who  by  reason  of  their  own 
+researches,  either  through  unaided  observation  or  through 
+observation  assisted  by  experiment,  are  most  deserving  of 
+being  heard  on  the  subject  are  persuaded,  first,  that  not- 
+withstanding the  fact  that  the  developing  and  developed 
+organism  is  wholly  produced  through  the  multiplication  and 
+differentiation  of  cells,  these  cells  are  not  an  adequate  ex- 
+planation of  embryogeny ;  and,  second,  that  the  organism 
+ra  totality  must  enter  as  an  essential  element  into  any 
+equate  explanation  of  the  phenomenon. 
+
+
+(/;)  As  Tested  by  Isolated  Cells  and  Tissues 
+
+
+Before  Lillie's  contention  that  the  traditional  explanation 
+of  the  developing  embryo  has  "become  untenable  and  must 
+be  replaced  by  the  view  that  there  are  certain  properties 
+of  the  whole,  constituting  a  principle  of  unity  of  organiza- 
+tion, that  are  part  of  Hie  original  inlieritance"  can  gain 
+much  influence  on  biological  thinking,  it  will  have  to  be  / 
+examined  from  many  directions. 
+
+
+168  The  Unity  of  the  Organism 
+
+What,  on  cursory  view,  looks  more  like  confirmation  of 
+the  theory  of  cells  as  wholly  independent  elements  whose 
+cooperation  explains  the  organism,  than  any  facts  recently 
+brought  to  light,  are  some  of  the  results  of  recent  researches 
+on  isolated  tissues — "tissue  cultures,"  as  they  are  frequently 
+called.  The  German  phrase,  ueberlebende  Gewebe, — sur- 
+viving tissues — for  these  is  very  apt. 
+
+Although  the  work  of  Alexis  Carrel  in  this  realm  has  at- 
+tracted much  interest  and  attention  even  on  the  part  of 
+the  general  public,  it  is  recognized  by  biologists,  including 
+Dr.  Carrel,  that  R.  G.  Harrison  not  only  initiated  the 
+methods  employed,  but  also  reached  highly  important  results 
+by  applying  them.  The  specific  purposes  and  results  of 
+Harrison's  researches,  and  his  general  attitude  toward  prob- 
+lems of  individual  development,  are  of  prime  moment  for 
+our  discussion.  His  central  aim  was  to  end  the  perennial 
+debate  over  the  mode  of  origin  of  nerve  fibers  in  vertebrate 
+embryos,  and  the  persistence,  technical  skill,  and  cogency 
+of  reasoning  with  which  he  worked  at  the  problem  until  he 
+advanced  its  solution  sharply  beyond  the  point  reached  by 
+any  one  else,  are  admirable. 
+
+According  to  the  view  attributed  to  Wilhelm  His,  the 
+axis  cylinders  of  the  nerve  fibers  of  the  central  nervous 
+system  are  outgrowths  of  the  ganglionic  cells,  their  con- 
+nection with  the  end  organs  being  secondary.  The  other 
+view,  less  generally  held,  originally  advanced  by  the  physi- 
+ologist Victor  Hensen,  is  that  the  fibers  are  differentiations 
+within  protoplasmic  strands  which  have  connected  the  cen- 
+tral and  peripheral  cells  from  the  very  time  when  the  cells 
+themselves  were  formed,  their  character  as  nerve  fibers  being 
+taken  on  only  when,  through  the  activities  of  the  growing 
+embryo,  conducting  paths  are  needed. 
+
+Harrison's  earlier  attempts  to  terminate  the  controversy 
+by  transplanting  limb-buds,  under  various  conditions,  from 
+one  frog  tadpole  to  another,  had  led  him  to  believe  strongly 
+
+
+Tht'  <)r<jtimitin   find   7/.v   Cells  169 
+
+in  the  first  mentioned  view,  though  the  methods  of  experi- 
+mentation employed  were  not  such  as  to  make  it  possible 
+for  him  to  see  the  actual  outgrowth  of  the  fibers.  He  there- 
+fore tried  to  find  a  way  of  keeping  sufficiently  small  isolated 
+bits  of  the  embryonal  neural  tube  to  enable  him  to  observe 
+the  growths  under  the  microscope  if  they  actually  occur. 
+
+A  summary  of  his  results  stated  in  his  own  words  is: 
+"Pieces  of  undifferentiated  embryonic  tissue,  when  isolated 
+under  aseptic  precautions  in  clotted  lymph,  will  live  for 
+weeks  and  undergo  at  least  the  initial  stages  of  normal  his- 
+tological  differentiation:  cells  from  the  axial  mesoderm 
+i'ivr  rise  to  striated  muscle  fibers;  epidermal  cells  form  a 
+cuticular  border;  typical  chromatophorea  and  a  mesenchyme- 
+like  tissue  are  formed  from  pieces  containing  portions  of  the 
+neural  tube  and  axial  mesoderm;  the  walls  of  the  neural 
+tube  and  the  primordia  of  the  cranial  ganglia  give  rise  to 
+long  hyaline  filaments  closely  resembling  embryonic  nerve 
+fibers. 
+
+"Tissues  grown  in  lymph  function  characteristically,  as 
+is  seen  in  Hie  movement  of  cilia  and  the  contraction  of  muscle 
+fibers  when  left  in  organic  continuity  with  fragments  of  the 
+neural  tube/'  .  .  .  "The  experiments  show  that  neuroblasts 
+an-  competent  to  form  primitive  nerve  fibers  within  a  foreign 
+unorganized  medium  simply  by  the  amoeboid  outgrowth  of 
+their  protoplasm.  Bv  eliminating  from  the  periphery  all 
+formed  structures  which  have  heretofore  been  supposed  to 
+transform  themselves  into  nerve  fibers  and  leaving  only 
+the  neuroblasts  in  the  field,  it  is  demonstrated  that  the  lat- 
+ter are  the  sole  elements  essential  to  the  formation  of  nerves. 
+The  concepts  of  both  Hensen  and  Held  are  rendered  un- 
+tenable." 27 
+
+Thus  a  developmental  point  of  capital  importance  which 
+had  been  debated  at  length  and  with  considerable  spirit  as 
+long  as  investigation  was  conducted  upon  the  organism  in 
+its  entire  state,  was  solved  by  separating  from  the  rest  a  few 
+
+
+170  The  Unity  of  the  Organism 
+
+cells  and  finding  that  when  thus  isolated  they  were  able  to 
+develop  much  as  they  do  normally  within  the  organism. 
+Surely  no  more  conclusive  proof  that  the  cells  of  an  organ- 
+ism have  a  large  measure  of  independent  life  could  be  asked. 
+Harrison  epitomizes  this  aspect  of  his  results  in  a  very  clear- 
+cut  paragraph:  "The  energy  of  outgrowth  is  immanent  in 
+the  nerve  cell,  and  the  initial  direction  of  outgrowth  is 
+already  determined  within  the  cell  before  the  outgrowth 
+actually  begins.  The  formation  of  the  fiber  is  therefore  an 
+act  of  self  differentiation  within  Roux's  definition."  28 
+
+Do  not  such  discoveries  favor  unquestionably  the  view 
+that,  in  Wilson's  way  of  saying  it,  "the  key  to  all  ultimate 
+biological  problems  must,  in  last  analysis,  be  sought  in  the 
+cell?"  Some  authors,  as  for  example  Oppel,  answer  with  a 
+very  positive  yes,  but  I  have  found  nothing  in  Harrison's 
+writings  to  enable  one  to  be  sure  what  he  would  do  were  he 
+to  answer  this  question  by  choosing  between  an  unqualified 
+yes  and  an  unqualified  no. 
+
+However,  discussing  the  general  question  of  the  relative 
+trustworthiness  and  value  of  experimental  studies  of  the 
+sort  devised  by  him,  and  those  of  the  sort  by  which  prob- 
+lems of  histogenesis  are  ordinarily  prosecuted,  he  has  ex- 
+pressed views  which  bear  strongly  on  the  question,  and 
+which  we  present  in  his  own  language: 
+
+"Why,  then,  should  we,  in  morphology,  be  still  so  domin- 
+ated by  the  conception  of  the  object  as  it  occurs  in  nature, 
+the  organism  as  a  whole,  which  to  many  seems  to  be  a  sort 
+of  fetish  not  to  be  touched  lest  it  show  its  displeasure  by 
+loading  the  offender  astray?  There  is  no  real  ground  for 
+maintaining  this  attitude.  On  the  contrary  we  should  en- 
+deavor to  extend  our  experimental  analysis  wherever  pos- 
+sible, recogni/ing  that  through  study  of  the  abnormal,  which 
+consists  im-rely  of  those  combinations  of  conditions  and 
+effects  that  do  not  ordinarily  occur  in  nature,  we  have  the 
+means  of  reaching  an  understanding  of  the  normal,  and  that 
+
+
+The  Oryamsm  and  Its  Cells  171 
+
+it  is  necessary  to  investigate  the  properties  of  the  constit- 
+uent parts  of  organisms  before  we  can  hope  to  under- 
+stand them  in  their  entirety.  Because  of  our  limited  knowl- 
+edge,  we  are  for  the  present  setting  ourselves  an  impossible 
+task  if  we  expect  to  determine  with  certainty  by  means  of 
+a  few  experiments  exactly  the  combination  of  factors  in- 
+volved in  the  normal  ontogeny  of  any  particular  structure. 
+In  fact  we  can  never  'explain'  the  processes  of  normal  de- 
+velopment with  more  than  a  certain  degree  of  probability, 
+until  we  succeed  in  synthesizing  organisms  from  simple 
+known  constituents  or  construct  working  models  that  show 
+all  of  the  essential  activities  of  organisms — achievements 
+from  which  we  still  are  very  far  removed.  Syntheses  may 
+possibly  be  made,  however,  at  different  stages  of  the  analysis 
+with  components  of  greater  or  less  complexity.  Thus  it  may 
+he  possible  to  extend  the  remarkable  experiments  of  H.  V. 
+Wilson."  2<J 
+
+The  manifest  worth  and  practicability  of  the  manipula- 
+tive methods  introduced  by  Harrison  assured  their  quick 
+adoption  by  other  workers,  and  already  a  considerable  litera- 
+ture has  come  into  being  dealing  with  "surviving  tissues." 
+Owing,  it  seems,  largely  to  the  fact  that  Dr.  Carrel  has  vig- 
+orously and  skillfully  applied  the  methods  in  the  interest  of 
+surgery,  he  has  attained  wider  distinction  in  connection  with 
+the  researches  than  has  any  one  else,  though  several  other 
+biologists  and  physicians  have  increased  knowledge  substan- 
+tially by  the  new  instrument  of  discovery. 
+
+The  remarkable  viability  of  tissues  removed  from  their 
+native  setting  in  the  organism  and  kept  under  artificial  con- 
+ditions is  well  brought  out  in  a  recent  paper  by  A.  H. 
+Klnling.  This  investigator  made  cultures  of  fragments  of 
+the  heart  of  chick  embryos  seven  to  eighteen  days  old,  a 
+few  of  which  lived  and  flourished  nearly  a  year.  "The  ex- 
+periments show,"  said  Kbi-ling,  "that  connective  tissue  can 
+l>r  kept  in  a  condition  of  active  growth  outside  of  the  organ- 
+
+
+172  The   Unity  of  the  Organism 
+
+ism  for  more  than  eleven  months,  that  its  mass  increases 
+considerably,  and  its  power  of  proliferation,  after  such  long 
+period,  is  more  active  than  at  the  beginning  of  its  life  m 
+vitro/' '  In  one  culture,  fragments  of  the  heart  pulsated 
+after  104  days.  The  evidence  is  now  conclusive  that  various 
+tissues  of  numerous  animals  are  able  to  live  and  grow  and 
+perform  something  of  their  characteristic  activities  for  a 
+long  time  after  being  separated  in  small  fragments  from  the 
+organism  at  various  stages  of  its  development. 
+
+Another  striking  attribute  proved  for  the  cells  of  young 
+embryos  is  their  mobility.  Harrison  dwells  on  the  exten- 
+siveness  and  significance  of  this,  and  all  the  other  investi- 
+gators are  impressed  with  it.  The  wandering  about  and 
+the  putting  out  of  protoplasmic  processes  by  cells  of  various 
+sorts,  notably  by  connective  tissue  and  nerve  cells,  are  men- 
+tioned by  all  writers.  Burrows'  account  of  the  behavior 
+of  the  growing  nerve  fibers  is  particularly  full  and  well 
+illustrated,  and  many  of  the  facts  are  so  significant  that  I 
+quote  at  some  length  from  his  description :  "Growth  of 
+the  nerve  cells  is  evident  by  filaments  of  various  sizes.  .  .  . 
+The  slender  filaments  are  composed  of  a  hyaline  homogeneous 
+protoplasm,  while  in  the  coarser  bundles  the  homogeneous 
+character  is  altered  by  the  appearance  of  delicate,  longi- 
+tudinal striations.  The  latter  bundles  break  up  into  many 
+fine  filamentous  branches.  .  .  .  At  the  end  of  each  of  these 
+growing  filaments  and  branches  is  the  characteristic  thick- 
+ened amoeboid  swelling.  .  .  .  This  is  an  oval  or  round  swell- 
+ing of  the  filament  from  which  protrude  many  actively  mov- 
+ing delicate  pseudopodia.  The  growth  of  a  fiber  consists 
+in  the  great  prolongation  and  enlargement  of  one  of  these 
+pseudopodia  with  a  gradual  moving  outward  of  the  end 
+knob  along  the  pseudopod.  The  growth  may  be  so  rapid 
+that  the  end  knob  may  entirely  disappear,  to  reappear  far- 
+ther out  along  the  new  grown  part.  .  .  .  During  this  time 
+(48  to  72  hours)  they  may  .  .  .  reach  a  length  of  from  one 
+
+
+The  Organism  and  Its  Cells  173 
+
+to  two  millimeters.  .  .  .  The  activity  of  such  fibers  is  noted 
+at  the  amoeboid  end  and  consists  in  a  constant  retraction 
+and  new  formation  of  pseudopodia.  All  observations  on 
+tin-  movement  of  the  growing  fiber  suggest  an  active  force 
+within  it  causing  jts  extension  into  the  medium."31 
+
+Describing  Hie  activities  still  farther  in  connection  with 
+the  degeneration  of  some  of  the  nerves,  the  author  con- 
+tinues: "The  change's  in  the  nerves  are  mainly  at  the  end. 
+Here  there  is  periodic  thickening,  followed  by  a  slow  reduc- 
+tion in  size  until  the  entire  nerve  has  retracted  into  the 
+h>Mie  m  a  manner  similar  to  the  retraction  of  the  pseu- 
+dopodia of  an  amoeba.  These  phenomena  of  extension  and 
+retraction  may  go  on  alternately  in  the  same  fiber.  .  .  . 
+The  retraction  is  checked  after  a  time  and  growth  again 
+proceeds  in  a  different  direction  for  a  while  when  the  pro- 
+cess is  again  repeated."  32 
+
+This  primitive  amoeboid  activity  of  the  cells  is  by  far 
+the  most  common  and  readily  accomplishable.  The  testi- 
+mony of  all  observers  is  at  one  on  this  point.  But  this 
+activity  is  by  no  means  the  only  kind.  Contraction  of  muscle 
+fibers  was  seen  by  Harrison,  as  mentioned  in  the  quotation 
+already  given  ;  a  number  of  other  investigators  have  con- 
+firmed and  extended  the  observations.  Burrows,  for  instance, 
+has  shown  that  muscle  cells  from  the  embryonic  chick  heart 
+may  contract  rhythmically  in  cultures.  He  writes:  "The 
+muscular  elements  grow  much  less  frequently  and  cellular 
+outgrowths  from  them  were  observed  in  only  about  three 
+per  cent,  of  the  experiments.  The  outgrowths  take  place 
+from  the  myotomes  and  the  heart,  and  appear  in  the  form 
+of  short  chains  of  striated  cells.  The  striated  cells  contract 
+rhythmically  along  with  the  portion  of  the  heart  from  which 
+they  arise."  t0>t'{ 
+
+Holmes  has  made  the  suggestive  observation  that  although 
+completely  isolated,  partly  differentiated  muscle  cells  of  a 
+newt  may  remain  functionally  active  for  eight  months, 
+
+
+174  The   Unit})  of  the  Organism 
+
+"they  had  not  changed  their  form,  nor  had  they  under- 
+gone any  marked  changes  in  structure."  This  result  is  the 
+more  interesting  in  that  muscle  cells  of  similar  sort  but 
+contained  in  a  piece  of  larva  instead  of  being  isolated,  con- 
+tinued to  differentiate. 
+
+A  number  of  important  questions  touching  the  independ- 
+ent life  of  embryonal  muscle  cells  are  awaiting  further  study, 
+but  enough  has  been  done  to  leave  no  doubt  that,  broadly 
+speaking,  they  possess  a  considerable  degree  of  such  inde- 
+pendence. 
+
+Not  only  are  cells  able  to  continue  their  physical  activi- 
+ties, but  in  some  cases  they  are  also  able  to  go  on  with 
+their  chemical  activities,  after  being  separated  from  the 
+organism.  The  evidence  is  conclusive,  then,  that  once  formed, 
+a  number  of  kinds  of  tissue  cells  may  survive  for  a  long 
+period  after  removal  from  the  organism  and  may  continue 
+to  perform  more  or  less  faithfully  their  wonted  activities. 
+Can  new  cells  also  be  produced  under  the  new  and  unusual 
+conditions?  Undoubtedly.  While  to  a  large  extent  the 
+changes  described  by  all  observers  in  surviving  fragments 
+are  due  to  the  wandering  out  and  wandering  about  of  cells 
+already  in  existence,  cell  multiplication  has  been  clearly 
+seen  by  too  many  good  experimenters  to  leave  any  doubt 
+on  the  main  point.  The  large  increase  in  mass  of  the  frag- 
+ments described  by  all  those  who  have  kept  the  same  cul- 
+tures alive  and  active  for  a  long  time  would  be  conclusive 
+even  if  cell-division  itself  had  not  been  seen. 
+
+Carrel  and  Burrows  were  apparently  the  first  to  witness 
+directly  cell  division.  "A  culture  contains  emigrated  as  well 
+as  proliferated  cells.  The  proliferated  elements  consist  of 
+connective  tissue  and  epithelial  cells,  the  former  predomin- 
+ating." 34  This  is  explicit  though  wanting  in  detail.  But 
+other  observers  have  been  sufficiently  explicit.  As  long  ago 
+as  1906,  H.  Deeljen  described  with  considerable  particularity 
+the  division  of  the  polynucleatc  leucocytes  of  human  blood 
+
+
+The  Organism  and  Its  Cells  175 
+
+when  kept  under  proper  conditions  in  microscopic  prepara- 
+tions. And  more  recently  Oppel,  applying  the  new  methods, 
+has  described,  figured,  and  discussed  at  length  mitotic  divi- 
+sions of  cells  isolated  from  various  tissues  of  the  cat. 
+
+When  we  pass  from  the  question  of  the  independent  life 
+of  individual  cells  to  that  of  the  independence  of  organs, 
+or  organized  groups  of  cells,  the  prospect  changes  consider- 
+ably. Harrison,  in  one  of  his  earliest  publications,  says: 
+''While  the  cell  aggregates,  which  make  up  the  different 
+organs  and  organ  complexes  of  the  embryo  do  not  undergo 
+normal  transformation  in  form,  owing  no  doubt  in  part  to 
+the  abnormal  conditions  of  mechanical  tension  .  .  .  the  in- 
+dividual tissue  elements  do  differentiate  characteristic- 
+ally." 35  Without  raising  the  question  as  to  how  "charac- 
+teristically" the  individual  elements  can  differentiate  while 
+the  cell  aggregates  "do  not  undergo  normal  transforma- 
+tion," the  assertion  that  the  aggregates  do  not  transform 
+into  organs  is  sufficient  for  the  point  being  made. 
+
+Carrel  and  Burrows  have  described  "tubular  formations" 
+in  cultures  of  both  the  kidney  and  the  thyroid  gland  of  the 
+chick.  The  growth  of  kidney  tubules  is  affirmed  with  special 
+particularity.  The  authors  write:  "At  several  points,  tubu- 
+lar formations  were  observed  which  extended  themselves  a 
+considerable  distance  toward  the  middle  of  the  plasma.  Their 
+ends  were  rounded,  their  lumina  open,  and  their  walls  formed 
+of  cells  which  had  the  appearance  of  epithelial  cells.  These 
+formations  resembled  renal  tubules."  30 
+
+The  production  of  these  structures  is  surely  interesting, 
+but  more  interesting  is  the  question  raised  by  the  last  sen- 
+tence: are  the  formations  actually  renal  tubules,  or  do  thev 
+onlv  resemble  them?  That  no  organization  of  cells  into 
+normal  organs  taken  place  in  these  "cultures"  is  attested 
+by  all  who  have  pursued  these  investigations,  so  the  state- 
+ment by  Carrel  and  Burrows  that  the  formations  resemble 
+kidney  tubules  is  to  be  taken  as  literally  true,  and  to  be 
+
+
+176  The  Unity  of  the  Organism 
+
+understood  to  imply  that  the  resemblance    is  not  sufficiently 
+close  to  make  them  indeed  such  tubules. 
+
+On  the  matter  of  organ  production  by  tissues  separated 
+from  the  body,  Burrows  has  given  us  a  decisive  statement. 
+"Such  growing  cells,"  he  says,  "from  an  isolated  piece  of 
+tissue  have  at  no  time  shown  evidence  of  grouping  in  a  form 
+comparable  to  organ  formation  in  the  body."  3T 
+
+Some  experimenters  appear  to  have  clearly  seen  the  im- 
+portance of  this  limitation  of  power  of  the  tissues,  and  on 
+this  account  have  taken  rather  strong  grounds  against  call- 
+ing the  preparations  "cultures."  J.  Jolly  in  particular 
+has  his  eyes  wide  open  toward  the  phenomena,  though  pos- 
+sibly some  details  of  his  criticisms  are  overwrought.  He 
+says,  "In  certain  tissues  in  vitro  it  appears  possible  for  cel- 
+lular multiplication  to  continue  for  some  time,  that  much  is 
+true;  but  between  this  last  effort  of  certain  cells  and  a 
+'culture' — a  development  continued  and  progressive — there 
+is  a  gap,  which  may  be  filled  up  some  day.  For  the  present, 
+it  is  an  abuse  of  language  to  attach  the  name  'cultures'  to 
+the  results  obtained."  38  And  the  author  thinks  true  de- 
+velopment of  kidney  tubules  is  not  proved  by  Carrel  and 
+Burrows. 
+
+Denial  of  development  in  a  strict  sense  is  made  also  by 
+A.  Dilger:  "On  the  basis  of  this  critique  and  of  his  own 
+investigations,  the  author  must  emphatically  deny  that  in 
+the  case  of  cultures  of  fragments  of  the  mature  organs  of 
+warm-blooded  animals  any  genuine  growth  takes  place  in 
+the  sense  of  an  organic  formation.  In  this  essential  the 
+author  would  adopt  the  view  of  Jolly,  that  the  Carrel-Bur- 
+rows experiment  indeed  demonstrates  a  survival  and  physio- 
+logical functioning  of  tissue  fragments,  but  has  nothing  to 
+do  with  their  growth."  39 
+
+It  may  be  unprofitable  to  spend  time  on  the  question  of 
+what  name  should  be  applied  to  these  unique  preparations, 
+further  than  to  insist  that  the  name  settled  upon  shall  not 
+
+
+TJtc  Organism  and  Its  Cells  177 
+
+give  a  false  impression  of  their  true  nature.  If  they  are 
+to  be-  called  'Vultures."  then  the  word  must  be  understood 
+to  have  a  somewhat  different  meaning  from  what  it  has 
+in  ordinary  hiologirnl  technology,  where  the  production  of 
+true  organism*  is  always  contemplated.  Indeed  the  distinction 
+is  at  least  partly  recognized  by  Carrel  and  Burrows,  for  in 
+one  of  their  publications  they  say:  "Since  the  tissues,  in 
+their  development,  must  adapt  themselves  to  the  morpholog- 
+ical plan  of  the  organism,  their  growth  must  be  constantly 
+regulated  by  some  unknown  factor.  This  regulation  may  be 
+caused  hy  certain  chemical  compounds  contained  in  the 
+I.lood  and  the  interstitial  lymph.  .  .  .  Therefore,  it  may  be 
+assumed  that  the  power  of  growth  is  kept  under  constant 
+restraint,  that  every  organ  is  compelled  to  follow  the  mor- 
+phological plan  of  the  organism,  and  normal  plasma  is  far 
+from  heing  the  optimal  medium  for  the  culture  of  normal 
+
+
+i: 
+
+
+Now  that  we  are  learning  so  much  about  the  part  played 
+y  chemicaj  messengers,  or  hormones,  in  normalizing  growth 
+see  Chapter  18,  in  Part  II  of  this  book),  the  conception 
+hat   "'every  organ   is  compelled  to  follow  the  morphological 
+plan  of  the  organism"  is  gaining  intelligibility. 
+
+This  statement  goes,  by  unmistakable  inference  at  least, 
+o  the  very  heart  of  the  matter.  Kven  were  it  demonstrated 
+that  embryonal  cells  and  organs  are  capable  of  developing 
+into  perfectly  normal  adult  parts  when  isolated  from  the 
+embryos,  this  would  prove  that  these  cells  and  organs  are 
+capable  of  independent  life  in  an  ontoycuic  sense  only.  It 
+would  not  prove  them  so  independent  in  a  full  sense,  that 
+is,  in  a  phylogenic  as  well  as  an  ontogcnic  sense. 
+
+The  very  fact  that  the  adult  organs  into  which  they 
+developed  could  be  pronounced  normal  would  mean  that  their 
+development  was,  in  Carrel  and  Burrows'  language,  "com- 
+pelled to  follow  the  morphological  plan  of  the  organism." 
+Jn  other  words,  the  development  would  be  guided  by  heredity 
+
+
+178 
+
+
+The   Unity  of  the  Organism 
+
+
+just  as  certainly  as  though  the  parts  had  not  been  isolated. 
+And  so  we  are  able  to  see  what  is  implied  in  Harrison's 
+remark  quoted  above,  "we  can  never  'explain'  the  processes 
+of  normal  development  with  more  than  a  reasonable  degree 
+of  probability  until  we  succeed  in  synthesizing  organisms." 
+If  the  condition  thus  placed  on  explanation  of  development 
+is  really  necessary,  such  explanation  will  never  be  forth- 
+coming, since  to  synthesize  organisms  would  be  to  synthesize 
+them  endowed  with  their  hereditary  attributes  and  powers — 
+in  other  words,  with  their  ancestral  attributes  and  powers. 
+But  in  order  to  synthesize  them  with  such  attributes  and 
+powers  it  would  be  necessary  to  synthesize  not  only  the 
+organisms,  but  also  their  ancestors — a  rather  difficult  task. 
+
+
+REFERENCE    INDEX 
+
+
+1.  Locy     249  31. 
+
+2.  Virchow     36  22. 
+
+3.  Hertwig,    O.     ('12) 3  23. 
+
+4.  Wilson,  E.  B.    ('00) 3  24. 
+
+5.  Wilson,  E.   B.    ('00) 1  25. 
+
+6.  Locy     252  26. 
+
+7.  Morgan    and    Goodrich.. I,  169  27. 
+
+8.  Driesch 27  28. 
+
+9.  Hertwig,    O.     ('12) 8  29. 
+
+10.  Briicke     386  30. 
+
+11.  Wilson,    E.    B.    ('00)....  393  31. 
+
+12.  Whitman     110  32. 
+
+13.  Whitman     Ill  33. 
+
+14.  Whitman     109  34. 
+
+15.  Whitman     119  35. 
+
+1 6.  Whitman     121  36. 
+
+1 7.  Whitman     120  37. 
+
+18.  Wilson,  E.  B.    ('93) 8  38. 
+
+19.  Wilson,  E.  B.    ('00) 58  39. 
+
+20.  Wilson,  E.   B,    ('00) 393  40. 
+
+
+Wilson,  E.   B.    ('13) 821 
+
+Driesch    28 
+
+Driesch    117 
+
+Conklin    ('08)    90 
+
+Lillie,    F.    R 251 
+
+Hertwig,    R.    ('95) 47 
+
+Harrison    ('10)    841 
+
+Harrison     ('10)     843 
+
+Harrison    ('12)    184 
+
+Ebeling    273 
+
+Burrows    ('11)    72 
+
+Burrows    ('11)     74 
+
+Burrows    ('10)     2058 
+
+Carrel  and  Burrows  ('12)  416 
+
+Harrison    ('06)    140 
+
+Carrel  and  Burrows  ('12)  298 
+
+Carrel  and  Burrows  ('12)  78 
+
+Jolly     473 
+
+Dilger    317 
+
+Carrel  and  Burrows  ('11)  562 
+
+
+Chapter    VII 
+
+THE    CELL-THEORY    NOT    SUFFICIENT    FOR 
+EXPLAINING  THE  ORGANISM 
+
+IN    tin-    preceding   chapter   the   cell-theory   was   shown   to 
+bo  inadequate  as  a  complete  explanation  of  the  organism 
+when    tested   by   studies   of  embryonic   development   and  by 
+experiments  on  isolated  cells  and  tissues.     We  now  proceed 
+
+to   consider   other    phase's   of   the   theory   which   still   further 
+show  its  limitations. 
+
+
+More  General  Inadequacy  of  the  (.'ell-Theory 
+(a)  As  Tested  by  the  Regeneration  and  Restitution  of 
+
+
+I  Mat  II  a  ted    O  rya  u  is  ni  .v 
+
+Few  topics  of  research  have  a  more  instructive  bearing 
+on  the  hypothetical  portion  of  the  cell-doctrine  than  has 
+that  of  regeneration,  taking  the  word  in  its  general  meaning. 
+Attention  may  be  called  first  to  the  far  greater  inclination 
+of  investigators  to  neglect  cells  as  such  when  studying  the 
+re-development  of  organisms  that  have  been  deprived  of 
+some  of  their  parts  than  when  dealing  with  their  development 
+from  the  germ. 
+
+Such  problems  as  those  of  cleavage,  of  molecular  be- 
+havior, and  of  cell-lineage,  which  stand  out  so  conspicuously 
+in  most  resc;i  relics  on  ordinary  embryonic  development,  par- 
+ticularly those  concerning  themselves  primarily  with  early 
+stages,  are  for  the  most  part  conspicuous  by  their  absence 
+in  studies  on  the  rehabilitation  of  mutilated  organisms. 
+
+rndoubtedly    one    reason,    perhaps    the    chief   reason,    for 
+
+179 
+
+
+180  The   Unity  of  the  Organism 
+
+this  is  that  regenerative  processes  so  frequently  involve  con- 
+siderable masses  of  more  or  less  differentiated  tissues  rather 
+than  individual  cells.  A  sort  of  mass  action  or  mass  per- 
+formance takes  place  with  little  or  no  regard  to  the  indi- 
+vidualized activities  of  the  constituent  elements,  whatever 
+they  may  be,  cells,  nuclei,  centrosomes,  chromosomes  or  what 
+not.  The  most  palpable  instances  of  this  mass  performance 
+are  afforded  by  those  restorative  processes  in  which  cell 
+division  plays  no  part,  or  but  a  subordinate  part.  These 
+processes  are  accomplished  by  the  activity  of  cells  already 
+in  existence,  by  the  re-disposing  of  old  cells,  rather  than 
+by  the  production  of  new  ones.  Thus  Rand  describes  how 
+the  "cells  of  the  earthworm  epidermis  are  seen  to  execute 
+an  extensive  movement  from  their  original  position  to  an 
+adjoining  surface  not  previously  occupied  by  epidermis." 
+This  movement,  Rand  shows,  is  not  a  passive  one  due  to 
+pressure  or  pull  by  extraneous  forces,  but  is  inherent  in  the 
+cells  themselves,  and  "must  be  occasioned  by  an  agency 
+external  to  the  cell,  namely,  by  some  factor  of  the  con- 
+ditions resulting  from  the  injury."  Rand  looked  carefully 
+for  dividing  cells  in  the  region  of  the  wound  but  could  find 
+no  indication  whatever  of  these.  To  the  mode  of  regenera- 
+tion, "in  which  a  part  is  transformed  directly  into  a  new 
+organism,  or  part  of  an  organism  without  proliferation  at 
+the  cut-surface,"  Morgan  has  given  the  name  morphallaxis, 
+and  sets  it  over  against  regeneration  accomplished  through 
+proliferation,  which  he  calls  epimorphosis.~  All  investi- 
+gators now  recognize  the  importance  of  this  distinction. 
+
+While  cells  occupy  only  a  retired  place  in  much  of  both 
+the  purely  descriptive  and  the  speculative  writings  on  re- 
+generation, it  would  be  wrong  to  infer  that  the  broader 
+biological  conceptions  based  on  the  facts  of  regeneration 
+have  really  ignored  the  cell-theory  to  the  extent  that  at 
+first  sight  seems  to  be  the  case.  As  a  matter  of  fact,  it  turns 
+out  that  in  many  of  the  discussions  of  regeneration  which 
+
+
+Cell-Theory  not  Sufficient  for  Explaimny  O-n/finixm       181 
+
+on  their  face  are  little  concerned  about  cells,  there  lies  an 
+abiding  faith  in  the  cell  as  the  "key  to  all  ultimate  biological 
+problems,"  those  of  regeneration  with  the  rest.  An  illum- 
+inating instance  of  this  came  out  some  thirty  years  ago, 
+before  the  period  in  which  regeneration  was  the  "firing  line" 
+for  elementalist  biology.  I  refer  to  Vochting's  attempt  to 
+explain  a  great  range  of  phenomena  in  plants  by  the  polarity 
+of  the  plant's  cells.  This  investigator's  speculations  were 
+based  quite  as  much  on  his  observations  on  grafting  as  on 
+regeneration,  he  having  studied  this  subject  along  with  re- 
+geiu-ration  and  normal  development  for  the  purpose  of  gain- 
+ing light  on  development  in  general  and  on  still  larger 
+biological  questions,  rather  than  for  ordinary  horticultural 
+purposes.  In  observing  the  result  of  grafting  pieces  of 
+roots  on  branches  and  of  branches  on  roots,  of  reversing 
+the  ends  of  grafted  pieces,  and  of  manipulating  the  grafts 
+in  several  other  ways,  he  was  greatly  impressed  by  the 
+persistence  with  which  the  grafted  pieces  maintain  their 
+characters.  The  resemblance  in  several  respects  of  these 
+phenomena  in  organisms  to  those  of  the  magnet  led  him 
+to  make  the  utmost  possible  of  the  resemblance. 
+
+Morgan's  summary  of  Vochting's  speculation  so  far  as 
+this  concerns  the  cells  may  be  quoted:  "The  properties  of 
+the  t issue-coin plcx  rest,  in  last  analysis,  on  that  of  the 
+cells;  the  properties  of  the  whole  .being  only  the  sum  total 
+of  the  properties  of  its  elements,  so  that  we  may  say  that 
+every  living  cell  of  the  root  is  polarized,  not  only  longitudi- 
+nally, but  also  radially;  each  has  a  different  apical  and 
+root  pole,  a  different  anterior  and  posterior  pole,  and  also 
+right  and  left  polar  relations."  3 
+
+The  conception  of  polarity  in  plants  and  animals,  which 
+has  had  a  conspicuous  place  in  later  hypotheses  of  the  pro- 
+duction and  regulation  of  form,  has  by  no  means  been  re- 
+stricted to  discussions  in  which  cells  have  occupied  the 
+center  of  interest;  so  this  is  not  the  place  to  present  it 
+
+
+182  The   Unity  of  the  Organism 
+
+in  all  its  aspects.  For  the  setting  forth  of  facts  and 
+opinions  drawn  from  studies  on  regeneration,  to  see  how 
+these  bear  on  tin-  cell  doctrine,  it  is  enough  to  say  that 
+these  views  of  Vochting  seem  not  to  have  met  with  much 
+favor  among  biologists  even  as  a  "working  hypothesis." 
+Morgan  has  shown  conclusively  the  general  objection  to 
+them,  and  the  language  in  which  he  expresses  himself  is 
+noteworthy :  "Exception  may  be  taken,  I  believe,  to  parts 
+of  Vochting's  conclusions,  especially  in  the  light  of  the  re- 
+cent experiments  in  grafting  in  animals.  It  is  by  no  means 
+to  be  granted  without  further  demonstration  that  the  proper- 
+ties of  the  whole  organism  are  only  the  sum-total  of  the 
+action  of  the  individual  cells.  If,  as  seems  to  be  the  case, 
+the  cells  are  organically  united  into  a  whole,  the  properties 
+of  this  whole  may  be  very  different  from  the  sum  of  the 
+properties  of  the  individual  cells,  just  as  the  properties  of 
+sugar  are  entirely  different  from  the  sum  of  the  properties 
+of  carbon,  hydrogen  and  oxygen."  ; 
+
+(b)  As  Tested  by  tJic  Principle  of  Aggregation 
+
+By  the  "principle  of  aggregation"  I  mean  the  principle 
+according  to  which,  though  a  real  unity  of  the  organism 
+is  rccogni/ed,  that  unity  is  held  to  be  secondary  and  not 
+primary.  This  principle  would  be,  as  touching  the  cellular 
+constitution  of  the  organism,  diametrically  opposed  to  such 
+a  principle  as  that  formulated  by  Lillie  and  quoted  in  the 
+previous  chapter,  namely  that  there  arc  properties  of  the 
+organism  which  are  "part  of  the  original  inheritance,  and 
+thus  continuous  through  the  cycles  of  the  generations  and 
+do  not  arise  anew  in  each." 
+
+Appeal  to  this  principle  in  behalf  of  the  cell-doctrine  seems 
+to  go  back  to  Schwann,  but  to  have  received  its  earliest  full 
+expression  by  Virchow  and  Haeckel  in  the  "cell  state" 
+conception.  Mori-  recently  the  discovery  of  that  close  co- 
+partnership between  organisms  of  different  species  known  as 
+
+
+Cell-Theory  not  Sufficient  for  Explaining  Organism      183 
+
+symbiosis  has  seemed  to  some  biologists  to  furnish  a  type  of 
+secondary  association  which  is  both  sufficiently  unitary  and 
+sufficiently  separatist,  as  regards  the-  ultimate  elements,  to  be 
+available  for  the  explanation  of  all  biotic  organization. 
+
+The  influence  of  this  aggregative  conception  of  the  organ- 
+ism cannot  be  said  to  have  been  very  great,  so  our  examina- 
+tion of  it  need  not  be  extensive.  We  will  here  consider 
+only  the  most  plausible  form  of  it,  that  namely  which  in- 
+vokes the  principle  of  symbiosis.  S.  J.  Holmes  has  worked 
+out  a  theory  of  this  type  more  fully  than  any  one  else,  so 
+far  as  I  know;  so  his  paper,  entitled  The  Problem  of  Form 
+Regulation,  will  serve  as  the  basis  of  our  remarks. 
+
+After  speaking  of  the  organism  as  a  self-regulating 
+mechanism  in  which  the  whole  is  kept  in  functional  equilib- 
+rium by  the  parts  being  "held  in  check"  in  some  way,  he 
+writes:  "If  we  suppose  that  the  various  cells  constituting 
+the  body  have  each  a  different  kind  of  metabolism,  and  that 
+the  products  of  each  cell  are  in  some  way  utilized  by  the 
+neighboring  cells,  so  that  each  derives  an  advantage  from 
+the  particular  association  in  which  it  occurs,  we  may  un- 
+derstand, in  a  measure,  how  this  check  may  be  brought 
+about.  This  supposed  relation  is  realized  in  a  simple  scale 
+by  the  cases  of  symbiosis  that  occur  between  plants  and 
+animals  and  between  the  algae  and  fungi  of  lichens.  .  .  . 
+There  is  reason  to  believe  that  the  same  fundamental  prin- 
+ciple which  serves  to  explain  the  regulation  of  a  simple 
+symbiotic  community  of  animal  and  plant  cells  will  apply 
+to  highly  developed  organisms  as  well.  We  may  regard  the 
+body  of  a  highly  complex  organism  as  a  sort  of  symbiotic 
+•ommunity."  4 
+
+Although  Holmes  nowhere  says  explicitly  that  cells  are 
+regarded  as  the  vital  units  of  his  hypothetical  organism, 
+vet  most  of  his  discussion  clearly  implies  this.  Thus,  he 
+first  considers  the  simple  case  of  an  organism  consisting  of 
+"two  kinds  of  cells" ;  then  afterwards  of  one  made  of  a 
+
+
+184  The  Unity  of  the  Organism 
+
+"number  of  differentiated  cells."  From  this  the  vital  units 
+assumed  seem  undoubtedly  to  be  cells.  It  is  significant, 
+though,  that  at  times  in  referring  to  the  "balance,"  and 
+"equilibrium,"  and  "interdependence"  so  manifest  in  all  liv- 
+ing beings,  he  speaks  of  "parts,"  "elements"  and  so  forth; 
+that  is,  things  which  might  be  something  other  than  cells: 
+"By  virtue  of  this  dependence  it  is,  to  speak  figuratively,  to 
+the  interest  of  each  part  to  play  its  normal  role  in  the 
+corporate  life."  And  again,  "The  supposition  that  every 
+higher  organism  is  a  symbiotic  community  on  a  vast  scale 
+composed  of  innumerable  different  elements."  5 
+
+Indeed,  taking  the  whole  discussion  together,  it  seems  as 
+though  the  term  cell  as  sometimes  used  docs  not  have  the 
+specific  meaning  attached  to  it  in  modern  histology  and 
+cytology,  but  stands  in  a  general  way  for  anything,  real 
+or  imaginary,  within  the  organism  to  which  some  measure 
+of  independent  life  is  ascribed.  Thus,  pointing  out  wherein 
+his  theory  differs  from  Roux's  Struggle  for  Existence 
+among  the  Parts  of  an  organism,  he  says:  "The  whole 
+process  of  development  .  .  .  may  occur,  according  to  our 
+theory,  without  the  elimination  of  vital  units  of  any  kind, 
+whether  they  be  biophors,  determinants,  or  individualities 
+of  a  higher  order,  such  as  cells  or  organs.  We  have  con- 
+ceived the  parts  of  an  organism  to  be  engaged  in  a  struggle 
+for  existence,  but,  as  the  parts  are  mutually  dependent,  the 
+struggle  leads  to  an  adjustment  to  a  norm  instead  of  the 
+elimination  of  some  parts  and  the  survival  of  others." 
+
+What  are  the  "parts"  here?  Are  they  biophors,  and  so 
+forth?  Are  some  of  them  individualities  of  a  higher  order, 
+as  organs?  Are  all  of  them  "vital  units?"  What  relation 
+do  they  hold  to  the  "cells"  talked  about  and  diagrammati- 
+cally  figured,  as  constituting  the  hypothetical  organism? 
+Exactly  how  Holmes  would  answer  these  queries  can  not 
+be  made  out  from  his  discussion,  yet  from  our  standpoint 
+they  are  fundamental  questions.  But  it  must  be  remarked 
+
+
+Cell-Theory  not  Sufficient  for  Explaining  Organism      185 
+
+that  if  Holmes  uses  "cells"  in  the  ordinary  sense,  his  specula- 
+tion is  distinctly  a  backward  step  from  the  conceptions 
+presented  by  Roux  in  his  Struggle  of  the  Parts,  who,  so 
+far  as  the  constitution  of  the  organism  is  concerned,  frankly 
+recognizes  several  orders  of  parts,  and  concerns  himself  very 
+little  or  not  at  all  with  vital  units.  For  instance,  he  dis- 
+cusses the  struggle  of  the  Molecules,  of  the  Cells,  of  the 
+Tissues,  and  of  the  Organs. 
+
+It  seems  worth  while  to  call  attention  to  this  because 
+while'  professedly  adopting  Roux's  conceptions  to  a  con- 
+siderable extent,  Holmes  believes  he  has  improved  upon  his 
+forerunner  in  staking  less  than  the  latter  does  on  the 
+elimiimtive  aspect  of  the  struggle  theory.  In  this  I  agree 
+with  Holmes,  but  must  at  the  same  time  maintain,  as  above 
+indicated,  that  in  attempting  to  conceive  the  struggle  in 
+the  terms  of  cells,  regarding  these  as  vital  units  in  an  ulti- 
+mate sense,  he  falls  considerably  behind  Roux  in  speculative 
+soundness  and  very  far  behind  him  in  the  methodological 
+usefulness  of  his  speculation. 
+
+The  objection  to  the  aggregative  conception  of  the  organ- 
+ism, no  matter  under  what  form  it  presents  itself,  is  so 
+conclusive  that  little  time  need  be  taken  in  presenting  it: 
+There  is  not  an  atom  of  eindence  that  is  really  in  its  favor. 
+Kven  the  facts  which  at  first  sight  seem  most  favorable 
+to  it,  namely  those  of  symbiosis  on  which  Holmes  chiefly 
+relies,  are  found  when  considered  a  little  more  closely,  to 
+oppose  it.  No  symbiotic  combination  known,  even  that  be- 
+tween the  alga  and  the  fungus  to  make  the  lichen,  ever 
+occurs  as  one  organism  in  the  sense  that  any  true  organism 
+is  one.  The  symbiotic,  or  partnership  organism,  if  organism 
+it  can  justly  be  called  at  all,  never  begins  its  individual  life 
+as  a  single  reproductive  cell,  cither  as  a  spore  or  as  a  zygote, 
+i.  e.,  a  fertilized  ovum,  but  each  species  has  to  reproduce 
+itself,  just  as  though  the  association  did  not  occur.  As  a 
+matter  of  fact,  in  nearly  all  known  cases  of  symbiosis  one 
+
+
+186  The   Unity  of  the  Organism 
+
+of  the  members  to  the  partnership  actually  enters  the  other 
+and  lives  upon  it  at  some  stage  of  the  game,  so  the  "living 
+together"'  is  really  a  sort  of  parasitism.  The  taxonomic 
+identity  of  the  "consortia,"  as  the  partners  arc  sometimes 
+called,  is  lost.  Concerning  the  most  famous  symbiosis  known, 
+that  of  the  lichens,  a  class  of  plants  which  owes  its  very 
+existence  as  a  botanical  group  to  the  intimate  association 
+that  has  been  contracted  between  plants  of  two  other  such 
+groups,  fungi  and  algae,  w«  read,  "Strictly  speaking,  both 
+fungi  and  algae  should  be  classified  in  their  respective  orders ; 
+but  the  lichens  exhibit  among  themselves  such  an  agreement 
+in  their  structure  and  mode  of  life,  and  have  been  so 
+evolved  as  consortia,  that  it  is  more  convenient  to  treat 
+them  as  a  separate  class.  .  .  .  From  the  symbiosis  entered 
+into  by  a  lichen  fungus  with  an  alga,  a  dual  organism  re- 
+sults with  a  distinctive  thallus,  of  which  the  form  (influenced 
+by  the  mode  of  nutrition  of  the  independently  assimilating 
+alga)  differs  greatly  from  that  of  other  non-symbiotic 
+Eumycetes."  7 
+
+As  a  purely  imaginary  construction  one  might,  perhaps, 
+picture  an  organism  produced  in  this  fashion  which  would 
+not  be  "dual,"  as  these  authors  express  it,  but  monal,  that 
+is,  <in  organism  in  the  usual  zoological  and  botanical  sense. 
+But  since  such  an  organism  would  be  a  work  of  the  imagina- 
+tion, pure  and  simple,  with  all  observational  evidence  weigh- 
+ing against  its  real  existence,  this  particular  form  of  the  ag- 
+gregational  conception  of  the  organism  can  not  be  held  to 
+have  any  scientific  value,  especially  if  the  aggrcgants  or  con- 
+sortia he  imagined  to  be  cells. 
+
+(c)  As  tested  by  the  Specificity  and  Metaplasy  of 
+Differentiated  Cells 
+
+The  question  now  before  us  is,  how  far  are  cells  which  are 
+wholly  or  largely  differentiated  into  tissues  bound,  willy  nilly, 
+to  continue  to  be  just  those  tissues,  and  to  produce  as  they 
+
+
+Cell-Theory  not  Sufficient  for  Explninhnj  Oryamsm       187 
+
+proliferate,  other  tissues  of  exactly  the  same  kind.  Nothing 
+concerning  the  minute  structure  of  organic  beings  is  better 
+e>iul)lished  than  that  in  general  tissue  cells  are  "true  to 
+kind";  that  is,  once-  a  muscle  or  nerve  or  gland  cell,  always  a 
+muscle  or  nerve  or  gland  cell,  not  only  in  the  particular  cell's 
+own  existence  but  in  its  progeny  also.  Clearly  this  must  be 
+so.  Were  it  not,  the  organism  would  really  not  be  an  organ- 
+ism at  all;  it  would  be  a  riot  of  cells  differentiated  and  un- 
+differentiated. 
+
+So  obviously  and  widely  true  is  this  that  some  biologists 
+have  believed  it  deserves  crystallization  into  a  phrase  com- 
+parable to  omne  virum  ex  riro.  Accordingly  we  have  Vir- 
+chow's  omnis  cellula  e  cellula  transformed  by  L.  Bard  into 
+o wni.s  ccUnld  c  ccllnUi  ejusdem  iuitur(U'.  Hut  were  this  for- 
+mulation rigidly  true,  and  were  the  tissue  elements  absolutely 
+unmodifiable  in  their  individual  lives,  the  adult  organism,  at 
+least,  would  certainly  be  held  in  the  grip,  figuratively  speak- 
+ing, of  its  cells,  and  the  fact  might  be  taken  as  evidence  of  the 
+weightiest  kind  in  support  of  the  theory  that  the  cells  are  the 
+key  to  all  organic  phenomena. 
+
+Much  truth  as  there  unquestionably  is  in  this  aphoristic 
+statement,  researches  of  later  years  have  produced  conclusive 
+proof  that  it  can  stand  only  after  receiving  important  modi- 
+fication. 
+
+Looking  at  the  problem  of  the  deviation  of  the  cells  of  an 
+organism  from  type  in  a  broad  way,  though  without  presum- 
+ing to  make  the  classification  and  discussion  exhaustive,  we 
+find  that  three  rather  well  defined  classes  of  such  deviations 
+have  been  observed.  There  arc1  (1  )  eases  in  which  tissues  are 
+induced  to  undergo  radical  and  more  or  less  permanent 
+transformation  by  coming  into  close  and  long-continued 
+contact  with  new  or  differently  applied  influences  of  the 
+external  world;  (2)  cases  in  which  the  replacement  of  lost 
+parts  of  an  organism  is  effected  through  either  the  direct 
+transformation  of  tissue  of  one  sort  belonging  to  an  intact 
+
+
+188  The  Unity  of  the  Organism 
+
+part  of  the  organism  into  other  tissues  of  the  newly  added 
+parts,  or  through  the  derivation  of  tissues  of  the  renewed 
+parts  from  tissues  of  another  sort  in  the  old  parts  by  the 
+latter' s  first  returning  to  something  like  an  embryonic  con- 
+dition; (3)  cases  of  transformation  of  tissues  in  certain 
+pathological  growths. 
+
+Under  the  first  head  one  of  the  oldest  and  most  frequently 
+cited  examples  is  that  of  the  transformation  of  the  soft 
+mucosa  cells  lining  the  vagina  into  pavement-like  cells,  when 
+inversion  of  that  organ  occurs.  A  particularly  clear  and 
+interesting  example  of  cell  transformation  which  may  be 
+properly  ranged  in  the  same  class  has  recently  been  reported 
+by  Harms.  This  investigator  transplanted  pieces  of  the1 
+thumb  pad  of  the  sexually  active  male  frog  (Kana  ftwca) 
+from  one  individual  to  another  individual.  After  about  two 
+months  he  found  that  complete  union  of  the  grafted,  piece 
+had  been  effected,  and  that  the  epithelial  cells  of  the  graft 
+were  in  a  normal  condition.  The  glands,  however,  peculiar 
+to  the  epidermis  of  these  pads  showed  signs  of  retrogres- 
+sive change.  In  the  course  of  another  month  or  so  the 
+glands  had  undergone  complete  transformation  into  a  solid, 
+wellnigh  structureless  mass,  and  the  cells  of  the  epithelium 
+immediately  surrounding  them  had  reformed  and  rearranged 
+themselves  into  well-defined  encapsulating  layers,  constitut- 
+ing what  Harms  designates  as  a  "metaplastically  stratified 
+epithelium."  This  case  appears  to  be,  as  the  author  re- 
+marks, one  which  "shows  all  phases  of  tissue  transformation 
+in  a  way  not  open  to  objection."  This  case  is  considerably 
+different  from  those  previously  cited  in  that  the  influence's 
+operative  in  bringing  about  the  tissue  changes  are  more  in- 
+timately connected  with  the  chemico-vital  processes  of  the 
+organism,  and  arc  less  purely  mechanical  than  in  the  other 
+cases.  Harms  does  not  neglect  this  aspect  of  the  matter, 
+but  a  consideration  of  it  would  be  out  of  place  here. 
+
+Under  the  second  head,  one  of  the  most  striking  and  at 
+
+
+Cell-Theory  not  Sufficient  for  Explaining  Organism      189 
+
+tin-  same  tinu-  host  authenticated  instances  of  transformation 
+of  tissues  accompanying  the  replacement  of  lost  parts  has 
+been  described  by  Nusbaimi  and  Oxner.  The  results  of  their 
+researches  significant  for  our  present  needs  arc  summarily 
+stated  in  the  translation  which  follows:  "From  what  has 
+been  said  above,  we  see  that  in  the  regeneration  of  the  an- 
+terior part  of  Linen n  loctctix,  which  has  been  robbed  of  the 
+entire  old  alimentary  canal,  the  formation  of  new  tissues 
+takes  place  heterogenetically  in  the  highest  measure;  that 
+is,  it  proceeds  in  such  a  way  that  the  new  tissues  arise  from 
+an  entirely  strange  old  tissue  from  which  they  are  never 
+produced  under  normal  conditions.  We  saw,  that  is  to  say, 
+that  the  epithelium  of  the  entire  new  alimentary  tract,  a 
+tissue  endodermal  par  excellence,  is  formed  in  regeneration 
+by  wander-cells  which  arise  from  the  parenchyma  and  con- 
+nective tissue,  therefore  from  a  material  originally  wholly 
+mesodermal."  s  The  elaborate  description  and  illustration 
+with  which  they  present  their  observations  leaves  little  to  be 
+desired  for  making  the  case  trustworthy,  even  had  it  not 
+been  confirmed  by  other  workers.  Fortunately,  however,  C. 
+Dawydoff,  a  Russian  xoologist,  working  on  the  same  species 
+at  the  same  time  but  wholly  independently,  reached  results 
+identical  in  every  essential  particular. 
+
+DawydofPs  categorical  statement  touching  the  main  point 
+is  as  follows:  "The  newlv-arisen  alimentary  canal  of  Linens 
+lac  ten*  is  formed  from  mesoderm.  It  is  differentiated  from 
+the  parenchyma  and  the  walls  of  the  lateral  vessels."  9  A 
+very  brief  description  of  the  experiment  performed  by  these 
+investigators  will  suffice  to  make  the  crucial  part  of  the 
+results  clear.  The  nemertean  has  a  long  section  of  body 
+in  front  of  the  mouth,  consequently  into  which  no  part  of 
+the  intestinal  canal  extends.  From  this  it  follows  that  if 
+the  animal  be  cut  in  two  anterior  to  the  mouth,  the  front 
+piece  will  be  wholly  devoid  of  digestive  organs.  Notwithstand- 
+ing this  it  was  found  that  these  gutless,  mouthless  pieces 
+
+
+190  The  Unity  of  the  Organism 
+
+would  not  only  continue  to  live,  but  would  develop  into  com- 
+plete worms,  the  new  alimentary  tract  being  formed,  as  the 
+quotations  show,  from  the  internal  tissues  of  the  severed 
+piece;  that  is,  from  tissues  which  in  the  normal  worm  have 
+nothing  to  do  with  the  digestive  organs. 
+
+The  demonstration  of  this  ability  of  organisms  to  press 
+into  service  certain  of  their  parts  to  replace  other  parts 
+that  have  been  lost,  even  though  the  parts  implicated  are 
+normally  quite  different,  structurally,  functionally  and  de- 
+velopmentally,  is  undoubtedly  one  of  the  most  important  re- 
+sults of  the  researches  on  animal  regeneration  that  were  so 
+eagerly  pursued  a  few  years  ago.  A  goodly  number  of  in- 
+stances of  this  in  widely  separated  sections  of  the  animal 
+kingdom  have  been  established  beyond  cavil. 
+
+Nusbaum  has  performed  the  useful  office  of  summarizing 
+these  on  the  basis  of  the  kinds  of  tissues  involved,  as  fol- 
+lows: 
+
+"1.  Formation  of  muscle  elements  from  epithelial  tissues 
+of  ectodermal  origin. 
+
+"2.  Formation  of  connective  tissue  elements  from  epi- 
+thelial tissue  of  ectodermal  origin. 
+
+"3.  Formation  of  muscle  elements  from  differentiated 
+parenchyma  cells  of  mesodennal  origin  (from  connective 
+tissue). 
+
+"4.  Formation  of  nerve  elements  from  differentiated  epi- 
+thelial tissues  of  mesodennal  origin."  10 
+
+Summary  of  Examination  of  Inadequacy  of  Cell-Theory 
+
+We  have  now  passed  under  review  several  large  and  quite 
+distinct  groups  of  knowledge  pertaining  to  those  biotic  ob- 
+jects called  cells,  all  of  this  knowledge  favoring  the  inter- 
+pretation of  these  bodies  as  differentiated  parts  or  members 
+of  the  larger  bodies  to  which  they  belong.  They  come  into 
+existence  one  after  another  as  a  consequence  of  the  growth 
+
+
+Cell-Theory  not  Sufficient  for  Explaining  Organism      191 
+
+and  differentiation  of  the  organism,  and  hi  strict  subordina- 
+tion to  its  needs.  In  a  word,  we  arc  led  to  see  that  cells 
+must  be  regarded  as  organs  of  the  organism  just  as  muscles 
+and  glands  and  hearts  and  eyes  and  feet  are  so  regarded. 
+They  undoubtedly  constitute  a  class  of  organs  rather  sharp- 
+ly set  off  from  all  other  classes,  but  this  should  not  be 
+permitted  to  obscure  the  equally  important  fact  of  their 
+always  presenting  those  attributes  which  arc  most  general 
+to  all  organs,  namely  those  of  origination  by  the  growth 
+and  differentiation  of  the  organism,  and  of  being  function- 
+ally subservient  to  the  organism. 
+
+Nor  should  we.  while  taking  note  of  the  attributes  of 
+cells  which  range  them  under  the  general  category  organs, 
+neglect  to  note  also  the  attributes  which  make  them  a  class 
+by  themselves  within  that  category,  namely  their  similarity 
+in  form,  constitution  and  size,  for  the  whole  organic  world, 
+and  of  still  more  importance,  their  office  as  the  implements 
+or  tools  by  which  the  organism  performs  the  physical 
+changes  and  chemical  transformations  of  the  materials  it 
+uses. 
+
+
+Adrancc  Toward  the  Organixmal  Standpoint  Through  Con- 
+ception of  the  Cell  If  cached  hi/  Biochemist  r/j  Pursued 
+in    Accordance   icith    the    Principles   of 
+Physical    C 'he  wintry 
+
+This  last   statement   turns  us  back  to  the  concluding  sen 
+tenccs  of  the  chapter  on  The  Organism  and   Its  Chemistry. 
+
+Our  explorations  in  that  field  discovered,  it  will  be  re- 
+called, that  biochemistry,  prosecuted  in  accordance  with  the 
+principles  of  physical  chemistry,  is  being  led  to  conceive 
+the  cell  as  a  "highly  differentiated  system,"  or  an  "organ- 
+ized laboratory"  consisting  largely  of  "colloidal  complexes" 
+which  constitute-,  "as  it  were,  a  special  apparatus  for  per- 
+forming dynamic  chemical  events." 
+
+
+192  The  Unity  of  the  Organism 
+
+Into  the  details  of  the  physico-chemical  conception  of  the 
+cell  we  do  not  enter  again  here.  Miserably  inadequate  as 
+our  presentation  of  the  subject  was  in  the  previous  chapter, 
+it  must  suffice  for  this  discussion. 
+
+By  way  of  making  the  conception  still  more  concrete 
+and  vivid,  and  of  emphasizing  its  importance  from  the  or- 
+ganismal  standpoint  I  quote  Hopkins  a  little  further:  "On 
+ultimate  analysis  we  can  scarcely  speak  at  all  of  living  mat- 
+ter in  the  cell ;  at  any  rate,  we  cannot,  without  gross  mis- 
+use of  terms,  speak  of  the  cell  life  as  being  associated  with 
+any  one  particular  type  of  molecule.  Its  life  is  the  ex- 
+pression of  a  particular  dynamic  equilibrium  which  obtains 
+in  a  polyphasic  system.  Certain  of  the  phases  may  be  sep- 
+arated, mechanically  or  otherwise,  as  when  we  squeeze  out 
+the  cell  juices,  and  find  that  chemical  processes  still  go  on 
+in  them ;  but  'life,'  as  we  instinctively  define  it,  is  a  property 
+of  the  cell  as  a  whole,  because  it  depends  upon  the  organi- 
+sation of  processes,  upon  the  equilibrium  displayed  by  the 
+totality  of  the  coexisting  phases." 
+
+Let  us  now  bring  closely  alongside  these  and  the  pre- 
+viously quoted  statements  about  the  nature  of  the  cell  as 
+seen  by  physical  chemistry,  statements  about  its  nature  as 
+seen  by  natural  history,  these  latter  statements  having  been 
+examined  in  the  preceding  chapter.  Take  this  from  E.  B. 
+Wilson,  for  example:  "The  real  unity  is  that  of  the  entire 
+organism  and  as  long  as  its  cells  remain  in  continuity  they 
+are  to  be  regarded  not  as  morphological  individuals,  but 
+as  specialized  centers  of  action  into  which  the  living  body 
+resolves  itself  and  by  means  of  which  the  physiological 
+division  of  labor  is  effected." 
+
+And  this  from  Whitman:  "Comparative  embryology  re- 
+minds us  at  every  turn  that  the  organism  dominates  cell 
+formation,  using  for  the  same  purpose  one,  several,  or  many 
+cells,  massing  its  material  and  directing  its  movements,  and 
+shaping  its  organs,  as  if  the  cells  did  not  exist,  or  as  if  they 
+
+
+Cell-Theory  not  Sufficient  for  Explaining  Organism      193 
+
+existed  only  in  complete  subordination  to  its  will,  if  one 
+may  so  speak." 
+
+And  this  from  Lillie:  "The  traditional  view,  held  by  many 
+embryologists  at  the  present  day,  is  that  the  physiological 
+unity  arises  in  the  course  of  embryonic  development  of  the 
+secondary  adaptation  of  originally  independent  parts  to 
+one  another.  But  this  explanation  has,  in  my  opinion,  be- 
+come untenable,  and  must  be  replaced  by  the  view  that 
+there  are  certain  properties  of  the  whole,  constituting  a 
+principle  of  unity  of  organization,  that  are  part  of  the 
+original  inheritance,  and  thus  continuous  through  the  cycles 
+of  the  generations  and  do  not  arise  anew  in  each." 
+
+And  finally  this  statement  by  Conklin  of  the  often  ex- 
+pressed perception  that  the  germ-cell  and  the  adult  organ- 
+ism which  develops  from  it  are  one  and  the  same  individual: 
+"Furthermore,  from  its  earliest  to  its  latest  stage  an  indi- 
+vidual is  one  and  the  same  organism ;  the  egg  of  a  frog  is  a 
+frog  in  an  early  stage  of  development." 
+
+Recognizing  in  these  four  statements  a  sort  of  concen- 
+trated solution  of  the  evidence  of  our  whole  discussion  of 
+
+e  cell-theory,  that  the  cells  of  multicellular  organisms  are 
+really  organs  of  the  organisms ;  that  they  are  not  inde- 
+pendent, ultimate  life  units  but  on  the  contrary  exist  be- 
+cause of  and  in  subordination  to  the  organism,  how  escape 
+seeing  that  in  such  general  physico-chemical  presentations 
+of  the  nature  of  living  substance  as  those  quoted  from  Hop- 
+kins whenever  the  term  cell  occurs  the  term  organism  really 
+ought  to  be  used?  The  compulsion  to  such  substitution  is 
+
+pecially  direct  and  compelling  from  the  perception,  as 
+expressed  by  Conklin,  that  a  frog,  for  instance,  is  one  and 
+the  same  organism  whether  in  the  one-celled  stage,  that  is, 
+existing  as  a  cell,  or  in  the  many-celled  stage. 
+
+But  bringing  the  language  of  natural  history  into  juxta- 
+position with  that  of  biochemistry,  as  we  are  here  doing, 
+»ccomplishes  more  than  merely  to  reveal  the  necessity  for 
+
+
+;;: 
+
+
+::; 
+
+
+194  The  Unity  of  the  Organism 
+
+substituting  organism  for  cell  in  the  statements  of  biochem- 
+istry. It  reveals  important  details  of  the  general  truth  that 
+the  organism  and  not  the  cell  is  what  physical  chemistry  is 
+in  reality  carrying  biochemistry  toward.  For  instance,  com- 
+pare Hopkins'  assertion  that  it  is  impossible  to  attribute 
+cell  life  to  "any  one  particular  type  of  molecule"  with  Lil- 
+lie's  that  the  traditional  view  according  to  which  cells  are 
+"originally  independent  parts"  and  only  secondarily  be- 
+come incorporated  into  the  "physiological  unity,"  must  be 
+replaced  by  the  conception  that  there  are  "certain  proper- 
+ties of  the  whole"  which  constitute  a  "principle  of  unity" 
+that  are  part  of  the  "original  inheritance"  of  the  organism. 
+The  parity  here  suggested  between  the  natural  historian's 
+objection  to  conceiving  "life"  as  a  phenomenon  of  "the 
+Cell,"  as  though  on  ultimate  analysis  there  were  only  one 
+kind  of  cell,  and  the  modern  biochemist's  objection  to  con- 
+ceiving "life"  as  a  phenomenon  of  "one  particular  type  of 
+molecule"  should  be  examined  a  bit  closer.  What  Hopkins 
+has  in  mind  in  taking  a  stand  against  "a  particular  type  of 
+molecule"  as  the  explanation  of  life  is  the  "ultimate  physio- 
+logical unit"  theory  which  has  cropped  up  under  so  many 
+nomenclatorial  garbs  in  later  years,  but  has  reached  its 
+most  plausible  form,  perhaps,  in  the  biogen  conception,  ably 
+defended  by  Verworn. 
+
+To  this  conception,  no  matter  what  guise  it  assumes, 
+physical  chemistry  brings  the  insurmountable  objection,  so 
+far  as  the  living  cell  is  concerned,  that  "life"  in  the  very 
+simplest  expression  of  it  known  to  observational  science,  is 
+yet  a  great  complex  of  structures  and  activities  which  con- 
+stitute a  system.  It  is  a  space-occupying,  shape-presenting, 
+self-equilibrating  complex.  Its  very  existence  is  a  phenom- 
+enon of  multiplex  dynamic  unity,  the  parts  of  which  though 
+constituting  the  whole  are  yet  subordinate  to  the  whole. 
+Hence  the  modern  biochemist's  assertion  that  we  cannot 
+properly  speak  of  the  living  molecules  in  the  cell,  but  must 
+
+
+Cell-Theory  not  Sufficient  for  Explaining  Organism       195 
+
+think  of  the  life  of  the  cell  as  a  property  of  the  cell  as  a 
+whole.  And  hence,  too,  the  natural  historian's  perception 
+that  he  must,  in  turn,  and  by  tin-  very  same  general 
+principles  which  guide  the  physical  chemist,  insist  that  life 
+is  a  property  of  the  organism  a.s  a  whole.  In  Whitman's 
+expressive  language,  the  "organism  dominates  cell  forma- 
+tion," exactly  as,  by  implication,  Hopkins'  language  jus- 
+tifies us  in  asserting  that  the  cell  dominates*  the  "molecules" 
+of  the  living  substances  of  which  it  is  constituted. 
+
+Likewise  the  "morphological  plan  of  the  organism"  men- 
+tioned by  Carrel  and  Burrows  as  something  to  which  the 
+tissues  "must  adapt  themselves  in  their  development"  (see 
+({notation  in  section  on  tissue  cultures)  is  really  the  counter- 
+part in  natural  history  language  of  the  cell  as  an  "organized 
+laboratory"  in  biochemical  language.  And  the  "unknown 
+factor"  which  Carrel  and  Burrows  assume  must  be  added 
+to  the  "morphological  plan  of  the  organism"  to  explain  the 
+compulsory  adaptation  of  the  differentiating  tissues,  is  sup- 
+plied by  physical  chemistry  so  far  as  the  cell  is  concerned, 
+in  the  dynamical,  the  self-equilibrating  system  of  phases 
+recogni/ed  as  constituting  the  cell. 
+
+But  when  the  perception  is  reached,  as  it  is  through  our 
+examination,  that  in  reality  the  term  "organism"  should 
+take  tlie  place  of  "cell"  in  biochemical  language,  the  organ- 
+ism no  longer  appears  as  a  morphological  entity  merely,  but 
+as  a  dynamical,  a  physiological  entity  as  well,  and  the  "un- 
+known factor"  is  supplied  in  the-  organism-as-a --whole.  Once 
+such  a  conception  of  life  becomes  as  clear  as  it  is  inevitable, 
+a  seemingly  overwhelming  difficulty  looms  up  in  the  fact 
+that  "the  organism"  as  natural  history  is  compelled  to  deal 
+with  it  is  infinite  in  number,  theoretically  if  not  practically. 
+For  nothing  is  more  patent  than  that  iiuliriclnal  organisms 
+are  the  primary  material  of  natural  history,  and  no  gen- 
+eralization of  natural  history  is  better  grounded  than  that 
+no  two  individuals  are  quite  alike.  From  which  it  results 
+
+
+196  The  Unity  of  the  Organism 
+
+that  no  individual  can  be  fully  understood,  fully  interpreted, 
+without  itself  being  made  a  subject  of  investigation.  No 
+generalization  about  organism  proper  can  be  counted  on 
+to  apply  fully  to  all  organisms !  It  is  probable  that  an 
+ill-defined  sense  of  this  difficulty  (that  of  the  unreachable- 
+ness%  of  the  whofe  of  living  nature  by  any  recognized  uni- 
+versal principle  or  law)  accounts  for  the  turning  back  of  so 
+many  able  biologists  after  they  have  gone  far  on  the  natural 
+history  road.  For  example,  E.  B.  Wilson's  failure  to  accept 
+the  consequences  of  his  own  conclusion,  "the  real  unity  is 
+that  of  the  entire  organism,"  is  very  likely  explicable  in 
+this  way.  To  one  who  has  been  so  indoctrinated  with  the 
+metaphysics  which  grows  naturally  out  of  modern  mathe- 
+matical physics  as  to  make  him  accept  the  pronouncement 
+that  there  are  "only  two  real  things  in  the  universe,  Matter 
+and  Force,"  a  course  of  discovery  and  reasoning  which 
+makes  every  individual  organism,  no  matter  how  small  and 
+insignificant,  a  "real  thing"  seems  preposterous  even  though 
+true.  But  the  fact  that  the  conception  as  modern  biology 
+reaches  it  is  largely  due  to  physics  itself  through  its  influ- 
+ence upon  chemistry  and  biochemistry,  ought  to  contribute 
+much  to  the  reconciliation  of  science  generally  to  the  con- 
+ception. 
+
+The  full  meaning  of  such  an  exaltation — for  exaltation 
+it  undoubtedly  amounts  to — of  the  individual  can  be  com- 
+passed only  by  a  painstaking  examination  of  very  many 
+biological  facts  and  hypotheses  and  dogmas,  this  examina- 
+tion ranging  over  the  whole  vast  realm  of  living1  nature. 
+Indeed,  the  final  and  most  convincing  evidence  for  the  essen- 
+tial truth  of  the  conception  will  be  reached  only  when  man 
+himself  and  the  highest  provinces  of  his  nature  have  been 
+brought  into  the  examination.  By  the  mode  of  treatment 
+adopted  in  this  work  we  shall  not  have  sounded  the  deepest 
+depth  explored  in  it  until  the  end  of  the  lasi  chapters  shall 
+
+
+CcQrThcory  not  Sufficient  for  Explaining  Organism  107 
+
+have  been  reached,  those  on  The  Psychic  Integration  of  the 
+Organism. 
+
+REFERENCE    INDEX 
+
+1.  Rand    48        7.  Strasburger  et  al 417 
+
+2.  Morgan,  T.   H.    ('01)....       23        8.  Nusbaum  and   Oxner    ...  302 
+
+3.  Morgan,  T.  H.    ('01 ) . . . .     177        9.  Dawydoff    6 
+
+4.  Holmes,  S.  J 278       10.  Ntishaum     .  .• 16 
+
+5.  Holmes,  S.  J 279       11.  Hopkins    220 
+
+(J.  Holmes,   S.  J 304 
+
+
+Chapter  VIII 
+FURTHER  EXAMINATION  OF  THE  CELL-THEORY 
+
+OO  pervasive  have  been  the  efforts  to  interpret  organic 
+^-^development  in  accordance  with  the  cell-theory  that  to 
+examine  them  exhaustively  is  impossible.  All  one  can  do 
+is  to  choose  some  of  the  most  prominent  and  assume  that 
+if  the  criticism  succeeds  with  these  major  efforts  it  could 
+succeed  with  the  minor  ones. 
+
+The  Mosaic  Theory 
+
+Two  diametrically  opposed  interpretations  of  the  early 
+developmental  states  of  the  organism  have  figured  largely 
+in  later  biological  theorizing.  According  to  the  first,  the 
+constituent  cells  of  the  earliest  cleavage  stages  hold  the  re- 
+lation to  one  another  of  the  stones  in  a  mosaic  work ;  ac- 
+cording to  the  second,  each  cell  is  "totipotent,"  that  is.  sup- 
+posedly capable  of  producing  the  entire  organism. 
+
+What   tJie  Mosaic   Theory  Is 
+
+What  the  phrase  "mosaic  work"  means  when  applied  to 
+an  embryo  may  be  stated  in  the  words  of  Roux  himself,  the 
+discoverer  of  the  phenomena  on  which  the  conception  rests. 
+
+"Mosaic  work"  designates  those  "developmental  phenom- 
+ena through  which  in  many  eggs,  those  of  the  frog  for  in- 
+stance, each  of  the  two  or  four  first  cleavage  cells  (or  the 
+complex  of  descendants  of  these)  develop  by  tJu'jnxi'lrcx 
+alone  into  the  corresponding  body  part,  for  example  into 
+
+198 
+
+
+Further  Examination  of  the  Cell-Theory          199 
+
+half  embryos  and  so  forth,  consequently  without  the  forma- 
+tive cooperation  of  other  parts,  so  are  fashioned  independ- 
+ently, like  the  stones  of  a  mosaic  picture.  This  takes  place 
+through  the  'self-differentiation'  of  separate  cleavage  cells 
+or  later  separate  organ-foundation  or  in  fact  artificially  de- 
+limited parts,  and  is  possible  only  in  'typical'  development 
+since  'atypical'  development  must  proceed  with  far  reaching 
+formative  regulation."  And  along  with  this  definition  of 
+mosaic  work  the  definition  of  the  mosaic  theory  should  be 
+noticed.  "The  mosaic  theory  is  the  theory  which  explains 
+or  at  least  makes  intelligible  the  'mosaic  work.'  It  rests 
+upon  the  assumption  of  different  qualities  in  the  separate 
+cells  (cell  body  or  also  cell  nucleus)  or  organ-foundations 
+etc.  capable  of  'self-differentiation'." 
+
+Obviously,  were  it  generally  true  that  the  cells  of  an  or- 
+ganism are  as  distinct  as  the  individual  stones  in  a  mosaic, 
+not  only  as  to  their  form  and  structure,  but  also  as  to  their 
+activities,  including  their  powers  of  differentiation,  this  fact 
+would  go  far  toward  a  demonstration  that  cells  really  are 
+the  "key  to  all  ultimate  biological  problems"  and  the  central 
+thesis  of  biological  elementalism,  namely,  that  the  final  ex- 
+planation of  all  organic  phenomena  lies  in  the  elements  con- 
+stituting organic  bodies,  would  have  found  an  almost  im- 
+pregnable stronghold.  On  this  account  the  mosaic  theory 
+has  been  far  more  eagerly  defended  and  combatted  than  its 
+merits  as  a  strict  scientific  hypothesis  warrant.  For  this 
+reason  too,  it  will  be  profitable  for  us  to  devote  somewhat, 
+more  attention  to  it  than  we  could  otherwise  afford; 
+
+The  central  facts  on  which  the  mosaic  theory  rests  are 
+familiar  to  all  students  of  embryology.  Roux  killed  one  of 
+the  two  cells  of  frog  eggs  when  they  were  in  the  two-cell 
+stage  of  development,  by  pricking  it  with  a  heated  needle. 
+In  some  cases  the  other  cell  remaining  uninjured  developed 
+into  a  half-embryo  of  somewhat  such  character  as  one  would 
+get  were  he  to  split  a  normally  developed  embryo  lengthwise 
+
+
+200  The  Unity  of  the  Organism 
+
+in  the  dorso-ventral  plane  of  the  body.  He  then  killed  three 
+of  the  four  cells  of  embryos  in  the  four-celled  stage,  and  in 
+a  few  instances  got  something  from  the  remaining  cell  quite 
+like  a  quarter  embryo.  On  these  observations  Roux  based 
+the  somewhat  bold  hypothesis  that  "the  development  of  the 
+frog's  gastrula  and  of  the  embryo  immediately  following  the 
+gastrula-stage  is,  after  the  second  cleavage-period,  a  mosaic 
+work  of  at  least  four  vertical  self-developing  (or  differen- 
+tiating) parts."  To  this,  however,  was  added  the  shelter- 
+ing statement,  "how  far  this  mosaic  work  is  changed  by  a 
+change  in  position  of  material  in  the  later  development,  can- 
+not be  determined." 
+
+So  striking  a  series  of  experiments  and  so  far-reaching 
+an  hypothesis  were  naturally  not  permitted  to  stand  long 
+without  re-examination.  O.  Hertwig  was  the  first  to  try  the 
+experiment  again.  His  results  were  quite  different  from 
+Roux's.  He  got  no  hemi-embryos  at  all,  but  on  the  contrary 
+a  number  of  whole  embryos,  more  or  less  badly  deformed  in 
+various  ways.  It  should  be  borne  in  mind  that  Roux's 
+method  of  killing  the  cells  did  not  remove  the  injured  cells. 
+These  remained  in  full  or  slightly  diminished  mass,  but 
+wholly  inert,  as  originally  supposed,  when  the  operation  was 
+entirely  successful.  Hertwig,  on  the  contrary,  believed  that 
+usually  the  life  of  the  pierced  cells  was  not  entirely  de- 
+stroyed, but  that  whether  quite  dead  or  not,  they  exerted 
+an  important  influence  on  the  developing  part,  and  he 
+hazarded  the  opinion  that  could  one  of  the  two  cells  be 
+entirely  removed,  the  other  would  produce  a  complete  em- 
+bryo though  of  reduced  size. 
+
+After  much  discussion  between  Roux  and  Hertwig  and 
+others  who  came  into  the  field,  it  was  shown  by  Morgan  that 
+"when  the  black  pole  of  the  uninjured  blastomere  remained 
+upj  the  blastomere  developed  in  all  cases  observed  into  a 
+half -embryo.  Conversely,  those  eggs  in  which  the  white  pole 
+was  turned  upward,  formed,  in  most  cases,  whole  embryos 
+
+
+Further  Examination  of  the  Cell-Theory         201 
+
+of  half -size."  It  thus  seems  that  the  mosaic  hypothesis  for 
+the  frog  is  partly  true.  Under  some  circumstances  the 
+cells  seem  more  or  less  like  the  stones  in  a  mosaic,  under 
+other  circumstances  however  they  do  not.  Later  work,  par- 
+ticularly by  Roux,  Curt  Ziegler,  Morgan  and  Ellen  Torelle, 
+has  in  general  confirmed  this  much  modified  form  of  the 
+hypothesis  in  the  case  of  the  frog.  It  has  at  the  same  time 
+shown  how  much  more  complicated  the  whole  matter  is  than 
+Roux's  original  simple  statement  would  lead  one  to  suppose. 
+But  the  frog  is  not  the  only  animal  in  which  the  cells  of 
+the  early  embryo  present  something  of  the  mosaic  character. 
+('.  Chun  discovered  that  one  of  the  cells  of  the  two-celled 
+stage  of  a  Ctenophore  would  develop  as  a  half-embryo  if 
+isolated  from  its  mate.  Driesch  and  Morgan  confirmed  this 
+discovery  in  general,  but  pointed  out  certain  details  of 
+structure  of  the  resulting  organisms  which  make  the  latter 
+depart  quite  fundamentally  from  half-organisms  in  a  strict 
+sense.  For  instance,  a  true  ectoderm  covered  over  the  side 
+that  would  be  the  cut  surface  were  two  half-animals  to  be 
+produced  by  halving  a  whole  one  with  a  knife.  Further, 
+some  of  the  internal  organs,  notably  the  endodermal  pockets, 
+were  not  merely  what  they  would  be  in  a  half-animal,  but 
+were  as  much  like  those  of  a  whole  animal.  The  normal 
+animal  has  four,  so  a  typical  half-animal  would  have  two, 
+but  the  half-animals  produced  from  isolated  blastomeres 
+had  three.  Several  later  investigations  on  ctenophore  eggs 
+have  been  carried  out,  the  upshot  of  all  being  that  with 
+very  decided  reservations  the  cells  of  the  young  embryos 
+of  these  animals  may  be  looked  upon  as  the  "stones  in  a 
+mosaic  work."  A  few  other  kinds  of  animals,  for  example 
+the  mollusc  IlijfinufDni  obsoleta  show  something  of  the  same 
+sort  of  developmental  capacity.3 
+
+
+202  The  Unity  of  the  Organic 
+
+A  Modicum  of  Truth  in  the  Mosaic  Theory 
+
+It  is,  then,  fully  established  that  in  some  animals  the 
+cells  of  the  early  embryos  are  so  specified  or  individualized 
+that  each  develops  to  a  considerable  extent  in  its  own  way, 
+that  is,  more  or  less  independently  of  its  neighbor  cells, 
+and  hence  may  be  crudely  compared  to  the  stones  in  a 
+mosaic  work — crudely,  we  must  insist,  since  stones  as  mem- 
+bers of  a  mosaic  work  do  not  develop  at  all. 
+
+The  Theory  of  Totipotence 
+
+This  theory  is  the  other  side  of  the  shield,  the  side  which 
+looks  as  though  the  cells  of  the  early  embryo  are  "totipo- 
+tent,"  that  is,  as  though  each  cell  were  able  to  produce  the 
+whole  organism  instead  of  only  a  pre-ordained  portion  of  it. 
+Chieftainship,  both  experimental  and  speculative,  in  this 
+theory  of  developing  embryos  is  universally  accorded  to 
+Hans  Driesch.  The  discoveries  by  him  which  had  such  per- 
+vasive influence  on  biological  thinking  for  more  than  two 
+decades  were  first  published  in  1891.  His  recent  popular 
+account  of  his  work  in  The  Science  and  Philosophy  of  the 
+Organism,  will  best  serve  our  present  need. 
+
+Experimental  Facts  on  Which  the  Theory  Rests 
+
+Three  years  after  the  publication  of  Roux's  experiments 
+on  the  frog's  egg,  above  referred  to,  Driesch  tried  essen- 
+tially the  same  experiment,  but  on  a  different  animal  and 
+by  a  different  method.  He  writes :  "It  was  known  from 
+the  cytological  researches  of  the  brothers  Hertwig  and 
+Hoveri  that  the  eggs  of  the  common  sea-urchin  Echinus 
+microtuberculatus  are  able  to  stand  well  all  sorts  of  rough 
+treatment,  and  that,  in  particular,  when  broken  into  pieces 
+by  shaking,  their  fragments  will  survive  and  continue  to 
+
+
+Further  Examination  of  tin'  CeU-TKeory 
+
+i  tent.  ...  I  shook  tlic  germs  rather  violently  during 
+the  two-cell  stage,  and  in  several  instances  I  succeeded  in 
+killing  one  of  the  bias  tome  res,  while  the  other  one  was  not 
+damaged,  or  in  separating  the  two  blastomeres  from  one 
+another. 
+
+"Let  us  now  follow  the  development  of  the  isolated  sur- 
+viving cell.  It  went  through  cleavage  just  as  it  would  have 
+done  in  contact  with  its  sister-cell,  and  there  occurred  cleav- 
+age stages  which  were  just  half  of  the  normal  ones  The 
+stage,  for  instance,  which  corresponded  to  the  normal  six- 
+teen-cell  stage  .  .  .  showed  two  micromeres,  two  macromeres 
+and  four  cells  of  medium  size,  exactly  as  if  a  normal  sixtecn- 
+cell  stage  had  been  cut  in  two ;  and  the  form  of  the  whole  was 
+that  of  a  hemisphere.  So  far  there  was  no  divergence  from 
+Roux's  results.  .  .  . 
+
+"I  now  noticed  on  the  evening  of  the  first  day  of  the  ex- 
+periment, when  the  half-germ  was  composed  of  about  two 
+hundred  elements,  that  the  margin  of  the  hemispherical  germ 
+bent  together  a  little,  as  if  it  were  about  to  form  a  whole 
+sphere  of  smaller  size,  and,  indeed  the  next  morning  a  whole 
+diminutive  blastula  was  swimming  about.  I  was  so  much 
+convinced  that  I  should  get  Roux's  morphological  result  in 
+all  its  features  that,  even  in  spite  of  this  whole  blastula,  I 
+now  expected  that  the  next  morning  would  reveal  to  me  the 
+half-organisation  of  my  subject  once  more.  .  .  .  But  things 
+turned  out  as  they  were  bound  to  do  and  not  as  I  had 
+expected;  there  was  a  typically  whole  gastrula  on  my  dish 
+the  next  morning,  differing  only  by  its  small  size  from  a 
+normal  one ;  and  this  small  but  whole  gastrula  was  followed 
+by  a  whole  and  typical  small  pluteus-larva. 
+
+"That,  was  just  the  opposite  of  Roux's  result;  one  of  the 
+firsf  two  blastomeres  had  undergone  a  half-cleavage  as  in 
+his  case,  but  then  it  had  become  a  whole  organism  by  a  sim- 
+ple process  of  rearrangement  of  its  material,  without  any- 
+thing that  resembled  regeneration,  in  the  sense  of  a  comple- 
+
+
+204  The  Unity  of  the  Organism 
+
+tion  by  budding  from  a  wound."  4 
+
+Driesch  went  on  with  his  sea-urchin  eggs,  as  Roux  had 
+with  the  frog-eggs,  to  see  what  cells  would  do  if  separated 
+in  the  four-cell  stage.  He  found  that  such  cells  could  also 
+give  rise  to  whole  larvae,  but  of  correspondingly  diminished 
+size.  So  far  then,  as  the  sea-urchin  is  concerned,  taking 
+the  facts  at  their  face  value,  the  cells  of  the  very  young 
+embryos  were  proved  to  be  diametrically  the  opposite  in 
+their  relation  to  the  complex  as  a  whole,  from  the  individual 
+stones  of  a  mosaic  work. 
+
+Driesch's  methods  of  treating  developing  eggs  were  soon 
+much  resorted  to  by  other  investigators,  with  the  general 
+outcome  that  numerous  animals  in  widely  separated  parts 
+of  the  animal  kingdom  were  proved  to  have  much  the  same 
+developmental  ability  as  the  sea-urchin.  Wilson  found  that 
+the  cells  of  Amphioxus  embryos  separated  in  the  two-  and 
+four-cell  stage  would  develop  from  the  very  beginning  after 
+isolation  like  whole  eggs  of  reduced  size.  It  will  be  recalled 
+that  the  sea-urchin  cells  separated  by  Driesch  developed 
+at  the  beginning  like  half-eggs,  and  only  changed  over  to 
+the  whole-embryo  in  the  blastula  stage.  So  Wilson's  dis- 
+covery removed  Ampliioxus  still  farther  from  the  mosaic 
+type  of  development  than  the  sea-urchin  had  been  removed 
+by  Driesch. 
+
+The  Italian  zoologist,  Raffaello  Zoja,  increased  knowl- 
+edge of  whole-animal  production  from  a  portion  of  the  cells 
+of  the  young  embryo,  by  showing  that  in  the  hydroid  Clytia 
+flavidukli  not  only  one  of  the  blastomeres  from  the  two-cell 
+stage,  but  one  from  the  four-  and  eight-  and  even  the  six- 
+teen-cell  stage,  will  develop  to  complete  organisms  of  dimin- 
+ished size,  the  half  and  the  fourth  at  least,  of  the  whole  egg, 
+being  capable  of  going  on  with  the  development  until  the 
+adult  animal,  perfect  _except  as  to  size,  is  reached. 
+
+In  view  of  the  fact  that  the  egg  of  the  frog,  a  representa- 
+tive of  one  of  the  two  main  sections  of  the  Amphibia  (the 
+
+
+m< 
+
+• 
+
+in 
+
+; 
+
+
+Further  Examination  of  the  Cell-Theory         205 
+
+anura),  served  as  the  starting  point  for  the  mosaic  theory, 
+it  is  particularly  interesting  to  know  that  the  egg  of  Triton, 
+which  represents  the  other  section  (the  urodela),  falls  in 
+with  the  sea-urchin,  Amphioxv*,  and  hydroids,  as  concerns 
+the  developmental  ability  of  the  separated  cells  of  the  two- 
+cell  stage.  For  this  information  we  are  indebted  first  of  all 
+to  Ainedeo  Herlit/ka. 
+
+This  power  of  developing  whole  animals  from  portions  of 
+the  egg  has  been  proved  to  exist  in  several  other  groups, 
+but  enough  detail  has  now  been  adduced  to  show  conclu- 
+sively that  the  mosaic  conception  of  the  organism  contains 
+only  a  modicum  of  truth.  The  observations  here  briefly  set 
+forth,  with  others  of  like  import,  led  Wilson  to  declare:  "In 
+its  original  form  the  mosaic  theory  has,  I  believe,  received 
+its  death-blow."  •"' 
+
+Going  still    farther,   Wilson    said   in   the   same   discourse, 
+
+I  will  here  point  out  one  all-important  point  which  is,  defi- 
+
+itely  established  by  the  work  of  Driesch  and  other  experi- 
+mentalists, and  which  is  accepted  by  all  opponents  of  the 
+mosaic  theory,  namely,  that  the  cell  cannot  be  regarded  as 
+
+n  isolated  and  independent   unit.     The  only  real  unity  is 
+at  of  the  entire  organism,  and  as  long  as  its  cells  remain 
+continuity  thev  are  to  be  regarded,  not  as  morphological 
+individuals,  but   as   speciali/ed   centres   of  action   into  which 
+the  living  body    resolves  itself,  and  bv   means  of  which  the 
+
+•hysiological  division  of  labor  is  effected."6 
+
+It  was  these  discoveries,  antithetic  to  those  which  led  to 
+the  mosaic  theory,  that  begot  in  Driesch's  mind  the  concep- 
+tions of  "totipotcnce,"  "prospective  significance,"  and  the 
+''harmonic  equipotential  system." 
+
+The  formal  definition  of  "totipotence,"  and  of  "prospec- 
+tive significance"  mav  be  given  here  since  thev  concern  pri- 
+marily the  cells  of  the  embryo.  "Totipotence  [is  the  pos- 
+session by]  a  part  of  the  germ  as  yet  not  at  all  or  but 
+slightly  'specified'  of  a  form-producing  power  similar  to  that 
+
+
+206  The   Unity  of  the  Organism 
+
+of  the  entire  egg.  It  is  therefore  the  power  [of  such  a  part] 
+to  develop  the  entire  organism."  7 
+
+The  meaning  of  "prospective  significance"  is  that  "each 
+blastomere  is  a  function  of  its  position  in  the  whole."  8 
+
+The  extreme  form  of  Driesch's  view  is  set  forth  in  his 
+lucid  and  often  quoted  statement  that  the  early  cells  of 
+the  sea-urchin  embryo  are  "composed  of  an  indifferent  ma- 
+terial, so  that  they  may  be  thrown  about  at  will,  like  balls 
+in  a  pile,  without  the  least  impairment  of  their  power  of 
+development." 
+
+Balancing  the  Account  Between  the  Mosaic  and  Totipotence 
+
+Theories 
+
+Every  one,  it  would  appear,  must  then  admit  that,  so  far 
+as  concerns  the  part  of  the  cell-theory  which  would  see  in 
+the  c'ell  the  "key"  to  all  development,  these  discoveries  by 
+Roux  and  Driesch  neutralize  each  other.  If  the  cells  of 
+the  frog's  egg  seem  in  their  individual  capacities  to  produce 
+each  its  particular  part  of  the  organism,  those  of  the  sea- 
+urchin's  egg  seem,  with  equal  positiveness,  to  do  nothing  of 
+the  sort,  but  on  the  contrary  to  be  entirely  subject  to  the 
+weds  of  the  future  organism.  This,  I  say,  is  manifestly  the 
+effect  which  the  original  discoveries  of  Roux  and  Driesch 
+have  upon  each  other.  But  later  researches  have  undoubt- 
+edly proved  that  more  animals  resemble  the  sea-urchin  than 
+the  frog  so  far  as  the  developmental  attribute  is  concerned. 
+And  the  case  of  Triton,  the  near  relative  of  the  frog  should 
+be  particularly  remembered.  "There  is  no  necessity,"  says 
+Herlitzka,  "for  a  predisposition  of  various  parts  of  the 
+isolated  blastomere  (or  of  the  egg)  to  give  origin  to  de- 
+terminate organs."  10 
+
+It  is  quite  impossible  and  unnecessary  to  follow  all  the 
+details  of  the  Rouxian  and  Drieschian  views  of  the  relation 
+of  cells  to  the  organism  in  development ;  but  we  must  notice 
+
+
+Further  Examination  of  the  Cell-Theory          207 
+
+in  a  general  way  the  course  pursued  by  lloux  relative  to  the 
+observations  by  other  biologists  and  by  himself  which  are 
+clearly  hostile  to  the  mosaic  theory.  To  meet  the  fact  that 
+under  some  conditions,  even  in  the  frog,  not  a  half-embryo 
+but  a  smaller  whole  embryo  develops  from  the  isolated  blas- 
+tomcres,  he  advanced  the  notion  of  "postgeneration."  Bv 
+this  he  means  the  "supplementary  restoration,  completely 
+or  incompletely,  of  a  half-  or  quarter-embryo,  or  other 
+'Partial-product'  formed  in  consequence  of  the  destruction 
+of  a  part  of  the  egg."  1X 
+
+By  coupling  this  idea  with  an  earlier  speculation  of  his 
+about  the  nature  of  the  cell  nucleus,  he  tried  to  make  the 
+nucleus,  instead  of  the  cell,  the  really  responsible  element 
+in  the  mosaic,  at  least  in  those  cases  in  which  the  whole  cell 
+clearly  does  not  conform  to  the  mosaic  conception. 
+
+Provision  for  retreat  to  the  nucleus  upon  occasion,  is 
+made  in  his  definition  of  mosaic  theory  already  quoted.1  It 
+will  be  recalled  that  the  theory  rests  on  the  "assumption 
+of  different  qualities  in  the  individual  cells  (cell  body  or 
+cell  nucleus,  etc.)  capable  of  self  differentiation." 
+
+Alongside  this  modification  of  the  original  mosaic  theory 
+made  by  transferring  the  role  of  building  stones  from  the 
+cells  to  the  nuclei,  it  is  instructive  to  place  what  is  in  effect 
+another  modification  of  an  opposite  nature  invented  by  G. 
+Born,  in  connection  with  his  extensive  experiments  on  graft- 
+ing together  the  larva?  of  various  amphibians.  Born  found 
+that  larva1,  not  only  of  different  species,  but  even  of  differ- 
+in  t  genera  and  families,  could  be  made  to  unite  to  some 
+extent,  the  union  between  the  more  closely  related  specie.s 
+being  in  general  the  easiest  to  accomplish  and  the  most  per- 
+manent, but  that  in  any  case  each  component  of  the  grafted 
+specimen  maintained  its  specific  attributes  uninfluenced  by 
+the  individual  with  which  it  was  united.  In  other  words, 
+animal  grafts,  so  far  as  these  experiments  went,  follow  the 
+well  known  rules  of  plant  grafts.  The  maintenance  of  iden- 
+
+
+208  The   Unity  of  the  Organism 
+
+tity  of  the  parts,  Born  interprets  as  supporting  the  mosaic 
+theory.  He  says :  "From  our  beginning  stage  on,  the  de- 
+velopment rests  essentially  upon  self-differentiation  of  the 
+particular  (einzelncn)  parts  a  correlative  influence  of  the 
+neighborhood  (Nachbarshaft)  as  of  the  whole  cannot  be 
+recognized — neither  negative  nor  positive ;  the  development 
+therefore  corresponds  throughout  from  our  beginning  stage 
+on  to  the  mosaic  theory  of  Roux.  The  organ-forming  germ 
+regions  are  parceled  out  (His)."  12 
+
+That  an  individual  plant  or  animal  made  up  of  parts  of 
+the  bodies  of  two  or  more  other  plants  or  animals  grown 
+together,  each  constituent  maintaining  its  identity  wholly 
+unmodified  by  the  other  parts,  has  as  much  resemblance 
+to  a  mosaic  picture  as  can  well  be  imagined  for  any  living 
+being,  must  be  granted.  No  one  should,  however,  fail  to 
+see  the  difference  between  a  mosaic  of  this  sort  and  one  of 
+the  sort  conceived  on  the  basis  of  the  developmental  facts 
+which  were  the  starting  point  of  Roux's  theory.  In  the  first 
+place  "mosaic  pictures"  of  the  kind  produced  by  grafting 
+are  genuinely  man-made  affairs.  They  never  occur  in  na- 
+ture. A  "mosaic  theory"  contributes  nothing  substantial 
+to  their  interpretation.  Indeed  it  is  difficult  to  see  that 
+there  is  room  here  for  any  such  theory.  Such  a  composite 
+creature  undoubtedly  resembles  somewhat  a  mosaic  picture 
+and  that  would  seem  to  be  all  there  is  to  it.  But  undoubted- 
+ly such  a  creature  also  differs  very  much  from  a  mosaic  pic- 
+ture. For  one  thing,  the  creatures  arc  alive  and  mosaic- 
+pictures  are  not.  However,  I  have  no  wish  to  make  all  that 
+might  be  made  against  the  mosaic  theory  because  of  its  high 
+degree  of  artificiality.  The  main  purpose  in  bringing  for- 
+ward Bora's  work  and  ideas  at  this  point  is  to  direct  atten- 
+tion to  his  proposal  touching  what  might  be  called  the 
+scientific  aspect  of  the  mosaic  theory.  The  organ-forming 
+germ  areas  (organbildende  Keimbczirkc)  of  His  to  which 
+Born  refers,  and  which  unquestionably  played  a  large  part 
+
+
+Further  Examination  of  the  Cell-Theory          209 
+
+in  Koux's  original  theory,  are  surely  features  of  the  earliest 
+stages  of  ontogeny,  even  of  the  unsegmented  egg.  A  passage 
+from  His's  Unscrc  Korperform  quoted  by  Wilson  makes  this 
+clear.  "The  material  of  the  germ  is  already  present  in  the 
+flat  germ-disc,  but  is  not  yet  morphologically  marked  off 
+and  hrnce  not  directly  recognizable.  But  by  following  the 
+development  backwards  we  ma\  determine  the  location  of 
+every  such  germveven  at  a  period  when  the  morphological 
+differentiation  is  incomplete  or  before  it  occurs;  logically, 
+indeed,  we  must  extend  this  process  back  to  the  fertilized  or 
+e\vn  the  unfertili/ed  egg.  According  to  this  principle,  the 
+germ-disc  contains  the  organ-germs  spread  out  in  a  flat 
+plate-,  and  conversely,  every  point  on  the  germ-disc  reap- 
+pears in  a  later  organ.  I  call  this  the  principle  of  organ- 
+forming  germ-regions." 
+
+But.  notice  now  that  the  organ-forming  germ-regions 
+which  were  Bern's  "beginning  stages"  in  his  grafted  larva?, 
+wen-  hv  no  means  "germ-regions"  of  the  unfertilized  or  even 
+fertili/ed  egg.  They  were  parts  of  larva-,  i.e.,  of  individual 
+animals  well  advanced  in  development.  The  pieces  in  his 
+mosaic  works  were  not  single  cells  or  parts  of  cells  but  great 
+groups  of  cells,  many  of  them  already  considerably  differ- 
+entiated from  one  another,  but  yet  so  correlated  in  their 
+activities  as  to  enable  the  grafted  parts  of  the  animal  to 
+maintain  their  specific  identity. 
+
+A  fundamental  question,  then,  raised  by  the  mosaic  theory 
+as  formulated  today  is.  What  is  an  organ-forming  germ 
+area?  or,  more  briefly,  What  is  germinal  material?  Is  it 
+the  material  of  each  of  the  first  two,  or  in  some  instances 
+four  blastomeres  as  indicated  bv  the  frog's  egg?  Is  it 
+nuclear  material  as  conceived  by  Roux's  modification  of  his 
+original  theory?  Or  is  it  in  accordance  with  Bern's  idea, 
+the  material  of  any  group  of  cells  no  matter  how  large  the 
+group  and  how  many  kinds  of  cells  in  it,  so  long  as  the 
+group  is  able  to  develop  true  to  the  kind  of  organism  to 
+
+
+210  The  Unity  of  the  Organism 
+
+which  it  pertains?  A  critical  examination  of  both  the  orig- 
+inal theory  and  the  modifications  of  it,  in  the  light  of  the 
+questions  just  raised  will,  I  believe,  discover  that  the  modi- 
+fications have  in  reality  destroyed  whatever  of  scientific 
+value  the  original  theory  may  have  had.  There  can  be  no  ob- 
+jection to  comparing  a  living  being  with  a  mosaic  picture  on 
+the  basis  of  the  fact  that  the  former  is  composed  of  a  great 
+number  and  variety  of  living  particles  called  cells,  just  as 
+the  mosaic  picture  is  composed  of  a  great  number  of  par- 
+ticles of  stone,  but  the  comparison  has  at  best  but  little 
+scientific  value,  and  at  worst  may  be  very  harmful.  The 
+little  scientific  value  in  the  comparison  is  purely  subjective 
+and  logical;  it  concerns  the  problem  of  the  unity  in  spite 
+of  the  composite  quality  of  both  organism  and  picture  as 
+objects  of  perception. 
+
+The  harmfulness  of  which  the  comparison  is  capable  lies 
+in  the  wholly  fallacious  inferences  that  may  be  drawn  as 
+to  the  mode  of  origin  of  the  objects  compared.  The  funda- 
+mental difference  between  them  is  that  while  all  the  myriad 
+cells  of  the  organism  arise  by  the  repeated  auto-division  of 
+one  cell,  the  fertilized  ovum,  the  picture  is  composed  of 
+pieces  of  stone  cut  one  by  one  from  rocks  which  had  noth- 
+ing to  do  with  it,  until  the  pieces  were  assembled  and  put  in 
+order  to  produce  it,  by  men,  beings  again  originally  quite  in- 
+dependent of  the  picture.  The  undivided  egg-cell  would  then 
+have  to  be  compared  to  one  such  stone  block,  and  a  moun- 
+tain of  trouble  looms  up.  In  the  first  place,  we  know  for  an 
+absolute  certainty  that  there  is  no  one  block  of  the  pic- 
+ture from  which  all  the  others  are  produced  either  by  divi- 
+sion or  in  any  other  way ;  and  in  the  second  place,  while 
+any  particular  stone  block  of  the  picture  is  nearly  or  quite 
+homogeneous  so  far  as  the  general  design  of  the  picture  is 
+concerned,  and  represents  only  a  small  piece  in  the  design, 
+the  undivided  egg-cell  is  itself  the  whole  organism  in  one 
+stage  of  its  growth,  and  contains  within  itself  a  consider- 
+
+
+Further  Examination  of  the  Cell-Theory          211 
+
+able  design,  or  composition;  so  much,  that  is,  as  is  distinc- 
+tive of  the  organism  in  this  period  of  its  life. 
+
+Nor  can  we  let  Horn's  modification  of  the  theory  off 
+without  looking  at  it  from  another  and  quite  different  angle. 
+The  larva'  and  portions  of  larva;  entering  into  the  graft 
+com | ilexes  have,  lie  shows,  no  correlative  influence  on  one 
+another,  nor  is  there  any  influence  of  the  whole  on  the  parts, 
+and  therefore  the  wlwle  is  a  mosaic  work.  But  how  about 
+the  cellular  and  tissue  elements  composing  the  larvae  and 
+parts  of  larvae  within  the  complex?  May  we  look  upon  these 
+elements  also  as  comparable  to  stones  in  a  mosaic  picture? 
+Is  not  the  fact  that  the  portions  of  an  organism  entering 
+into  a  graft-complex  maintain  their  specific  if  not  individual 
+identity,  peculiarly  strong  evidence  of  correlative  influence 
+of  the  elements  of  thc.se  portions  upon  one  another?  The 
+on/<ini::c(l  and  or<j(ini:;in</  power  of  living  beings  hardly 
+manifests  itself  in  any  way  more  strikingly  than  in  the 
+lelity  of  grafts  to  their  own  kind  whether  in  plants  or 
+limals.  But  the  very  essence  of  organization  and  organ- 
+sing  power  is,  as  cvervbodv  recognizes,  correlative  in- 
+lence  or  activity.  A  mosaic  picture  is  about  as  near  an 
+itithesis  to  an  organization  as  can  be  found.  So  while 
+we  may  willingly  grant  that  an  organism  made  up  of  parts 
+of  other  organisms  grafted  together  resembles  to  some  ex- 
+tent a  mosaic  work,  we  must  at  the  same  time  rccogni/e 
+that  when  looked  at  in  its  real  nature  it  not  only  does  not 
+support,  hut.  reallv  refutes  the  mosaic  theory  if  that  theory 
+is  held  to  any  definite  and  significant  meaning. 
+
+77/6-  "Promorplwlogy'  of  Germ-Cells 
+
+Although  a  critical  examination  of  the  mosaic  theory 
+found  it  to  be  of  exceedingly  little  value  at  its  best,  and 
+downright  noxious  at  its  worst,  yet  we  were  led  to  recognize 
+a  measure  of  foreordination  in  each  of  the  first  two  cells 
+
+
+The   Unity  of  the  Organism 
+
+of  the  dividing  egg,  as  in  that  of  the  ctcnophore,  and  under 
+some  circumstances,  the  frog.  Even  before  division  begins, 
+this  intimation  of  specific  structure  of  the  egg  arrests  our 
+attention.  Our  standpoint  makes  organization  important 
+wherever  found  and  of  whatever  grade. 
+
+(a)   Facts  of  Immediate  Observation  on   Which  the 
+Conception  Rests 
+
+The  truth  is  we  now  know  that  the  undivided  egg-cell 
+stage,  in  the  individual  life  histories  of  animals  so  far  as 
+they  have  been  carefully  studied,  is  already  rather  highly 
+organized  and  to  a  considerable  extent  specifically  organ- 
+ized with  reference  to  the  kind  of  organism  which  the  egg- 
+cell  represents.  Otherwise  stated,  we  know  that  a  thorough- 
+going account  of  the  life  history  of  any  organism  must  in- 
+clude its  structure  and  function  in  and  before  the  undivided 
+egg-cell  stage,  as  well  as  its  structure  and  function  after 
+cell-division  begins.  The  science  of  germ-cell  structure  and 
+function  previous  to  the  egg-cell  division  is  known  to  embry- 
+ologists  as  promorphology  and  prophysiology. 
+
+The  inductive  evidence  in  support  of  the  conceptions  of 
+promorphology  and  prophysiology  is  altogether  too  volu- 
+minous and  complicated  to  be  fully  presented  in  a  work 
+like  this;  but  the  matter  is  so  important  that  the  reader 
+must  not  be  left  in  doubt  about  its  conclusiveness. 
+
+I  call  attention  first  to  an  aspect  of  the  evidence  which 
+though  well  known  in  a  general  way,  is  rarely  if  ever  given 
+the  consideration  which  in  my  opinion  it  merits.  Reference 
+is  made  to  the  fact  that  many  species  of  animals,  even  be- 
+longing to  the  same  genus  in  numerous  cases,  have  been 
+distinguished  from  one  another  in  all  their  stages  of  de- 
+velopment down  to  the  undivided  egg-stage.  Investigation 
+has  gone  so  far  in  this  direction  as  to  make  it  probable  that 
+all  species  whatever  might  be  thus  distinguished  were  the 
+
+
+Further  Examination  of  the  Cell-Theory 
+
+examinations  sufficiently  searching. 
+
+The  most  extensive  studies  in  this  field  have  pertained  to 
+groups  of  animals  whose  economic  or  ecological  relations 
+to  man  are  such  as  to  render  it  important  to  recognize  the 
+different  stages  of  their  lives.  Thus  in  the  interest  of  the 
+great  marine  fishing  industries  of  northern  Europe,  elab- 
+orate investigations  have  been  undertaken  for  identifying 
+the  eggs  and  embryos  of  numerous  species  of  fishes.  Worthy 
+of  special  consideration  is  the  partnership  work  by  Fr. 
+Ileincke  and  E.  Ehrenbaum. 
+
+After  asserting  the  indispensability  of  exact  specific  de- 
+le nnination  of  floating  eggs  and  young  fishes  as  a  basis  for 
+any  reliable  deductions  concerning  the  distribution  of  the 
+eggs,  the  authors  say  that  the  possibility  of  such  deter- 
+mination can  be  affirmed  only  conditionally;  and  their  re- 
+search had  for  its  object  to  show  in  general  how  far  the 
+identifications  can  be  made,  and  in  particular  to  ascertain 
+the  extent  to  which  size  is  distinctive  of  the  different  species. 
+Agreeing  with  seemingly  all  zoologists  who  have  attended  to 
+the  matter,  they  say  that  the  oil  drops  and  pigmentation 
+occurring  in  so  many  floating  eggs  furnish  important  dis- 
+tinguishing marks.  The  time  of  escape  of  the  embryo  from 
+the  egg  membrane  seems  also  to  be  distinctive  for  many 
+species.  Concerning  pigment,  they  affirm  that  in  the  ad- 
+vanced embryonal  stages,  nearly  all  fish  species  can  be  rec- 
+ognized with  great  certainty.  Included  in  the  elaborate 
+study  is  a  "table  for  determining  the  floating  fish  eggs  in 
+the  German  North  Sea."  14  This  is  a  "key"  in  the  ordinary 
+sense  of  the  taxonomist  and  deals  with  some  thirty  species 
+belonging  to  about  twenty  genera.  The  attributes  used 
+chiefly  in  constructing  this  key  are  found  in  the  oil  drops, 
+pigment  spots,  and  size  of  the  eggs. 
+
+Mosquitoes  are  another  group  of  animals  which  have 
+drawn  considerable  attention  to  their  early  developmental 
+stages  because  of  their  importance  to  man;  and  here  again 
+
+
+The   Unity  of  the  Organism 
+
+"keys"  for  the  identification  of  the  species  are  frequently 
+given  for  the  larvae  as  well  as  for  the  adults.  I  have  seen 
+no  work  on  the  .subject  in  which  the  eggs  are  treated  in  this 
+diagnostic  way,  but  in  the  "Report  of  the  New  Jersey  State 
+Agricultural  Experiment  Stdtion  upon  the  Mosquitoes  oc- 
+curring within  the  State,  their  Habits,  Life  History,  etc." 
+by  Dr.  John  B.  Smith,  we  read,  "Dr.  Dupree  tells  me  that 
+he  has  found  good  characters  in  both  eggs  and  larvae;  but 
+that  they  are  observable  only  with  the  compound  micro- 
+scope." 1B 
+
+The  truth  arrived  at  in  other  connections  from  more 
+theoretical  considerations,  that  the  fertilized  egg  from  which 
+an  individual  animal  develops  is  that  individual  in  the  one- 
+cell  stage  of  its  life,  comes  most  vividly  to  view  in  just  these 
+purely  practical  studies.  Thus  in  one  of  the  many  reports 
+by  Fr.  Heincke  on  the  food  fishes  of  the  North  Sea,  the 
+author  says :  "The  first  condition  for  a  right  understanding 
+of  the  habits  and  habitats  of  the  food-fishes  of  the  sea,  and 
+in  general,  of  the  production  of  the  sea  as  regards  useful 
+fishes,  is  an  exact  knowledge  of  the  occurrence  and  dis- 
+tribution of  these  food-fishes  at  all  the  various  stages  of 
+their  life,  from  the  egg  on  to  the  adult  mature  form." 
+
+Facts  of  the  sort  here  set  forth  have  seemed  to  most  biol- 
+ogists too  trivial  to  deserve  consideration  in  theoretical 
+discussions,  and  so  far  as  they  have  been  studied,  this  lias 
+been  done  for  the  most  part  cither  incidentally,  or,  as  in 
+the  casc-s  here  adverted  to,  for  practical  ends. 
+
+(h)  Grounds  for  Believing  Minute  Observable  Specific 
+Difference*   Between  Germ-Cell  a  Important 
+
+No  matter  how  minute  and  superficial  may  be  the  at- 
+tributes which  distinguish  the  egg-cell  stages  of  species, 
+if  these  attributes  are  indubitable  and  constant  they  differen- 
+tiate the  species  in  that  stage  of  the  individuals9  lives,  and 
+
+
+Further  Examination  of  the  Cell-Theory          215 
+
+so  from  the  strictly  logical  standpoint  have  the  same  order 
+of  importance  as  have  smaller  discriminative  attributes  of 
+any  other  stage  in  the  individual  life;  furthermore,  from  all 
+that  modern  research  is  bringing  to  light  on  the  correlation 
+of  attributes,  to  assume  that  these  minute  differences  are 
+really  as  detached  and  insignificant  as  they  seem  is  biologi- 
+cally quite  unwarranted. 
+
+To  illustrate,  what  careful  biologist  would  dare  affirm, 
+having  due  regard  for  what  we-  now  know  about  the  chemical 
+interaction  of  the  parts  of  an  organism,  that  the  difference 
+in  the  size  and  distribution  of  the  oil  globules,  let  us  say, 
+of  the  eggs  of  two  species  of  fish,  stops  with  just  that  dif- 
+ference? We  are  certain,  are  we  not,  that  the  formation  of 
+these  globules  is  connected  in  some  way  with  the  metab- 
+olism of  the  egg?  And  this  means  that  the  truly  living 
+substance  and  vital  processes  of  the  egg  are  involved.  So 
+it  becomes  not  only  possible  but  highly  probable  that  oil- 
+drop  differences  between  the  eggs  are  indices  of  far  more 
+deep-seated  differences. 
+
+And  we  must  not  fail  to  note  that  in  addition  to  the 
+probability  of  important  correlations  among  these  seem- 
+ingly trivial  morphological  details  through  the  metabolism 
+(i.e.,  through  the  chemical  processes)  of  the. cell,  correla- 
+tions through  the  physical  processes  are  also  to  be  pre- 
+sumed in  accordance  with  the  conceptions  of  the  cell  justi- 
+fied by  physical  chemistry.  The  reader  should  recall  the 
+({notations  from  Hopkins  on  the  conception  of  the  cell  as  a 
+system  in  equilibrium.  But  an  additional  statement  from 
+the  same  author  will  be  especially  germane  at  this  point. 
+Speaking  of  certain  metaplasmic  constituents  of  the  cell, 
+Hopkins  writes :  "These  last  comprise  not  only  the  fat 
+droplets,  glycogen,  starch  grains,  aleurone  grains,  and  the 
+like,  but  other  deposits  not  to  be  demonstrated  histologi- 
+cally.  They  must  be  held,  too, — a  point  which  has  not 
+been  sufficiently  insisted  upon,  to  comprise  the  diverse  sub- 
+
+
+216  The  Unity  of  the  Organism 
+
+stances  of  smaller  molecular  weight  and  greater  solubility 
+which  are  present  in  the  more  fluid  phases  of  the  system — 
+namely,  the  cell  juices.  It  is  important  to  remember  that 
+change  in  any  one  of  these  constituent  phases,  including 
+the  metaplasmic  phases,  must  affect  the  equilibrium  of  the 
+whole  cell  system,  and  because  of  this  necessary  equilibrium- 
+relation  it  is  difficult  to  say  that  any  one  of  the  constituent 
+phases,  such  as  we  found  permanently  present  in  a  living 
+cell,  even  a  metaplasmic  phase,  is  less  essential  than  any 
+other  to  the  'life'  of  the  cell,  at  least  when  we  view  it  from 
+the  point  of  view  of  metabolism."  1T 
+
+Biology  will  sooner  or  later  surely  have  to  take  seriously 
+in  hand  this  matter  of  the  differences  between  organic  spe- 
+cies in  all  the  stages  of  the  lives  of  the  individuals  repre- 
+senting those  species,  the  germ-cell  stages  with  the  rest. 
+There  is  urgent  need  for  the  extension  of  ordinary  taxono- 
+mic  investigations  to  the  entire  ontogenetic  series  of  organ- 
+isms, the  germ-cell  stages  included.  Such  work  as  that 
+by  Dr.  Th.  Mortensen  on  the  comparative  larval  stages  of 
+echinoderms  is  in  this  direction  and  should  be  far  more 
+widely  prosecuted  than  heretofore. 
+
+The  classical  systematic  studies  of  Gustav  Retzius  on 
+the  spermatozoa  of  the  animal  kingdom  are  on  the  whole 
+the  most  complete  we  have  in  this  field;  but  it  must  be  re- 
+membered that  the  differential  attributes  of  species  at  this 
+level  are  likely  to  have  somewhat  less  correlational  sig- 
+nificance than  similar  attributes  of  the  eggs,  for  the  reason 
+that  the  sperm-cells  are  more  highly  differentiated  for  their 
+special  environment  and  habits  and  offices.  We  may  confi- 
+dently predict  extensive  researches  in  the  future  on  the 
+haxonomy  of  germ-cells  according  to  the  frankly  descrip- 
+tive standpoint,  and  on  the  promorphology  of  germ-cells 
+according  to  the  morphological  standpoint. 
+
+The  term  promorphology  has  usually  been  restricted  to 
+a  very  different  use  from  that  to  which  I  have  here  put  it, 
+
+
+Further  Examination  of  the  Cell-Theory          217 
+
+namely,  to  structural  features  of  the  ovum  which  influence 
+tin-  curly  stages  of  cell-division,  and  the  shape,  size,  struc- 
+lure  and  so  forth,  of  the  "blastomercs,"  i.e.,  the  product 
+of  the  early  egg-cell  divisions.  These  phenomena  have  been 
+considered  more  significant  than  the  differences  between 
+eggs  of  different  species  above  referred  to,  and  have  been 
+investigated  by  embryologists  rather  than  by  systernatists ; 
+and  it  is  to  a  large  extent  on  evidence  from  this  source  that 
+the  fact  that  the  "egg  is  not  one  being  and  the  embryo 
+another  and  the  adult  a  third,  but  the  egg  of  a  human  being 
+is  a  human  being  in  the  one-celled  stage  of  development"  ls 
+has  gained  theoretical  interest. 
+
+Several  of  the  most  thoughtful  embryologists  who  have 
+investigated  the  earliest  stages  of  numerous  animals  by  the 
+he.st  modern  methods  have  expressed  views  more  or  less 
+like  this,  and  so  are  in  accord  with  zoologists  who  have 
+been  led  to  the  comparative  investigation  of  eggs  by  prac- 
+ical  considerations. 
+
+A  quotation  from  K.  B.  Wilson  will  serve  well  as  a  start- 
+ing place  for  our  inquiry  as  to  what  promorphology  is  in 
+this  restricted  sense.  ."It  is  a  remarkable  fact,"  writes 
+
+§lvilson,   "that    in    a   very    large    number   of   cases   a  precise 
+ation  exists  between  the  cleavage  products  and  the'  adult 
+rts  to  which  they  give  rise;  and   this   relation  may  often 
+traced   back   to   the   beginning   of   development,   so    that 
+>m   the  first  division   onward    we   are    able    to   predict   the 
+exact    future   of  every   individual    cell.      In    this    regard    the 
+cleavage  of  the  ovum  often  goes  forward  with  a  wonderful 
+locklike  precision,  giving  the   impression  of  a   strictly   or- 
+dered   series   in   which   every   division    plays    a    definite   role 
+and  has  a  fixed  relation  to  all  that  precedes  and  follows  it. 
+But  more  than   this,   the   apparent    predetenninat  ion   of  the 
+embryo  may  often  be  traced  still  further  back  to  the  regions 
+of  the  undivided  and  even  unfertilized  ovum."1 
+
+This  preordination  of  the  future  animal  in  the  egg  before 
+
+
+218  The   r nit  if  of  the  Organism 
+
+the  beginning  of  development,  strictly  understood,  about 
+reaches  its  zenith  among  the  insects.  According  to  W.  M. 
+Wheeler,  a  French  investigator,  P.  Hallez,  states  the  mat- 
+ter thus  with  reference  to  the  cockroach,  water-beetle,  and 
+locust:  "The  egg-cell  possesses  the  same  orientation  as  the 
+maternal  organism  that  produces  it:  it  has  a  cephalic  pole 
+and  a  caudal  pole,  a  right  side  and  a  left  side,  a  dorsal 
+aspect  and  a  ventral  aspect ;  and  these  different  aspects 
+of  the  egg-cell  coincide  with  the  corresponding  aspects  of 
+the  embryo."  "My  observations,"  Wheeler  says,  "based 
+on  some  thirty  different  insects,  accord  perfectly  with  those 
+of  Hallez ;"  and  he  adds  as  details  that  the  head  end  of 
+the  future  embryo  is  usually  marked  by  the  micropyle  and 
+that  the  dorsal  and  ventral  sides  are  foreshadowed  by  a 
+slight  flexure  of  the  elongated  egg  in  its  longitundinal  axis, 
+the  concave  surface  of  the  egg  corresponding  finally  to  the 
+dorsal  side  of  the  embryo.  To  understand  more  specifically 
+the  meaning  of  this  for  the  point  under  consideration,  it 
+is  necessary  to  have  in  mind  that  such  insect  eggs  as 
+Wheeler  is  talking  about  are  largely  yolk,  so  far  as  bulk 
+is  concerned,  and  that  the  very  young  embryo  arising  from 
+division  of  the  protoplasmic  part  of  the  egg  occupies  but  a 
+relatively  small  portion  of  its  whole  surface.  This  small 
+embryonal  patch  or  blastoderm,  after  it  begins  to  elongate 
+and  to  show  traces  of  the  jointed  body  of  the  adult  insect, 
+is  called  the  germ-band.  "The  practical  value  of  Hallez' 
+law,"  Wheeler  says,  "was  shown  in  studying  the  Xiphidium 
+[a  locust]  egg;  all  the  movements  of  the  germ-band  could 
+be  at  once  referred  to  the  axis  of  the  mature  embryo.  When 
+the  eggs  of  other  insects  are  oriented  in  the  same  manner, 
+it  is  seen  that  the  germ-band  invariably  arises  on  the  ven- 
+tral surface  of  the  yolk  with  its  procephaleum  directed  to- 
+wards the  cephalic,  and  its  tail  toward  the  caudal  pole. 
+No  matter  what  positions  it  may  subsequently  assume,  it 
+always  returns  to  its  original  position  before  hatching." 
+
+
+Further  Examination  of  the  Cell-Theory          219 
+
+This  statement  about  the  movements  of  the  germ-band  has 
+reference  to  the  fact  that  the  actively  developing  part  of 
+the  egg  makes  a  series  of  remarkable  journeys,  as  one 
+might  say,  within  and  upon  tin-  rest  of  the  egg,  which  con- 
+sists mostly  of  yolk.  In  other  words  the  topography  and 
+orientation  of  the  very  young  insect  are  so  far  and  so  firmly 
+established  before  cell  multiplication  begins  that  the  details 
+of  cell  splitting  and  cell  movement  and  arrangement  have 
+seemingly  little  or  no  influence  in  determining  these  rela- 
+tions, but  on  the  contrary,  though  going  on  for  a  time 
+quite  independently  of  such  relations,  are  finally  brought 
+into  conformity  with  them. 
+
+In  another  group  of  animals,  those  to  which  "pill  bugs" 
+and  "sow  bugs"  belong,  the  eggs,  like  those  of  insects,  con- 
+tain a  great  quantity  of  yolk  but  the  protoplasm  is  sharply 
+separated  into  two  portions,  the  one  superficial  and  non- 
+nucleated  for  a  time,  the  other  deeply  imbedded  in  the  yolk 
+and  nucleated.  Only  the  centrally  situated  nucleated  por- 
+tion undergoes  division  at  first.  This  division  is  so  thor- 
+oughgoing that  the  resulting  cells,  the  blastomeres,  become 
+widely  separated  from  one  another  and  scattered  through 
+the  yolky  part  of  the  egg.  Later  these  scattered  blasto- 
+ineres  migrate  into  the  surface  patch  of  protoplasm  and 
+uniting  with  it  form  the  blastoderm,  the  forerunner  of  the 
+embryo  proper.  Investigating  this  mode  of  development, 
+J.  P.  McMurrich  emphasizes  the  fact  that  all  details 
+of  cell-formation  and  migration  and  final  arrangement  have 
+reference  to  structural  peculiarities  some  of  which  are  pres- 
+ent before  cell  multiplication  begins,  while  others  pertain 
+only  to  the  later  embryo.  Both  the  direction  taken  by  the 
+spindle  of  the  dividing  nuclei,  and  the  aggregation  of  the 
+blastomeres  in  the  surface  layer  of  protoplasm  are,  says 
+McMurrich,  "simply  precocious  preparations  for  a  differen- 
+tiation which  will  later  become  pronounced ;  they  refer  to  the 
+final  form  of  the  embryo,  and  are  instances  of  Sachs'  law 
+
+
+220  The   Unity  of  the  Organism 
+
+that  growth  determines  division  and  not  division  growth." 
+And  the  author  continues :  "Each  stage  of  the  development 
+appears  to  stand  in  relation  not  only  to  what  has  preceded 
+it,  but  to  what  will  succeed  it,  and  is  a  link  in  a  chain  one 
+end  of  which  is  lost  in  the  obscurity  of  the  past  while  the 
+other  stretches  into  the  future."  And  still  further:  "We 
+must,  I  believe,  recognize  the  fact  so  forcibly  discussed  by 
+Dr.  Whitman  in  his  lecture  on  the  Inadequacy  of  the  Cell- 
+Theory  of  Development  and  so  clearly  shown  by  centro- 
+lecithal  ova,  that  in  embryological  development  the  differ- 
+entiation which  occurs  is  a  differentiation  of  the  entire  or- 
+ganism and  not  of  the  constituent  parts  or  cells  of  which 
+it  is  composed;  physiologically,  if  not  morphologically, 
+every  organism  is  a  syncytium,  and  future  theories  of 
+heredity  must  take  this  into  consideration." 
+
+I  will  do  no  more  in  the  way  of  comment  than  to  call 
+attention  to  the  fact  that  the  phrase  "in  embryological 
+development  the  differentiation  which  occurs  is  a  differentia- 
+tion of  the  entire  organism  and  not  of  the  constituent  parts 
+or  cells,"  is  one  way  of  expressing  specifically  my  general 
+proposition  that  the  organism  is  an  explanation  of  its  parts 
+or  cells. 
+
+While  the  elementalist  may  admit  himself  compelled  to 
+grant  that  in  animals  having  eggs  of  the  type  dealt  with 
+by  Hallez,  Wheeler  and  McMurrich,  i.e.,  eggs  of  the  insect 
+type,  the  organism  seems  as  much  a  causal  explanation  of 
+the  cells  as  the  cells  are  a  causal  explanation  of  the  organ- 
+ism, he  will  be  likely  to  say  that  eggs  of  this  type  are  rather 
+the  exception  than  the  rule,  taking  the  whole  animal  king- 
+dom into  account,  and  hence  that  the  cases  cited  do  not 
+justify  a  sweeping  generalization  of  the  sort  I  am  trying 
+to  establish  as  to  the  causal  power  of  the  whole  over  the 
+parts  in  organic  development. 
+
+We  must  consequently  consider  how  this  matter  stands 
+with  animals  generally.  Attention  may  first  be  called  to 
+
+
+- 
+
+
+Further  Examination  of  the  Cell-Theory 
+
+Wilson's  statement  already  quoted,  that  "it  is  a  remarkable 
+fact  that  in  a  very  large  number  of  cases  a  precise  relation 
+exists  between  the  cleavage-products  and  the  adult  parts 
+to  which  they  give  rise."  10  The  frog's  egg,  one  of  the 
+earliest  and  most  persistently  studied  of  all  eggs,  was  long 
+ago  discovered  to  have  certain  features  about  it,  even  before 
+cell-multiplication  set  in,  that  are  adumbrative  of  the  struc- 
+tural relations  of  the  future  embryo  and  adult.  This  was 
+partly  recogni/ed,  as  Wilson  points  out,  by  Karl  Ernst  Von 
+Haer,  the  "father  of  Embryology";  and  the  fact  that  the 
+first  division  plane  of  this  egg  corresponds  with  the  plane  of 
+symmetry  of  the  adult  frog  was  discovered  more  than  a 
+half  century  ago  by  George  Newport. 
+
+Another  group  of  animals  in  which  promorphology  in 
+this  restricted  sense  is  quite  as  conspicuous  as  in  the  groups 
+already  mentioned  is  the  mollusca.  Especially  note- 
+worthy are  molluscs  of  the  octopus  kind.  A  research  in 
+this  field  well  known  and  much  admired  among  embryologists 
+is  bv  S.  Watase  on  the  common  squid.  Wilson  epitomi/es 
+Watase's  results  touching  this  matter  as  follows:  "Here 
+the  form  of  the  new-laid  egg,  before  cleavage  begins,  dis- 
+inetly  foreshadows  that  of  the  embryonic  body,  and  forms 
+as  it  were  a  mould  in  which  the  whole  development  is  cast." 
+Watase's  own  statements  are  peculiarly  instructive  since, 
+is  well  known  to  biologists,  he  has  been  an  extremist  on 
+what  we  might  call  the  aggregative  theory  of  the  multi- 
+cellular  organism.  The  fact  of  a  definite  organization  of 
+the  squid  in  the  one-celled  stage  of  its  life  he  fully  recog- 
+nizes. This  organization  is,  he  says,  such  "that  the  plane 
+of  the  first  cleavage  furrow  may  coincide  with  the  plane  of 
+the  median  axis  of  the  embryo,  and  the  sundering  of  the 
+protoplasmic  material  mav  take  place  into  right  and  left, 
+according  to  the  pre-existing  organization  of  the  egg  at  the 
+time  of  cleavage;  and  in  another  case  the  first  cleavage  may 
+roughly  correspond  to  the  differentiation  of  the  ectoderm  and 
+
+
+222  The  Unity  of  the  Organism 
+
+cndoderm,  also  according  to  the  pre-organJzed  constitution 
+of  the  protoplasmic  materials  of  the  ovum."  -3  How  is  this 
+organization  of  the  squid  before  cell  multiplication  begins 
+to  be  explained  in  accordance  with  the  conception  that 
+the  creature's  cells  are  more  fundamental  than  the  creature 
+itself  and  are  the  cause  of  the  creature?  Watase's  radical 
+elementalism  made  it  almost  obligatory  upon  him  to  try  to 
+answer  the  above  question.  Something  of  the  difficulty  which 
+the  protozoan  colony  theory  of  the  higher  organism  has  to 
+face  in  such  cases  as  this,  he  seems  to  have  felt,  and  his  way 
+of  meeting  it  certainly  has  the  merit  of  being  ingenious. 
+"Even  if  we  admit,"  he  says,  "that  the  unicellular  ovum 
+irrespective  of  its  stages  of  growth,  represents  actually  the 
+condition  of  the  ancestral  protozoan,  a  highly  differentiated 
+axial  symmetry  of  a  certain  metazoan  ovum  cannot  be  said 
+to  be  an  aberrant  feature  unrepresented  in  the  ancestral 
+protozoa,  so  long  as  the  existing  forms  of  the  protozoa 
+often  show  such  a  high  degree  of  differentiation  in  that  par- 
+ticular respect."  23  As  though  the  high  degree  of  axial 
+differentiation  in  some  protozoan  imagined  to  be  the  far- 
+away ancestor  of  a  squid  were  an  explanation  of  the  axial 
+differentiation  of  a  squid  in  its  unicellular  stage!  It  is 
+hardly  possible  for  speculation  to  soar  on  less  restrained 
+wings  than  this  and  maintain  its  claim  to  being  scientific. 
+
+So  much  by  way  of  illustration  of  animal  groups  in  which 
+the  promorphology  consists  in  a  considerable  measure  of 
+observable  differentiation  while  the  individual  animal  is  yet 
+in  the  one-celled  state,  or,  in  other  words,  of  animals  in 
+which  the  individual  development  has  gone  some  distance  in 
+the  egg  before  cell  multiplication  begins. 
+
+(c)  Reflections  on  a  Promorphology  of  Germ-Cells  Beyond 
+the  Limits  of  Visibility 
+
+To  make  the  generalization  that  the  egg  is  an  individual 
+animal  in  the  one-celled  stage  of  its  life,  we  have  now  to 
+
+
+Further  Examination  of  the  Cell-Theory 
+
+consider  those  animals  in  which  the.  egg  does  not  observably 
+foreshadow  the  adult  by  any  such  axial  or  other  differen- 
+tiations as  do  those  we  have  just  been  considering.  Eggs 
+of  this  sort,  of  which  those  of  the  sea-urchin  and  ampliioxus 
+are  examples,  are  preeminently  the  ones  called  totipotcnt 
+by  Dricsch.  Reference  to  what  was  set  forth  in  our  dis- 
+cussion of  totipotence  will  bring  before  the  reader  the  fact 
+that  eggs  of  this  kind  look  to  be  quite  devoid  of  organiza- 
+tion forecastive  of  the  adult  stage,  but  yet  are  so  profoundly 
+stamped  in  some  way  with  the  nature  of  the  species  that 
+not  only  the  undivided  egg-cell  may  develop  into  an  adult 
+animal,  but  each  of  the  first  two  or  four  or  in  some  cases 
+even  eight  blastomeres,  may  develop  into  complete  animals 
+if  the  blastomeres  be  entirely  separated  from  one  another. 
+All  analogy  of  observable  structure  and  development  war- 
+rants us  in  believing  two  things  as  to  the  promorphology  of 
+these  eggs ;  first,  that  there  is  some  sort  of  organization 
+characteristic  of  the  species  to  which  the  particular  animal 
+belongs  beyond  the  limits  of  our  present  knowledge,  and 
+second,  that  we  have  little  or  no  means  of  predicting  what 
+that  organization  is.  This  second  point  is  of  much  im- 
+portance from  its  involvement  of  embryologies!  specula- 
+tions on  the  nature  of  the  germ.  The  fundamental  fact 
+lost  sight  of  in  almost  all  these  speculations  is  that  the 
+transformations  and  metamorphoses  characteristic  of  all 
+organic  development  are  in  their  verv  essence1  unforeseeable. 
+The  history  of  biology,  and  especially  of  comparative  em- 
+bryology, is  absolutely  conclusive  on  this  point.  Over  and 
+over  again  has  it  happened  that  certain  developmental 
+stages  in  the  life  cycle  of  animals  have  been  discovered  be- 
+fore the  complete  series  of  stages  were  known,  and  that  these 
+stages  were  so  different  from  the  adult  stages  that  the  pre- 
+dictions made  as  to  the  species  to  which  the  stages  belonged 
+were  entirely  wrong.  The  larva  of  Ilalanoglossus  is  a  fa- 
+mous instance  of  this  in  the  history  of  zoology.  This  larva 
+
+
+The   Unity  of  the  Organism 
+
+resembles  the  larva  of  enchinoderms  so  much  that  its  dis- 
+coverer believed  it  to  belong  to  this  group  and  for  a  long 
+time  zoologists  accepted  this  view,  the  truth  about  it  com- 
+ing out  only  when  the  transformation  of  the  larva  into  the 
+adult  was  actually  observed.  For  non-zoological  readers 
+it  may  be  stated  that  Balanoglossus  is  a  worm-like  creature 
+about  as  unlike  a  sea-urchin  or  a  starfish  as  can  be  im- 
+agined. The  truth  is,  it  is  only  by  observational  compara- 
+tive studies  that  embryologists  are  able  to  predict  at  all 
+either  the  earlier  or  the  later  unobserved  stages,  pertaining 
+to  the  developmental  career  of  an  animal. 
+
+If  speculation  on  the  nature  of  germ-cells  had  followed 
+consistently  these  familiar  and  universal  principles,  the 
+literature  of  biology  would  be  unburdened  to-day  of  a  vast 
+load  of  useless  writings.  Let  any  biologist  ordinarily  prac- 
+ticed in  the  methods  of  embryology  ask  himself  candidly 
+what  he  would  expect  to  find  in  the  living  fertilized  egg  of  a 
+starfish,  for  instance,  were  some  manufacturer  of  micro- 
+scopes to  furnish  him  with  an  instrument  that  would  mag- 
+nify with  good  definition  to  a  million  diameters.  Can  he 
+consistently  suppose  he  would  sec  something  "carrying"  all 
+the  innumerable  characters  of  the  adult  starfish?  Why  has 
+he  any  more  right  to  suppose  he  would  recognize  the  char- 
+acters of  the  adult  in  the  germ-cell  than  that  he  can  recog- 
+nize them  in  the  larva  just  before  metamorphosis,  or  in  any 
+other  stage?  Yet  what  embryologist  has  ever  talked  about 
+the  characters  of  the  adult  starfish  being  "carried"  by  ele- 
+ments of  the  larva?  What  we  are  justified  in  believing  on 
+the  basis  of  the  inductive  evidence  in  our  possession  is  that 
+such  a  microscope  would  enable  us  to  recognize  many  struc- 
+tural features  peculiar  to  the  particular  species  of  starfish 
+at  that  particular  stage  of  the  individual's  life,  and  that  as 
+development  proceeded  these  egg-stage  features  or  char- 
+acters would  disappear  and  other  characters  distinctive 
+of  the  embryonal  stage,  the  larval  stage,  and  so  on,  would 
+
+
+further  Examination   of  tin'  Cell-Theory 
+
+appear  in  regular  succession  till  the  adult  stage  with  its 
+distinctive  characters  were  reached.  The  great  point  to  be 
+emphasized  is  that  if  we  are  guided  strictly  by  the  observa- 
+tional and  rational  methods  by  which  all  our  knowledge  of 
+organic  development  has  been  built  up,  we  see  that  the  ef- 
+fort to  conceive  germ-cell  promorphology  or  prophysiology 
+in  terms  of  representative  units  succeeds  only  in  so  far  as 
+we  deceive  ourselves  into  believing  that  we  know  what  we 
+do  not  know,  and  probably  never  can  know,  about  the  struc- 
+ture and  functions  of  the  genn,  and  by  thus  deceiving  our- 
+selves, believe  ourselves  relieved  of  the  necessity  of  endeavor- 
+ing to  learn  what  the  actual  structure  and  function  of  the 
+gcrni  is. 
+
+The  metaphysical  promorphology  and  prophysiology  of 
+the  germ  which,  culminating  in  the  "determinants"  of  Weis- 
+inann,  have  befuddled  the  thinking  of  many  biologists,  hold 
+exactly  the  same  place  in  the  logic  of  biology  that  phlogis- 
+ton held  for  well  nigh  a  century  in  the  logic  of  chemistry. 
+There  is  surely  something  in  the  wood  that  is  a  cause  of 
+
+*  flame,  so  why  not  say  the  characters  of  the  flame  are 
+rried"  in  the  wood  by  units  capable  of  doing  that  sort 
+thing?  And  how  easy  and  complete  the  explanation  of 
+flame  would  be  on  that  basis !  For  minds  of  such  cast  as 
+t  of  .lost  ph  Priestley  (about  the  last  ardent  defender  of 
+ogiston)  and  as  those  of  Weismann  and  his  disciples, 
+lanations  of  this  sort  appear  to  have  great  fascination. 
+It  is  probably  implied,  if  not  definitely  contended,  by 
+e  present-day  geneticists,  that  the  methods  of  analysis 
+employed  by  them,  those,  namely,  of  experimental  breeding, 
+the  application  of  Mendelian  principles  of  inheritance,  and 
+the  correlation  of  these  with  chromosomal  studies,  are  a 
+refutation  of  the  conceptions  above  set  forth.  As  a  matter 
+of  fact,  though,  the  results  of  gcnctical  analysis,  so  far  as 
+thev  are  objective  and  not  purely  speculative,  are  entirely 
+confirmatory  of  the  conceptions. 
+
+
+226 
+
+
+The   Unity  of  the  Organism 
+
+
+REFERENCE  INDEX 
+
+
+1.  Roux    ('12)    262 
+
+2.  Roux    ('12)    142 
+
+3.  Crampton    ('96)    1-26 
+
+4.  Driesch    ('07)    60 
+
+5.  Wilson,    E.    B.    ('93) ....  5 
+
+6.  Wilson,    E.    B.    ('93) ....  8 
+
+7.  Roux    ('12)     409 
+
+8.  Driesch  ('94)      12 
+
+9.  Driesch    ('93)    25 
+
+10.  Herlitzka     653 
+
+11.  Roux    ('12)    311 
+
+12.  Born     .  613 
+
+
+13.  Wilson,    E.    B.    ('00) 398 
+
+14.  Heincke   and    Ehrenhaum  294 
+
+15.  Smith     160 
+
+16.  Heincke     1 
+
+17.  Hopkins     220 
+
+18.  Conklin    ('15)    102 
+
+19.  Wilson,  E.   B.    ('00) 378 
+
+20.  Wheeler,    ('93)    67 
+
+21.  McMurrich    ('94)     142 
+
+22.  Wilson,  E.   B.    ('00) 382 
+
+23.  Watase    280 
+
+
+Chapter  IX 
+ORGANISMS  CONSISTING  OF  ONK  CELL 
+
+A.       ADI'LT    FORM    AND    STRUCTURE 
+
+Hem-arks  on  the  Conception  of  the  Cell  as  an  Elementary 
+Organism 
+
+WE  saw  early  in  tin-  chapter  on  The  Organism  and  its 
+(Vlls  that  the  cell  may  he  advantageously  looked  upon 
+as  an  "elementary  organism."  The  warrantableness  of  thus 
+regarding  it  as  set  forth  by  Carl  Briicke,  who  first  clearly 
+reached  the  perception,  should  be  recalled.  This  conception  is 
+warranted,  Briicke  said,  by  the  fact  that  the  cell  possesses 
+an  organization  of  another  sort  than  that  pertaining  to  its 
+molecular  structure.  While  we  may  not  subscribe  to  the 
+implication  of  his  doctrine  that  the  cell  has  an  organization 
+wholly  independent  of  its  molecular  structure,  yet  we  must 
+endorse  his  conception  that  it  has  a  structure  genuinely 
+unique  as  contrasted  with  that  of  any  non-living  body;  and 
+must  reckon  the  perception  of  this  fact  as  a  forward  step 
+of  first  rate  importance  in  biology. 
+
+While  we  are  now  to  devote  a  chapter  to  an  inquiry  into 
+that  peculiar  structure  of  the  cell  which  justifies  us  in  view- 
+ing it  as  an  elementary  aryan'ism,  we  should  recognize  that 
+this  discussion  falls  properly  under  the  general  head  of 
+cell-theorv  taken  in  the  comprehensive  sense  indicated  in 
+chapter  six.  As  there  defined  the  cell-theory  concerns  itself 
+with  the  structure  of  the  cell  as  well  as  with  the  participa- 
+tion of  cells  in  the  make-up  of  multicellular  organisms.  It 
+
+227 
+
+
+228  The   Unity  of  the  Organism 
+
+is  only  for  the  didactic  purpose  of  making  this  part  of  the 
+theory  stand  out  in  the  discussion  with  a  prominence  pro- 
+portionate to  its  importance  that  we  give  it  independent 
+titular  recognition.  So  our  present  discussion  will  intersect 
+at  various  points  the  discussion  of  Hie  (Vll-Theory  specifi- 
+cally. The  first  intersection  is  at  the  place  where  we  brought 
+out  the  fact  that  the  conception  "organism*1  is  historically 
+prior  to  "cell,"  and  hence,  that  in*  reaching  the  conception 
+of  the  cell  as  an  elementary  organism,  Briickc  and  those  who 
+followed  him  have  literally  used  the  organism  to  explain  the 
+cell.  We  must  now  push  this  idea  further  in  both  its  logical 
+and  its  factual  aspects. 
+
+First  as  to  the  logic  of  it.  When  we  state  that  the  cell 
+is  an  elementary  organism,  we  are  speaking  in  the  technical 
+language  of  logic,  recognizing  the  cell  as  a  species  of  the 
+genus  organism.  An  elementary  organism  is  obviously  one 
+kind  of  organism,  the  implication  being  unescapable  that 
+there  are  other  kinds ;  one  other  kind  implied  being  a  not- 
+elementary,  that  is,  a  more  complex  kind.  Organism  is  a 
+broader  and  higher  category  than  elementary  organism,  an- 
+other designation  for  cell.  From  the  natural  history  stand- 
+point, then,  Haldane's  efforts  to  raise  organism  to  the 
+dignity  of  a  category  in  the  Kantian  sense  are  superfluous, 
+this  having  already  been  done  in  the  real  sense  through  the 
+establishment  by  Briicke  and  the  acceptance  by  biologists 
+generally  of  elementary  organism  as  a  defining  designation 
+for  cell.  This  aspect  of  the  logic  of  the  cell-theory  is  of  so 
+much  practical  importance  that  it  is  desirable  to  state  it 
+more  definitely  if  possible. 
+
+The  term  cell  now  universally  accepted  in  biological  ter- 
+minology is  a  general  name  applicable  to  a  vast  class  of 
+natural  objects,  the  name  having  become  fully  established 
+and  defined  after  years  of  patient  examination  and  descrip- 
+tion by  many  investigators,  extending  to  the  whole  range 
+of  objects  brought  under  the  designation.  If  one  reflects 
+
+
+Organisms  Consisting  of  One  CrU 
+
+on  all  this  he  will  see  a  vast  difference  of  meaning  in  the 
+word  cell  when  used  in  the  two  assertions:  "this  object  un- 
+der the  microscope  is  a  cell,"  and  such  generalizations  as 
+**the  key  to  all  ultimate  biological  problems  must  be  sought 
+in  the  cell."  In  the  first  case  the  term  performs  the  com- 
+paratively simple  office  of  a  name  for  a  particular  object, 
+endowed,  as  one  might  say,  with  great  ability  to  make  in- 
+telligible certain  phenomena  of  living  beings. 
+
+Undoubtedly  the  name  stands  for  an  idea  in  both  cases, 
+and  undoubtedly  too,  tin-  ideas  in  the  two  cases  must  have 
+something  in  common,  but  equally  certain  is  it  that  there 
+are  important  elements  of  difference  in  the  two  ideas.  Of 
+the  elements  in  common,  one,  we  know  very  well,  relates  to 
+certain  structural  features,  cytoplasm,  nucleus,  and  so  on, 
+experimentally  settled  upon  as  essential  to  any  object  en- 
+titled to  be  called  a  cell.  Another  is  the  conception  that  all 
+bodies  so  entitled  are  a  kind  of  organism,  i.e.,  elementary 
+organism,  this  conception  being  based  on  the  observation 
+that  great  numbers  of  cells  are,  in  the  language  of  O.  Hert- 
+"endowed  with  the  attributes  of  life."  Now  notice: 
+)\  virtue  of  what  is  the  cell  conceived  to  be  the  key  to  all 
+ttologica]  problems?  Surely  not  in  the  mere  presence  in  it 
+>f  bodies  that  may  be  called  nucleus,  cytoplasm,  and  so 
+>rth,  but  rather  because  it  is  endowed  with  the  attributes 
+life,  is  an  organism,  even  though  of  an  elementary  char- 
+ter. In  other  words,  since  typical  cells  are  universally 
+admitted  to  be  very  simple  in  structure  as  contrasted  with 
+those  bodies  to  which  the  term  organism  was  first  applied, 
+and  since  it  is  now  only  one  among  such  bodies,  and  that  an 
+elementary  and  simple  one,  to  assert  that  it  is  the  "key  to 
+all  biological  phenomena"  is  a  logical  contradiction,  if  by 
+being  the  "key"  it  is  implied  that  the  cell  is  an  ultimate  ex- 
+planation of  such  phenomena,  for  with  such  an  implication 
+the  assertion  is  virtually  that  part  of  a  thing  is  greater  than 
+the  whole  of  it. 
+
+
+230  The   Unity  of  the  Organism 
+
+Comparison  of  the  Structure  of  Organisms  Consisting  of  a 
+
+Single  Cell  with  That  of  Organisms  Consisting 
+
+of  Many  Cells 
+
+This  chapter  will  be  concerned  primarily  with  the  factual 
+side  of  the  structure  of  the  cell  viewed  as  a  species  of  or- 
+ganism, and  will  confine  itself  to  the  structure  of  the  cell 
+in  organisms  indubitably  such  in  the  strict  sense,  even 
+though  they  ordinarily  consist  of  but  a  single  cell. 
+
+The  narrowing  influence  of  elementalism  in  biology  finds 
+striking  illustration  in  the  application  of  the  cell-doctrine 
+to  unicellular  organisms,  that  is,  to  the  protozoa  and  the 
+protophyta,  or  collectively,  the  protista.  In  fact,  if  one 
+wishes  to  bring  before  him  in  the  clearest  possible  fashion 
+the  contrast  between  what  a  great  province  of  living  nature 
+is  when  seen  as  it  actually  is  and  when  seen  through  the 
+medium  of  elementalist  theory  let  him  compare  some  of  the 
+great  modern  objective  treatises  on  the  protozoa,  like  Brady's 
+report  on  the  Foraminifera  and  Haeckel's  on  the  Radio- 
+laria,  in  the  Zoology  of  the  Challenger  Expedition,  or 
+Haecker's  Tiefsee  Radiolarien,  in  Wissenschaftliche  Ergeb- 
+nisse  der  deutschen  Tiefsee-Expedition,  with  the  statements 
+one  finds  in  ordinary  text  books  of  zoology  concerning  the 
+same  organisms.  Hardly  anything  could  be  more  mislead- 
+ing than  the  almost  universal  practice  in  elementary  teach- 
+ing of  introducing  beginners  to  the  protozoa  by  showing, 
+very  superficially,  an  amoeba  and  emphasizing  its  simplicity, 
+and  then  keeping  it  in  the  foreground  of  the  learner's 
+thought  as  an  exemplification  of  the  doctrine  that  the  pro- 
+tozoa are  "extremely  simple"  animals,  that  they  are  undif- 
+ferentiated  into  organs  and  tissues — that  in  fact  they  are 
+hardly  "true  animals"  at  all.  In  even  so  advanced  and  usu- 
+ally excellent  a  work  as  Lang's  Lchrbuch  dcr  vergleichenden 
+Anatomic  we  are  told  that  the  im-ta/oa  or  "true  animals" 
+(echte  Tiere)  are  "set  over  against  the  protozoa  or  pro- 
+
+
+circ.oc«.ring. 
+
+
+ncnu:   1.     nn'i.omxir:\i    (AFTER   SHARP). 
+
+ador.m.,  adoral  mcmbranelles.  an.,  anus,  ant.cil.r.,  anterior  ciliary 
+roots,  ant.r.v.,  anterior  contractile  vacnole.  bd.l.,  boundary  layer 
+(ectoplasmic).  cir.oes.r.,  circumesophageal  ring.  caec.,  caecum. 
+cut.,  cuticle,  c.v.r.,  region  about  contractile  vacnole.  D.,  dorsal  side 
+of  body,  d.disk,  dorsal  disk.  d. furrow,  dorsal  furrow,  d.m.str., 
+dorsal  motor  strand,  d.m.,  dorsal  mcmbranelles.  ect.,  ectoplasm. 
+cut.,  entoplasm.  fd.v.,  f<H)d  vacuoles.  i.ador.lip,  inner  adoral  lip. 
+i.d.lip,  inner  dorsal  lip.  L.,  left  side  of  body,  l.sk.a.,  left  skeletal 
+area,  mac.,  inacronuclcus.  mic.,  inicroniicleus.  in. in.,  motor  mass 
+(motoriuni).  o.ador.fur.,  outer  adoral  furrow.  o.ador.lip,  outer 
+
+»  adoral  lip.  o.d.fur.,  outer  dorsal  furrow,  o.d.lip,  outer  dorsal  lip. 
+oes.,  oesophagus  or  eytopharynx.  ocs.f.,  oesophageal  fibers,  oes.- 
+rctr.str.,  oesophageal  retractor  strands,  op.,  operculum.  op.f.,  op- 
+i-iviilar  fibers,  or.,  oral  opening,  mouth,  or  cytostome.  or.cil.,  oral 
+cilia,  or. disk.,  oral  disk,  post.cil.r.,  ])osterior  ciliary  roots.  post.c.v., 
+posterior  contractile  vacuole.  H.,  right  side  of  the  liodv.  rect.,  rec- 
+tum, rect.f.,  rectal  fillers,  r.sk.a.,  right  skeletal  area,  sk.lam.,  skel- 
+etal lamiiuc.  susp.f.,  suspensory  fibers.  \',  v<-ntral  side  of  body, 
+v.sk.a.,  ventral  skeletal  area.  n.in.,  nuclear  membrane. 
+231 
+
+
+The   Unity  of  ike  Organism 
+
+
+tista," '  the  implication  being  that  the  protozoa  are  not 
+"true  animals."  "Organless  organisms"  is  an  appellation 
+one  not  infrequently  finds  applied  to  protozoa. 
+
+(a)   Comparison  of  Certain  Ciliates  and  Metazoam 
+
+By  way  of  introduction  to  the  commentary  I  wish  to  make 
+on  this  mode  of  thinking,  I  ask  the  reader  to  compare  the 
+pictures,  figures  1  and  2,  keeping  the  idea  of  cell  as  much 
+
+
+5^ 
+
+crrfc.cav. 
+
+
+-ov-y. 
+
+
+ms 
+
+
+ov. 
+
+
+FIGURE    2.       HYDRA     (AFTER    PARKER    AND    PARKER). 
+
+<-ct.,  ectoderm.  end.,  endoderm.  ent.cav.,  enteric  cavity.  ml 
+mouth.  hyp.,  liypostnme.  msgl.,  mesogloea.  ntc.,  nematocysts. 
+psd.,  pscudopods.  fl.,  flagella.  bd.,  buds,  spy.,  spermary.  ovy., 
+ovary,  ov.,  ovum. 
+
+
+I  KH'HK    4.       STKXOSTO.M  A     IKIlOl'S     (AFTKK    OTT). 
+
+c.,   cilia,      c.p.,    ciliated    pits,      cu.,    cutieula. 
+
+
+FIGURE   4 
+
+
+b.,   brain,     com.,   brain 
+
+commissure.  <!.<>.,  dish-shaped  organs,  m.,  mouth,  ph.,  pharynx 
+ph.e.,  pliarvngeal  cells,  c.c.,  epithelial  cells,  in.,  intestine,  w.v.t., 
+water  vascular  tube,  r.,  rods,  p.,  parenchyme.  o.w.,  external  open- 
+inir  <if  water  vascular  tube. 
+
+
+<;riu:  I5.     STY  i. ON  vi  n  IA    MYTH. is    (FIIOM    iiAirnx;,   AITKII    IAXG). 
+
+a.c.,  abdominal  cirrhi.  an.,  anus  discharging  the  shell  of  a  Diatom. 
+c.c.,  caudal  cirrhi.  c.p.,  dorsal  cirrhi.  cv.,  contractile  vacuole.  e., 
+part  of  its  replenishing  canal,  f.c.,  frontal  cirrhi.  f.v.,  food  vac- 
+uoles.  jr.,  internal  undulating  membrane.  1.,  lip.  m.,  mouth  or 
+pharynx,  inc.,  marginal  cirrhi.  \.,  X.,  lobes  of  meiianucleus.  n,  n, 
+micronuclei.  o.,  anterior  end.  per.,  adoral  membranellae.  poc., 
+preoral  cilia,  p.om.,  preoral  undulating  inenibraiu1.  s.h.,  sense  hairs. 
+
+
+233 
+
+
+The   Unity  of  the  Organism 
+
+in  the  background  of  consciousness  as  though  he  had  before 
+him  for  comparison  a  cat  and  a  hen,  for  instance.  Do  the 
+figures  give  the  impression  that  one  presents  a  very  simple 
+animal  while  the  other  represents  a  very  complex  one? 
+Which,  may  well  be  asked,  is  the  very  simple  one?  Does 
+one  give  the  impression  that  it  represents  an  organless  ani- 
+mal, while  the  other  represents  an  animal  with  organs? 
+Does  one  seem  organized  while  the  other  is  unorganized? 
+Does  one  look  like  a  true  animal  while  the  other  is  an  un- 
+true or  pseudo-animal?  Yet  there  is  now  unanimity  among 
+zoologists  that  the  creature  represented  by  figure  1  is  a 
+protozoan,  while  that  represented  by  figure  2  is  a  metazoan. 
+The  protozoan  shown  is  a  species  of  Ciliate  which  inhabits 
+the  stomach  of  the  ox.  Its  techincal  name  is  Diplodinium 
+ecaudatum.  The  figure  is  from  R.  G.  Sharp.  Figure  2 
+is  of  the  common  fresh  water  hydra. 
+
+Or  compare  in  detail  a  Stylonychia,  a  protozoan,  with  a 
+Stenostoma,  a  worm.  For  the  former,  the  description  and 
+figure  of  Stylonychia  mytilus,  figure  3,  given  by  Hartog  in 
+the  Cambridge  Natural  History  will  serve  our  purpose  well. 
+A  good  description  of  a  Stenostoma,  figure  4,  is  furnished 
+by  Ott.  A  rough  and  ready  way  of  estimating  the  degree 
+of  complexity  of  the  two  animals  is  to  notice  the  number  of 
+named  parts  or  organs  in  the  two  descriptions,  presumably 
+intended  to  be  about  equally  thorough. 
+
+The  activities  of  these  two  species  have  also  been  well 
+studied,  so  they  can  be  compared  from  this  as  well  as  from 
+the  anatomical  standpoint.  To  any  one  who  has  watched 
+both  creatures  somewhat  attentively  in  their  normal  lives, 
+the  great  animation  and  diversity  of  movement  of  the  pro- 
+tozoan as  contrasted  with  that  of  the  metazoan  are  striking 
+enough.  Concerning  the  general  character  of  the  movements 
+of  Stylonychia,  Hartog  writes,  "It  moves  through  the  water 
+either  by  continuous  swimming  or  by  jerks,  and  can  either 
+crawl  steadily  over  the  surface  of  a  solid  or  an  air  surface 
+
+
+Organisms  Consisting  of  One  Cell 
+
+such  as  an  air  bubble,  or  advance  by  springs,  which  recall 
+those  of  a  hunting  spider."  The  rapid  movement  ahead, 
+running  against  obstacles,  backing  off,  changing  directions, 
+and  turning  around,  remind  one  of  the  performances  of  an 
+ant  under  similar  surroundings.  Jennings'  statement  that 
+they  are  "usually  found  running  about  on  the  bottom,  or 
+on  the  surface  of  objects  in  the  water,"  3  is  no  more  a  figure 
+of  speech  than  would  be  a  similar  remark  about  a  rabbit.* 
+
+
+i  icriu:  .).     STVI.ON  vc  in  \    MYTii.rs   (AITI:I<   PCTTKH). 
+
+With  reference  to  their  food  habits,  Alaupas's  characteriza- 
+tion of  them  as  "hunter  ciliates,"  is  truly  descriptive. 
+
+By  contrast  the  movements  of  Stenostoma  are  slow  and 
+simple  indeed.     In  it  locomotion  is  accomplished  almost  en- 
+irely  by  surface  cilia,  and  the  well-nigh  complete  absence 
+differentiation  among  these,  as  contrasted  with  the  high 
+•gree  of  differentiation   and  specialization   of  the  cilia  of 
+Uylonychui,   may   be   taken   as  a  reliable  index  to  the  dif- 
+rence  in  locomotor  activities   of  the  two  creatures. 
+
+(b)  Comparison  of  a  Hadlolaruni  and  a  Jelly-fish 
+
+Carrying  the  comparison  of  unicellular,  "simple"  or  "un- 
+ic"   animals,   with    multicellular,   "complex/'    "true,"   ani- 
+ials   still   farther,  we  will   take  up  a  Uadiolarian  for  brief 
+Hisideration.     Non  -technical  readers  are  particularly  urged 
+to    look    through    the    volume   of    140   quarto    plates   which    il- 
+lustrate   IlaeckePs   great    Challenger    Report    on    this   group. 
+
+
+*  .Irmtiiifzs    copies    this    diairram     from     I'iitter    showing    a 
+"creeping    alon»     Hie    surface,"    which    shows    well     the    "belly"    and    the 
+"hack"  sides  of  the  creature  and  the  way  in  which  it   uses  its  cilia  as  legs. 
+
+
+7V/ c  Unity  of  the  Organism 
+
+Nearly  all  large  libraries  have  sets  of  the  reports  of  this 
+famous  exploring  expedition. 
+
+So  astounding  was  the  wealth  of  life  both  as  to  number 
+of  species  and  elaborateness  of  structure  of  the  individuals 
+described  and  depicted  in  this  report,  that  many  zoologists 
+who  had  been  properly  impressed  in  their  formal  training 
+with  the  doctrine  of  the  simplicity  and  minuteness  of  the 
+protozoa,  were  disposed  for  a  long  time  to  accept  the  re- 
+port with  some  "grains  of  salt" — to  suspect  that  many  of 
+the  specially  remarkable  species  were,  partly  at  least,  crea- 
+tures of  the  lively  imaginations  of  Hacckel  and  his  artist. 
+But  later  researches,  particularly  those  of  V.  Haecker,  al- 
+ready mentioned,  on  the  same  animals  collected  on  the  cruise 
+of  the  Valdivia,  of  the  German  Deep-Sea  Expedition,  have 
+driven  away  all  shadows  of  doubt  about  the  essential  truth- 
+fulness of  Haeckel's  narrations.  Indeed,  we  now  know,  if 
+anything,  he  fell  short  of  full  justice  to  the  Radiolarians. 
+
+I  take  this  opportunity  to  remark  that  one  of  the  serious, 
+even  though  perhaps  unavoidable,  defects  of  formal  instruc- 
+tion in  elementary  zoology  and  botany  is  the  tendency  to 
+fix  in  the  learner's  mind  the  notion  that  nature  is  far  more 
+simple  than  it  really  is.  Of  course,  the  only  right  antidote 
+for  this  falsification  is  contact  with  nature  itself  in  its  plen- 
+itude. But  since  school  books  and  school  lessons  are  main- 
+ly responsible  for  the  wrong  inculcuations,  on  the  principle 
+that  like  cures  like,  books  again,  though  this  time  of  the 
+elaborate  monographic  sort,  even  though  no  more  than 
+hastily  run  through,  ought  to  be  of  considerable  use  to 
+young  students.  Quite  as  much  with  the  hope  of  sending 
+the  reader  to  Haeckel's  or  one  of  the  other  great  mono- 
+graphs on  the  Radiolaria,  as  for  the  purpose  of  impressing 
+him  with  the  elaborateness  of  organization  of  these  animals, 
+I  will  refer  specifically  to  a  section  of  Haeckel's  Report. 
+
+One  entire  new  family  discovered  in  the  Challenger's  col- 
+lections, Haeckel  named  Medusetta.  The  author  gives  us 
+
+
+Organisms  Consisting  of  One  Cell  237 
+
+the  reason  for  the  choice  of  this  name:  "Some  species  are 
+among1  the  most  admirable  forms  of  Kadiolaria,  and  are  simi- 
+lar to  small  elegant  Medusae.  The  form  of  the  shell  ex- 
+hibits the  same  varieties  as  the  similar  umbrella  of  the 
+Medusa.  .  .  .  Tin'  similarity  with  the  umbrella  of  a  Me- 
+dusa is  so  groat,  that  in  many  species  the  large  lower  open- 
+ing on  the  mouth  of  the  shell  is  surrounded  by  a  prominent 
+ring  or  diaphragm,  comparable  to  the  velum  of  the  Craspe- 
+dotae  or  Hydromedusae."  This  general  resemblance  to 
+certain  medusae  is  made  still  more  striking  in  such  a  species 
+as  Gazellrtta  cri/tom'ma  by  the  phacodium,  a  mass  of  cell- 
+like  pigment-bearing  structures  "in  the  lower  half  of  the 
+shell  cavity,"  °  sometimes,  as  in  the  figure  referred  to,  pro- 
+truding from  the  mouth  of  the  shell.  No  one  can  compare 
+this  figure  with  those  of  various  medusae  which  bear  gonads 
+or  buds  on  the  manubrium  or  the  suburnbrellar  region  with- 
+out being  struck  by  the  general  resemblance  between  them. 
+The  reader  must  not  infer  from  this  comparison  that  the 
+points  of  resemblance  signify  anything  like  close  corre- 
+ndcnce  in  structure.  As  a  matter  of  fact  the  two  ani- 
+ls are  no  more  alike  than  a  bat  and  a  butterfly.  The 
+le  point  of  significance,  so  far  at  least  as  this  discussion 
+concerned,  is  that  judged  by  the  facts  of  actual  structure 
+function  of  the  radiolarian  and  the  coelenteratc,  the 
+rst  is  hardly  if  at  all  more  simple  than  the  second? — is  not 
+whit  less  a  true  animal. 
+
+(c)  Comparison  of  the'  Shell  of  a  Hhi^opod  <ind  of  a  Nautilus 
+
+One  more  comparison  between  a  "simple"  unicellular  ani- 
+mal and  a  complex  niulticellular  "true"  animal  is  as  far  as 
+we  can  go  in  the  strictly  comparative- anatomy  part  of  this 
+presentation.  Take,  for  example,  the  shell  of  Oprrculina, 
+the  detailed  structure  of  which  was  worked  out  by  W.  B. 
+Carpenter.  Some  of  the  schematic  figures  in  his  work  arc 
+
+
+238  The  l*tiity  of  the  Organism 
+
+reproduced  in  many  of  the  larger  textbooks  and  handbooks, 
+Biitschli  in  particular  giving  specially  good  figures.  The 
+remarkable  resemblance  of  the  shell  of  this  and  of  allied 
+genera  to  the  shell  of  the  chambered  nautilus  has  long  been 
+a  common  subject  of  remark.  According  to  the  prevalent 
+view,  although  the  variety  and  complexity  of  the  shells  of 
+great  numbers  of  foraminifcrae  are  universally  recognized, 
+they  do  not  militate  against  the  conception  of  the  animals 
+as  "simple,"  because  they  are  only  secretory  structures,  or 
+in  many  groups  only  structures  built  up  from  foreign  sub- 
+stances. But  what  right  have  we,  I  ask,  to  assume  but  slight 
+protoplasmic  differentiation  in  a  creature  that  can  produce 
+in  any  way  whatever  such  a  system  of  chambers  and  septa 
+and  canals  and  pores,  as  is  presented  by  the  shell  of  Oper- 
+cidina?  This  query  becomes  particularly  searching  when 
+one  considers  that  each  of  the  various  genera  and  species 
+has  its  own  type  of  shell. 
+
+In  his  Monograph  of  the  Foraminifera  of  the  North  Paci- 
+fic Ocean  Dr.  J.  A.  Cushman  remarks  that  being  single- 
+celled  animals,  the  structures  of  the  Foraminifera  "do  not 
+need  explanation  on  the  basis  of  organs  and  tissues."  This 
+naive  manner  of  dodging  difficulties  is  characteristic  of  ele- 
+mentalist  notions  about  explanation — the  method  of  making 
+an  implied  theoretical  definition  take  the  place  of  searching 
+examination.  The  particular  difficulty  evaded  by  definition 
+in  this  case  pertains  to  the  nature  of  the  outer  portion  of 
+the  protoplasm  or  sarcode,  which  constitutes  so  large-  a 
+fraction  of  the  living  body  of  both  the  Foraminifera  and  the 
+Rhizopoda.  As  is  well  known,  the  sarcode  produces  the 
+shell  either  by  secretion  or  by  the  selection  and  placement 
+of  foreign  particles.  In  many  Foraminifera,  as  OpercuJinn, 
+the  sarcode  extends  over  the  whole  exterior  of  the  shell, 
+thus  making  the  shell  an  internal  structure.  The  highly 
+elaborate  canal  and  pore  systems  above  referred  to  are 
+passage-ways  for  the  semi-fluid  sarcode. 
+
+
+Organisms  Consisting  of  One  Cell  239 
+
+Intimately  connected  with  the  network  of  sarcode  situ- 
+ated within  the  substance  of  the  shell  and  on  its  surface  is 
+the  wonderful  pseudopodial  system,  i.e.,  the  system  of  in- 
+numerable filamentous,  anastomosing,  expanding,  withdraw- 
+ing, and  shifting  strands  of  living  material.  As  is  well 
+known,  at  least  for  many  Khi/opoda,  the  pseudopodial  sys- 
+tem is  nutritional  in  function.  First  of  all,  the  pseudopo- 
+dia  are  prehensile  organs  and  operate  in  much  the  same  way 
+and  apparently  with  as  great  effectiveness  as  the  corre- 
+sponding organs  of  higher  animals.  By  means  of  them  the 
+animals  seize  their  prey  consisting  of  living  micro-organisms. 
+In  some  species  the  seizure  is  accompanied  by  a  stunning 
+and  paralyzing  action.  After  capture  the  food  is,  in  many 
+species,  transported  by  the  grasping  organs  through  the 
+mouth  of  the  shell  and  into  the  deeper  portions  of  the  sar- 
+code  there  to  undergo  digestion.  But  in  some  groups  the 
+nutritional  office  of  the  pseudopodial  system  goes  much 
+farther  than  the  mere  procurement  of  food.  Digestion,  and 
+so  of  necessity  circulation  in  part,  are  performed  by  the 
+same  system.  Calkins  7  mentions  the  Reticularia  particu- 
+larly as  Rhizopods  whose  digestion  is  thus  performed.  What 
+could  be  more  far-fetched  and  distracting  of  attention  from 
+the  true  nature  of  the  animals,  than  to  call  organs  that  per- 
+form all  these  functions  "feet,"  false  feet,  or  feet  of  any 
+other  kind? 
+
+The  locomotor  appendages  of  many  animals  arc  brought 
+into  the  service  of  the  nutritive  function;  and  in  such  ani- 
+mals, as  many  of  the  Crustacea,  where  this  change  of  func- 
+tion has  gone  so  far  as  tto  divert  the  organs  entirely  from 
+their  original  office  and  transform  them  both  structurally 
+and  functionally  into  mouthparts,  comparative  anatomists 
+never  think  of  still  lumping  them  all  together  as  locom,otor 
+organs.  In  no  higher  animal  whatever,  so  far  as  I  know, 
+has  conversion  of  the  locomotor  into  nutritional  organs 
+gone  so  far  as  to  make  them  not  only  food-seizing  but  food- 
+
+
+240  The   Unity  of  the  Organism 
+
+digesting,  as  is  the  case  in  the  Rcticularia.  Consistency  in 
+descriptive  treatment  and  clear  thinking  demand  that  the 
+sarcode  processes  of  those  protozoans  in  which  the  struc- 
+tures are  wholly  or  even  chiefly  nutritive  in  function  should 
+no  longer  be  called  pseudopodia.  Some  such  term  as  tro- 
+phorhiza  ought  to  be  applied  to  them,  especially  where,  as 
+in  the  Reticularia,  they  are  digestive.  Whether  or  not 
+the  structures  "need  explanation  on  the  basis  of  organs  and 
+tissues,"  they  certainly  need  description  and  definition  that 
+shall  set  forth  their  true  nature.  Fortunately  considerable 
+study  has  been  devoted  to  them  and  the  rest  of  the  peri- 
+pheral sarcode  in  the  Rhizopods,  and  to  the  extra-capsular 
+sarcode  of  the  Radiolaria,  so  we  already  know  much  about 
+the  facts. 
+
+Calkins  8  has  well  summarized  the  information  we  possess 
+concerning  the  "pseudopodia"  of  Sarcodina.  From  this 
+knowledge  we  are  able  to  say  with  the  greatest  assurance 
+that  these  creatures  lead  their  lives  —  maintain  their  locus 
+in  space,  whether  of  fixity  or  movement,  respond  to  external 
+stimuli,  procure,  ingest,  digest,  and  assimilate  their  food, 
+solid  and  gaseous,  and  propagate  their  kind  —  no  less  defi- 
+nitely and  hardly  less  variedly  than  the  larger  multicellular 
+animals.  All  these  things  they  do  through  the  instrumen- 
+tality of  definite  and  definable  anatomical  elements  ;  and  I 
+would  insist  that  we  can  justify  the  refusal  to  call  these 
+elements  organs  and  tissues  because  they  occur  within  the 
+limits  of  single  cells  only  by  having  first  so  defined  art/tin 
+and  tissue  as  to  exclude  from  them  all  organic  elements  not 
+composed  of  cells. 
+
+The   Unjustifiable  Conception  that    Unicellular   Organisms 
+Can  Hare  No 
+
+
+As   a   matter  of  fact   this   illogical  course  is   exactly   the 
+one  that  is  widely  followed.     "A  tissue  is,  therefore,  a  com- 
+
+
+Organisms  Consisting  of  One  Cell 
+
+plex  of  similarly  differentiated  cclU."!l  Tin's  definition  of 
+tissues,  occurring  in  one  of  tin-  mo-t  generally  used  text- 
+book- of  miscroacopical  anatomy,  turns  up  in  Mihstance 
+again  and  again  in  the  common  instructional  writings  of  the 
+dav.  ''The  foundation-stone  of  the  tissue  is  the  cell."10 
+According  to  thi>  doctrine  the-  cell  is  the  building-stone  of 
+tin-  ti->ue.  >o  no  matter  what  may  be  found  within  the  cell, 
+it  cannot  be  a  ti>-ue.  I  "ndouhtedly  this  way  of  treating  the 
+term  ti.vsiK  has  been  useful,  es]>ecially  didactically,  and 
+undoubtedly  too  it  is  on  the  whole  justified  so  far  as  multi- 
+cellular  organisms  are  concerned,  though  even  here  'the 
+scientifically  scrupulous  teacher  finds  himself  under  the 
+necessity  of  doing  much  uncomfortable  wrriggling  to  make 
+many  of  the  connective  ti»ues  fit  into  it.  But  when  the  view 
+is  extended  to  the  whole  animal  kingdom,  to  the  protozoa 
+as  well  as  to  the  meta/oa,  one  sees  how  inadequate  and 
+cramping  such  a  conception  of  tissue  is. 
+
+Tin-  fact  is.  when  we  con-ider  the  real  meaning  of  the 
+word  tissut'.  and  -till  further,  when  we  consider  what  the 
+anatomical  parts  are  to  which  the  early  anatomists  thought 
+the  term  could  be  appropriately  applied,  we  see  that  with 
+the  possible  exception  of  some  of  the  connective  tissues 
+of  the  higher  animals,  we  can  hardlv  point  to  a  more  typical 
+tissue  than  that  of  the  network  of  strands  into  which  the 
+peripheral  -arcode  of  many  of  the  Rhi/opods  forms  itself, 
+or  than  the  ext ra-capsular  "plasm"  of  a  Radiolarian  like 
+
+'halafticotta.  I  mention  this  gums  especially  because  a  spe- 
+of  it  which  has.  been  well  figured  and  described  by  Haec- 
+
+1,  is  frequently  used  in  text-books  as  a  type  of  the  group. 
+"meshes  constituting  the  sarcodictyum"  the  "alveoli 
+of  the  calymma"  and  the  pseudopodia  arising  in  the  deep 
+zone,  or  sarcomatrix  and  "forming  a  network  through  the 
+oth«r  capsiilar  part-,"  are  the  terms  in  which  the  "plasm" 
+of  these  animals  is  described.  And  notice  how  contrary  to 
+good  biological  usage  it  is  to  employ  an  anatomical  nomen- 
+
+
+The   r nit  if  of   the  On/anism 
+
+claturc  which  starts  out  by  calling  the  major  parts  of  the 
+body  of  this  organism  "plasm,"  and  then  names  all  the  de- 
+tails of  organization  in  keeping  with  this.  It  would  be  quite 
+as  consistent  and  quite  as  useful  to  call  all  that  part  of  a 
+fish,  for  example,  situated  outside  the  viscera  "extra-vis- 
+ceral plasm,"  and  then  name  the  skin,  bones  and  muscles 
+"dermoplasm,"  "ostcoplasm,"  "myoplasm." 
+
+
+True  Organs  in  Some  Protozoans 
+
+But  objectionable  as  is  the  usual  treatment  of  the  term 
+tissue  when  viewed  from  the  standpoint  of  a  theoretical  biol- 
+ogy that  is  adequate  and  generous,  even  more  objectionable 
+is  the  treatment  of  the  term  organ.  What  could  be  more 
+absurd  than  to  contend  that  an  animal  like  Diplodinium  (see 
+figure  1)  has  no  true  organs,  while  one  like  Stenostomum, 
+figure  4,  has  such  organs !  No  zoologist  who  becomes  so 
+interested  in  any  of  the  higher  protozoa  as  to  rise  above  the 
+theoretical  notions  into  which  he  may  have  been  schooled  as 
+to  what  an  organ  is,  hesitates  to  call  many  of  the  parts  of 
+these  creatures  organs.  Thus  speaking  of  his  discovery  of 
+what  he  regards  as  functionally  a  supporting  apparatus  for 
+the  gullet  in  an  infusorian  related  to  Diplodinium,  A.  Giin- 
+ther  says :  "I  have  found  an  organ  lying  in  the  ectoplasm. 
+.  .  ."  Sharp's  excellent  description  and  illustrations  of 
+this  organ  (or  these  organs,  for  there  are  three  of  them) 
+in  Diplodinium,  establish  its  indubitable  right  to  be  called 
+an  organ. 
+
+Both  historically  and  biologically  there  are  two  criteria 
+for  an  organ.  One,  the  more  important,  is  that  a  part 
+shall  perform  a  definite  office  or  function  in  the  economy  of 
+the  organism ;  the  other,  that  it  shall  be  composed  of  definite 
+elements  to  which  usually  the  term  tissues  may  be  applied. 
+As  to  how  the  organ  in  question  of  Diplodinium  measures 
+up  to  these  criteria,  we  will  let  Sharp  tell  us.  Concerning  the 
+
+
+of  One  Cell 
+
+first  lie  writes  "That  the  above  deseribed  structure  functions 
+a-  a  true  skelatal  (supporting)  structure,  not  only  for  the 
+retractile  oesophagus,  |,uf  a]so  for  the  entire  body,  seems  al- 
+together certain."  Tire  illustration  shows  something  as 
+to  its  composition  (fin-tire  1  .v/,-.  l(un..,  indicating  skeletal  la- 
+mina' ).  It  is  composed  of  plates  or  laminae,  running  length- 
+wise of  the  organ,  and  placed  edgewise  relative  to  the  sur- 
+face of  the  creature.  This  organ  is  said  to  be  the  most  rigid 
+and  brittle  of  any  in  the  animal,  and  is  conjectured  to  con- 
+tain silicic  acid.  One  dots  well  to  note  the  section  headings 
+of  Sharp's  description:  '"Organs  of  Locomotion,"  13  "Organs 
+of  Food-taking,"  M  "Organs  of  Defecation,"15  "Organs  of 
+Erection.**16  An  examination  of  figure  1  by  the  aid  of  let- 
+terings accompanying  it,  will  give  the  reader  some  idea  about 
+each  of  these  sets  of  organs. 
+
+One  of  these  organ  systems  must  In-  attended  to  more 
+specifically.  It  is  called  by  Sharp  the  ncnrojnotor  appara- 
+tus (labelled  in  the  figure  m.m.  and  circ.  oes.  ring).  The 
+discovery  of  this  remarkable  svstein  mav  well  be  regarded 
+as  epochal  in  the  history  of  knowledge  of  the  protozoa,  for 
+
+stems  to  indicate  the  presence  of  a  nervous  system  in 
+higher  members  of  this  great  subdivision  of  the  animal 
+
+igdom   no  whit   less  well   different  iat<  d   and  elaborate  than 
+
+some  of  the  meta/oa  and  that  by  no  means  the  lowest  of 
+"This  apparatus."  says  Sharp,  "consists  of  a  cen- 
+
+il  motor  mass  or  motorium,  from  which  definite  strands 
+liate:  one  to  the  roots  of  the  dorsal  membranelles  (dorsal 
+
+)tor  strand):  one  to  the  roots  of  the  adoral  membranelles 
+(ventral  motor  strand);  one  to  the  circumoespohagea]  ring 
+
+(circumoesophageal  ring  strand  ):  and  several  pass  out  into 
+the  ectoplasm  of  the  operculum  (opercular  fibers).  Kach  of 
+these  strands  may  send  off  one  or  more  branches.  In  the 
+walls  of  the  oesophagus,  both  nervous  and  contractile  fibers 
+may  be  distinguished."  17 
+
+
+The   Unity  of  the  Organism 
+
+A  True  Nervous  System  Probably  Present  in  Some  Protozoa 
+
+Should  further  investigations  confirm  these  discoveries,  as 
+one  may  predict  they  will,  nothing  but  purely  speculative 
+considerations  can  restrain  comparative  anatomists  from 
+putting  the  nervous  system  of  the  Diplodinium  type  along- 
+side that  of  some  worms,  so  far  as  structural  elaborateness 
+and  functional  effectiveness  are  concerned.  Of  course  there 
+can  be  no  possibility  of  homology  between  the  two  types, 
+if  the  term  homology  be  used  with  the  meaning  generally  at- 
+tached to  it  in  comparative  morphology. 
+
+If  the  possession  by  a  protozoan  of  a  nervous  system 
+thus  elaborate  should  be  fully  established,  the  fact  would 
+have  far-reaching  consequences  on  our  theories  about  these 
+animals.  A  few  remarks  are  therefore  in  order  as  to  the 
+probable  general  correctness  of  Sharp's  observations.  In 
+the  first  place,  Mr.  Sharp's  statement,  "Whatever  there  may 
+be  of  merit  in  the  methods  used  and  the  results  so  far  ob- 
+tained, is  due  to  the  kindly  and  helpful  suggestions  and  in- 
+terest of  Professor  Kofoid,  under  whose  direction  the  work 
+has  been  done,"  18  should  be  noticed.  It  may  be  taken  for 
+granted,  I  presume,  that  Professor  Kofoid's  wide  knowledge 
+of  the  protista,  and  his  long  experience  in  the  technique  of 
+such  research  as  that  here  involved  constitute  a  weighty 
+guarantee  for  the  trustworthiness  of  the  results.  The  gen- 
+eral "internal  evidence"  of  carefulness,  for  which  well-prac- 
+ticed biologists  come  to  have  so  keen  an  eye,  will,  I  think, 
+be  recognized  by  all  who  read  Mr.  Sharp's  memoir.  From 
+the  morphological  side,  the  point  most  open  to  question  is 
+that  of  the  trustworthiness  of  the  differential  action  of  the 
+stains  used.  A  modification  of  Mallory's  connective  tissue 
+stain  seems  to  have  been  Sharp's  main  reliance,  and  it  is 
+unfortunate  that  he  does  not  inform  us  how  this  affects  fib- 
+ers positively  known  to  be  nervous.  Furthermore,  it  must 
+be  remarked  that  the  seeming  identity  of  staining  of  this 
+
+
+Organisms  Consisting  of  One  Cell  245 
+
+system  and  the  micronucleus  does  not  fall  in  very  well  with 
+accepted  views  touching  the  general  character  of  these  two 
+kinds  of  substance  in  the  metazoa.  But  the  general  anatomy 
+of  the  system,  and  its  relation  to  other  organs  undoubtedly 
+favor  the  belief  that  it  is  nervous.  "All  parts,"  says  Sharp, 
+"connected  with  the  neuromotor  system  act  in  perfect  co- 
+ordination." And  it  should  be  said  that  this  assertion 
+was  based  on  attentive  study  of  the  living  animals.  "In 
+watching  these  phenomena  of  retraction  and  expansion  in 
+the  living,  active  animals  one  cannot  help  but  be  impressed 
+with  the  wonderful  co-ordination  of  parts." 
+
+The  idea  that  neural  elements  occur  in  the  protozoa  is, 
+as  is  well  known,  not  new.  The  most  definite  report  to  this 
+effect  previously  made,  is  that  by  Neresheimer.  This  au- 
+thor describes  fibers  in  S  tent  or  running  parallel  with  and  in 
+general  accompanying  the  mvonemes.  He  believes  these  to 
+be  nervous  and  calls  them  neurophanes.  The  observation 
+has  not  been  confirmed  so  far  as  I  am  aware;  and  one  ob- 
+server, O.  Schroder,  believes  that  Neresheimer  is  in  error 
+as  to  the  existence  of  any  such  fibers  in  these  animals.  Nere- 
+slteimer's,  and  particularly  Sharp's,  reports  will  undoubted- 
+
+tc-all  forth  renewed  studies  in  this  important  field. 
+! 
+- 
+I 
+
+
+A   More  Critical  Examination  of   the  Term  "Organ" 
+
+
+The  parts  of  the  protozoa  occupied  with  determining  the 
+nature's  place  in  space  arc  perhaps  those  to  which  the  ap- 
+lication  of  the  term  organ  is  avoided  with  greatest  diffi- 
+ilty.  "In  the  majority  of  Protozoa,"  says  Calkins,  "move- 
+ment is  accomplished  by  the  activity  of  special  motor  or- 
+gans, which  may  be  either  changeable  processes  (pseudopo- 
+dia)  or  permanent  vibratile  appendages  (flagella  and  cil- 
+ia)." -l  This  is  a  favorable  place  to  remark  on  the  justifia- 
+bility of  calling  pseudopodia  (and  other  transitory  cell 
+parts  for  that  matter)  organs.  Science  demands  consist- 
+
+
+246  The  Vmty  of  the  Organism 
+
+ency.  There  are  many  transitory  structures  among  multi- 
+cellular  organisms  notably  connected  with  reproduction,  for 
+example  the  hectocotylized  arms  of  some  cephalopods,  which 
+we  never  hesitate  to  call  organs.  And  taking  the  animal 
+kingdom  as  a  whole,  think  of  the  innumerable  organs  occur- 
+ring in  the  embryonal  and  larval  lives  of  animals;  for  in- 
+stance the  placenta  in  mammals  and  the  gills  of  frogs  in 
+the  tadpole  stage.  No  one  hesitates  to  call  these  "organs" 
+because  they  are  transient.  As  long  as  this  is  so,  we  can- 
+not consistently  let  the  transitoriness  of  cell  parts  stand  in 
+the  way  of  calling  them  organs. 
+
+"The  cilia  and  the  stalk  (of  Vorticella)  are  definite,  per- 
+manent organs,  the  first  of  the  kind  we  have  met  with." 
+One  can  justify  the  use  of  the  term  organ  as  applied  to 
+the  Protozoan  by  quoting  indefinitely  from  practical  writ- 
+ings by  the  best  authorities.  Yet  when  we  come  upon  defini- 
+tions of  "organ"  framed  to  meet  the  needs  of  cellular  ele- 
+mentalism,  we  find  that  the  practice  above  referred  to  would 
+be  illegitimate.  Some  of  these  definitions  are  wonderfully 
+naive.  Take  this  from  the  Handwdrterbucli  der  Naturwis- 
+senschaf  ten,  under  the  heading  "Organs  of  the  Animal  Body." 
+"By  organ  we  understand,  in  accordance  with  the  original 
+sense  of  the  word  organoti  ( Werkzeug,  instrument)  any 
+body-part,  cither  internal  or  external  of  a  multicellular 
+living  being,  (Lebewesen)  such  part  being  of  regular  form, 
+regular  position,  and  definite,  intimate,  histological  struc- 
+ture, and  having  to  perform  instrumentally  a  special  func- 
+tion or  operation  in  behalf  of  the  living  individual  as  a  whole, 
+this  whole  being  designated  an  organism  because  composed 
+of  such  organs,"  etc. 
+
+The  naiveness  here  displayed  lies  in  the  recognition  of 
+the  term  organ  as  going  back  in  use  and  meaning  to  the 
+ancient  Greeks,  and  in  the  same  breath  restricting  its  ap- 
+plication to  multicellular  organisms.  When  Aristotle  recog- 
+nized that  "each  sense  is  confined  to  a  single  order  of  sensi- 
+
+
+Organisms  Con  si  slim j  of  One  Cell  247 
+
+bles,  and  its  organ  must  be  such  as  to  admit  the  action  of 
+that  kind  or  order,"  and  went  on  to  point  out  that  the 
+organs  must  be  "heterogeneous,"  (that  is,  as  later  anatomy 
+came  to  say,  composed  of  tissues);  and  when  William  Har- 
+vey spoke  of  the  heart  as  an  organ  and  described  its  shape, 
+structure,  blood  capacity,  density  and  movements,  and  the 
+passage  of  the  blood  through  it,  beyond  a  shadow  of  doubt 
+these  men  had  a  perfectly  clear  conception  of  the  most  es- 
+sential attributes  of  an  organ,  though  of  course  they  knew 
+nothing  about  cells.  And  does  any  one  believe  that  had 
+they  seen  the  locomotor  parts,  let  us  say,  or  the  mouth  of 
+Diplodinktm,  they  would  have  hesitated,  though  still  wholly 
+ignorant  of  cells,  to  call  these  parts  organs,  doing  so  on 
+the  same  basis  on  which  they  had  called  the  sensory  parts 
+and  the  heart  of  larger  animals  organs?  Can  any  one 
+either  fail  to  see  the  point  or  refuse  to  admit  the  validity 
+of  the  argument? 
+
+The  term  organ  stands  for  certain  kinds  of  natural  ob- 
+jects. First  and  foremost  these  objects  are  definite  parts 
+of  an  organism;  definite  that  is,  in  that  they  have  a  certain 
+form  and  character  of  their  own,  perform  definite  offices  in 
+the  economy  of  the  organism  as  a  totality,  and  are  in  turn 
+composed  of  definite  elements.  Thus  understood  the  term 
+s  hat!  a  place  in  the  science  of  living  beings  for  centuries, 
+we  have  just  seen.  How  now,  has  the  advance  of  knowl- 
+ge  affected  the  earlier  understanding  of  the  nature  of  or- 
+ns?  Undoubtedly  it  has  expanded  that  understanding 
+a  number  of  directions ;  it  has  made  it  fuller.  One  of  the 
+tions  of  enlargement  pertains  to  the  composition  of  the 
+rgans.  It  is  found  that  for  a  large  part  of  the  organic 
+world,  namely  the  //////^'cellular  animals  and  plants,  the  ele- 
+ments of  the  organs  are  tissues,  all  of  which  are  derived  from 
+still  another  kind  of  elements,  namely  cells. 
+
+The  discovery  of  cells  has  greatly  enriched  and  clarified 
+the  definition  of  the  term  organ  ;  but  there  is  no  shadow  of 
+
+
+248  The  Unity  of  the  Organism 
+
+right  in  the  view  that  the  discovery  has  at  the  same  time 
+narrowed  the  application  of  the  term.  As  the  preceding 
+discussion  shows,  historically,  logically,  and  biologically, 
+the  mouth  or  the  locomotor  appendages  of  a  protozoan  have 
+exactly  the  same  right  to  be  called  organs  as  have  the  same 
+parts  of  a  metazoan.  The  dodging  in  this  matter,  as  seen 
+for  example  in  the  proposal  to  keep  the  organs  of  the  pro- 
+tozoa quite  apart  from  those  of  the  metazoa,  by  calling 
+them  "organelles,"  "organoids,"  "cyto-"  one-thing-and- 
+another,  is  indefensible  so  far  as  animals  themselves  are 
+concerned.  And  no  one  should  wish  to  minimize  the  import- 
+ance of  the  point  at  issue  by  imagining  the  question  to  be 
+merely  one  of  terminology — of  what  the  objects  dealt  with 
+shall  be  named.  That  this  is  by  no  means  all  there  is  to  it 
+may  be  discovered  by  noticing  the  warmth  with  which  a 
+genuine  cellular  elementalist  will  come  to  the  defence  of  his 
+terminology  when  its  legitimacy  is  seriously  questioned.  The 
+truth  is,  and  let  us  not  miss  it,  behind  this  "mere  matter  of 
+terms"  there  is  in  hiding  the  scientifically  reprehensible 
+practice  of  trying  to  disguise  or  obscure  facts  in  the  interest 
+of  a  theory.  And  the  practice  entails,  as  the  defence  of 
+false  theories  always  entails,  contradictions  and  obscura- 
+tions of  all  sorts.  To  illustrate,  it  is  said  by  cellologists 
+that  a  protozoan's  mouth  must  not  be  called  a  mouth,  but  a 
+cytostome  because  being  in  a  cell  and  not  composed  of  cells 
+it  is  only  analogous,  but  not  homologous  with  the  metazoan 
+or  "true"  mouth.  From  which  it  follows  by  clear  inference 
+that  all  metazoan  mouths  are  homologous,  those  of  a  lobster 
+and  of  a  dog,  for  example!  But  the  anatomical  absurdity 
+of  the  situation  is  easily  met  by  those  who  are  committed 
+to  the  defence  of  the  theory  regardless  of  facts,  by  simply 
+pointing  out  that  the  mouths  of  a  lobster  and  a  dog  are 
+homologous  just  because  they  are  both  multicellular.  If 
+one  wishes  to  prove  that  no  wooden  building  is  a  true  house, 
+he  can  do  this  to  his  satisfaction,  if  his  mind  works  that 
+
+
+Organisms  Confuting  of  One  Cell  249 
+
+way,  by  defining  house  as   a  building  which  must  be  com- 
+posed of  brick  or  of  stone. 
+
+More  Detailed  Examination  of  the  Anatomy  of  Higher 
+Protozoa 
+
+In  behalf  of  the  treatment  of  reproduction  and  heredity 
+which  will  engage  us  later  on,  we  must  now  extend  our  ac- 
+quaintance  with  the  finer  structure  of  some  of  the  more 
+highly  developed  proto/oa.  Styloinjchia,  about  which  some- 
+thing has  already  been  said,  may  be  the  first  object  of 
+closer  scrutiny.  Putter,  who  has  given  special  attention 
+to  the  activities  of  many  protista,  remarks,  "One  may  take 
+a  hypotrichous  infusorian  (Stylonychia  being  typical)  as  an 
+example  of  the  highest  complication  of  body-form  which  a 
+single  cell  is  able  to  reach,  for  in  addition  to  differentiation 
+into  dorsal  and  ventral  sides  and  the  very  complicated  form 
+of  the  periphery,  we  find  no  less  than  six  different  groups  of 
+cilia."  23 
+
+Putter's  representation  of  a  side  view  of  Stylonychia 
+mytihis,  copied  in  various  books  and  shown  in  figure  5,  illus- 
+trates his  statement.  He  describes  in  detail  the  movements 
+of  the  cilia  in  crawling;  and  from  all  this  and  from  what 
+others  have  written  on  the  subject,  it  is  entirely  permissible 
+to  call  these  main  cilia  limbs  or  legs.  The  elaborate  system 
+of  fibers  connecting  and  coordinating  these  limbs  will  be 
+spoken  of  in  a  later  section.  The  statement  by  Putter  about 
+the  extent  of  complication  of  body  possible  in  a  single  cell 
+prompts  one  to  wonder,  in  view  of  the  elaborateness  of  these 
+animals,  whether  the  limits  of  possibility  of  structural  dif- 
+ferentiation is  much  narrower  for  single-celled  than  for 
+many-celled  animals.  In  none  of  the  metazoa,  excepting  the 
+arthropoda  and  higher  vertebrata,  do  we  find  a  more  highly 
+differentiated,  and,  seemingly,  integrated  system  of  loco- 
+motor  organs  than  in  Stylonychia  and  its  congeners. 
+
+
+250 
+
+
+The   Unity  of  the  Organism 
+
+
+Figure  6  shows  numerous  details  of  the  system  of  external 
+organs  of  Stylonychia  histrio.  The  figure  was  made  from  a 
+section  of  the  peristomal  field.  Special  attention  is  called  to 
+the  finely  striated  appearance  of  the  membranellae,  in  I,  and  the 
+
+
+M1- 
+
+
+FIGURE    6.       STYLONYCHIA    HISTRIO     (AFTER    MAIER). 
+
+Ml)]).,  preoral  membrane.  Se.,  frontal  cirrhi.  Bs.,  basal  strand. 
+Us.1,  basal  strand  of  membranellae.  J.,  endoplasmic  inclusions.  lif., 
+basal  fibers,  p.,  pellicula.  F.n.,  emloplasm. 
+
+
+pre-oral  membrane,  m  bp,  these  striae  being  evidence  that  the 
+organs  are  produced  by  a  fusion  of  cilia.  The  distinction  be- 
+tween the  basal  lamella,  bl,  and  the  basal  granules  should  also 
+be  noticed.  The  investigation  from  which  this  figure  is  taken 
+is  particularly  instructive  because  it  is  based  on  a  large  num- 
+ber of  representative  genera  and  because  the  discussion  brings 
+
+
+Organisms  Consisting  of  One  Cell 
+
+
+251 
+
+
+out  various  inferences  concerning  certain  important  aspects  of 
+development,  even  though  the  observations  were  mostly  limited 
+to  the  completed  organs.  To  these  latter  we  shall  return  in 
+the  chapter  on  development  and  heredity. 
+
+
+ISO  far  our  glance  at  the  complication  of  structure  occur- 
+ig  among  the  protozoa  has  been  directed  chiefly  to  the 
+organs  of  contact  with  the  outside  world.  These  organs  are 
+particularly  characteristic  of  the  large  species,  and  in  gen- 
+eral of  those  leading  the  freest,  most  active  lives.  From  the 
+relative  conspicuousness  of  these  organs  and  the  ease  with 
+
+
+t  UK   ?.     i  in  rmm  v   i.EPToroHinis    (AFTER   MOCULLOCII). 
+ax.,    axostvle.      has.gr.,    basal    granule,      chr.gr.,    ehromatin    granule, 
+fl.,  flagelluiu.     n.,  nuclriis.     Hi.,  rhi/.oplast.     uiid.tu.,  undulating  mem- 
+brane,    vac.,  vacnolc-likr  area   about    the  "kinetniuicleus."      kn.,  kine- 
+tonucleus. 
+
+
+The  Unity  of  the  Organism 
+
+
+which  they  can  be  observed  it  has  naturally  come  about 
+that  they  have  been  studied  most  and  are  the  most  accu- 
+rately known  of  all  the  organs  of  these  small  animals.  But 
+extensive  researches  in  recent  years  have  brought  to  light 
+a  whole  system  of  organs  in  one  group  of  protozoans,  the 
+flagellata,  that  was  entirely  unknown  a  generation  ago.  The 
+subdivision  of  the  flagellata  referred  to  contains  the  try- 
+panosomes,  animals  which  have  come  into  prominence  lately 
+because  many  of  them  are  parasitic  in  man  and  beast,  pro- 
+
+
+FIGURE    8.       CRITHIDIA    LEPTOCORTDIS     (AFTER    McCUIXOCH). 
+
+n.f.,    axial    filament,      bas.gr.,    basal    granule,      c.,    eentrosome.      rh., 
+rhizoplast.     nuc.,   nucleus. 
+
+ducing  a  long  list  of  diseases  of  which  sleeping  sickness  is 
+probably  the  most  generally  known.  As  we  are  now  more 
+interested  in  the  organisms  than  in  the  effects  they  have  upon 
+their  hosts,  other  species  akin  to  the  trypanosomes,  but  ui 
+known  except  among  specialists,  will  best  serve  our  purpo? 
+The  examples  I  select  are  shown  in  figures  7  and  8.  Tl 
+species  illustrated  by  figure  7  is  Crithidla  leptocoridis 
+McCulloch.*  This  species  has  been  chosen  for  the  purpose 
+of  showing  the  newly  discovered  system  of  organs  mentioned 
+above,  so  structural  details  other  than  those  of  the  system 
+are  not  shown  in  the  drawing. 
+
+*  This  occurs  in  various  parts  of  the  United  States.  The  descrip- 
+tion of  the  creature  is  by  Miss  Irene  McCulloch  (An  Outline  of  the 
+Morphology  and  Life  History  of  Crithidia  leplocorltlia,  n.  sp.  Univ.  of 
+Calif.  Pubi.  /ool.,  Vol.  1<>,  pp.  1-55,  1915),  one  of  the  group  of  students 
+in  protozoology  working  under  the  guidance  of  Professor  Kofoid. 
+
+
+Organisms  Consisting  of  One  Cell  253 
+
+The  flngcllum  marks  the  anterior  end  of  the  creature;  and  along 
+with  it  there  is  an  undulating  membrane,  the  two  forming  an 
+efficient  locomotor  apparatus. 
+
+The  explanations  accompanying  figures  7  and  8  name  the  parts 
+of  the  system.  Special  attention  may  be  called  to  the  following 
+points: 
+
+The  nucleus,  n,  with  its  distinct  membrane,  central  karyosome, 
+and  clear  space  between  the  latter  and  the  membrane;  the 
+kinelonucleus  (always  written  with  quotation  marks  by  Miss  Me- 
+Culloch,  for  reasons  which  we  shall  mention  later)  ;  the  rhizo- 
+/)!(!*(,  a  fine  thread  connecting  the  karyosome  of  the  nucleus  witli 
+the  kinetonuclcus;  the  basal  granule  with  its  numerous  very  fine 
+connections  running  to  the  kinetonuclcus ;  and  the  axostyle,  a 
+thread  extending  from  the  basal  granule  to  the  posterior  end 
+of  the  body. 
+
+Concerning  the  function  of  all  these  parts  our  knowledge  is 
+very  fragmentary.  The  reader  should  never  forget  the  diffi- 
+culty of  observing  these  organisms.  The  largest  individuals  of 
+this  species  are  10  or  about  1/62/5  of  an  inch  long,  and  as 
+the  figure  shows,  narrow  in  proportion  to  the  length.  Because 
+of  this  minuteness  several  of  the  parts,  for  example  the  rhi/o- 
+plast  and  the  various  granules,  are  at  the  very  limit  of  visibility 
+by  the  best  microscopes.  This  fact,  combined  with  the  pecidiar 
+conditions  under  which  the  animals  live,  make  it  impossible  to 
+study  a  single  individual  during  its  whole  life  or  even  a  con- 
+sul, rah!',  portion  of  it.  Probably  the  impossibility  of  studying 
+parts  as  they  do  their  work  is  chiefly  responsible  for  the 
+gerness  of  what  we  know  about  the  functions  of  the  organs, 
+e  nucleus  of  a  large  number  of  protozoans,  including  this  one, 
+often  called  a  troplionucleus  from  the  theory  that  it  is  chiefly 
+cerned  with  nutrition. 
+
+The  term  k'nictounclens  has  been  applied  to  the  organ  thus 
+abelled  from  the  conjecture  that  it  has  specially  to  do  with 
+the  movements  of  the  animal.  As  the  figure  shows,  the  flagellum 
+is  connected,  though  indirectly,  with  this  organ,  and  this  means 
+that  the  undulating  membrane  is  also  related  to  it.  But  the 
+fact  that  there  are  plenty  of  flagclla  and  undulating  membranes 
+in  other  species  which  have  no  kinetonucleus,  makes  it  certain 
+that  its  role  in  the  production  of  motion  can  not  be  exclusive 
+or  very  fundamental.  Concerning  the  office  of  the  several  gra- 
+nules, the  rhi/oplast  and  the  axostyle,  nothing  positive  seems 
+
+
+254  The   Unity  of  the  Organism 
+
+to  be  known.  When,  consequently,  the  whole  complex  is  spoken 
+of  as  a  "system  of  organs/'  we  must  keep  in  mind  the  fact 
+that  we  are  certain  of  its  being  a  single  system  only  in  a 
+morphological  sense.  The  mere  fact  that  several  organs  are 
+structurally  connected  with  one  another  does  not  by  any  means 
+signify  that  they  are  all  concerned  in  a  single  operation.  For 
+example,  such  complexes  as  muscle-nerve  and  gland-nerve-duct 
+are  morphological  systems  which  perform  several  quite  distinct 
+functions. 
+
+A  matter  of  much  theoretical  interest  is  involved  in  the  appli- 
+cation of  the  terms  chromatic  and  chromatin  to  several  of  the 
+parts  of  the  system.  The  karyosome  of  the  nucleus  is  called 
+chromatin,  as  are  the  kinetonucleus,  the  basal  granule,  and  the 
+granule  in  the  axostyle  near  the  posterior  end  of  the  body.  And 
+the  axostyle  itself  is  said  by  Miss  McCulloch  to  be  "present  ap- 
+parently in  the  form  of  a  chromatic  thread."  The  flagellum  and 
+nuclear  membrane  are  not  held  to  be  chromatic,  even  though 
+they  seem  to  take  stains  quite  as  well  as  the  other  parts  which 
+are  called  chromatin  primarily  because  they  are  thus  acted  on. 
+Mention  may  be  made  too,  of  the  fact  that  some  of  the  parts, 
+notably  the  karyosome,  which  are  considered  to  be  chromatin, 
+are  shown  by  Miss  McCulloch  to  stain  with  unequal  intensity 
+at  different  times.  The  subject  of  chromatin  and  chromatic 
+bodies,  has  played  a  prodigious  part  in  recent  theoretical  biology, 
+especially  in  speculations  about  heredity.  We  shall  consequently 
+be  obliged  to  give  more  attention  to  it  in  the  discussion  of  how 
+organisms  reproduce  themselves.  What  has  been  described  is 
+only  the  adult  stage,  or  as  it  is  often  called,  the  vegetative  stage 
+in  the  creature's  life  cycle,  this  being  sufficient  for  our  present 
+aims.  Considerable  is  known  about  several  other  stages  of 
+this  and  related  species;  but  our  purpose  now  is  only  to  get  in 
+mind  as  clear  a  picture  as  possible  of  the  make-up  of  the 
+animal  in  the  culminating  stage  of  its  life. 
+
+The  other  species  selected  to  illustrate  this  new  system  of 
+internal  protozoan  organs  shown  in  figure  9  is  Giardia 
+muris,  the  specific  name  referring  to  the  fact  that  the  creature 
+is  an  inhabitant  of  mice.  The  figure  and  description  are  by 
+Kofoid  and  Christiansen.  The  facts  to  which  special  attention 
+is  invited  in  this  animal  are  the  way  in  which  all  the  various 
+granules  and  bodies  are  connected  with  one  another  by  fibers, 
+the  almost  perfect  bilateral  symmetry  of  'lie  animals,  and 
+particularly  the  presence  of  two  nuclei,  nuc.  The  binuclear  con- 
+
+
+Conxistiny  of  One  Cell 
+
+
+255 
+
+
+dition  of  tliis  protist  is  not  merely  a  stage  in  the  life  history  of 
+the  organism.  No  oni-nndeate  stage  occurs  and  tlie  creature  is 
+typically  onj-.-mi/ed  on  the  binuch  ate  plan.  It  should  be  noted 
+that  the  two  nuclei  are  alike  morphologically  and  presumably 
+physiologically,  so  they  do  not  correspond  to  the  macro-  and 
+micro-nuclei  of  some  ciliates.  The  animal  may  consequently  be 
+
+
+anichiosntu 
+
+itttractjtlat.flT-- 
+
+
+— ant.  bale 
+
+
+cv 
+
+
+carti. 
+
+
+. 
+lar.  bas.g-r. 
+
+inlracy  tpos  t  la*. 
+
+---arrt.lat.fi. 
+--/ fr.ve-n1-.fi. 
+
+
+posi.la^.fl 
+
+
+pos 
+
+
+fcfl. 
+
+
+licit  UK   9.     i.i  \uni.v    MTKIS    (AFTKH    Koroin   AND  c  IIKISTIANSKN  ). 
+
+ant.  chiasma,  anterior  chiasnia.  ant. halo.,  anterior  halo,  ant.lat.fl., 
+ant<'rior  lateral  fla-rellnni.  ant.perist.,  anterior  |)eristoine.  ;\\.,  ;\\o- 
+style.  can..  Uaryosomc.  eary.halo,  karyosoinal  halo,  cent.,  oentro- 
+sonie.  cyt.,  cytostomr.  fr.vent.fl.,  free  ventral  flajrelhun.  intraeyt.- 
+lat.fi.,  int racytoplasinic  part  of  the  postrro-lateral  tla^elluiii.  intra- 
+nnc.rlii/,.,  intranuclear  rhi/oplast.  lat.has. •>•!•.,  lateral  hasal  irranule. 
+post.fi.,  po.st<'rior  f1a»clliiiii.  |)ost.lat.fl.,  posterior  lateral  fla-rellum. 
+post.perist.,  posterior  pcristomc.  l.hlcph.,  left  hlephan»))laKt.  rhi/., 
+rhi/oplast.  tri.halo.,  triaiifrular  halo. 
+• 
+
+justly  regarded,  as  Kofoid  and  Christiansen  remark,  as  the 
+"simplest  (from  the  standpoint  of  numbers  only)  possible  multi- 
+nuclear  organisms."  -'*  Special  notice  should  also  be  taken  of  the 
+blepharoplasts  (I.  bleph.).  the  n.roxlyle  (ax.)  and  the  parabasal 
+bodies  (])ar.  b.) 
+
+Worthy  of  mention  is  the  fact  that  this  system  of  organs, 
+called  by  the  authors  the  ncuroniotor  .v//.v/ew,  is  so  well  differen- 
+tiated from  the  rest  of  the  body  substance,  and  so  permanent 
+
+
+256  The   Unity  of  the  Organism 
+
+that  it  may  remain  intact  after  the  softer,  more  plastic  parts 
+of  the  body  have  undergone  dissolution.  It  reminds  one  of  a 
+skeleton  quite  as  much  as  of  any  other  system  belonging  to  the 
+higher  animals,  though  this  remark  is  not  intended  as  a  sug- 
+gestion that  it  may  be  of  this  nature.  But  the  fact  of  capital 
+importance  to  the  present  discussion  is  the  remarkable  degree 
+of  structural  unification,  or  in  accordance  with  the  terminology 
+favored  by  us,  the  structural  integratedness  of  the  animal  through 
+this  organ  system.  All  analogy  warrants  the  supposition  that 
+functional  integration  of  some  sort  corresponds  to  this  structural 
+integration,  and  if  ever  research  discovers  what  that  function 
+is  (or  those  functions  are,  for  the  possibility  that  there  may 
+be  several  should  never  be  lost  sight  of),  the  insight  thus 
+obtained  into  the  nature  of  these  creatures  would  be  another 
+long  step  toward  banishing  the  doctrine  of  the  simplicity  of 
+the  protozoa. 
+
+The  Fiction  of  Structureless  Organisms 
+
+Having  informed  ourselves  concerning  the  highest  grades 
+of  organi/ation  known  among  unicellular  beings  we  must 
+inquire  about  the  lowest  grades.  The  immediate  question  is, 
+are  genuinely  structureless  or  homogeneous  or  amorphous 
+living  beings  known?  The  next  and  far  more  searching 
+question  is,  if  such  beings  are  not  known  (and  they  surely 
+are  not)  does  the  nature  of  the  inductive  evidence  demand 
+or  even  warrant  the  supposition  that  they  must  exist  some- 
+where or  must  have  existed  at  some  time  although  we  can 
+get  no  evidence  to  this  effect? 
+
+The  supposed  existence  of  beings  of  this  sort  has  cut  a 
+large  figure  in  speculative  biology.  One  need  only  refer  to 
+the  moneron  theory  of  Haeckel  and  its  wonderful  vitality 
+shown  by  its  cropping  out  everywhere,  even  in  elementary 
+and  popular  writings,  and  by  its  receiving  a  show  of  assent 
+simultaneously  with  the  admission  that  actual  observation 
+tends  to  disprove  the  theory.  A  good  example  of  the  per- 
+sistence of  the  teaching  is  shown  by  Haeckel's  The  Evolution 
+of  Man.  In  the  fifth  edition,  English,  1903,  we  read,  "The 
+
+
+Organisms  Consisting  of  One  Cell  257 
+
+earliest  unicellular  organisms  can  only  have  been  evolved 
+from  the  simplest  organisms  we  know,  the  monera.  These 
+are  the  simplest  living  things  that  we  can  cojiceive.  Their 
+whole  body  is  nothing  but  a  particle  of  plasm,  a  granule  of 
+living  albuminous  matter."  2!i  So  far  as  the  protozoa  are 
+concerned,  no  zoologist  who  is  both  well  informed  and  in- 
+tellectually free  and  candid  pretends  any  longer  that  such 
+beings  are  known.  "In  all  proto/oa  that  have  been  exam- 
+ined in  recent  times,  at  least  one  nucleus  has  been  found 
+to  occur  without  exception."  -6  It  hardly  needs  to  be  re- 
+marked that  even  the  possession  of  a  nucleus  is  sufficient  to 
+take  an  organism  out  of  the  category  "organisms  without 
+organs."  But  as  a  matter  of  fact  the  nucleus  is  not  the 
+only  differentiated  part  that  has  been  demonstrated  in  the 
+simplest  protozoa. 
+
+The  Structure  of  Bacteria 
+
+The  visible  living  beings  to  which  the  term  structure- 
+lessness  can  be  ascribed  with  the  greatest  plausibility  are 
+the  heterogeneous  myriads  known  as  the  bacteria.  Whether 
+or  not  these  organisms  are  true  cells,  that  is,  are  "nucleated 
+masses  of  protoplasm,"  has  been  extensively  debated  in  re- 
+cent years.  This  much  may  be  regarded  as  settled:  If  by 
+nucleus  one  is  to  understand  a  cell  organ  of  such  structure 
+as  that  which  is  characteristic  of  ordinary  plants  and  ani- 
+mals, then  the  bacteria  are  not  nucleated.  But  this  is  far 
+from  meaning  that  the  organisms  are  structureless. 
+
+(a)  Membrane  and  Surface  Structures 
+
+In  the  first  place,  there  seems  to  be  almost  complete  agree- 
+ment among  authorities  that  in  bacteria  the  body  is  differ- 
+ent iated  into  at  least  one  outer  coat  or  membrane  and  an 
+inner  mass.  It  should  be  specially  noted  that  the  membrane 
+is  by  no  means  a  mere  passive,  wholly  extrinsic  thing,  like 
+
+
+258  The  Unity  of  the  Organism 
+
+the  cover  to  a  base-ball.  It  is  an  essential,  active,  living 
+part  of  the  organism.  It  seems  to  correspond  more  to  the 
+skin  of  a  higher  animal  than  to  a  man's  coat,  or  to  the 
+shell  of  a  mollusc  or  of  a  walnut.  "Unlike  the  cell-wall  of 
+the  higher  plants,  it  [the  outer  layer  of  the  bacterium]  gives 
+usually  no  reactions  of  cellulose,  nor  is  chitin  present  as  in 
+the  fungi,  but  it  consists  of  a  proteid  substance  and  is  ap- 
+parently a  modification  of  the  general  protoplasm."  27  This 
+appears  to  express  the  most  common  view,  especially  among 
+bacteriologists  proper.  Some  authorities,  as  Kolle  and 
+Wassermann,  speak  of  the  ectoplasm  and  endoplasm,  and 
+declare  that  a  "cell-membrane,  such  as  is  present  in  plant 
+cells,  is  not  to  be  thought  of"  8  in  the  bacteria.  If  the 
+membrane  is  comparable  with  that  of  the  cells  of  any  multi- 
+cellular  organisms  at  all,  it  would  seem  to  be  more  akin  to 
+that  of  the  animal  cell  than  the  plant  cell,  for  nearly  all 
+authorities  consulted  agree  that  only  in  exceptional  cases 
+does  cellulose  occur  in  it,  and  W.  Beneke  says  that  the  re- 
+peated assertion  of  the  presence  of  cellulose  in  many  bacteria 
+is  unproved.  Even  the  presence  of  chitin,  still  more  fre- 
+quently affirmed  by  writers,  is  doubted  by  this  author,  and 
+he  tells  us  "we  know  nothing  concerning  the  chemical  struc- 
+ture of  the  wall."  Arthur  Meyer  takes  vigorous  ground 
+against  the  views  above  indicated  as  to  the  nature  of  the 
+bacterial  membrane.  He  believes  these  organisms  are  more 
+closely  related  to  the  fungi  than  to  any  other  group  and 
+that  through  these  their  kinship  to  higher  plants  is  estab- 
+lished. But  even  he  admits  that  "It  is  very  easy  to  recog- 
+nize that  the  bacteria  possess  a  cell-membrane  morpholog- 
+ically similar  to  the  membrane  of  fungi,  even  to  that  of 
+higher  plants."  28  And  he  thinks  that  perhaps  there  is  more 
+similarity  between  the  epidermis  of  aquatic  higher  plants 
+and  the  bacterial  wall  than  between  the  latter  and  the  cell 
+wall  of  higher  plants. 
+
+Aside  from  the  question  of  the  chemical  composition  of 
+
+
+Organisms  Consist'iHy  of  One  Cell  259 
+
+the  bacterial  membrane,  two  facts  seem  to  indicate  its  active 
+character:  tin-  presence  in  many  species  of  a  mucous  en- 
+velope, presumably  secreted  by  the  membrane,  and  the  pres- 
+ence in  many  others  of  cilia  wliich  in  some  cases  are  almost 
+certainly  outgrowths  of  the  membrane.  It  seems  to  have 
+hem  proved  that  in  Sjnrillnnt  <ji(j<tnti'iiui,  the  ciliary  tuft 
+with  which  each  end  of  the  body  is  armed  arises  from  the 
+inner  hody  mass  and  passes  through  a  chink  in  the  mem- 
+brane. .Mi  yer  and  a  few  other  authorities  consulted  are  of 
+the  opinion  that  this  is  the  typical  mode  of  origin.  But  too 
+many  capable  observers  are  positive  about  their  having 
+demonstrated  the  origin  of  the  cilia  from  the  membrane 
+in  widely  separated  species  to  permit  us  to  believe  that 
+this  is  not  in  fact  the  mode  of  origin  in  many  species.  Thus 
+V.  A.  Moore:  "The  flagella  appear  as  hair-like  appendages 
+or  filaments,  wliich  radiate  from  the  bacteria.  They  are 
+given  off  from  the  cell  wall  of  the  germs  of  which  they 
+appear  to  be  continuations  or  projections."  30 
+
+So  meager  is  our  knowledge  of  the  individual  activities 
+of  these  minute  beings  that  the  simplest  trustworthy  obser- 
+vations in  this  field  are  welcome,  and  the  following  from 
+Moon's  paper  is  worth  quoting  even  though  its  bearing  on 
+the  membrane  question  is  only  indirect.  Speaking  of  the 
+behavior  of  the  organisms  when  the  cilia  of  several  indi- 
+viduals become  entangled  with  one  another  the  author  says 
+they  exhibit  "a  trembling  motion,  then  a  jerking,  reeling 
+and  pitching  movement,  until  finally  they  arc  free  and 
+move  across  the  field,"  and  "it  seems  highly  probable  that 
+detachment  or  breaking  of  the  appendages  is  produced  dur- 
+ing these  voluntary  movements,  by  their  contact  and  pos- 
+sible entanglement  with  each  other."  31 
+
+The  probable  active  participation  of  the  membrane  in 
+the  division  of  the  bacterium  is  evidence  from  another  di- 
+rection that  the  structure  is  a  real  part  of  the  organization 
+of  the  being. 
+
+
+The   Unity  of  the  Organism 
+
+(b)  Structure  of  the  Inner  Portion 
+
+We   now   pass   from   the   consideration   of   the   peripheral 
+parts  of  the  bacteria  to  an  examination  of  the  internal  body 
+mass.     Recent  discussion  of  this  subject  having  been  mostly 
+carried  on  from  the  elemcntalist  standpoint,  with  cither  nu- 
+cleus or  chromatin   as  the  guiding  star,  gives   the  distinct 
+impression  of  having  for  its  end  not  full  and  accurate  de- 
+scription   of    anything    and    everything   that    exists    in    the 
+organism,  but  proof  that  a  nucleus  or  chromatin  either  do 
+or  do   not  occur  there.      Writings   under  this   head   are   so 
+numerous  and  voluminous  as   to  make  a  comprehensive  re- 
+view out  of  the  question,  and  the  diversity  of  opinion  is  so 
+great  and  so  strenuously  set  forth  in  some  instances  as  to 
+make   satisfactory  judgment  of  just   what  has  been   found 
+difficult.     The  one  thing  that  stands  out  with  great  clear 
+ness    in    the   illustrations    and    descriptions    of   such    recen 
+works  as  those  of  Biitschli,  Schaudinn,  Arthur  Meyer,  Guil 
+lermond,  Menol,  Ruzicka,  Swellengrebel,  and  Dobell,  is  that 
+the  main  body  substance  of  the  organisms  is  far  from  homo 
+gcneous.     A  considerable  variety  of  objects  are  undoubtedly 
+differentiated  within  the  protoplasm.     Difference  of  opinioi 
+among  the  latest  investigators  concerns  only  the  nature  o 
+these  objects.     Perhaps  the  most  generally  observed  differ 
+entiations  are  granules  of  various  sizes,  shapes  and  behavioi 
+toward  stains.     The  next  most  common  structures  seem   t< 
+be  networks   and   strands   of  varied  character.      The   mate- 
+rials of  these  appear  to  differ  generally  from  those  of  the 
+granules  in  "taking"  stains  with  less  avidity.     Vacuoles  arc 
+another  type   of  structure  which   present-day  methods   are 
+discovering  to  play  an  important  part  in  these  minute  or- 
+ganisms, as  they  have  long  beefi  known  to  do  in  many  pro- 
+tozoa, and  in  the  cells  of  higher  plants. 
+
+The  narrower  needs  of  our  undertaking  do  not  require  us 
+to  examine  farther  these  internal  parts.     The  bare  fact  of 
+
+
+Organisms  Consisting  of  One  Cell  261 
+
+their  existence  is  conclusive  proof  that  the  main  body  of  the 
+organisms  is  not  structureless ;  and  almost  conclusive  proof 
+too,  when  the  extreme  minuteness,  and  hence  difficulty  of 
+observation  is  taken  into  account,  that  not  only  are  they 
+not  structureless,  but  that  their  structure  would  amount, 
+could  it  be  seen  as  readily  as  that  of  larger  organisms,  to  a. 
+very  considerable  degree  of  complexity  of  organization. 
+And  this,  be  it  noticed,  follows  even  though  considerable 
+portions  of  the  body  substance,  especially  in  some  stages  of 
+the  individual  life  cycle,  still  look  structureless  or  homo- 
+geneous under  the  highest  magnifications  and  best  conditions 
+of  lighting  and  staining.  Although  this  phase  of  our  dis- 
+cussion does  not  require  us  to  go  farther  into  the  inter- 
+pretation of  the  structure  thus  generally  looked  at,  it  is 
+nevertheless  desirable  to  attend  to  the  subject  a  little  more 
+specifically. 
+
+(c)  The  Question  of  a  Nucleus  in  Bacteria 
+
+\Ve  may  first  speak  of  the  present  status  of  the  nuclear 
+problem  as  touching  the  bacteria.  The  most  prevalent  view 
+still  is  that  the  bacterium  is  a  non-nucleated  cell,  if  by 
+nucleus  one  is  to  understand  the  organ  that  goes  by  that 
+name  in  higher  plants  and  animals.  But  there  is  plenty  of 
+dissent  from  this  view,  and  seemingly  this  is  growing  in 
+volume.  Those  who  believe  in  the  presence  of  a  nucleus  are 
+still  far  from  agreement  as  to  what  shall  be  regarded  as  this 
+organ.  One  group  of  observers  speak  of  a  "diffuse  nucleus," 
+the  idea  being  that  certain  of  the  granules  mentioned  above 
+an  chromatin  or  something  close  of  kin  thereto;  and  since 
+according  to  a  widely  prevalent  theory,  this  is  the  most  es- 
+sential constituent  of  the  nucleus  in  the  cells  of  higher  or- 
+ganisms, they  believe  it  justifiable  to  consider  bacteria  nu- 
+cleated. Schaudimi  and  Richard  Hertwig  are  prominent 
+advocates  of  this  view,  the  former  basing  it  primarily  on  his 
+
+
+The   Unity  of  the  Organism 
+
+studies  of  Bacillus  butschlii,  and  the  latter  making  use  of 
+the  bacteria  as  one  illustration  of  his  now  well-known  chro- 
+midial  network  theory. 
+
+Another  view,  proposed  by  Biitschli  in  1890  and  since 
+favored  by  several  students,  is  that  the  whole  body  of  the 
+.bacterium  is  equivalent  to  the  nucleus  of  a  typical  cell.  A 
+recent  strong  advocate  of  this  view  is  Vladislav  Ruzicka. 
+This  author  defends  the  theory  mainly  on  the  evidence  he 
+believes  he  has  obtained  that  bacteria  as  well  as  mammalian 
+red  blood  corpuscles,  familiar  examples  of  non-nucleated 
+cells,  resist  digestion  in  gastric  juice  in  the  same  way  as  do 
+the  nuclei  of  typical  cells. 
+
+Still  another  group  of  authors  believe  nuclei  not  funda- 
+mentally different  from  typical  nuclei  are  present  in  bac- 
+teria. But  again  as  soon  as  this  view  is  examined  in  detail, 
+the  widest  possible  differences  are  found  as  to  the  criterion 
+of  what  a  nucleus  is,  and  as  to  what  objects  in  the  organism 
+are  nuclei.  Arthur  Meyer,  one  of  the  most  conservative 
+supporters  of  this  general  view,  believes  he  is  able  to  demon- 
+strate a  nucleus  in  several  genera  and  species,  in  the  foi 
+of  a  minute  granule  more  highly  light-refracting  than  the 
+surrounding  cytoplasm  as  seen  in  the  unstained  condition, 
+and  reacting  differently  from  all  other  substances  toward 
+various  stains.  It  is  most  readily  seen  in  the  spore  stage 
+of  the  organism's  life,  and  has  so  far  been  demonstrated  in 
+only  a  comparatively  few  species,  taking  the  bacterial  group 
+as  a  whole.  Dobell  on  the  other  hand,  believes  himself  justi- 
+fied, after  an  examination  of  many  species  belonging  to 
+nearly  the  whole  bacterial  series,  in  declaring,  "I  think  I 
+may  fairly  claim  from  what  has  been  pointed  out  in  the 
+preceding  pages  that  not  only  do  my  own  observations  fur- 
+nish conclusive  evidence  with  regard  to  the  nucleus  in  bac- 
+teria, but  that  in  almost  every  case  in  which  careful  investi- 
+gation has  been  made  by  others,  the  results  are  not 
+inconsistent  with  mine,"  his  results  being  that  "the  Bacteria 
+
+
+Organisms  Consisting  of  One  Cell  2(53 
+
+are,  like  the  Protista  generally,  nucleated  organisms." : 
+But  the  most  cursory  examination  of  Dobell's  figures  makes 
+Jt  obvious  that  what  he  regards  as  the  nucleus  is  not  what 
+Meyer  believes  to  be  this  organ,  excepting  possibly  in  the 
+coccus  forms.  Dobell's  nucleus  is,  in  most  of  the  elongated 
+species,  an  axially  elongated,  usually  extremely  irregular, 
+more  or  less  fragmentary  affair,  varying  greatly  for  differ- 
+ent stages  and  conditions  of  the  organisms.  These  two 
+investigators  are  severe  in  their  criticism  of  each  other's 
+work  and  conclusions. 
+
+Various  other  structures  are  described  and  figured,  and 
+various  interpretations  given,  of  the  supposed  nucleus  of 
+the  bacteria,  but  we  need  go  no  further  at  present  with  the 
+examination.  Our  main  contention  may  be  regarded  as 
+established :  structurally  viewed  there  is  no  longer  any  room 
+for  doubt  that  the  bacteria  are  organisms  in  the  usual  sense 
+of  that  term,  that  is,  in  the  sense  of  possessing  parts  de- 
+voted to  particular  activities ;  but  that  there  is  unlimited 
+room  for  doubt  how,  if  at  all,  the  conception  "cell"  as  a 
+nucleated  mass  of  protoplasm  is  to  be  applied  to  these  or- 
+ganisms. Structurally  viewed,  I  say,  the  case  stands  this 
+way.  But  if  we  approach  the  bacteria  from  the  chemico- 
+physiological  side,  the  case  against  the  cellular  and  for  the 
+organismal  conception  is  still  stronger. 
+
+lificteria  Undoubted  Organisms  Whether  "True  Cells" 
+or  Not. 
+
+It  has  been  often  remarked  that  Bacteriology  is  pre- 
+eminently the  department  of  biology  that  relies  on  functional 
+rather  than  on  structural  attributes  for  its  determinations. 
+This  character  of  the  science  results  from  the  extreme 
+minuteness  of  the  creatures  which  renders  morphological 
+study  of  them  so  difficult.  One  of  the  most  striking,  indeed 
+one  of  the  most  remarkable  facts  about  "microbes"  is  that 
+
+
+264  The  Unity  of  the- Organism 
+
+they  are  so  like  ordinary  living  things  in  their  general' modes 
+of  life  despite  their  excessive  minuteness,  and,  as  judged  by 
+ordinary  anatomical  standards,  despite  their  structural 
+simplicity.  Like  other  organisms  they  feed  and  respire  and 
+propagate  their  kind ;  and  they  survive  in  an  active  condition 
+only  within  a  range  of  temperatures  not  greatly  different 
+from  that  which  conditions  the  lives  of  other  beings.  But 
+striking  as  is  their  similarity  to  organisms  generally  in 
+these  attributes-in-common,  still  more  striking  is  their 
+specific  diversity  among  themselves.  That  organisms  so 
+small  as  to  be  barely  visible,  or  even  invisible  to  the  highest 
+powers  of  the  microscope,  should  still  be  subject  to  the  gen- 
+eral principles  of  specific  differentiation  in  habits  of  life 
+and  hereditary  transmission  as  are  the  largest,  most  com- 
+plex organisms,  seems  to  me  one  of  the  marvels  of  the  living 
+world. 
+
+In  this  field  as  in  so  many  others,  the  facts  which  touch 
+human  welfare  the  most  vitally  are  best  known.  Take  the 
+case  of  smallpox  and  chickenpox.  These  are  both  diseases 
+of  the  human  skin  and  are  so  much  alike  as  to  be  often  con- 
+fused even  by  physicians  not  especially  experienced  in  this 
+field ;  yet  to  the  expert  the  difference  between  them  is  de- 
+clared to  be  positive  and  unmistakable.  "Smallpox  has 
+rather  severe  prodromes,  backache,  head-ache,  fever,  and 
+sorethroat,  the  rash  appearing  on  the  third  and  fourth  day. 
+Cliickenpox  usually  has  light  or  no  prodromes,  the  rash  ap- 
+pearing on  the  same  day  or  within  twenty-four  hours  as  a 
+rule.  In  both  diseases  the  face,  chest,  back,  arms,  hands, 
+legs,  and  feet  are  likely  to  show  eruptions,  but  chickenpox 
+tends  to  show  the  greatest  number  of  spots  'under  cover,' 
+i.e.,  on  the  parts  usually  covered  by  clothing,  while  smallpox 
+tends  to  show  the  majority  on  the  face,  neck,  arms,  wrists, 
+and  hands,  rather  than  on  the  body.  The  skin  lesions  them- 
+selves differ  very  markedly,  the  typical  lesions  of  chickenpox 
+being  superficial,  thin-walled,  high,  rounded,  and  filled  with 
+
+
+Organisms  Consisting  of  One  Cell  265 
+
+clear  liquid ;  those  of  small  pox  being  deep-seated,  tense, 
+opaque,  covered  with  a  tough  skin.  There  are  many  other 
+points  of  distinction,  and  any  one  familiar  with  the  two 
+diseases  can  hardly  fall  into  error  when  dealing  with  typical 
+cases  at  whatever  stage  they  are  encountered."  33 
+
+This  is  the  type  of  discriminative  description  that  occurs 
+everywhere  in  the  writings  of  biological  taxonomists.  It  is 
+as  characteristic  of  zoological  and  botanical,  as  it  is  of 
+medical  "diagnoses."  Yet  the  organic  species  themselves 
+implicated  in  the  diseases  are  invisible  under  the  highest 
+magnifications  so  far  produced,  the  specific  discriminations 
+being  based  exclusively  on  the  effects  arising  from  the  dif- 
+ferent activities  of  the  two  kinds  of  organisms!  Now  what 
+are  the  probabilities  as  to  the  structural  attributes  of  these 
+invisible  beings?  Answering  in  the  light  of  what  is  well 
+known  about  all  familiar  organisms,  can  we  say  anything 
+else  than  that  the  microbes  of  smallpox  and  chickenpox,  not 
+only  possess  differentiated  and  coordinated  parts,  that  is, 
+are  organ i/ed,  but  that  the  two  species  are  to  some  extent 
+differently  organi/ed?  Nor  is  the  evidence  of  specificity  in 
+this  case  at  all  exceptional  for  ultra-minute  organisms,  as 
+every  one  knows  who  has  given  attention  to  the  popular 
+subject,  of  "germ-life."  Some  of  the  disease  producers,  as 
+those  of  rabies,  it  is  true,  are  able  to  flourish  in  a  consider- 
+able range  of  hosts  ;  but  this  is  also  the  case  with  many  pro- 
+to/oan  and  even  meta/oan  parasites.  The  microbe  of  hog 
+cholera  is,  according  to  present  knowledge,  as  closely  re- 
+stricted as  to  possible  hosts  as  that  of  any  disease  pro- 
+ducer whatever:  and  judging  from  its  ability  to  pass 
+through  filters,  it  is  one  of  the  smallest  of  the  ultra-micro- 
+scopic species.  So  on  the  whole  it  appears  that  the  prin- 
+ciples of  host  adaptability  are  essentially  the  same  through- 
+out the  whole  range  of  parasitic  life  regardless  of  si/e. 
+
+But  while  this  statement  about  the  conformity  of  bacteria 
+to  the  general  rules  of  species  differentiation  and  constancy 
+
+
+£66  The   Unity  of  the  Organism 
+
+is  undoubtedly  true  as  a  general  proposition,  at  the  same 
+time  the  group  presents  a  degree  of  structural  and  func- 
+tional plasticity  which  surpasses,  probably,  anything  oc- 
+curring in  any  other  group.  Under  the  term  "pleomor- 
+phism"  this  multiform  character  of  bacteria  has  been  the 
+subject  of  much  investigation  and  no  little  heated  discussion. 
+One  party,  headed  by  the  German  botanist  Nageli,  has  main- 
+tained that  the  organisms  are  not  classifiable  in  the  usual 
+sense  of  biological  taxonomy  at  all — that  any  form  is  suc- 
+ceptible  of  becoming  almost  any  other  form,  depending  on 
+the  external  conditions  under  which  it  is  placed.  The  other 
+party,  of  whom  Cohn  seems  to  have  been  the  originator,  has 
+stoutly  insisted  that  species  and  genera  are  as  definite  in 
+bacteria  as  in  any  other  group,  and  that  every  infectious 
+disease  has  its  specific  germ  agent.  The  evidence  and  the 
+controversy  need  not  be  followed  into  details.  The  truth 
+undoubtedly  lies  somewhere  between  these  extreme  views. 
+"Bacterial  species  exist,  but  they  are  all  of  the  kind  called 
+in  the  language  of  the  science  of  classification  'Hi- 
+defined.9  "34 
+
+The  great  body  of  facts  instanced  in  the  foregoing  pages 
+furnish  the  answer  to  the  question  raised  early  in  this  sec- 
+tion, namely,  does  the  inductive  evidence  warrant  the  sup- 
+position that  homogeneous  or  structureless  or  organless 
+organisms  actually  exist?  No,  appears  to  be  the  only  reply 
+permissible,  and  this  in  spite  of  the  fact  that  the  observable 
+organic  world  taken  as  a  whole  does  undoubtedly  show  a 
+general  simplification  with  diminution  in  size. 
+
+If  we  feel  compelled  to  speculate,  but  yet  resolve,  as  we 
+must  when  fully  committed  to  the  inductive  method,  to  hold 
+speculation  to  strict  accountability  to  observational  evi- 
+dence, then  arc  we  driven  to  the  conclusion  that  simplifica- 
+tion of  structure  and  diminution  in  size  of  organisms  go 
+hand  in  hand,  but  that  neither  ever  reaches  the  vanishing 
+point,  even  though  we  know  nothing  about  the  limit  of 
+
+
+Orytnrixm*  Consittthnj  of  One  Cell 
+
+possibility  as  to  size  or  as  to  simplicity  of  structure.  This 
+examination  of  the  protista  brings  into  clear  light  a  diffi- 
+culty not  otherwise  recognizable  in  the  way  of  applying  the 
+cell-theory  to  this  section  of  the  living  world.  The  con- 
+cept cell  being  primarily  one  of  structure  and  only  second- 
+arily one  of  function,  necessarily  becomes  inapplicable  to 
+invisible  beings  so  far  as  special  objectivity  is  concerned, 
+while  the  concept  organism  being  primarily  one  of  function 
+and  only  secondarily  one  of  structure,  is  quite  as  applicable 
+to  invisible  as  to  visible  beings  if,  as  in  the  case  of  disease- 
+producing  microbes,  we  have  observational  evidence  on  the 
+functional  side  of  their  nature.  No  discoveries  in  the  whole 
+biological  realm  have  more  clearly  revealed  the  fatuousness 
+of  the  claim  made  by  the  cell-theory  to  being  the  "key 
+to  all  biological  problems,"  than  have  those  establishing 
+the  existence  of  barely  visible  and  invisible  living  things. 
+On  the  other  hand,  these  discoveries  taken  along  with  those 
+concerning  the  structure  of  the  protozoa  and  visible  bac- 
+teria, have  contributed  greatly  to  the  expansion  and  clar- 
+ification of  the  organismal  conception. 
+
+B.       DEVELOPMENT 
+
+F<i1se  Conceptions  About  Development  in  Protozoa 
+
+We  have  now  seen  something  of  the  disastrous  effects  of 
+trying  to  squeeze  the  whole  adult  structure  of  the  pro- 
+to/oan  into  the  theoretically  "simple  cell."  It  remains  to 
+look  at  the  still  worse  effects  of  trying  to  keep  the  facts 
+of  development  of  the  individual  proto/oan  down  to  the 
+same  theoretical  limitations.  \Ye  will  first  examine  the  no- 
+tion constantly  inculcated  by  text-books  and  in  formal  in- 
+struction, that  there  is  "no  true  development"  in  these  crea- 
+tures. Kmbryolocry  is  almost  always  defined  and  treated  so  as 
+to  exclude  from  its  scope  development  in  the  protozoa.  Thus 
+
+
+268  The   Unity  of  the  Organism 
+
+the  preface  to  the  monumental  Treatise  on  Comparative 
+Embryology  by  F.  M.  Balfour  contains  this :  ".  .  .  the 
+work  is,  I  believe,  with  the  exception  of  a  small  but  useful 
+volume  by  Packard,  the  first  attempt  to  deal  in  a  complete 
+manner  with  the  whole  science  of  Embryology  in  its  recent 
+aspects.  .  .  ."  But  the  introduction  tells  us  specifically 
+that  the  actual  scope  of  the  work  is  not  to  be  thus  ambi- 
+tious after  all.  "The  present  treatise  deals  only  with  the 
+Embryology  of  Animals,  and  is  further  confined  to  those 
+animals  known  as  Metazoa."  3fl  It  will  be  noted  that  noth- 
+ing in  this  statement  compels  the  inference  that  Balfour  con- 
+ceived Embryology  as  being  actually  limited  to  the  meta/ou. 
+In  fact,  if  anything,  the  opposite  might  be  inferred.  Con- 
+siderable reference  is  made  to  protozoan  reproduction  in  the 
+Introduction,  which  however  has  to  do  only  with  conjuga- 
+tion and  spore  formation  and  the  problem  of  the  origin 
+of  the  metazoa  from  the  protozoa  and  especially  the  origin 
+of  sexual  reproduction.  But  the  theory  of  the  "formation 
+of  the  individual  from  the  structureless  germ"  (italics 
+mine),37  and  of  the  individual  metazoan  as  "equivalent  to 
+a  number  of  Protozoa  coalesced  to  form  a  single  organism 
+in  a  higher  state  of  aggregation,"  ;  8  adumbrates  the  fal- 
+lacious doctrines  about  the  relation  of  the  organism's  cells 
+to  the  organism  which  have  come  to  dominate  biological 
+theory,  and  against  which  we  are  taking  strong  ground. 
+
+"Inasmuch  as  the  individual  Protozoan  has  the  morpho- 
+logical value  of  a  single  cell,  the  embryology  of  the  Proto/on 
+belongs  to  the  province  of  cell  morphology.  For  this  reason 
+it  is  usually  excluded  from  the  domain  of  comparative  em- 
+bryology of  animals  in  the  stricter  sense;  in  this  book  too,  it 
+will  receive  no  consideration.  Comparative  embryology  has 
+to  do  accordingly  with  the  development  of  the  Meta/oa." 
+It  is  satisfactory  to  note  that  in  the  later  general  part  of 
+tin-  great  text-book  from  which  this  paragraph  is  quoted) 
+the  authors  have  given  a  much  more  adequate  defini- 
+
+
+Organisms  Consisting  of  One  Cell  269 
+
+tion  of  development  (Entwicklung)  and  embryology  (/<>'///- 
+wicklungtgeschichte) .  "Hy  development,"  they  say,  "we 
+understand  the  course  of  those  form-changes  through  which 
+organic  figure  is  produced."'  And  "embryology  is  a 
+
+descriptive  presentation  of  the  developmental  processes  of 
+the  organism."  Hut  development  of  the  protozoa  is  as 
+rigidly  excluded  from  all  the  di>eiissions  in  this  newer  general 
+part  as  it  was  from  the  older  special  part. 
+
+"The  science  of  embryology,"  we  read,  "has  for  its  sub- 
+ject-matter the  growth  of  animals  from  the  time  when  they 
+first  appear  as  germs  in  the  bodies  of  their  parents  until 
+they  reach  the  adult  condition  and  arc  able  to  produce  simi- 
+lar germs  themselves."  4~  Though  this  statement  seems 
+broad  enough  to  cover  the  development  of  many,  at  least, 
+of  the  protozoa,  yet  when  one  turns  to  the  body  of  the  work 
+to  see  how  these  animals  have  fared,  he  is  quite  taken  aback 
+to  find  that  they  simply  are  not  mentioned  at  all.  So  the 
+inference  seems  unescapable  that  according  to  the  views  of 
+the  cmbryologists  responsible  for  the  above  statement,  in 
+this  great  section  of  the  animal  world  there  are  no  such 
+things  as  germs  contained  in  the  bodies  of  parents,  which 
+grow  to  reach  the  adult  condition.  According  to  their 
+rit'icx,  I  say.  because  not  for  a  moment  is  it  to  be  supposed 
+they  are  unaware  of  the  fact  that  one  of  the  primary 
+subdivisions  of  the  protozoa,  the  sporo/oa,  receive  their 
+name  from  the  almost  universality  among  them  of  repro- 
+duction through  sporulation,  the  spores  or  germs  Ix'ing 
+in  most  cases  formed  within  the  encysted  parent  animal. 
+And  the  authors  are,  of  course,  familiar  with  the  conjuga- 
+tion of  male  and  female  gametes  in  many  species  to  produce 
+the  zygote,  the  parent  of  the  spores,  from  which  in  turn  the 
+adult  animals  are  developed. 
+
+Although  it  is  unfortunately  true  that  there  is  dearth 
+of  observational  knowledge  on  the  growth  of  the  adult  from 
+the  spores,  yet  the  dozen  and  more  developmental  stages 
+
+
+270 
+
+
+77/c 
+
+
+of  the  Organism 
+
+
+of  the  sixteen-millimeter-long  Porospora  gig  ante  a  described 
+by  E.  van  Benedcn  and  discussed  and  figured  by  Biitsclili 
+shows  us  an  ontogeny  or  individual  development  in  one  case 
+no  less  positive,  and  probably  little  less  complex  were  all 
+
+
+cl.m. 
+
+
+10.        COHVCMI.I.A     .\H.-\IATA     (ll!OM      \VASI10I.K\VSKI,    AKTKH     LKC.KH). 
+
+ep'in.,  epimerite.    pr'm.,  protomerite.    (Lin.,  deutomerite.    n.,  nucleus. 
+
+the  details  known,  tlian  tliat  of  many  cndoparasitic  worms.* 
+
+But  how  could  a  zoologist  hesitate  to  recognize  that  so 
+
+elaborate  an  organism,  as   for  example  a  Corycella,  figure 
+
+*  With  reference  to  the  development  of  this  species,  it  should  he 
+remarked  that  although  later  researches  have  proved  that  the  amoeboid 
+stages  considered  by  van  Beneden  to  belong  to  this  series  in  reality  have 
+nothing  to  do  with  this  animal,  yet  the  later  stages  leading  up  to  the 
+final  one,  or  "tropho/oite"  seem  not.  to  have  been  questioned;  and  these 
+constitute  the  evidence  of  tin  onloi/cny  with  which  we  are  now  specially 
+concerned. 
+
+
+Organisms  Consisting  of  One  Cell  271 
+
+10,  the  body  of  which  is  sharply  differentiated  into  the  three 
+distinct  parts  called  the  deutomerite,  protomerite  and  epi- 
+incritc^'-''  (the  latter  being  a  fixation  organ  of  greatly  varied 
+form  in  different  species,  and  often  highly  speciali/ed),  must 
+imply  an  ontogeny  of  no  mean  extent?  Nor  arc  we  any 
+longer  without  knowledge,  at  least  in  outline,  of  the  develop- 
+mental series  in  this  part  of  the  sporo/oan  cycle  for  several 
+other  series.  The  investigations  of  Leger  and  Dubosq  are 
+especially  noteworthy  in  this  connection.  From  their  ac- 
+count of  the  development  of  Puxiniu  mobns::i  we  learn  that 
+in  this  species  the  full  grown  animal,  the  slender  epimerite 
+not  included,  is  five  times  the  length  of  the  sporozoite ;  and 
+the  epimerite  attaining  a  length  greater  than  that  of  the 
+rest  of  the  animal,  penetrates  through  the  entire  length  of 
+the  epithelial  cell  of  the  intestine  of  the  host.  The  whole 
+of  the  adult  animal  except  the  epimerite  projects  free  into 
+the  intestinal  cavity. 
+
+Misuse  of  the  Term  "Ontogeny" 
+
+I  give  only  one  other  quotation  showing  the  extent  to 
+which  this  obscuration  of  the  facts  of  protozoan  develop- 
+ment has  gone  in  the  interests  of  cellular  elementalism.  This 
+quotation  is  specially  telling  because  it  is  genuinely  up  to 
+date  and  displays  the  extremity  of  the  tendency  by  not  be- 
+ing restricted  to  the  meaning  of  the  term  einbryogeny,  con- 
+cerning the  scope  of  which  there  is  good  historical  and  bio- 
+logical ground  for  difference  of  opinion,  but  goes  to  the 
+term  ontogeny,  concerning  which  there  is  no  such  ground. 
+'"Ontogeny  includes,  as  the  developmental  history  (  Entwick- 
+Itingsgeschichte)  of  the  separate  individual,  all  those 
+changes  of  form  which  the  individual  undergoes  from  its 
+point  of  origin,  the  fertilized  egg  cell,  to  the  state-  of  sexual 
+maturity."  44 
+
+The  terms  ontogeny  and  ontogenesis*  introduced  into  bi- 
+
+
+The   Unity  of  the  Organism 
+
+ology  by  Haeckel,  have  been  exceedingly  useful,  and  their 
+usefulness  depends  largely  on  the  fact  that  the  root  ontos 
+refers  to  a  living  being,  an  organism  as  a  totality,  so  that 
+coupled  with  the  term  genesis,  the  reference  is  to  the  entire 
+cycle  of  the  being,  and  not  merely  to  some  particular  stage 
+of  that  cycle,  as  is  the  case  with  the  term  embryogeny.  The 
+word  embryon,  the  back-bone  of  embryogeny,  embryology, 
+and  the  like,  means,  as  the  Greek  dictionaries  tell  us,  "the 
+fruit  of  the  womb  before  birth."  It  is  synonymous  with  the 
+Latin  foetus.  In  other  words,  the  center  of  reference  of  all 
+terms  containing  the  root  being  primarily  to  one  stage,  and 
+that  a  very  immature  one,  of  a  higher  organism,  it  may 
+be  held  with  considerable  justice  to  be  inapplicable  to  the 
+development  of  such  lowly  creatures  as  the  protozoa.  But 
+to  define  ontogeny  so  as  to  exclude  reference  to  the  develop- 
+ment of  the  protozoan  or  any  other  organism  is  not  only 
+utterly  unjustifiable,  but  deserves  unqualified  scientific  con- 
+demnation, because,  as  we  have  seen,  it  gives  persons  not 
+well  informed  and  so  not  in  position  to  be  on  their  guard 
+against  being  misled,  a  narrow  and  false  conception  about 
+organic  development.  The  full  mischievousness  of  this  sort 
+of  limitation  is  seen  only  by  looking  a  little  more  into  details. 
+
+Development  of  Stentor  as  an  Example  of  Protozoan 
+Ontogent/ 
+
+The  familiar  "trumpet  animalcule,"  Stentor,  found  in  fresh 
+water  ponds  almost  everywhere  and  figured  in  many  books, 
+will  serve  our  purpose  well.  Numerous  zoologists  have  made 
+this  animal  the  object  of  their  studies,  one  of  which  only,  by 
+H.  P.  Johnson,  will  be  drawn  upon.  The  case  of  Stentor  is 
+the  more  instructive  in  that  its  mode  of  propagation  is 
+chiefly  if  not  entirely  that  of  "simple  cell  division" — to  use  a 
+phraseology  that  is  pleasing  to  simple  elementalism. 
+
+Before  entering  upon  an  account  of  the  development  of 
+
+
+Organisms  Consisting  of  One  Cell  273 
+
+S  tent  or,  it  is  to  the  point  to  hear  what  Johnson  has  to  say 
+touching  the  reality  of  the  process  as  compared  with  the 
+development  of  a  nictazoan.  "The  conception,"  he  says, 
+"that  the  development  of  a  new  infusorian  by  the  process 
+of  fission  is  an  ontogenetic  development,  comparable  in  some 
+respects  to  the  development  of  a  metazoon,  has  impressed 
+itself  strongly  upon  me  in  the  study  of  fission  in  Stentor." 
+
+The  course  of  events  in  the  multiplication  and  development 
+of  the  animal  is  so  illuminating  that  I  reproduce  four  of 
+.Johnson's  figures,  figures  11,  12,  13  and  14,  and  would  urge 
+the  reader  unacquainted  with  the  subject  but  wishing  to 
+get  at  the  kernel  of  the  position  here  defended  to  consult 
+the  original  memoir,  especially  for  the  anatomy  and  ontogeny 
+of  the  organism. 
+
+The  main  exterior  body-parts  to  which  attention  should  be 
+directed  and  which  are  indicated  on  the  figures  are:  a.  z., 
+ahnral  /one.  /;.  j>.,  huccal  pouch,  cl.,  cilia,  c.  v.,  contractile 
+vacuole,  ex.  p.,  excretory  pore  of  contractile  vacuole,  I,  line  of 
+division,  l.h.x.,  left  boundary  stripe  of  ramifying  zone,  o,  mouth, 
+p.,  peristomal  hand,  r.  ~.,  ramifying  /one,  vcL,  velum. 
+
+The  processes  of  division  and  development  are  so  intimately 
+Associated  as  to  be  inseparable.  "The  first  sign  of  fission,"  says 
+Johnson,  "is  the  formation  of  a  rift  (the  anlagc  of  the  new 
+aboral  zone)  in  the  pellicula  and  ectoplasm  near  to  and  almost 
+parallel  with,  the  left  boundary  stripe  of  the  ramifying  zone."46 
+(figure  1  1  a.  z.)  By  examining  the  figures  the  reader  may 
+follow  quite  satisfactorily  the  main  events.  The  first  step  in  the 
+development  of  some  of  the  new  parts  should  be  specially  noticed. 
+The  aboral  zone,  for  example,  as  indicated  in  the  quotation,  is 
+initiated  as  a  rift  through  the  ectoplasm  running  down  the  side 
+of  the  animal's  body,  hence  having  no  connection  whatever  with 
+tin-  original  aboral  /one.  A  point  of  special  interest  in  this 
+tact  is  that  the  organ  in  question  for  the  new  individual  does 
+jnot  arise  from  the  same  organ  of  the  old,  or  parent  individual, 
+jrither  by  division  or  budding.  And  this  <',(>  novo  mode  of  origin 
+lis  that  followed  by  a  whole  series  of  organs  and  tissues;  the  cilia 
+jand  membranellae  of  the  aboral  zone;  the  mouth,  velum,  and 
+
+larynx;    the    frontal   field;   the   ramifying  zone;   and   the  con- 
+
+
+C.V.- 
+
+
+r.x.- 
+
+
+mgn. 
+
+
+-P-P- 
+
+
+Ihs. 
+
+
+FIGURE    11  FIGURE    12 
+
+FIGURES    11,    12— STENTOR    CAERULEUS     (AFTER  JOHNSON"). 
+
+a.z.,1  adoral  zone,  h.p.,  buccal  pouch,  c.v.,  c.v.,1  contractile  vacuole. 
+d.a.z.,1  distal  extremity  of  adoral  /one.  ex.]).,  excretory  pore  of  con- 
+tractile vacuole.  f,  f ,  frontal  field.  1,  I,1  line  of  'fission,  ingn., 
+iiicirnnticleus.  o,  o1,  mouth,  p,  p1,  pcristomc-  liand.  r./,.,  r.z.,'  rami- 
+fyinir  /one.  >'cl'.,  vchan. 
+
+274 
+
+
+c.v. 
+
+
+-r.z. 
+
+
+-c.v. 
+
+
+r.z. 
+
+
+i  K.I  -HI:    i:i. 
+
+
+14. 
+
+
+iEs   13,  14 
+
+
+275 
+
+
+276  The   Unity  of  the  Organism 
+
+tractile  vacuole  and  excretory  pore.  The  origin  of  the  mein- 
+branellae  in  this  way  particularly  appealed  to  Johnson.  "The 
+gradual  evolution,"  he  says,  "of  structures  so  complicated  as 
+membranellae,  from  a  mass  of  indifferent  protoplasm,  is  very 
+striking."  47  What  he  has  especially  in  view  is  that  these  "or- 
+ganula,"  as  he  calls  them,  arise  not  from  the  ectoplasm,  to  which 
+in  the  adult  they  seem  to  pertain,  but  from  the  endoplasm. 
+
+Although  Johnson  was  not  much  of  a  speculator,  he  was 
+still  on  the  lookout  for  questions  of  general  interest.  "Our 
+ignorance,"  he  remarks,  "of  the  primum  movens  to  a  neofor- 
+mation  is  complete.  We  can  only  say  it  lies  in  some  peculiar 
+molecular  condition  that  incites  the  duplication  of  existing 
+organs.  And  the  working  out  of  the  impulse  thus  given 
+is  only  partly  dependent  upon  temperature,  food,  the  size  of 
+the  individual,  or  even  as  Balbiani's  and  my  own  experiments 
+in  merotomy  show,  upon  the  intact  condition  of  the  organ- 
+ism." The  reader  should  not  fail  to  see  that  this  is  an 
+obvious,  though  somewhat  indirect,  recognition  of  the  organ- 
+ism as  a  cause  of  developmental  phenomena — of  appealing 
+to  the  organism  as  a  causal  explanation  of  observed  occur- 
+rences. In  saying  that  the  primum  movens  to  organ  pro- 
+duction lies  in  "some  peculiar  molecular  condition,"  the  just 
+claims  of  the  potency  of  elements  (of  some  sort)  is  recog- 
+nized. But  no  one  should  fail  to  notice  the  qualifying  term 
+peculiar  appended  to  molecular.  The  molecular  condition 
+capable  of  producing  the  observed  results  is  no  general  con- 
+dition;  it  is  a  particular  condition.  And  particular  how? 
+To  the  organism  possessing  the  organs  to  be  duplicate 
+When  the  discussion  of  a  purely  objective  case  like  this 
+proceeds  normally,  the  reference  is  entirely  to  the  organisi 
+and  its  organs  and  tissues,  and  the  conception  cell  does  no! 
+enter  into  it  in  any  way.  For  example,  there  is  no  occasioi 
+whatever  even  to  refer  to  the  nucleus.  If  the  idea  of  the 
+cell  is  brought  in  at  all,  it  is  lugged  in  purely  arbitrarily. 
+
+One  of  the  things  that  has  given  embryology  its  great 
+
+
+Organisms  Consisting  of  One  Cell  £77 
+
+interest,  since  the  doctrine  of  evolution  became  established 
+in  biology,  is  the  fact  of  rudimentary,  often  transitory, 
+organs  which  appear  in  the  course  of  the  individual  develop- 
+ment. Johnson  gave-  special  attention  to  two  such  organs 
+in  Stentor,  the  ring-canal  and  the  peristomal-band.  The 
+former  is  a  canal  in  the  endoplasm,  just  beneath  the  aboral 
+zone  and  running  parallel  with  it.  It  is  present  only  in 
+the  newly  produced  posterior  zooid,  its  complete  atrophy 
+occurring  soon  after  fission.  Johnson  proved  it  to  originate 
+in  connection  with  the  contractile  vesicle. 
+
+The  peristomal  band  (figure  12  p.  p.)  is  a  narrow,  clear 
+hand  inside  of  and  running  parallel  with  the  aboral  zone. 
+It  also  entirely  disappears  some  time  after  fission.  It  is 
+believed  to  represent  the  peristome  of  the  lower  Heterotricha ; 
+that  is,  like  so  many  rudimentary  organs  of  the  metazoa, 
+it  is  supposed  to  be  an  ancestral  structure;  to  have,  in  other 
+words,  a  racial  significance.  It  will  be  noticed  even  from 
+this  imperfect  description  of  division  and  development  that 
+one  of  the  two  new  animals,  the  posterior,  resulting  from 
+division,  undergoes  most  of  the  development.  It  alone,  or 
+very  nearly  alone,  takes  on  new  organs.  It  may  therefore 
+very  well  be  called  the  offspring,  the  anterior  animal  being 
+distinguishable  as  the  parent. 
+
+The  Terms  "Embryology"  and  "Ontogeny"  Inevitably  Used 
+bij  Investigator*  of  Protozoan  Reproduction 
+
+The  futility  of  supposing  practical  science  will  conform 
+to  a  definition  drawn  up  in  the  interest  of  a  grand  theory 
+but  in  defiance  of  a  great  body  of  facts,  could  hardly  find 
+better  illustration  than  in  the  persistence  with  which  students 
+of  the  Proto/oa  speak  of  the  ontogeny  and  embryogeny  of 
+the  creatures  despite  efforts  like  those  quoted  above  to  re- 
+strict the  term  to  the  meta/oa.  Looking  at  these  illustra- 
+tions a  little  further,  let  us  take  Valentin  Hacker's  work  on 
+
+
+278  The  Unity  of  the  Organism 
+
+the  Radiolaria.  In.  the  general  part,  entitled  Form  and 
+Form-development  in  the  Radiolaria,  of  his  splendid  report 
+on  the  collections  of  this  group  made  by  the  German  Deep- 
+Sea  Expedition,  not  only  do  we  find  a  section  Ontogenesis  of 
+Variations,  but  facts  and  questions  of  "ontogeny"  are  scat- 
+tered throughout  the  whole  part,  thus :  "The  other  sort  of 
+variability  may  be  in  large  part  referred  back  to  changes 
+in  some  of  the  elementary  processes  which  normally  co- 
+operate in  the  ontogeny  of  the  skeleton,  especially  to  be 
+considered  being  the  secretory  and  sprouting  operations." 
+And  Hacker  laments  that  in  spite  of  the  great  quantity  of 
+excellently  preserved  material  at  his  disposal  he  was  unable 
+to  work  out  the  "complete  embryology"  (Entwicldungs- 
+geschichte)  of  a  single  group  of  Tripylea,  though  he  was 
+able  to  add  largely  at  many  points  to  previous  knowledge. 
+
+From  the  standpoint  of  descriptive  embryogeny  probably 
+the  most  serious  gap  in  our  knowledge  of  the  development 
+of  the  Radiolaria  is  the  scarcity  of  information  about  the 
+growth  of  the  adult  animal  from  the  swarm  spores.  Thanks 
+to  several  zoologists,  among  the  latest  of  whom  is  Borgert 
+particularly,  we  know  quite  fully  the  mode  of  spore  or 
+gamete  production  in  several  species.  The  great  number, 
+small  size,  and  simple  structure  of  these  germinal  elements 
+in  species  like  Aulacantha  leave  no  doubt  that  their  growth 
+to  full  si/td  animals  is  an  elaborate  operation  involving 
+many  stages  and  kinds  of  differentiation. 
+
+We  have  now  gone  far  enough  into  the  structure  and  de- 
+velopment of  the  higher  protista  to  make  it  indubitable' 
+that  there  is  a  morphology,  individual  and  comparative;  an 
+embryology,  also  individual  and  comparative ;  and  a  physiol- 
+ogy, likewise-  individual  and  comparative,  of  this  great  sub- 
+division of  the  animal  kingdom,  not  a  whit  less  definite  and 
+hardly  less  rich  and  varied,  though  less  elaborate  as  to 
+individual  animals  than  in  the  subdivision  known  as  nietn/oa. 
+In  the  light  of  the  great  body  of  knowledge  now  available, 
+
+
+Organisms  Consisting  of  One  Cell 
+
+
+279 
+
+
+only  a  tithe  of  which  has  been  used  in  this  review,  it  is  hard 
+to  see  how  any  one  can  avoid  recognizing  that  the  fact  that 
+tin.1  animals  usually  consist  of  a  single  cell,  is  really  of 
+secondary  importance.  Neither  descriptively  nor  interpre- 
+tatively  (if  one  insists  on  making  a  sharp  distinction  between 
+the  two)  do  the  generalized  elements  cytoplasm  and  nucleus, 
+held  to  be  the  irreducible  minima  of  the  cell,  throw  any  but 
+the  vaguest,  most  general  light  on  innumerable  of  the  struc- 
+tures and  processes  brought  under  notice. 
+
+
+REFERENCE   INDEX 
+
+
+1M. 
+
+
+1 .  Lang    
+
+2.  Hartog     
+
+3.  Jennings     
+
+4.  Haeckel     (1884-87) 
+
+5.  Haeckel,      (1884-87) 
+
+!-'«.   fig 
+
+Cushman     
+
+7.  Calkins   ('10)    
+
+8.  Calkins    ('10)    
+
+9.  Stohr    
+
+10.  Maurer     
+
+11.  Ciinther     
+
+12.  Sharp     
+
+13.  Sharp     
+
+14.  Slurp     
+
+15.  Sharp     
+
+Hi.  Sharp     
+
+17.  Sharp  
+
+18.  Sharp  
+
+19.  Sharp  
+
+Sharp  
+
+21.  Calkins    ('10)     
+
+Shipley    and    Machride    .  . 
+
+PUtter    
+
+Kofoid   and   Christiansen. 
+-V>.    Haeck.-l     ('03)       
+
+Minchen    ('12)    
+
+
+3       27.  Ward     159 
+
+138       28.  Meyer     146-148 
+
+114      29.  Beneke     789 
+
+1664      30.  Moore     352 
+
+31.  Moore    353 
+
+9      32.  Dobell    505 
+
+1       33.  Marshall,  C.   E 648 
+
+91       34.  Burnet     61 
+
+79-86      35.  Balfour    Hi 
+
+36       36.  Balfour     1 
+
+1102       37.  Balfour     ;..  2 
+
+553       38.  Balfour     10 
+
+67  39.  Korschelt      and      Heider 
+
+72                 ('95)     2 
+
+77  40.  Korschelt      and      Heider 
+
+80                 ('02)     1 
+
+82  41.  Korschelt      and      Heider 
+
+102                  ('02)    5 
+
+45      42.  Machride     1 
+
+87      43.  Van    Beneden    325 
+
+100      44.  Meisenheimer     251 
+
+43       45.  Johnson     518 
+
+28       46.  Johnson     501 
+
+267       47.  Johnson     503 
+
+34       48.  Johnson     511 
+
+•!«».'       49.   Ilaeeker     650 
+
+79 
+
+
+Chapter  X 
+
+HISTORY  OF   THE   ATTEMPT  TO   SUBORDINATE 
+THE  PROTISTA  TO  THE  CELL-THEORY 
+
+F  T  is  important  to  learn  how  the  attempt  to  subordinate 
+^protozoans  and  other  protista  to  cells  has  fared  in  the 
+history  of  knowledge  of  these  minute  organisms.  It  was  a 
+genuine  surprise  to  me,  as  I  imagine  it  may  be  to  many 
+zoologists  orthodoxly  drilled  in  the  cell-theory,  to  find  how 
+much  dissent  there  has  been  and  still  is  among  the  able 
+investigators  of  the  protozoa,  from  this  mode  of  treating 
+the  little  creatures. 
+
+Cla^h  Between  Ehrenberg  and  Dujardm  a  Special  Case  of 
+
+the  Conflict  Between  Organismal  and  Element alist 
+
+Conceptions 
+
+The  erroneous  appraisement  by  many  recent  authors  of 
+the  work  of  Ehrenberg  will  serve  as  a  starting  point  for 
+what  needs  attention  under  this  head.  Few  names  are  bet- 
+ter known  in  protozoology  than  C.  G.  Ehrenberg,  whose 
+monumental  work,  Die  Infusionstliierchen  als  volkommene 
+Organismen,  holds  some  such  place  in  protozoology  as  Lin- 
+naeus' Systema  Naturae  holds  in  zoology  and  botany  gen- 
+erally. Yet  it  is  the  custom  of  most  writers  to  regard  it 
+as  a  great  depository  of  facts,  but  antiquated  and  er- 
+roneous in  its  interpretations.  The  view  expressed  by  Locy 
+is  typical :  "His  publication  was  almost  simultaneous  with 
+the  announcement  of  the  cell-theory  (1838-1839),  the  ac- 
+ceptance of  which  was  destined  to  overthrow  his  conception 
+
+280 
+
+
+Attempt  to  Subordinate  Protista  to  Cell-Theory     281 
+
+of  the  protozoa,  and  to  make  clear  that  tissues  and  organs 
+can  belong  only  to  multicellular  organisms." 
+
+If  one  looks  into  Ehrenberg's  conception  that  "WHS 
+destined  to  be  overthrown,"  and  the  controversies  it  pro- 
+voked, a  very  significant  thing  comes  to  light.  He  finds 
+repeated  reference  to  the  fact  that  prominent  among  those 
+who  helped  to  overthrow  Ehrenberg's  false  teaching  was 
+Felix  Dujardin.  The  current  form  of  statement  of  the  dif- 
+ference between  these  two  naturalists  may  be  illustrated  by 
+the  following  from  Calkins:  "A  formidable  opponent  soon 
+appeared  in  France — Felix  Dujardin — who,  influenced  by 
+long  study  of  the  Rhhopoda.  came  to  the  conclusion  in 
+1835,  that  the  marine  forms  (Foraminifera)  which  up  to 
+that  time  had  been  classed  with  cephalopod  molluscs,  are  in 
+reality  the  simplest  organisms,  composed  of  a  simple  homo- 
+geneous substance  which  he  called  'sarcode.' ' 
+
+The  reader  will  recognize  in  the  clash  here  indicated  only 
+another  special  instance  of  the  ages-old  conflict  between  the 
+organismal  and  elementalist  conceptions  of  living  beings. 
+But  this  instance  is  sufficiently  important  in  both  its  theoret- 
+ical implications  and  its  practical  consequences  to  merit 
+a  somewhat  close  examination.  To  begin  with,  particular 
+notice  should  be  taken  of  the  type  of  elenu'ntalisin  upheld 
+by  Dujardin,  namely,  that  of  a  simple  homogeneous  sub- 
+stance as  the  basis  of  all  life.  This  finds  expression  in  his 
+sarcode  theory,  which  has  cut  a  large  figure  in  later  specu- 
+lative biology.  The  conflict  between  Dujardin  and  Ehren- 
+bcrg  was  first  and  foremost  theoretical.  The  kernel  of  the 
+former's  theory  was  that  then-  must  be  a  substance  of 
+organisms  more  fundamental  than  organisms  themselves, 
+while  Ehrenberg  stood  for  the  view  that  organisms,  no  mat- 
+ter how  simple,  must  still  be  organi/rd.  He  contended  that 
+all  the  organisms  we  actually  know,  including  "Infusions- 
+thierchen"  (and  for  him  practically  all  microscopic  organ- 
+isms came  under  this  term)  are  demonstrably  organized, 
+
+
+282  The   Unity  of  the  Organism 
+
+v.hat  is,  possess  organs. 
+
+That  there  may  be  no  question  as  to  the  essential  cor- 
+rectness of  the  statement  that  this  conflict  was  primarily 
+one  of  theory,  let  us  listen  to  Dujardin  himself.  "Among 
+the  authors,"  he  says,  "who  have  written  on  the  Infusoria, 
+some,  as  Leeuwenhoek,  have  attributed  to  these  animals  a 
+very  complicated  organization,  while  others,  as  Miiller,  would 
+see  only  a  glutinous  homogeneous  substance  *  (mera  gela- 
+tina).  This  last  opinion,  adopted  by  Cuvier,  Treviranus 
+and  Oken,  appeared  henceforth  the  most  probable,  when 
+M.  Ehrenberg  came  boldly  forward  in  1830  to  show  to  the 
+learned  world  evidences  which  he  believed  he  had  found, 
+but  which  unfortunately  no  one  else  has  been  able  to  con- 
+firm, of  a  richness  of  organization  of  the  Infusoria." 
+
+From  this  passage  alone  the  inference  could  be  drawn  that 
+the  difference  between  the  two  men  was  strictly  one  of  ability 
+in  observation — of  what  each  was  able  to  see  when  examining 
+very  minute  creatures.  But  another  passage  lets  the  cat 
+out  of  the  bag.  "M.  Ehrenberg,  who,  guided  by  false  anal- 
+ogies, has  gone  even  beyond  Leeuwenhoek  in  ascribing  to  the 
+Infusorians  a  prodigious  wealth  of  organization,  supports 
+himself  on  the  principle  that  'the  ideas  of  size  are  relative 
+and  are  of  little  physiological  importance.'  This  principle 
+is  only  a  consequence  of  a  preconceived  idea  of  the  unlimited 
+divisibility  of  matter.  Now  in  supporting  the  absence  of 
+all  limitations  to  the  divisibility  of  matter  to  be  a  law  of 
+nature — and  a  mass  of  chemical  and  physical  phenomena 
+scc'in  to  prove  the  contrary — that  law  would  not  suffice  to 
+prove  the  possibility  of  a  very  complex  organization  beyond 
+a  certain  minimal  limit  of  size;  for  it  is  known  that  many 
+physical  and  dynamical  phenomena  are  considerably  in- 
+fluenced or  even  inhibited  by  molecular  action  when  the 
+
+*  The  original  wording  should  he  noted:  "n'y  ont  voulce  le  plux  no H rent 
+qu'une  substance  .  .  ." — the  old  familiar  story  of  seeing  what  one  wants 
+to  see  rather  than  what  is  actually  before  his  eyes. 
+
+
+Attempt   to  Subordinate  Protista   to  Cdl-Tlieory     283 
+
+bodies  or  intervals  which  separate  them  are  very  small.  .  .  . 
+It  is  more  in  keeping  with  the  laws  of  physics  to  admit  that 
+in  these  .small  animals,  liquids  are  taken  in  by  simple  im- 
+bibition; as  it  is  more  in  keeping  with  rule's  established  by 
+analogy  not  to  assume  that  the  plan  of  higher  organisms 
+can  be  reproduced  in  these  very  small  beings,  since  we  see 
+the  elements  of  these  organisms,  blood  globules,  muscle 
+fibers,  and  capillary  vessels,  instead  of  undergoing  a  pro- 
+ssivi-  diminution  in  size  in  the  smaller  vertebrates,  show- 
+ing almost  the  same  si/e  in  the  mouse  and  in  the  elephant."  4 
+
+In  other  words,  the  physical  theory  supported  by  certain 
+facts  of  structure  and  function  in  larger  animals  (rather 
+than  any  theory  of  organic  evolution)  led  Dujardin  to  be- 
+lieve that  such  minute  living  beings  as  Infusorians  must  be 
+structureless  and  beyond  question  these  theoretical  views 
+largelv  influenced,  and  influenced  harmfullv,  the  results  of 
+his  observational  studies.  This  fact  deserves  emphasis  be- 
+catisi-  current  presentation  of  the  subject  makes  it  appear 
+that  Khrenberg  was  theoretically  all  wrong  while  Dujardin 
+was  theoretically  all  right. 
+
+Khrenberg  went  astray  not  in  defending  the  theory  that 
+fnfusionsthierchen  possess  organs,  but  in  claiming  for  them 
+particular  kindx  of  organs  which  they  do  not  possess.  Con- 
+vinced as  lie  was,  largely  on  a  priori  grounds,  that  they  must 
+be  organi/ed,  and  knowing  no  other  kind  of  organi/ation 
+than  that  of  the  larger  animals  with  which  he  was  familiar, 
+he  lirought  to  his  microscopic  researches  a  mind  prepared 
+to  make  the  most  possible  of  the  general  resemblance  many 
+of  the  little  creatures  he  studied  bear  to  ordinary  animals. 
+From  pole  to  pole  and  in  all  depths  of  the  ocean,  he  said, 
+live  minute  animal  forms  which  resemble  higher  animals 
+
+*'  Alxh'iickc  chit'r  Schablone"  like  the  impress  of  a  mould. 
+And  that  the  little  creatures  are  genuine  organisms  seemed 
+to  Ehrenberg  to  he  supported  by  the  fact  that  the  myriads 
+of  them  fall  into  species,  genera,  families,  and  so  on,  as  do 
+
+
+284  Tlie  Unity  of  the  Organism 
+
+higher  animals.  His  position  cannot  be  fully  understood 
+without  taking  into  account  his  view  that  the  protozoa, 
+being  part  and  parcel  of  the  animal  kingdom,  are  subject  to 
+its  general  laws,  that  is,  modes  of  life,  distribution  and  classi- 
+fication of  that  kingdom. 
+
+In  this  fact  hardly  less  than  in  the  structure  of  individuals, 
+he  saw  proof  that  the  Infusoria  are  complete  organisms. 
+Guided  by  these  theoretical  views,  the  warrantableness  of 
+which  later  researches  have  made  many  times  greater  than 
+they  were  when  Ehrenberg  propounded  them,^it  is  not  sur- 
+prising that  he  was  led  to  interpret  into  various  parts  he 
+could  see  only  imperfectly,  resemblances  to  the  organs  of 
+higher  animals,  which  resemblances  did  not  as  a  matter 
+of  fact  exist.  The  stomachs,  hearts,  genital  organs,  and 
+so  on,  which  he  believed  he  saw  in  many  of  the  species,  dis- 
+appeared before  the  criticism  of  Dujardin,  Kollicker,  von 
+Siebold  and  others.  But  here  is  the  point  of  chief  theoretic 
+importance.  Although  these  particular  organs  went  down 
+before  criticism,  criticism  by  no  means  deprived  the  animals 
+of  all  organs.  It  is  in  neglect  of  this  last  fact  that  current 
+teachings  do  Ehrenberg  injustice.  His  "conception  of  the 
+protozoa"  was  destined  to  be  overthrown  only  as  to  the 
+sort  of  organization  he  believed  them  to  have.  It  is  gratify- 
+ing to  find  that  in  this  conclusion  I  am  in  essential  agree- 
+ment with  so  eminent  an  observational  student  of  the  pro- 
+tozoa as  C.  C.  Dobell.  In  a  recent  quite  remarkable  ess.-iy 
+this  author  writes,  "To  my  mind,  Ehrenberg  (1838)  in 
+spite  of  his  incorrect  interpretations  in  matters  of  detail, 
+was  far  nearer  to  the  truth  when  he  saw  Protista  as  'rolkom- 
+mene  Organismen'  than  any  more  modern  biologist  who  re- 
+gards them  as  analogues  to  parts  of  multicellular  beings." ' 
+
+As  between  the  conception  of  organization  in  all  living 
+beings,  no  matter  how  small  and  simple,  and  the  conception 
+of  living  beings  so  small  and  simple  that  they  are  without 
+organization,  there  can  be  no  question  that  all  inductive : 
+
+
+Attempt  to  Subordinate  Protista  to  Cett-Theory     285 
+
+knowledge  favors  the  former  and  tends  to  refute  the  latter; 
+and  in  so  far  as  Ehrenberg  stood  for  the  former  and  Du- 
+jardin  for  the  latter  the  evidence  surely  supports  the  views 
+of  the  German  and  opposes  those  of  the  Frenchman. 
+
+This  brings  us  to  a  highly  important  practical  point.  I 
+mentioned  a  little  while  ago  that  Dujardin's  theoretical 
+views  influenced  harmfully  his  observational  work.  In  sup- 
+port of  this  statement  the  reader  is  asked  to  compare  the 
+monographs  by  Ehrenberg  and  Dujardin  already  mentioned, 
+giving  special  attention  to  figures  of  the  same  animal  pre- 
+sented in  each.  No  one  will  fail,  I  believe,  to  recognize  the 
+greater  truthfulness  (disregarding  the  relative  merit  of 
+draftmanship  and  publication)  of  many  of  Ehrenberg's  il- 
+lustrations, especially  as  regards  the  internal  structure  of 
+the  organisms.  That  the  difference  cannot  be  attributed 
+altogether  to  Ehrenberg's  superior  powers  of  observation 
+seems  certain  from  the  fact  that  Dujardin  made  out  numer- 
+ous points  about  the  cilia  of  various  species  which  were  un- 
+known to  Ehrenberg.  Both  Dujardin's  observations  and  his 
+scheme  of  classification  appear  to  have  been  largely  influ- 
+enced by  his  sarcode  theory:  i.e.,  his  theory  of  structureless- 
+ness.  "The  numerous  genera  which  one  establishes,"  he 
+says,  "in  the  family  of  the  monadinians,  are  distinguished 
+therefore  only  by  the  number  and  position  of  the  locomotor 
+filaments  and  by  the  most  habitual  form  of  the  body  and  of 
+the  appendages."  ° 
+
+Prepossessed  by  the  idea  of  structural  diversity  and  com- 
+plication in  the  creatures  of  the  microscopic  world,  Ehren- 
+berg directed  his  attention  primarily  to  their  internal  make- 
+up, described  things  that  do  not  exist  there,  and  overlooked 
+various  external  parts.  Dujardin,  on  the  other  hand,  pre- 
+possessed by  the  idea  of  internal  structurelessness,  of  homo- 
+geneity, fixed  his  attention  more  on  the  external  parts  and  so 
+was  able  to  surpass  Ehrenberg  in  describing  these,  but  also 
+to  correct  various  of  his  opponent's  erroneous  interprets- 
+
+
+286  The  Unity  of  the  Organism 
+
+tions  of  internal  structure.  But  while  Dujardin'a  greater 
+merit  in  these  respects  was  undoubted,  his  lesser  merit  in 
+describing  the  internal  structure  is  quite  as  undoubted,  and 
+more  vital  in  that  it  involved  serious  practical  consequences. 
+The  difference  in  preconception  of  the  two  naturalists  made 
+Ehrenberg  the  better  practical  anatomist  of  the  protozoa. 
+It  will  have  been  noted  that  Dujardin's  opposition  to  Ehren- 
+berg did  not  primarily  involve  the  question  of  the  applica- 
+tion of  the  cell-theory  to  the  protozoa,  both  men  having 
+published  their  main  works  before  that  theory  was  pro- 
+pounded. 
+
+Modern  Opposition  to  the  Effort  to  Make  the  Protista  Con- 
+form to  Cellular  Elementalism 
+
+We  now  pass  on  in  our  examination  of  historical  opposi- 
+tion to  the  conception  that  unicellular  plants  and  animals 
+are  "organisms  without  organs,"  into  the  strictly  modern 
+period  during  which  the  effort  has  been  to  bring  the  protista 
+"into  conformity  with  the  narrow  bounds  of  cellular  elemen- 
+talism." 
+
+(a)  The  Position  of  Friedrich  Stein 
+
+I  suppose  all  protistologists  would  agree  that  there  has 
+been  no  greater  worker  in  microscopic  natural  history  dur- 
+ing this  period  than  Friedrich  Stein.  His  Der  Organism  us 
+der  Infusionsthiere  (nach  eigenen  Forschungen)  is  no  less  a 
+fundamental  and  indispensable  part  of  the  library  of  every 
+student  in  this  field  than  is  Ehrenberg's  great  work.  That 
+Stein  "was  never  an  ardent  advocate  of  the  simplicity  of  the 
+Protozoa,"  as  Calkins  expresses  it,  is  well  known  to  all 
+zoologists  acquainted  with  his  writings.  Both  Calkins  and 
+Dobell  quote  the  following  sentence  from  him,  which  not  only 
+shows  his  skepticism  about  the  unrestrained  applicability  of 
+the  cell-theory  to  the  protozoa,  but  indicates  the  sort  of 
+
+
+Attempt   to  Subordinate  I'rotixta   to  Cell-Theory     287 
+
+limitation  to  that  application  which  lit-  believes  necessary. 
+"One  must  ever  he-sit  ate-  to  consider  the  fully  developed  In- 
+fusoria as  unicellular  organisms,  for  they  arc  not  merely 
+cells  that  have  undergone  further  simple  growth,  but  the 
+original  cell  structure  has  given  place  to  an  essentially  dif- 
+ferent organization  which  is  entirely  foreign  to  cells."  7  That 
+is,  the  cell  conception  applies  to  these  animals,  according  to 
+Stein,  only  when  they  are  in  the  earliest  or  germinal  stages 
+of  their  lives.  This  view  is  brought  out  still  more  clearly 
+by  the  following  comparison  which  he  makes  between  the 
+individual  development  of  a  unicellular  and  a  multicellular 
+organism.  "The  germinal  spheres  or  embryonal  cells  of 
+the  Infusoria  do  not  behave  at  all  like  the  egg  cells  of  the 
+higher  animals.  By  a  process  of  fission  [these  latter]  break 
+up  (zerfallen)  into  an  aggregate  of  smaller  embryonal 
+bodies,  the  constituting  cells  (the  germinal  spheres  of  the 
+Infusoria),  which  transform  themselves  just  as  they  are 
+into  the  embryonic  body  sarcode,  the  kernel  [Aww]  becom- 
+ing the  nucleus,  of  the  young  Infusorian.  The  embryo  of 
+the  Infusorian  is  therefore  in  the  strictest  sense  of  the  word 
+a  unicellular  organism."  In  this  sense,  and  in  this  sense 
+only,  Stein  goes  on  to  say,  he  subscribes  to  the  doctrine  that 
+the  Infusoria  are  unicellular.  Stein's  conception  of  the 
+adult  Infusorian  as  contrasted  with  the  embryonic  Infusor- 
+ian was  probably  influenced  by  his  having  mistaken  an 
+Ascinetan,  parasitic  in  certain  ciliates,  for  embryos  of  the 
+hosts,  and  on  this  error  he  based  his  theory  that  these 
+eiliates  pass  through  an  ascinetan  stage  in  their  ontogeny. 
+But  this  error  does  not  invalidate  his  statement  of  the  funda- 
+mental difference  between  unicellular  and  multicellular  or- 
+ganisms as  to  the  sort  of  transformation  undergone  in  their 
+individual  development.  Wherever  sporulation  occurs, 
+growth  of  the  spores  into  the  adults  would  exemplify  Stein's 
+main  point,  and  this  point  is  of  capital  importance  as  we 
+shall  contend  more  at  length  later. 
+
+
+288  The   Unity  of  the  Organism 
+
+(b)  Position  of  Huxley,  R.  Hertwig  and  Others 
+
+The  views  of  Huxley  on  the  nature  of  organisms  and  cells 
+give  him  an  interesting  place  among  those  who  protest 
+against  the  current  cellular  interpretation  of  the  protista. 
+After  mentioning  Vorticella,  Caulerpa  and  "Roesel's  Pro- 
+teus," as  organisms  in  which  there  is  little  or  no  histological 
+differentiation,  he  says :  "It  is  true  indeed  that  the  difficulty 
+with  regard  to  these  organisms  has  been  evaded  by  calling 
+them  'unicellular' — by  supposing  them  to  be  merely  en- 
+larged and  modified  simple  cells ;  but  does  not  the  phrase 
+'unicellular  organism'  involve  a  contradiction  for  the  cell- 
+theory?  In  the  terms  of  the  cell-theory,  is  not  the  cell  sup- 
+posed to  be  an  anatomical  and  physiological  unity,  capable 
+of  performing  one  function  only — the  life  of  the  organism 
+being  the  life  of  the  separate  cells  of  which  it  is  composed? 
+and  is  not  a  cell  with  different  organs  and  functions  some- 
+thing totally  different  from  what  we  mean  by  a  cell  among 
+higher  animals?  We  must  say  that  the  admission  of  the 
+existence  of  unicellular  organisms  appears  to  us  to  be  vir- 
+tually giving  up  the  cell-theory  for  these  organisms." 
+While  the  argument  Huxley  is  making  differs  in  important 
+respects  from  that  which  we  are  developing,  these  statements 
+make  it  obvious  that,  as  Dobell  remarks,  Huxley  realized 
+"there  was  something  wrong  in  the  application  of  the  cell 
+theory  to  the  protista."  We  shall  speak  further  of  Huxley's 
+views  in  another  connection. 
+
+Even  Richard  Hertwig,  staunch  believer  as  he  is  in  the 
+conformity  of  the  Protozoa  to  the  "laws  of  cell-life,"  recog- 
+nizes that  harm  has  been  done  by  pushing  the  cell-theory 
+too  hard  in  the  interpretation  of  the  protozoa.  "A  whole 
+series  of  instances,"  he  writes,  "show  how  the  effort  to  subor- 
+dinate the  protozoa  to  experiences  with  metazoan  cells  and 
+to  adapt  them  to  the  straight- jacket  scheme  devised  for 
+metazoan  cells  has  led  to  errors."  9 
+
+
+Attempt  to  Subordinate  Protista  to  Cell-Theory     289 
+
+Many  other  expressions  of  dissatisfaction  with  prevalent 
+notions  about  the  simplicity  of  the  protozoa  could  be  cited 
+from  the  very  latest  writings  touching  the  subject  from  quite 
+other  directions  than  those  of  morphology  and  development. 
+Thus  Jennings  says  concerning  the  activities  of  the  proto- 
+zoan, "The  writer  is  thoroughly  convinced,  after  long  study 
+of  the  behavior  of  this  organism,  that  if  Amoeba  were  a 
+large  animal,  so  as  to  come  within  the  every-day  experience 
+of  human  beings,  its  behavior  would  at  once  call  forth  the 
+attribution  to  it  of  states  of  pleasure  and  pain,  of  hunger, 
+desire,  and  the  like,  on  precisely  the  same  basis  as  we  attri- 
+bute these  things  to  the  dog."  10 
+
+And  M.  M.  Metcalf  in  a  recent  address  reviewing  the 
+nuclear  phenomena  lately  discovered  in  various  species  of 
+Amoeba,  said :  "With  such  phenomena  as  these  demonstrated 
+in  an  amoeba,  no  zoologist  can  dare  again  to  apply  to  any 
+organism  the  adjective  simple.  In  the  behavior  of  its  nuclear 
+elements  Amoeba  is  as  complex  as  is  man  himself." 
+
+But  the  most  radical  and  violent  pronouncement  against 
+the  cellular  conception  of  the  protista  that  has  ever  been 
+made,  comes  from  one  of  the  ablest  and  most  active  students 
+of  these  organisms,  C.  Clifford  Dobell,  whose  writings  have 
+already  been  incidentally  cited.  A  closer  acquaintance  with 
+his  view  will  appropriately  terminate  the  historical  part  of 
+our  discussion. 
+
+Dobell's  notable  essay  leaves  no  reader  in  doubt  about  the 
+nature  of  this  author's  disaffection,  or  as  to  the  doctrinal 
+reformations  he  holds  to  be  necessary.  The  application  of 
+the  cell-theory  to  the  Protista  is  wholly  unjustifiable  and  has 
+been  and  is  now  more  than  ever  before  a  serious  hindrance 
+to  the  advancement  of  positive  knowledge  and  sound  inter- 
+pretation of  this  great  subdivision  of  the  organic  world. 
+Coming  to  closer  quarters,  his  contention  is  that  the  protist 
+body  does  not  correspond  to  a  minute  fragment  of  the  meta- 
+zoan  body,  one  of  its  myriads  of  cells,  but  to  the  whole  body. 
+
+
+290  The   Unity  of  the  Organism 
+
+"The  body  of  a  protozoan  is  not  the  homologue  of  a  single 
+cell  in  the  body  of  a  metazoan,  and  hence  the  succession  of 
+individuals  formed  from  one  conjugation  to  the  next,  is 
+not  comparable  with  a  metazoan  body  any  more  than  a 
+swarm  of  bees  is  comparable  with  an  elephant." 
+
+The  reformation  proposed  is  to  cease  calling  the  protista 
+unicellular  and  to  recognize  that  they  are  non-cellular. 
+"The  essential  difference  between  the  structure  of  protista 
+and  that  of  other  organisms  is  properly  and  objectively  ex- 
+pressed when  we  describe  these  as  cellular,  those  as  non- 
+cellular.  The  concept  'cell,'  derived  from  a  study  of  cellu- 
+lar organisms,  is  a  fairly  simple  one.  It  is  quite  clear  that 
+the  correct  antithesis  in  the  present  case  is  between  cells 
+and  not-cells,  and  not  between  many  cells  and  one  cell — as 
+has  hitherto  been  universally  assumed." 
+
+The  cell  concept  which  Dobell  believes  to  be  "fairly  sim- 
+ple" is  presented  thus :  "The  investigation  of  an  immense 
+number  of  organisms  has  brought  to  light  a  most  important 
+fact,  namely,  that  the  protoplasm  of  a  living  organism  al- 
+ways consists  of  two  elements,  a  nucleus  (or  nuclei)  and 
+cytoplasm. 
+
+"Now  in  a  very  large  number  of  multinucleate  organisms 
+the  cytoplasm  is  subdivided  into  a  number  of  definite  com- 
+partments, each  of  which  encloses  a  nucleus.  These  cyto- 
+plasmic  subdivisions  with  their  enclosed  nuclei  we  may  call — 
+following  the  ordinary  usage — cells."  13  The  denial  of  cellu- 
+larity  to  the  Protista,  Dobell  bases  on  the  fact  that  the 
+individual  organisms  are  not  divided  up  into  nucleate  masses 
+of  protoplasm. 
+
+Other  and  quite  distinct  aspects  of  Dobell's  standpoint 
+are  his  contention  that  the  terms  "higher"  and  "lower" 
+have  no  valid  applicability  to  organisms,  and  that  the  pro- 
+tista are  not  "primitive"  and  "ancestral"  relative  to  man 
+and  other  large  animals  and  plants,  in  an  evolutional  sense. 
+"There  is  no  more  reason,"  he  says,  "to  suppose  that  these 
+
+
+Attempt   to  Subordinate   Protista   to  Cett-Theory      291 
+
+organisms,  witli  their  complex  and  peculiar  structures  and 
+life-histories,  arc  the  beginnings  of  man  than  that  man  is 
+the  beginning  of  them."14  The  far-reaching  consequences 
+of  Dobcll's  views,  should  they  prevail,  are  indicated  by  his 
+remarks  about  evolution.  "Why  should  it  always  be  taken 
+for  granted  that  by  'Evolution*  is  meant  Sin  upward  prog- 
+ress from  Proto/oa  to  Man'?  This  is  only  one  hypothesis 
+of  organic  evolution.  That  evolution  of  some  sort  has  taken 
+place  in  living  beings  1  regard  as  certain.  But,  that  evolu- 
+tion of  the  Haeckelian  'Amoeba  to  Man'  type  has  not  oc- 
+curred I  regard  as  equally  certain.  We  can  certainly  be- 
+lieve in  evolution  without  believing  in  this  dogma."  15 
+
+General  Conclusions  From  Examination  of  Knowledge  and 
+
+Views  as  to  the  Nature  of  Uni-  and  Multi-cellular 
+
+Organisms 
+
+We  may  now  ask  ourselves,  what  comes  of  this  some- 
+what extensive  examination  of  the  structure  and  function 
+of  the  Protista,  and  of  the  history  of  discovery  and  opinion 
+concerning  them?  Whatever  else  comes,  I  do  not  see  how 
+any  open-minded  person  can  escape  seeing  that  the  practice 
+of  thinking  about  these  small  beings  as  conforming  in  es- 
+sence to  the  "simple  cell"  is  unnatural,  impedimental  of 
+progress  in  sound  knowledge,  and  ought  to  be  abandoned 
+forthwith.  But  how  abandon  a  practice  based  on  a  general 
+theory  which  has  served  to  unify  so  vast  a  multitude  of  di- 
+verse and,  at  first  sight,  apparently  quite  isolated  facts? 
+That  the  cell-doctrine  applied  to  the  Protozoa  has  served 
+such  a  purpose  is  beyond  question. 
+
+The  point  deserves  concrete  illustration.  There  has  re- 
+cently occurred  in  the  dinoflagellate  collections  of  the  San 
+Diego  region  an  organism  so  different  from  any  hitherto 
+described  as  to  elicit  the  exclamation  "a  remarkable  thing!" 
+That  Doctor  Swe/y,  to  whom  has  fallen  the  task  of  describ- 
+
+
+292  The   Unity  of  the  Organism 
+
+ing  it,  was  able  to  make  the  hypothesis  that  the  creature  is 
+unicellular,  was  undoubtedly  a  very  great  help  toward  mak- 
+ing out  the  details  of  the  structure  and  instituting  the  com- 
+parisons preliminary  to  assigning  the  organism  to  a  place 
+in  the  system  of  classification.  The  generalized  observa- 
+tional knowledge  which  is  the  backbone  of  natural  science  is 
+impossible  without  a  central  concept  or  mental  construction 
+of  some  sort  to  which  new  observations  can  be  brought  for 
+testing  and  standardization,  and  finally  for  assignment  to 
+their  proper  place  in  the  general  scheme.  Sound  science  as 
+well  as  common  knowledge  refuses,  consequently,  to  abandon 
+its  general  views,  especially  if  these  have  been  truly  helpful, 
+even  though  their  inadequacy,  or  actual  erroneousness  may 
+have  become  manifest.  The  oft-repeated  statement  that 
+a  wrong  theory  is  better  than  no  theory  has  the  sanction 
+of  psychology  and  logic,  as  well  as  of  the  universal  concaten- 
+ation of  nature.  Outgrown  or  erroneous  theories  must  be 
+supplanted  rather  than  abandoned.  Their  places  must  not 
+be  left  vacant,  but  filled  by  other  and  better  theories. 
+
+These  general  considerations  taken  by  themselves  make 
+it  extremely  improbable  that  Dobell's  proposal  to  reform 
+interpretation  of  the  protista  as  non-cellular  instead  of 
+unicellular  will  meet  with  wide  approval.  Non-ccllularity  is 
+pure  negation,  and  so  lacks  the  essentials  of  a  "working 
+theory."  Furthermore,  from  the  side  of  clear  objectivity, 
+a  proposal  which  involves  the  denial  of  cellularity  to  such 
+an  organism  as  an  amoeba  or  a  gregarine  because  only  one 
+cell  is  present  in  it,  violates  the  principles  of  sobriety  and 
+consistency,  so  vital  to  true  science,  and  ought  not  to  be 
+sanctioned. 
+
+The  reformation  of  theory  touching  the  cellular  nature 
+of  the  protista  which  it  seems  to  me  is  demanded  by  the 
+facts  will,  I  hope,  be  apparent  to  any  one  who  has  followed 
+the  discussion  to  this  point.  The  concept  cell  must  be  held 
+in  strict  subordination  to  the  concept  organism  in  this  as  in 
+
+
+Attempt   to  Subordinate   Protista   to  Cell-Theory      293 
+
+all  other  portions  of  the  living  world,  and  to  make  this 
+effective  the  concept  organism  must  be  given  greater  defin- 
+iteness  than  it  has  generally  had.  The  classes  of  fact  which 
+have  been  sampled  in  the  preceding  pages  furnish  the  basis 
+for  both  these  readjustments. 
+
+First  as  to  the  subordination  of  cells  to  organism.  Let 
+attention  be  directed  to  the  myriad  of  natural  objects  called 
+living  beings  and  cells  rather  than  to  concepts  about  them. 
+Wherever  in  the  living  world  structures  occur  which  com- 
+petent judges  agree  to  call  cells,  these  are  structurally  part 
+of  and  functionally  dependent  upon,  and  therefore  strictly 
+subordinate  to,  living  beings.  This  subordination  is  seen 
+in  the  fact  that  cells  arise  as  a  consequence  of  the  activities 
+of  living  beings.  This  mode  of  origin  is  most  obvious  in 
+the  individual  development  of  the  larger  plants  and  animals 
+where  growth  is  accompanied  by  a  resolution  of  the  growing 
+body  into  a  great  number  of  such  structures. 
+
+It  seems  that  racially  as  well  as  individually,  cells  were 
+produced  by  living  beings.  This  I  say  seems  to  have  been 
+the  case,  for  be  it  always  remembered  that  certainty  as  to 
+how  either  living  beings  or  any  of  their  parts  arose  in  the 
+first  instance — if  indeed  there  was  a  first  instance — is  wholly 
+impossible  for  positive  science.  However  much  we  may 
+speculate  on  the  subject  we  have  no  right  to  permit  the 
+speculations  to  exercise  more  than  a  secondary  influence  on 
+observations,!  and  ^interpretative  results  touching  actual 
+living  beings. 
+
+So  far  as  the  bacteria  and  other  living  beings  near  or  be- 
+low the  limits  of  microscopic  vision  can  be  supposed  to  rep- 
+ivxt-nt  earlier  stages  in  the  evolution  of  the  living  world, 
+they  indicate  that  beings  much  smaller  and  considerably  sim- 
+pler than  cells  existed  long  before  cells. 
+
+And  functionally  as  well  as  development  all y,  cells  arc 
+subordinate  to  the  living  beings  to  which  they  belong.  This 
+is  most  manifest  in  animals  which,  like  man  and  other  higher 
+
+
+The   Unity  of  the  Organism 
+
+vertebrates,  perform  a  great  number  of  voluntary  acts.  In 
+such  cases  as  those  of  the  voluntary  muscles,  the  muscle 
+cells  are  used  by  the  living  being  for  its  needs  as  strictly 
+as  are  the  whole  muscles  or  the  limbs  and  other  primary 
+voluntary  members  of  the  body. 
+
+But  while  the  functional  subordination  of  cells  to  the 
+living  being  is  seen  most  conspicuously  in  the  active  use  of 
+them  by  the  higher  animals  as  they  perform  their  voluntary 
+acts,  this  sort  of  subordination  is  exceptional,  taking  the 
+whole  world  and  all  its  operations  together.  The  most  funda- 
+mental, and  as  it  seems,  the  strictly  universal  aspect  of  the 
+functional  subordination  of  cells  is  in  the  assimilation  of 
+food  and  concomitant  breaking  down  of  synthesized  organic 
+substances  to  produce  the  basal  processes  distinctive  of  each 
+individual  and  kind  of  living  being.  In  its  metabolic  proc- 
+esses the  living  being's  supremacy  over  its  cells  is  most  uni- 
+versally manifest.  The  identity,  structural  and  functional, 
+which  the  individual  organism  maintains  by  converting  nu- 
+trient matter  into  its  own  self,  and  for  its  own  use,  is  ac- 
+complished largely  if  not  wholly  by  means  of  its  cells. 
+
+The  supposition  that  the  cells  themselves,  taken  inde- 
+pendently of  the  organisms  to  which  the}'  pertain,  have 
+power  to  develop  and  perform  the  metabolic  operations 
+characteristic  of  each  species  and  each  individual  organism, 
+seems  a  necessary  consequence  of  the  cell-theory  in  its  full 
+modern  development,  in  the  conception,  that  is,  which  sees 
+in  the  cell  the  "key  to  all  biological  problems."  But  it  is 
+hardly  necessary  to  remark  that  there  is  not  an  iota  of  di- 
+rect evidence  that  cells  possess  such  power.  The  only  obser- 
+vations we  have  upon  which  such  an  interpretation  could  be 
+forced,  even  by  the  most  intellectually  unscrupulous  meth- 
+ods of  forcing  evidence,  are  those  on  the  viability  of  isolated 
+cells  and  tissues  (see  Chapter  (j). 
+
+As  a  matter  of  fact  the  evidence  from  this  source  not 
+only  does  not  support  the  doctrine  of  the  supremacy  of 
+
+
+Attempt   to  Subordinate  I'rntixtti.   to  Cell-Theory      295 
+
+cells  but  strongly  favors  the  supremacy  of  the  organism. 
+Let  us  suppose,  for  example,  a  specially  skillful  technician 
+has  isolated  all  the  voluntary  muscle  cells  of  a  cat  and  kept 
+them  alive  indefinitely.  Would  any  cellular  elementalist 
+be  so  courageous  as  to  contend  that  the  cells  would  under- 
+go the  contractions  coordinated  in  quantity,  force  and  speed, 
+which  are  involved  in  the  animal's  crouch-and-spring  to 
+catch  a  rat?  But  suppose  such  coordinated  contraction 
+of  the  isolated  cells  should  take  place.  How  could  the  fact 
+be  explained?  Surely  in  no  way  that  did  not  recognize 
+that  they  were  merely  doing  under  the  new  conditions  what 
+they  were  accustomed  to  do  under  the  old ;  that,  in  other 
+words,  in  endowing  them  with  the  ability  to  perform  these 
+contractions,  the  organism  had  also  endowed  them  with 
+such  a  measure  of  independence  of  metabolic  activity  as  to 
+enable  them  to  keep  up  these  operations  after  separation 
+from  the  organism. 
+
+One  of  the  most  essential  things  toward  putting  ourselves 
+straight  in  theory  as  to  the  relation  of  the  cell  to  the  organ- 
+ism in  unicellular  beings,  is  to  get  straight  on  the  relation  of 
+the  cells  to  the  organism  in  multicellular  beings.  An  in- 
+dispensable step  toward  this  latter  consummation  is  to  re- 
+move from  our  thought  and  terminology  the  conception 
+which  holds  the  meta/oa  and  metaphyta  to  be  "cell-states," 
+"cell-colonies"  or  "cell  aggregations,"  when  these  terms  are 
+used  as  though  the  cells  were  originally  independent  enti- 
+ties. The  embryology  of  the  meta/oa  furnishes  overwhelm- 
+ing evidence  that  the  egg  is  the  organism  in  its  one-celled 
+stage,  and  that  cell-division  during  ontogeny  is  a  resolution 
+of  the  organism  into  minute  parts  very  much  like  one  an- 
+other. 
+
+Once  we  have  gone  this  far  in  revising  the  cell-theory  we 
+come  to  reali/e  the  \veiglitiness  of  the  truth  that  the  theory 
+was  originally  concerned  with  parts  or  elements  of  larger 
+plants  and  animals,  and  not  with  these  organisms  them- 
+
+
+296  The  Unity  of  the  Organism 
+
+selves.  It  was  the  appreciation  of  the  significance  of  this 
+fact  that  made  the  theory  seem  to  Huxley  wholly  inap- 
+plicable to  the  protozoa.  "How,y  he  said,  "imagine  struc- 
+tures which  are  professedly  only  elements  in  the  make-up 
+of  one  kind  of  organisms,  to  be  the  same  as  structures  which 
+are  the  whole  organism  in  other  kinds  of  beings?"  This 
+same  difficulty  seems  to  have  been  the  chief  influence  in  lead- 
+ing Dobell  to  deny  that  the  Protista  can  be  legitimately 
+brought  under  the  cell-theory. 
+
+I  wish  to  point  out  that  while  there  can  be  no  doubt 
+about  the  great  importance  of  the  fact  that  in  metazoa  and 
+metaphyta  cells  are  parts  of  the  organisms,  I  am  unable  to 
+see  that  the  fact  necessitates,  as  held  by  Huxley  and  Dobell, 
+the  exclusion  of  protozoa  from  the  cell-theory.  It  simply 
+establishes  in  the  most  uncompromising  way  the  subordina- 
+tion of  the  cells  to  the  organism  in  the  metazoa  and  meta- 
+phyta. If  the  idea  be  grasped  that  cells  are  among  the  in- 
+strumentalities produced  by  organisms  in  the  course  of  their 
+development,  individual  and  racial,  with  which  to  carry  on 
+their  various  activities,  it  will  become  apparent  that  there 
+can  be  no  objection  to  modifying  the  conception  of  the  cell 
+to  make  it  apply  to  any  structure  whether  a  part  of,  or  the 
+whole  of  an  organism,  which  satisfies  certain  well-established 
+criteria.  When,  for  example,  it  is  recognized  that  certain 
+species  of  amoebae  resemble  so  closely  the  white  corpuscles 
+of  the  blood  of  many  animals  as  never  to  fail  of  recogni- 
+tion by  good  observers,  the  established  principles  of  bio- 
+logical definition  and  classification  dictate  that  the  two  sorts 
+of  bodies  be  given  a  common,  that  is,  logically  speaking,  a 
+generic  name. 
+
+But  now  comes  another  principle  of  description  and  class- 
+ification which,  though  no  less  fundamental  than  that  just 
+mentioned,  has  not  been  as  adequately  heeded  by  defenders 
+of  the  cell-theory ;  the  principle,  namely,  that  a  genus  al- 
+ways implies  species  and  that  these  must  each  be  as  carefully 
+
+
+Attempt   to  Subordinate  Protista  to  Cell-Theory     297 
+
+described  as  the  genus  itself.  In  other  words,  sound  scien- 
+tific procedure  requires  that  if  amoebae  and  white  blood 
+corpuscles  are  classed  together  as  cells,  their  differences 
+must  at  the  same  time  be  given  full  recognition.  If  this  be 
+done,  among  the  many  differences  that  will  come  to  record 
+are  sure  to  be  this:  amoebae  are  organisms,  each  individual 
+being  complete  and  independent  in  itself,  while  blood  cor- 
+puscles occur  only  as  elements  of  the  blood  and  lymph  of 
+other  organisms.  This  is  a  simple  statement  of  fact  in  the 
+interest  'of  pure  description.  But  notice  what  it  reveals. 
+Amoeba  appears  in  a  two-fold  role,  that  of  cell  and  that  of 
+organism.  But  cells  of  the  metazoa  are,  as  we  have  seen, 
+subordinate  to  the  organisms  to  which  they  belong.  What, 
+consequently,  are  we  to  conclude  as  to  the  relation  of  the 
+cell  of  the  amoeba  to  the  organism  amoeba?  Manifestly 
+that  the  one  cell  of  the  amoeba  is  no  less  subordinate  to  the 
+organism  amoeba  than  the  many  cells  of  a  worm  are  sub- 
+ordinate to  the  organism  worm. 
+
+While  this  is  merely  a  presentation  of  the  logic  of  the 
+situation,  it  corresponds  to  the  objective  facts  of  the  pro- 
+tista, and  I  think  must  be  admitted  by  any  one  who  will 
+weigh  fully  and  candidly  what  has  been  presented  in  the 
+section  on  that  subject. 
+
+So  much  for  that  part  of  the  reformation  of  the  cell- 
+theory,  in  its  application  to  the  protista,  which  concerns  the 
+subordination  of  cells  to  organisms  in  these  as  well  as  in 
+metazoa  and  metaphyta. 
+
+It  remains  now  to  see  what  can  be  done  with  the  other 
+aspect  of  the  reformat  ion,  namely,  that  of  securing  for  the 
+concept  organism  greater  definitcness  than  it  has  hitherto 
+had.  For  reasons  partly  valid  and  partly  not  valid  the 
+terms  "organism, "  "organism  as  a  whole"  and  "organiza- 
+tion" are  believed  by  some  biologists  to  be  too  vague  to  be 
+scientifically  useful.  Indeed,  a  few  good  authors  charge  that 
+these  terms  have  a  mystical  implication.  In  reply  to  this 
+
+
+£98  The  Unity  of  the  Organism 
+
+last  charge  it  may  be  pointed  out  that  any  objective  term, 
+no  matter  how  exact  and  rigidly  scientific,  is  capable  of  be- 
+ing given  a  mystical  twist.  Think  for  example,  of  how  the 
+words  substance  and  force  had  been  and  still  are  being 
+abused  in  this  way !  Were  positive  science  to  eliminate  from 
+its  vocabulary  all  words  that  have  had  mystical  meanings 
+imposed  upon  them,  there  would  be  left  only  words  that 
+have  never  come  into  wide  and  general  use.  The  truth  as 
+touching  the  mystical  implication  of  organism  and  organ- 
+ization is  that  while  no  careful  thinker  would  venture  to  deny 
+that  they  may  have  been  thus  misused,  they  have  suffered 
+distinctly  less  than  many  other  common  biological  terms 
+the  utility  of  which  when  properly  used  no  one  ever  ques- 
+tions. 
+
+These  palliative  remarks  about  the  charge  of  mysticism 
+are  not  intended  to  lessen  in  any  degree  the  need  of  giving 
+greater  definiteness  to  the  concept. 
+
+We  may  take  as  a  starting  point  for  this  effort  the  funda- 
+mental truth  that  living  beings  exist  whose  organization  is 
+so  radically  different  from  any  with  which  ordinary  obser- 
+vation acquaints  us,  as  to  have  been  wholly  unpredictable 
+before  they  had  been  actually  studied.  Research  on  the 
+protista  and  especially  those  prosecuted  during  the  present 
+era,  have  established  their  uniqueness  beyond  cavil,  and  no 
+other  general  result  of  these  researches  is  of  greater  im- 
+portance than  this. 
+
+The  appraisement  of  the  fruits  of  protistology  thus  in- 
+dicated came  to  me  gradually  in  the  course  of  my  studies 
+preparatory  to  writing  the  chapter  on  this  subject,  and  I 
+was  greatly  interested  to  find  later  that  Dobell  had  readied 
+the  same  conclusion.  "The  great  importance,"  he  writes, 
+"of  the  protista — to  my  mind — lies  in  the  fact  that  they 
+.•ire  a  group  of  living  beings  which  are  organized  upon  quite 
+a  different  principle  from  that  of  other  organisms.  .  .  . 
+The  protista  offer  us,  in  other  words,  a  new  point  of  view 
+
+
+.If tempt   to  Subordinate  Protista  to  Cell-Theory     299 
+
+for  looking  at  the  phenomena  of  life."  ir> 
+
+Something  of  what  lias  been  gained  or  may  be  gained  in 
+the  way  of  limbering  up  and  broadening  our  minds  as  to  the 
+nature  of  living  beings  is  illustrated  by  the  work  of  Ehren- 
+berg  examined  in  a  previous  section.  So  rigidly  limited, 
+as  we  saw,  was  this  zoologist's  idea  of  an  animal  that  it 
+seems  to  have  been  impossible  for  him  to  believe  an  animal 
+could  be  organized  on  a  plan  essentially  different  from 
+familiar  animals. 
+
+Having  regard  to  the  wThole  range  of  knowledge  of  pro- 
+tistan  anatomy  in  our  possession,  two  things  stand  forth 
+prominently.  First,  the  organisms  present  a  type  (if  indeed 
+we  ought  not  to  say  types)  of  organization  fundamentally 
+different  from  any  known  among  the  larger  plants  and  ani- 
+mals; and  second,  the  observational  evidence  is  to  the  ef- 
+fect that  organization  of  some  sort  is  present  in  all  Pro- 
+tista. Nor  is  the  phrase  "organization  of  some  sort"  void 
+of  definite  meaning.  For  a  living  being  to  have  organiza- 
+tion is  to  have  parts  of  different  kinds  whose  existence  and 
+operations  are  dependent  upon  one  another,  all  correspond- 
+ing to  the  activities  of  the  special  being  taken  as  a  whole. 
+"Of  some  sort,"  used  in  the  most  general  way  possible,  that 
+is,  as  applicable  to  all  organisms  whatever,  means  just  so 
+many  sorts  as  there  an-  sorts  of  plants  and  animals  in  all 
+the  world.  Man's  sort  of  organization  is  man's  total  struc- 
+ture, his  externo-topographic  body  members,  his  gross  ana- 
+tomic parts,  his  liistologic  parts,  and  his  chemico-biologic 
+elements.  Likewise  StyloiM/chia'g  sort  of  organization  is  that 
+protozoan's  total  structure,  macro-  and  micro-morphologic 
+and  chemico-biologic  and  so  on  for  all  living  beings. 
+
+And  this  brings  before  us  one  of  the  great  merits  of  the 
+organismal  as  contrasted  with  the  cellular  mode  of  viewing 
+living  beings.  The  concept  organism  being  committed  to  not 
+071^  sort,  of  organi/ation  hut  only  to  xonic  sort,  is  open  to 
+whatever  particular  organi/ation  may  be  discovered  in  any 
+
+
+300  The  Unity  of  the  Organism 
+
+being.  On  the  other  hand,  the  concept  "cell"  being  com- 
+mitted to  a,  single  type  to  which  it  strives  to  reduce  what- 
+ever being  it  approaches,  is  locked,  as  one  might  say,  against 
+the  vast  diversity  that  actually  exists  in  the  living  world. 
+Not  only  has  the  cell-theory,  strictly  understood,  no  ex- 
+planation of  the  structural  variety  of  living  nature,  but 
+by  its  very  essence  it  tends  to  minimize  the  significance  of 
+that  variety,  and  to  divert  attention  from  it.  That  the 
+theory  always  has  been  and  is  now  narrowing  in  its  influ- 
+ences no  candid  student  will  try  to  deny. 
+
+The  injury  that  the  science  of  microorganisms  has  suf- 
+fered and  to  which  attention  has  been  called  in  preceding 
+pages  is  a  notable  instance  of  the  tendency  of  the  cell- 
+theory  here  criticized. 
+
+But  does  almost  limitless  diversity  in  the  conception  of 
+"organism"  deprive  it  of  value  as  a  generalization?  Has 
+it  any  of  the  unifying  quality  upon  which  the  usefulness  of 
+a  scientific  theory  depends?  The  answer  to  this  is  two-fold. 
+In  the  first  place,  there  is  just  so  much  unity  in  the  concept 
+organism  as  there  is  in  the  larger  and  smaller  groups  of 
+the  plant  and  animal  kingdoms.  On  this  side  the  conception 
+is  rooted  in  comparative  anatomy  and  physiology  and  tax- 
+onomy. 
+
+But  the  conception's  unifying  quality  par  excellence  is 
+seen  in  another  direction,  namely,  that  of  the  elements-in- 
+common  of  organization  in  all  organisms  whatever,  so  far 
+as  their  structure  is  known  to  us.  In  all  living  beings  from 
+the  largest  and  most  complex  to  the  smallest  and  simplest, 
+if  still  visible,  the  body  is  differentiated  into  a  surface  layer 
+or  coat  somewhat  firmer  and  denser  than  the  underlying 
+more  voluminous  parts.  We  know  of  no  living  thing  without, 
+a  skin  of  some  sort.  Frequently  this  is  spoken  of  as  ;i  inert' 
+lifeless  protective  structure.  But  as  a  matter  of  fact  it  is 
+the  organism's  organ  of  contact  with  its  environment,  and 
+so  of  the  utmost  importance  for  the  nutritional,  respiratory 
+
+
+.  Attempt  to  Subordinate  Protista  to  Cell-Theory     301 
+
+and  responsive  functions.  Possibly  skin  and  inner  mass  may 
+be  organization  in  its  lowest  terms,  though  this  is  not  prob- 
+able. The  inner  mass  is  probably  never  entirely  structure- 
+less. Kven  Hie  bacteria,  formerly  described  as  homogeneous 
+in  their  body  substance,  are  now  being  shown  to  have  con- 
+siderable structure. 
+
+So  our  guiding  star  in  the  study  of  living  beings  whose 
+structure  is  not  known,  as  for  example  the  ultra-microscopic 
+beings  to  which  hog  cholera  is  supposed  to  be  due,  is  that 
+they  are  organisms  whose  organization  may  be  assumed  to 
+consist  of  at  least  an  outer  layer  and  an  inner  mass.  We 
+may  presume,  too,  that  portions  of  the  protoplasm  of  the 
+inner  mass  are  more  or  less  definitely  and  permanently  dif- 
+ferentiated chemically  from  the  rest,  but  of  this  there  is 
+less  certainty  than  of  the  differentiation  of  the  outer  layer. 
+
+Our  contention  that  cells  are  subordinate  to  organisms 
+everywhere  and  always,  whether  in  unicellular  or  multi- 
+cellular  beings,  we  may  now  regard  as  established. 
+
+REFERENCE  INDEX 
+
+1 .  I  .or}-     107  9.  Hertwig,    R.    ('02)     3 
+
+.'.Calkins    ('10)     10  10.  Jennings    336 
+
+3.   Dujardin     20  11.  Dnbrll     ('11)     273 
+
+I.   Dnjardin     24  12.  Dobell    ('11)    277 
+
+ft.  Dobel]    ('II)    274  13.  Dolx-ll  ('11)   276 
+
+(i.   Dujardin     127  H.  Dohrll  ('11)   300 
+
+7.  Stein    ('(>7)    22  15.  Dobell  f  11) 301 
+
+X   lluxk-y    ('53)     265  16.  Dobell  ('11)   270 
+
+
+PART  1 
+
+CRITIQUE    OF    THE    ELK.M  KXTALLST    COM  Kl'TlOX    OF 
+THE    ORGAXISM 
+
+B.     The  Production  of  Individuals  by  Other  Individuals 
+
+
+Chapter  XI 
+
+THE  NATURE  OF  HEREDITY  AND  THE  PROBLEM 
+OF   ITS   MECHANISM 
+
+
+Heredity   the  Chief  Present-day  Stronghold  of  Biological 
+Element alism 
+
+BIOLOGICAL  elementalism  of  to-day  undoubtedly  has 
+its  chief  stronghold  in  the  realm  of  heredity.  The 
+germ-plasm  theory,  accepted  by  probably  a  majority  of 
+biologists  as  an  absolute  monarch  in  the  empire  of  biological 
+thought,  was  elaborated  for  the  sole  purpose  of  explaining 
+heredity.  In  the  third  chapter  of  the  present  work  we 
+looked  at  certain  subsidiary  aspects  of  this  theory.  The 
+time  lias  now  come  for  scrutinizing  the  theory  itself. 
+
+Heredity  has  come  so  conspicuously  to  the  front  lately 
+in  connection  with  plant  and  animal  breeding,  in  social  ques- 
+tions, and  in  eugenics,  Miat  almost  every  educated  person  has 
+learned  something  about  the  splendid  progress  of  knowledge 
+concerning  it.  All  who  have  glanced  through  some  of  the 
+numerous  books  on  the  subject  have  seen  the  pictures  of 
+chromosomes  represented  as  the  bearers  or  the1  mechanism 
+of  heredity.  Thev  have  also  learned  more  or  less  about  unit 
+characters,  so  prominent,  biologic-ally  speaking,  in  con- 
+nection with  the  mode  of  inheritance  discovered  by  Gregor 
+Mendel.  If  the  learner's  efforts  have  gone  beyond  the  rudi- 
+ments of  the  subject  he  has  become  acquainted  with  "deter- 
+miners" and  "unit  factors"  of  the  germinal  substance  which 
+are  lield  to  explain  the  characters  of  full-grown  organisms. 
+There  is  something  bewilderingly  fascinating  in  the  qual- 
+
+305 
+
+
+306  The  Unity  of  the  Organism 
+
+ity  and  scope  of  these  discoveries,  and  it  is  not  surprising 
+that  many  of  the  leading  investigators  in  the  field  have  been 
+swept  off  their  feet  with  enthusiasm  for  the  rehabilitated 
+germ-plasm  theory.  Thus  we  hear  one  prominent  student 
+declare  that  individual  traits  are  a  "veneer,"  and  another 
+that  "analysis  of  the  constitution  of  the  germ-plasm  is  ad- 
+mittedly the  fundamental  problem  in  the  study  of  heredity." 
+In  other  words,  the  interpretations  placed  upon  the  indubi- 
+table results  of  the  new  researches  have  effected  a  rejuvena- 
+tion of  the  germ-plasm  theory  of  Weismann.  Rejuvenation, 
+I  say,  because  that  theory  was  approaching  death  and  decay 
+when  the  rediscovery  of  the  Mendelian  mode  of  inheritance 
+occurred.  It  seems  as  though  some  students  have  lived  so 
+exclusively  and  intensely  in  the  invisible  world  of  "deter- 
+miners," "factors,"  "bearers,"  etc.,  that  for  them  the  or- 
+dinary world  of  plants  and  animals  has  lost  most  of  its  in- 
+terest if  not  its  reality. 
+
+This  Due  Particularly  to  the  Discovery  of  the  Interdepend- 
+ence Between  Adult  Characters  and  Chromosomes 
+of  Germ-Cells 
+
+In  what  immediately  follows  I  want  to  fix  attention  on  the 
+remarkable  way  in  which  a  long  series  of  discoveries  highly 
+interesting  in  themselves,  and  pertaining  to  fields  quite  re- 
+mote from  each  other  have  conspired  to  increase  the  plausi- 
+bility of  the  old  theory  that  organic  beings  are  caused  by 
+the  activities  of  pre-existent,  simple  representative  units  or 
+elements  of  some  sort. 
+
+On  the  face  of  the  matter  two  fields  of  biology  could  hard- 
+ly be  more  sharply  separated  than  that  in  which  falls  the 
+study  of  the  nuclei  of  cells,  and  that  which  occupies  itself 
+with  the  way  color,  size,  and  similar  attributes  appear  in 
+successive  generations  of  plants  and  animals.  Yet  the  first, 
+or  cytology,  on  the  one  hand,  and  breeding  experiments 
+
+
+Nature  of  Heredity  and  Problem  of  Mechanism      307 
+
+conducted  under  tin-  guidance  of  Mendel's  discoveries,  on 
+the-  other,  have  almost  if  not  quite  demonstrated  some  sort 
+of  interdependence  between  the  chromosomes  of  the  germ- 
+inal cells  of  several  species  of  sexually  propagating  plants 
+and  animals,  and  such  attributes  of  adults.  These  demon- 
+strations are  perhaps  the  most  important  achievements  of 
+biology  in  the  last  decades,  and  they  must  ever  hold  high  rank 
+in  the  history  of  the  science. 
+
+How  do  the  new  discoveries  appear  when  viewed  from  the 
+organismal  standpoint?  A  study  of  recent  writings  on 
+heredity  gives  one  the  impression  that  elementalist  concep- 
+tions have  left  cells  behind  and  passed  on  to  chromosomes, 
+elements  which  lie  at  a  deeper  level  as  one  might  express  it, 
+of  organic  constitution  than  do  cells.  Much  recent  discus- 
+sion of  the  mechanism  of  heredity  has  not  been  cytologftal 
+so  much  as  chromosomological.  Somewhere  in  the  first 
+few  pages  of  nearly  all  semi-popular  books  on  genetics  one 
+finds  diagrams  of  the  egg-cell  witli  the  nucleus  and  its  chro- 
+mosomes represented  in  due  particularity,  but  with  the  body 
+of  the  egg  left  blank,  the  implication  being  that  this  part 
+contains  nothing  significant  for  heredity.  So  much  has 
+recent  thinking  on  the  "hereditary  substance"  kept  chro- 
+mosomes in  the  foreground  as  "carriers  of  heredity"  that 
+the  most  radical  elementalists  might,  quite-  conceivably)  grant 
+that  the  main  mass  of  each  cell,  whether  germ-cell  or  soma- 
+cell,  may  be  an  organ  and  so  subject  to  the  organism,  yet 
+contend  that  the  chromosomes  are  not  so  subject.  In  fact, 
+spec-illations  like  those  recently  published  by  the  late  K.  A. 
+Minchin  on  the  evolution  of  the  cell  appear  to  claim  just 
+this  sort  of  primacy  for  chromosomes,  or  at  any  rate  for 
+chromatin. 
+
+
+308  The   Unity  of  the  Organism 
+
+Revised  Conception  of  Heredity  Essential   to  Interpreting 
+This  Interdependence 
+
+On  the  basis  of  the  objective  evidence  what  is  the  prob- 
+able meaning  of  the  interdependence  between  attributes  of 
+full-grown  organisms  and  chromosomes  of  the  germ-cells? 
+There  is  the  utmost  diversity  of  view  as  to  what  heredity  is 
+and  as  to  what  facts  come  under  it.  It  seems  almost  as 
+though  the  more  the  subject  is  investigated  the  more  diverse 
+the  views  become.  This  I  think  is  literally  true  for  the 
+theoretical  side  of  the  subject,  though  it  is  certainly  not 
+true  with  reference  to  the  factual  side.  The  discovery  by 
+Mendel  of  the  principle  of  segregation  of  characters  while 
+they  are  still  latent  in  the  germ-cells,  and  the  elaboration 
+of  this  principle  by  later  investigators,  is  a  positive  achieve- 
+ment of  high  rank,  destined  to  stand  for  all  time.  And  suc'i 
+negative  results  as  those  of  the  disproof  of  telegeny,  of  the 
+influence  of  "maternal  impressions,"  and  of  the  inheritance 
+of  acquired  characters  in  the  old  pre-Wcismannian  sense, 
+must  be  counted  as  factual  achievements  of  much  practical 
+importance. 
+
+Unwarrantable  Tendency   to  Restrict  Heredity   to  Sexual 
+Propagation 
+
+Heredity  as  used  in  biology  lias  to  do  with  the  reproduc- 
+tion of  plants  and  animals.  That  the  growth  of  an  oak 
+tree  from  an  acorn  and  of  a  rooster  from  a  hen's  egg  illus- 
+trate heredity  there  can  be  no  doubt.  These  typify  a  great 
+number  of  cases,  all  those  in  which  the  plant  or  animal  de- 
+velops from  a  germ-cell,  an  exceedingly  minute,  simple  body 
+as  compared  with  the  full  grown  organism.  But  what  about 
+reproduction  through  other  means  than  such  cells?  Is 
+there  heredity  in  propagation  by  other  means?  Much  of 
+the  recent  discussion  of  the  subject  is  practically  restricted 
+to  heredity  among  germ-producing  organisms ;  and  some 
+of  the  foremost  writers  on  the  subject  are  explicit  on  this 
+
+
+Nature  of  Here/lift/  find  Problem  of  Mechanism      309 
+
+limitation.  Thus  in  the  glossary  of  Heredity  and  Environ- 
+ment in  the  Development  of  Man  by  E.  G.  Coiiklin,  we  read 
+that  heredity  may  be  defined  as  ''the  appearance  in  the  off- 
+spring of  characters  whose  differentia]  causes  are  found  in 
+the  germ  cells";1  and  since  nowhere  in  the  volume  does 
+Professor  Conklin  even  mention  any  but  germ-cell  repro- 
+duction, we  are  obliged  to  assume  that  for  him  heredity  is  a 
+phenomenon  of  germ-cell  reproduction  alone.  This  seems  to 
+be  a  case  of  trying  to  escape  through  definition  the  difficulties 
+encountered  by  a  theory;  in  other  words,  to  circumscribe  the 
+theory  for  the  purpose  of  excluding  from  its  scope  phenom- 
+ena which  can  not  be  made  to  fit  in  with  it.  It  is  surprising 
+that  so  careful  a  rcasoner  and  observer  as  Conklin  should 
+have  fallen  into  this  pit.  A  definition  of  heredity  that  would 
+exclude  from  its.  operation  the  growth  of  a  tiger  lily  from 
+a  bulb,  of  a  sponge  from  a  gemmule,  and  of  an  ascidiozooid 
+from  an  ascidian  bud,  is  so  obviously  forced  that  it  ought 
+to  raise  a  suspicion  that  consciously  or  otherwise  it  is  framed 
+with  some  other  motive  in  view  than  that  of  telling  what 
+heredity  is;  and  it  is  unbelievable  that  such  a  definition  can 
+gain  general  and  permanent  approval. 
+
+While  not  many  authorities  are  so  definitely  extreme  as 
+this,  a  large  majority  of  the  recent  books  in  which  heredity 
+occupies  a  prominent  place  tend  to  lead  the  reader  thus  to 
+restrict  his  conception  of  heredity.  Another  class  of  writers, 
+while  tacitly  allowing  that  heredity  manifests  itself  in  cases 
+when-  grrm-cells  do  not  occur,  yet  take  the  ground  that 
+sexless  propagation  is  very  exceptional  and  does  not  need 
+to  be  taken  particularly  into  account  in  elaborating  theories 
+about  heredity.  Thus  in  so  excellent  a  book  as  J.  Arthur 
+Thomson's  Heredity  we  are  told  that  "the  exceptions  are 
+trivial  compared  with  the  vast  majority  of  living  creatures 
+in  regard  to  which  it  is  certain  that  each  life  begins  in  a 
+fertilized  egg-cell."  And  on  a  later  page  this  author  ital- 
+ici/es  the  sentence:  "In  asexual  reproduction  the  resem- 
+
+
+310  Tin-   Unity  of  the  Organism 
+
+blance  of  the  offspring  to  the  parent  tends  to  be  very  com- 
+plete, and  the  reason  for  like  producing  like  is  no  puzzle, 
+while  the  separated-off  portion  is  a  representative  sample 
+of  the  whole  organism."  3 
+
+One  would  like  to  know  how  Professor  Thomson  would 
+reconcile  the  first  statement  with  the  sum  total  of  facts  of 
+reproduction.  We  know  from  his  numerous  books  that  few 
+biologists  are  more  broadly  learned  on  the  subject  of  or- 
+ganic reproduction  than  he.  It  is  therefore  hardly  possible 
+that  he  would  hesitate  to  admit  that  if  a  complete  census 
+were  made  at  this  hour  of  the  individual  organisms  compos- 
+ing the  living  world,  the  enumeration  taking  note  of  all 
+individuals  produced  sexually  and  all  those  produced  asex- 
+ually,  the  asexually  produced  would  probably  exceed  in 
+numbers  those  produced  by  the  other  process.  And  be  it 
+remembered  that  in  some  of  the  most  prolific  sub-divisions 
+of  the  bacteria,  the  dinoflagellates,  the  diatomes,  the  try- 
+panosomes,  the  sarcodinians,  various  groups  of  algae,  and 
+even  some  of  the  higher  plants  and  insects,  sexual  reproduc- 
+tion, with  rare  exceptions,  has  never  been  seen. 
+
+Nor  should  one  fail  to  recall  that  in  the  many  groups  of 
+both  plants  and  animals  where  sexual  and  asexual  repro- 
+duction alternate  in  the  same  species,  the  individuals  pro- 
+duced asexually  are  almost,  if  not  always,  far  more  numer- 
+ous than  those  produced  sexually.  So  far  as  numbers  of 
+individuals  are  concerned  all  zoologists  know  how  small  a 
+part  sexual  propagation  plays  in  some  of  the  coelenterates, 
+as  the  coral-producing  polyps;  in  most  bryozoa  ;  in  several 
+groups  of  tunicates;  and  in  some  flat-worms.  If  one  ob- 
+jects that  coral  polyps,  bryozoan  polypides,  and  ascidian 
+zooids  ought  not  to  be  counted  as  "individuals,"  the  reply 
+sufficient  for  the  present  discussion  is  that  whatever  they 
+should  or  should  not  be  called  they  are  what  give  rise  to  the 
+sex-cells,  the  things  which  are  central  in  the  theories  of 
+heredity.  "Germinal  continuity,"  so  fundamental  in  these 
+
+
+Xature  of  Her  edit  if  and  Problem  of  MechanUm      311 
+
+theories,  is  certainly  non-existent  so  far  as  germ-cells  are 
+concerned  in  many  of  these  species. 
+
+The  aim  so  far  has  been  merely  to  fix  attention  on  the 
+tendency  of  present  day  theorizing  on  heredity  to  restrict 
+the  conception  to  phenomena  presented  in  reproduction 
+through  the  instrumentality  of  germ-cells  of  two  sorts,  male 
+and  female.  It  is  hoped  that  this  brief  statement  of  the 
+tendency  has  revealed  its  unwarrantableness  to  the  uncom- 
+mitted reader.  But  since  our  general  enterprise  requires  us 
+to  perceive  its  fallaciousness  we  shall  have  to  examine  it  in 
+considerable  detail. 
+
+Unwarrantable   Tendency   to   Restrict   Heredity   to   Adult 
+Characters 
+
+Another  serious  shortcoming  in  the  way  problems  of 
+heredity  are  treated  must  be  noticed.  Reference  is  made 
+to  the  practice  particularly  bv  recent  geneticists  of  treating 
+heredity  as  though  it  primarily  concerns  only  the  attributes 
+of  adult  organisms.  To  be  sure  both  popular  and  scientific 
+observation  depart  to  some  extent  from  this  rule.  Notice 
+is  often  taken  of  the  resemblance  to  their  parents  of  young, 
+even  newly  born  humans  and  lower  animals,  but  even  here 
+the  basis  of  comparison  is  the  adult,  the  parent.  Rarely  are 
+resemblances  of  the  embryo  in  its  many  stages  of  develop- 
+ment to  the  embryos  of  its  parents  at  tJie  corresponding 
+fttayes  of  their  development  thought  of  as  phenomena  of 
+heredity.  Raymond  Pearl,  in  his  Modes  of  Research  in  Gen- 
+etics, has  pointed  out  this  defect  more  comprehensively  than 
+any  other  writer  so  far  as  I  know.  Under  the  topic,  "The 
+Embryological  Methods  of  Research  in  Genetics,"  after 
+remarking  that  embryology  has  been  cultivated  mainly  for 
+its  own  ends,  he  writes,  "Only  in  a  relatively  small  portion 
+of  instances,  has  it  been  directly  and  purposefully  used  as 
+a  mode  of  research  in  genetics.  Yet  embryology  is  the  sci- 
+
+
+312  The  Unity  of  the  Organism 
+
+ence  of  somatogenesis,  which  was  shown  at  the  beginning  to 
+be  one  of  the  fundamental  elements  of  the  problem  of  hered- 
+ity," and  he  remarks  further:  "It  is  a  little  difficult  to  un- 
+derstand why,  with  such  splendid  opportunities  as  the 
+embryological  method  offers,  so  little  light  regarding  the 
+hereditary  process  seems  to  have  come  from  the  embryolo- 
+gist."  * 
+
+Importance  of  Recognizing  Heredity  as  Working  by  Trans- 
+formation Rather  Than  by  Transmission 
+
+Another  weak  spot  in  much  thinking  about  heredity  even 
+by  some  biologists  is  due  to  the  fiction  of  "transmitting" 
+characters  from  parent  to  offspring.  This  appears  to  have 
+come  from  the  original  meaning  of  the  terms  inheritance 
+and  heredity,  which  have  to  do  with  heirship  to  property. 
+Several  recent  authors  have  dwelt  on  the  confusion  of  ideas 
+that  has  arisen  from  this  equivocal  mode  of  expression.  No 
+one  fails  to  recognize  the  difference  between  the  transmis- 
+sion of  stature  and  the  transmission  of  a  farm  by  a  father 
+to  his  son.  That  the  difference  is  partially  recognized  even 
+in  ordinary  discourse  is  seen  by  the  stated  beliefs  that  bio- 
+logical heredity  is  always  associated  with  resemblance.  In- 
+deed, the  universality  of  this  association  is  one  of  the  basal 
+truths  in  theories  of  heredity.  The  real  inappropriateness 
+about  speaking  of  organic  propagation  in  terms  of  economic 
+inheritance  is  that  attention  is  not  called  to  the  fact  that  the 
+former  is  accomplished  through  a  long,  regular  systematic 
+series  of  transformations  to  which  there  is  nothing  compar- 
+able in  the  latter. 
+
+The  objection  here  made  against  the  transmission  idea  is 
+different  from  that  made  by  most  geneticists.  Their  point 
+is  that  the  germ-plasm  conception  excludes  the  possibility 
+of  any  sort  of  transmission  from  parent  to  offspring.  Con- 
+tinuity of  germ-plasm  is  the  kernel  of  their  objection.  My 
+main  point,  on  the  contrary,  does  not  concern  the  hypotheti- 
+
+
+Nature  of  Heredity  and  Problem  of  Mechanism      313 
+
+cal  germ-plasm  so  much  as  the  observable  fact  that  or- 
+ganic development,  whether  hereditary  or  not,  is  first  and 
+foremost  transformative  rather  than  transmissive. 
+
+Tendency  to  Confuse  Heredity  with  Causes  of  Heredity 
+
+Again  there  is  appearing  in  the  strictly  modern  studies  of 
+heredity  a  conception  that  seems  both  scientifically  unwar- 
+rantable and  fraught  with  possibilities  of  much  harm.  This 
+is  the  failure  to  distinguish  between  heredity  itself  and  the 
+causes  of  heredity.  Pearl  has  given  this  the  most  positive 
+expression  I  have  come  upon.  "By  heredity  is  meant  the 
+complex  of  causes,  not  now  further  specified  or  defined, 
+which,  taken  together,  determines  this  likeness  or  resemblance 
+between  individuals  genetically  related  to  each  other."  5  It 
+is  to  be  hoped  Doctor  Pearl  would  not  wish  to  be  taken  quite 
+literally  in  this.  Indeed,  other  passages  give  some  ground 
+for  supposing  he  would  not.  The  point  here  raised  is 
+probably  more  an  aspect  of  the  general  theory  of  natural 
+causation  than  of  the  specific  question  of  cause  and  effect  in 
+heredity. 
+
+The  concept  "cause"  is  meaningless  except  in  relation  with 
+the  concept  "effect,"  and  since  causes  and  their  effects 
+can  not  be  identical,  effects  must  be  as  much  realities  of 
+nature  as  causes  are;  so  if  science  is  to  maintain  its  claim  to 
+objectivity  it  must  devote  itself  as  sedulously  to  the  ascer- 
+tainment of  what  the  effects  are  in  any  given  case  as  to  what 
+the  causes  are.  The  eye-color  of  a  child  which  resembles 
+the  eye-color  of  an  ancestor  is  an  effect  and  not  a  cause, 
+and  must  be  accepted  whole-heartedly  as  such  before  the 
+student  is  in  a  proper  frame  of  mind  to  consider  the  question 
+of  what  the  cause  or  causes  mav  be  of  the  observed  effects. 
+To  define  heredity  in  a  way  that  implies  a  disregard  of  this 
+general  principle  can  but  lead  to  unbalanced  thinking  and 
+effort  and  to  results  strongly  tinctured  with  error.  If  the 
+position  be  taken — and  unfortunately  it  is  taken  by  many 
+
+
+314  The   Unity  of  the  Organism 
+
+men  of  science — that  the  investigation  of  causes  is  the  main 
+if  not  the  exclusive  function  of  science,  this  can  mean  noth- 
+ing else  than  that  in  the  eyes  of  natural  science  at  least  one- 
+half  of  all  nature  is  of  less  importance  and  interest  than 
+the  other  half,  and  that  science  is  privileged  to  decide  which 
+is  the  important  part.  This  is  another  way  of  criticizing 
+the  practice  now  so  dominant  in  biology  of  exalting  the  con- 
+cept of  causality  and  degrading  that  of  description.  An 
+important  fruit  of  the  present  discussion  will  be,  it  is  hoped, 
+an  exposure  of  the  injury  that  has  befallen  theories  of  hered- 
+ity from  this  practice.  Nor  does  our  position  imply  the 
+notion,  held  by  a  few  men  of  science,  that  the  category  of 
+causality  is  useless  in  science  and  ought  to  be  dropped.  Far 
+from  it.  The  causal  explanation  of  heredity  is  not  only  a 
+legitimate  but  an  exceedingly  important  object  of  investi- 
+gation. But  it  is  by  no  means  the  whole  problem  or  even 
+the  most  important  problem,  the  subject  of  heredity  being 
+regarded  in  the  large  and  for  all  time.  Perhaps  in  the 
+present  stage  of  progress  of  biology  it  is  the  most  im- 
+portant ;  but  if  so  I  would  maintain  that  at  some  later  time, 
+when  the  knowledge  of  causes  shall  have  been  advanced  out 
+of  proportion  to  other  aspects  of  the  subject,  some  of  these 
+retarded  aspects  will  become  for  a  period  the  center  of 
+genetic  interest. 
+
+The  Definition   of   Heredity  Adopted   in   This   Discussion, 
+
+with  Remarks  on  Its  Application,  Especially  with 
+
+Reference  to  the  Chromatin  Theory 
+
+We  are  now  in  position  to  fix  upon  a  definition  of  heredity 
+which  shall  recognize  that  its  mechanism  is  as  much  a  part 
+of  and  subordinate  to  the  organism  as  are  all  its  other  parts 
+and  organs.  Or,  employing  the  form  of  expression  current 
+in  recent  genetics,  a  definition  which  shall  tactily  recognize 
+that  chromosomes,  even  though  bearers  of  heredity,  are 
+causally  explained  by  the  organism  in  the  same  sense  that 
+
+
+Nature  of  Heredity  and  Problem  of  Meelmnism      315 
+
+the  hereditary  attributes  of  the  organism  are  causally  ex- 
+plained by  the-  chromosomes. 
+
+Of  the  many  definitions  the  one  that  most  nearly  expresses 
+the  conception  that  will  pervade  this  discussion  is  that  given 
+by  W.  E.  Castle:  "By  heredity,  then,  we  mean  organic  re- 
+semblance based  on  descent." '  The-  commendable  things 
+about  this  definition  are  its  non-commitment  to  any  theory, 
+and  the  fact  that  it  puts  resemblance  in  the  front  line  along 
+with  the  recognition  that  resemblance  is  due  to  descent. 
+Anv  adequate  definition  of  heredity  must  hold  the  phenom- 
+enon of  resemblance  always  in  clear  sight,  and  this  in  spite 
+of  the  fact  that  in  the  Mcndelian  mode  of  inheritance  the 
+resemblance  may  skip  one  or  more  generations. 
+
+Our  further  discussion  will  fall  under  two  heads.  First, 
+we  shall  make  a  wide  survey  of  resemblance  due  to  descent 
+for  the  purpose  of  learning  how  far  its  connection  with 
+chromosomes  actually  extends;  whether  in  a  word,  the  con- 
+nection is  a  universal  principle.  Second,  we  shall  then  have 
+to  see  what  we  are  justified  in  supposing  to  be  the  nature  of 
+the  connection. 
+
+It  will  be  noticed  that  the  first  statement  admits  in  ad- 
+vance that  to  some  extent  resemblance'  between  ancestors 
+and  progeny  is  ///  xonic  ic<ii/  connected  with  the  chromosome's. 
+This  admission  relieves  us  of  the  necessity  of  an  exhaustive 
+review  of  the-  evidence  which  necessitates  the-  admission. 
+Though  the-  evidence  has  practically  all  been  brought  out 
+during  the  last  twenty-five  years,  it  is  large  in  quantity  and 
+widely  scattered.  Nearly  all  the  semi-popular  books,  not 
+to  speak  of  the  many  serials  in  technical  biology,  present 
+some  of  it.  We  may  therefore  restrict  ourselves  to  suc-h 
+aspects  as  will  serve  our  purpose  from  time  to  time. 
+
+Throughout  the  vast  range  of  living  beings  the  rule  like 
+jtrodneex  like  holds  sooner  or  later.  I  say  sooner  or  later 
+because  tin-re  are  many  exceptions  were  we  to  limit  the  state- 
+ment to  parents  and  their  immediate  offspring.  No  indi- 
+
+
+316  The   Vmty  of  tlie  Organism 
+
+vidual  salpa,  for  example,  ever  produces  its  like.  In  some 
+species  parent  and  offspring  are  very  unlike,  so  much  so 
+that  were  they  not  actually  observed,  to  be  parent  and  off- 
+spring, they  would  be  regarded  as  unrelated  and  belonging 
+to  different  genera.  But  instead  of  being  wholly  unique, 
+though  so  unlike  its  parent,  the  young  returns  to  its  grand- 
+parent for  a  pattern;  so  if  we  jump  a  generation  the  rule 
+holds  after  all.  This  scheme  of  reproduction,  technically 
+known  as  alternation  of  generations,  occurs  in  a  considerable 
+number  of  groups  of  both  plants  and  animals.  Another 
+exception  is  presented  by  the  Mendelian  mode  of  heredity. 
+One  of  the  most  characteristic  things  about  this  kind  of  in- 
+heritance is  the  skipping  of  generations  as  regards  heritable 
+attributes.  When  gray  and  white  mice  are  mated  the  issue 
+are  all  like  the  gray  parent;  but  some  of  the  grandchildren, 
+if  inbreeding  be  followed,  are  like  their  white  grandparent. 
+This  departure  from  the  rule  of  like  is  so  important  and 
+peculiar  that  some  biologists  have  felt  it  necessary  to  frame 
+the  definition  of  heredity  so  as  to  make  it  cover  the  appear- 
+ance in  offspring  of  difference  as  well  as  of  resemblance.  In 
+truth  though,  if  the  term  descent  be  understood  to  pass  over 
+one  or  more  generations,  as  in  the  case  of  Salpa,  the  rule 
+holds.  Indeed,  Mendelian  inheritance  in  hybrid  races  might 
+be  described  as  a  sort  of  alternation  of  generations. 
+
+Another  aspect  of  the  law  of  like  must  be  noticed  here. 
+Not  only  do  organisms  come  from  ancestors  but  we  have 
+not  a  scrap  of  trustworthy  evidence  that  they  are  or  ever 
+have  been  produced  by  any  other  means.  In  other  words, 
+the  law  of  biogenesis,  the  law,  that  is,  that  negatives  the 
+theory  of  spontaneous  generation,  is  the  same  in  large  part 
+as  the  law  that  like  produces  like.  So  starting  from  any 
+given  individual,  problems  of  genesis  and  resemblance  look 
+in  two  opposite-  directions,  backward  into  the  past,  and  for- 
+ward into  the  future.  Viewing  heredity  from  this  standpoint 
+compels  us  to  consider  closely  the  degree  of  resemblance 
+
+
+Nature  of  Heredity  and  Problem  of  Mechanism     317 
+
+between  descendants  and  ancestors.  Full  consideration  of 
+the  question  may  be  deferred  for  the  moment,  though  atten- 
+tion must  be  called  to  the  fact  that  resemblance  even  of 
+this  sort,  never,  so  far  as  we  know,  amounts  to  identity,  even 
+though  in  many  instances  it  is  wonderfully  close.  Difference 
+is  a  no  less  universal  rule  than  is  similarity  and  from  this 
+it  results  that  science  is  absolutely  prohibited  from  attempt- 
+ing to  minimize  the  importance  of  either  truth.  The  prob- 
+lems of  organic  likeness  and  difference  are  inseparable,  and 
+those  biologists  are  so  far  right  who  contend  that  heredity 
+has  to  do  with  both.  In  the  interest  of  clear  thinking  how- 
+ever, it  is  necessary  to  recognize  that  resemblance  is  one 
+fact  and  difference  another;  and  that  the  idea  of  heredity 
+has  rightly  grown  up  in  connection  with  the  former.  Hered- 
+ity and  variation  are  not  simply  one  fact  and  one  problem. 
+They  are  two  distinct,  though  essentially  interrelated  and 
+wholly  inseparable  facts  and  problems.  This  way  of  put- 
+ting the  matter  seems  unescapable  when  we  consider  a  cir- 
+sumscribed  group  of  organisms,  as  for  example  the  horses, 
+in  which  much  is  known  about  the  ancestrv  in  geological  time 
+and  the  species  and  varieties  now  existing.  The  student  of 
+such  groups  is  alert  for  both  points  of  resemblance  and 
+points  of  difference  between  the  members  of  the  group.  He 
+knows  that  his  scientific  integrity  depends  on  his  preserving 
+an  exact  balance  of  effort  towards  the  two  kinds  of  charac- 
+ters, and  the  degree  of  resemblance  is  his  sole  criterion  of 
+degree  of  kindred.  Particular  note  should  be  taken  of  the 
+difference  of  starting  point  relative  to  problems  of  heredity 
+held  by  students  of  genetics  and  by  students  of  natural 
+organic  groups.  For  the  former  the  descent  aspect,  of  the 
+definition  we  have  adopted  is  observationally  known  and  is 
+the  part  in  which  their  main  interest  lies,  while  for  the 
+latter  the  genetic  connection  is,  in  a  vast  majority  of  cases, 
+forever  bcvond  the  reach  of  observation.  With  him  it  has 
+to  be  inferred  or  ignored.  But  what  is  his  basis  for  in- 
+
+
+318  The  Unity  of  the  Organism 
+
+ference?  Degree  of  resemblance  and  that  alone.  Ho  the 
+comprehensive  and  balanced  study  of  rescmblances-and- 
+differences  is  far  more  important  with  the  student  of  organic 
+groups  than  with  the  geneticist.  The  former  must  perforce 
+devote  himself  to  resemblances  more  broadly  and  more  deeply 
+than  does  the  geneticist,  and  so  is  sure  to  have  an  ampler 
+mass  of  facts  at  his  command. 
+
+Looking  at  the  phenomenon  of  heredity  from  the  vantage 
+point  now  reached,  a  fact  that  cannot  escape  attention  is 
+that  the  infinite  number  and  kind  of  resemblances  presented 
+by  the  living  world  co-exist  with  a  likewise  infinite  number  of 
+differences.  This  fact  brings  us  to  where  we  can  state  sharp- 
+ly the  problem  now  before  us :  If  the  resemblances  among 
+completed  individual  organisms  are  explained,  as  prevalent 
+theory  holds  them  to  be,  by  referring  them  to  the  chromo- 
+somes which  constitute  only  a  small  fraction  of  the  total 
+mass  of  organisms,  and  which  have  little  observable  variety 
+as  compared  with  that  among  organisms,  how  have  all  the 
+differences  among  the  organisms  come  about?  Of  the  vast 
+total  mass  of  material  that  enters  into  the  make-up  of  living 
+nature  and  which  is  composed  of  chromosomes  plus  whatever 
+else  the  living  body  contains,  how  has  the  relatively  small 
+mass  of  relatively  undifferentiated  chromatin  produced  the 
+great  mass  of  relatively  highly  differentiated  cytoplasm  en- 
+tering into  the  tissues  and  organs? 
+
+It  should  be  stated  at  the  outset  that  so  utterly  insignif- 
+icant is  the  positive  evidence  of  the  production  of  cytoplasm 
+by  the  chromosomes  as  compared  with  the  evidence  of  the 
+fundamental  coexistence  and  cointeraction  of  these  sub- 
+stances, that  very  few  biologists  are  so  bold  as  to  contend 
+that  either  ontogenetically  or  phylogcnetically  are  chromo- 
+somes literally  first,  and  producers  of  other  parts.  The 
+extreme  form  of  the  germ-plasm  theory  probably  implied 
+this,  although  Weismann  never  followed  the  logical  conse- 
+quences of  his  speculations  into  phylogenctic  history. 
+
+
+Nature  of  Heredity  and  Problem  of  Mechanism      319 
+
+E.  A.  Minchin,  as  previously  noted,  has  taken  the  bull 
+by  the  horns  in  his  address  on  The  Erolut'ion  of  the  Cell  and 
+contended  that  the  chromosomes  or  their  immediate  ances- 
+tors, chromatic  granules,  were  the  primal  organisms.  Min- 
+chin's  ideas  deserve  examining  as  an  example  of  where 
+elementalist  speculation  may  lead  even  at  this  late  day  of 
+supposed  fidelity  to  objective  evidence.  Minchin  accepts  the 
+classification  of  biologists  made  by  a  poet  writing  for  Punch 
+into  "cytoplasmists"  and  "chromatinists"  and  declares  him- 
+self a  "whole-hearted  chromatinist."  "All  the  results,"  he 
+says,  "of  modern  investigations  into  the  structure,  physiol- 
+ogy, and  behavior  of  cells  on  the  one  hand,  and  of  the 
+various  types  of  organisms  grouped  under  the  Protista,  on 
+the  other,  .  .  .  appear  to  me  to  indicate  that  the  chromatin- 
+elemcnts  represent  the  primary  and  original  living  units  or 
+individuals,  and  that  the  cytoplasm  represents  a  secondary 
+product."  7  These  "hypothetical  primitive  organisms"  Min- 
+chin thought  might  well  be  called  biococci,  the  name  used 
+by  Mereschkowsky  for  certain  primal  beings  imagined  by 
+him.  The  author's  desire  to  keep  in  sight,  at  least,  of  objec- 
+tive reality  is  obvious,  and  leads  him  to  say  frankly,  "We 
+have  as  yet  no  evidence  of  the  existence  of  biococci  at  the 
+present  time  as  free-living  organisms."  8  How  this  admis- 
+sion fits  in  with  the  statement  previously  quoted  about  all 
+the  n-Milts  of  modern  investigations,  he  appears  not  to  have 
+felt  it  necessary  t«  consider.  Nor  did  he  neglect  to  dwell 
+upon  the  similarity  between  these  chromatin-elements,  with 
+their  continuity  through  simple  division,  and  the  genii-plasm. 
+This  aspect  of  the  subject  appealed  to  him  especially,  and 
+some  of  his  terminology  is  highly  characteristic  of  the  ele- 
+mentalist standpoint  and  especially  instructive  for  the  pres- 
+ent discussion.  The  conception  which  has  become  familiar 
+to  us  in  late  vears  that  the  germ-cells  of  the  mctazoa  "throw 
+off,  as  it  were,"  a  soma,  has  a  prominent  place  in  Minchin's 
+Comparison  of  the  germ-plasm  of  multicellular  organisms 
+
+
+. 
+
+320  The   Unity  of  the  Organism 
+
+with  the  chromatin-elements  of  the  Protista. 
+
+One  of  the  most  significant  things  about  this  particular 
+development  of  chromosomal  elementalism  is  its  relation  to 
+the  plasmic  elementalism  as  first  set  forth  by  Dujardin,  and 
+later  by  Haeckel  in  his  Moneron  theory.  An  essential  aim  of 
+the  last  mentioned  theory  was  to  reduce  "life"  to  an  ultimate 
+simplicity  in  the  sense  of  conceiving  it  as  once  manifesting 
+itself  without  organized  substance — in  "organless  organ- 
+isms," as  Haeckel  liked  to  express  it.  Minchin  criticizes  with 
+due  severity  the  "phantom"  Moneron  which  has  been  "per- 
+mitted to  masquerade  for  many  years  under  the  false  appear- 
+ance of  an  objective  phenomenon  of  Nature."  But  cu- 
+riously, he  appears  not  to  have  noticed  that  so  far  as  objec- 
+tivity and  logic  are  concerned  his  proposal  is  merely  to 
+displace  the  phantom  Moneron  by  the  phantom  Biococcus. 
+The  question  of  structurelessness  versus  organization  is  no 
+less  pressing  in  the  one  case  than  in  the  other,  as  indeed 
+Minchin's  own  statement  shows.  "The  earliest  forms  of 
+life  were  'Biococci,'  minute  ultramicroscopic  .particles  of 
+mycoplasm,  without  organization,"  he  says  in  presenting 
+Mereschkowsky's  theory.10 
+
+A  theory  of  chromatin  hegemony  less  startling  than  this 
+by  Minchin,  but  hardly  more  satisfactory  when  viewed  in  the 
+full  light  of  fact  and  logic,  has  recently  been  elaborated  by 
+H.  F.  Osborn.  Osborn's  theory  does  not,  he  thinks,  require 
+him  to  conceive  chromatin  to  be  actually  the  primal  organic 
+substance.  It  is  more  probable,  he  holds,  that  "chromatin 
+and  protoplasm  are  coexistent  in  cells  from  the  earliest 
+known  stages."11  But  the  author's  central  purpose,  that 
+of  working  toward  "an  energy  conception  of  Evolution 
+and  an  energy  conception  of  Heredity  and  away  from 
+the  matter  and  form  conceptions  which  have  prevailed 
+for  over  a  century," 12  permits  him  to  pass  over  rather 
+lightly  the  morphology  of  the  hypothetical  first  Life.  It  is 
+clear,  though,  that  "heredity-cliromatin"  a  term  which  he 
+
+
+Nature  of  Heredity  and  Problem  of  Mechanism     321 
+
+uses  as  a  synonym  for  germ-plasm,  holds  a  commanding 
+place  in  his  mind.  This  is  clear  from  many  direct  state- 
+ments, as  for  example  that  of  the  conception  that  chromatin 
+is  the  "seat  of  heredity,"  while  protoplasm  is  the  "expres- 
+sion*'' of  it.1  !  But  a  "seat"  as  thus  used  is  always  some- 
+thing far  more  fundamental  and  interesting  than  an  "expres- 
+sion." For  instance,  in  Osborn's  enterprise  the  "matter  and 
+form"  which,  as  indicated  above,  he  proposes  to  move  away 
+from,  would  come  under  the  head  of  "expression"  rather 
+than  "seat."  There  are  several  highly  significant  things 
+about  these  speculations,  only  one  of  which  is  it  justifiable 
+to  mention  here.  That  is  the  curious  dualism  into  which 
+Osborn  is  led.  As  between  Body-  and  Heredity-chromatin, 
+he  conceives  a  sort  of  independence  which  reminds  one  of  the 
+independence  of  Body  and  Mind  assumed  by  the  hypothesis 
+of  psycho-physical  parallelism.  His  theory  of  heteroplasy 
+conceives  that  "we  are  studying  not  one  but  four  simul- 
+taneous evolutions."  14  Of  these  four  one  is  the  Inorganic 
+Environment  and  another  the  Life  Environment.  That  is, 
+two  pertain  to  the  Environment,  so  that  the  other  two  per- 
+tain to  what  in  ordinary  biology  is  considered  the  organism. 
+But  in  Osborn's  theory  the  "developing  organism  (proto- 
+plasm and  hody-chromatin)"  is  only  one  of  the  two  evolu- 
+tions, the  other  being  "heredity-chromatin."  In  other  words, 
+so  far  as  evolution  is  concerned,  the  organism  is  one  thing, 
+having  its  laws  of  evolution  which  are  pretty  well  known, 
+while  the  heredity-chromatin  is  quite  another  tiling,  the  evo- 
+lutionary laws  of  which  are  still  to  be  discovered. 
+
+This  will  suffice  to  indicate  how  uniquely  dominant  a  role 
+chromatin,  or  the  heredity  variety  of  it,  plays  in  this  sig- 
+nificant speculation.  A  direct  examination  of  it  is  not 
+necessary,  since  our  whole  argument  will  be  recognized  as 
+incompatible  with  it.  We  may,  however,  call  attention  to 
+the  unmistakable  indications  scattered  through  the  theoreti- 
+cal part  of  Tlie  Origin  and  Evolution  of  Life  that  so  far 
+
+
+The   Unity  of  the  Organism 
+
+as  chromatin  enters  into  his  theory  the  author  is  faced 
+toward  metaphysics,  and  metaphysics  of  a  distinctly  mysti- 
+cal cast.  One  of  the  moderate  expressions  showing  this  trend 
+occurs  on  the  first  page  of  the  preface:  "Some  of  these 
+miracles  [of  adaptation]  are  recited  in  the  second  part  of 
+this  volume  to  show  that  the  germ  evolution  is  the  most 
+incomprehensible  phenomenon  which  has  yet  been  discovered 
+in  the  universe."  The  author's  emotional  attitude  toward 
+his  theory  is  to  me  one  of  the  most  significant  things  about 
+the  book.  And  my  criticisms  of  the  theory,  implied  rather 
+than  expressed,  are  not  at  all  against  the  fact  that  an  emo- 
+tional attitude  is  displayed  by  the  author  but  only  that  the 
+focal  point  of  this  attitude  should  be  chromatin,  whether 
+heredity-chromatin  or  any  other — especially  when  the  au- 
+thor is  a  palaeontologist ! 
+
+Meaning  and  Criterion  of  "Mechanism  of  Heredity" 
+
+If  we  decide  to  apply  the  term  "mechanism"  to  the  means 
+by  which  organisms  produce  other  organisms  like  themselves, 
+we  obviously  ought  to  consider  carefully  what  a  mechanism 
+would  be  that  could  serve  such  a  purpose.  Obviously,  I  say, 
+such  a  consideration  is  due  because  nowhere  else  in  the  world, 
+either  the  natural  or  the  artificial  world,  do  we  find  need  for 
+any  such  mechanism.  Heredity  is  surely  one  of  the  most 
+distinctive  phenomena  presented  by  living  beings,  so  its 
+mechanism  must  be  unique.  We  have  already  called  atten- 
+tion to  the  familiar  but  often  ignored  fact  that  "heredity" 
+is  the  term  applied  to  the  universal  truth  that  as  the  or- 
+ganism unfolds  itself  from  the  relatively  minute  and  simple 
+stage  known  as  the  germ  into  the  relatively  large  and  com- 
+plex stage  known  as  the  adult,  it  does  this  in  accordance 
+with  a  scheme  or  pattern  characteristic  of  the  species  to 
+which  the  organism  belongs,  so  that  any  particular  individual 
+in  the  series  resembles  those  which  have  gone  before  it. 
+And  this  unfolding,  we  have  pointed  out,  consists  essentially 
+
+
+Nature  of  Heredity  (ind  Problem  of  Mechanism      323 
+
+of  a  great  intricacy  and  succession  of  transformations.  From 
+this  it  follows  that  the  "mechanism  of  heredity"  would  be  the 
+materials  and  structures  by  which  these  transformations  are 
+accomplished.  To  think  of  the  hereditary  substance,  or  the 
+"mechanism  of  heredity"  as  belonging  to  the  germ-cells  alone 
+is  utterly  unwarranted  by  the  obvious  facts,  as  everybody 
+must  see  who  will  reflect  broadly  and  candidly  on  the  sub- 
+ject. 
+
+A  truly  objective  study,  consequently,  of  the  mechanism 
+of  heredity  must  be  a  study  not  only  of  the  materials  and 
+structures  in  the  germ-cell  stages,  but  in  all  stages  what- 
+ever, by  which  the  production  of  hereditary  parts  and  attri- 
+butes is  accomplished. 
+
+In  other  words,  a  real  study  of  biotic  genesis,  whether 
+the  generating  parts  be  hereditary  or  variational,  that  is, 
+like  or  unlike  those  of  ancestors,  must  be  first  and  essentially 
+by  the  methods  of  descriptive  ontogenesis.  The  only  direct 
+evidence  we  have  or  can  have  of  the  origin  of  a  part  or  an 
+organ  is  the  observed  transformations  by  which  that  part 
+or  organ  is  produced  from  preceding  parts,  and  the  mate- 
+rials participating  in  the  transformations  are  the  hereditary 
+substances,  if  that  term  is  to  have  any  legitimate  meaning. 
+
+To  illustrate:  the  lens  of  the  vertebrate  eye  originates 
+from  a  patch  of  ectoderm  exterior  to  the  optic  globe.  The 
+optic  globe  itself  arises  by  an  outpocketing  of  the  primitive 
+brain.  Since  both  lens  and  globe  resemble  the  corresponding 
+parts  of  the  eye  of  ancestors  near  and  remote,  their  develop- 
+ment comes  under  the  principle  of  heredity;  and  the  ccto- 
+dermal  patch  giving  rise  to  the  lens,  and  the  part  of  the 
+primitive  brain  giving  rise  to  the  optic  globe  are  mechanisms 
+of  heredity ;  and  the  whole  observable  series  of  embryonic 
+parts  which  culminate  in  the  completed  eye  are  the  only 
+direct  evidence  for  the-  mechanism  of  heredity  for  the  eye. 
+So  is  it  with  all  biotic  ontogenesis  whatever.  This  brief 
+statement  is  in  essence  nothing  more  than  the  gist  of  the 
+
+
+The   Unity  of  the  Organism 
+
+facts  discovered  and  principles  laid  down  by  Wolff  and  von 
+Baer,  and  the  truth  expressed  has  been  the  foundation  of 
+all  solid  achievement  in  embryology  throughout  the  history 
+of  the  science.  It  is  strange  that  conditions  should  arise 
+at  this  time  of  advanced  progress  in  biology  which  involve 
+what  seems  decidedly  like  an  abandonment  of  this  founda- 
+tion. 
+
+It  could  hardly  have  been  believed  in  the  hey-day  of 
+descriptive  embryology,  in  the  decade,  for  instance,  follow- 
+ing the  publication  of  Francis  Balfour's  "Comparative  Em- 
+bryology" that  the  time  would  again  come  when  the  domi- 
+nant theories  of  organic  genesis  would  have  regard  to  the 
+completed  organism  at  one  end  of  the  series,  and  the  germ- 
+inal elements  at  the  other,  with  well-nigh  complete  neglect 
+of  all  the  intervening  stages.  Yet  this  is  essentially  what 
+has  happened.  One  cannot  avoid  seeing  this  if  he  examines 
+with  open  mind  almost  any  of  the  literature  produced  by 
+the  modern  school  of  geneticists,  especially  if  the  work  has 
+been  under  the  spell  of  Mendelism  accepted  as  a  creed  to 
+which  conformity  must  be  reached  by  hook  or  crook,  and  not 
+as  an  instrument  to  be  used  when  applicable  and  useful. 
+Unless  observation  is  to  be  denied  a  primary  place  in  bio- 
+logical method,  and  unless  that  place  can  be  unreservedly 
+given  over  to  inference  and  deduction,  I  see  no  escape  from 
+the  necessity  of  testing  by  the  familiar  methods  of  embryol- 
+ogy the  hypothesis  that  chromosomes  or  any  other  particu- 
+lar bodies  are  the  mechanism  of  heredity;  that  is,  of  showing 
+in  what  particular  way  the  bodies  participate  in  the  origin 
+of  a  given  part  or  organ  from  its  forerunners  in  the  develop- 
+mental series :  If,  for  example,  it  be  contended  that  a  par- 
+ticular portion  of  a  chromosome  causally  explains  eye  color, 
+then  some  activity  or  transformation,  morphological  or 
+chemical,  of  that  chromosome,  not  away  back  in  the  germ- 
+cell,  but  in  the  cells  of  the  part  from  which  the  color-bearing 
+cells  immediately  arise,  should  be  proved.  This  alone  would 
+
+
+Nature  of  Heredity  and  Problem  of  Mechanism     325 
+
+be  direct  evidence  for  the  chromosomal  hypothesis  of 
+heredity. 
+
+And  thus  it  comes  to  pass  that  evidence  on  the  problem 
+of  the  mechanism  of  heredity  will  be  of  two  sorts,  direct  and 
+indirect.  Direct  evidence  will  be  that  obtained  by  immediate 
+observation  of  the  actual  transformation  of  substances  and 
+parts  into  other  substances  and  parts  known  to  be  heredi- 
+tary. The  methods  here  will  be  those  of  ordinary  histo- 
+genesis  and  organogenesis,  only  carried  on  with  reference 
+to  the  hereditariness  of  the  parts  produced.  Indirect  evi- 
+dence, on  the  other  hand,  will  be  any  sort  of  evidence  which 
+does  not  come  from  immediate  observation  as  above  indi- 
+cated, but  depends  upon  some  measure  of  inference  inter- 
+posed between  the  observation  and  the  conclusion.  By  far 
+the  greater  part  of  the  evidence  of  this  kind  being  used  at 
+present  in  researches  on  heredity  comes  from  observations 
+on  the  germ-cell  stages  at  one  end  and  on  adult  stages  at  the 
+other  end,  of  the  ontogcnetic  series.  From  these  observa- 
+tions the  inference  is  drawn  by  various  courses  of  reasoning 
+that  the  observed  adult  structures  and  attributes  are  de- 
+pendent upon  and  explained  by  the  observed  germ-cell  struc- 
+tures and  attributes. 
+
+Our  next  task  will  be  that  of  examining  both  these  sorts 
+of  evidence  with  special  reference  to  the  problem  of  heredi- 
+tary substance  as  it  presents  itself  in  present-day  genetic 
+research,  namely  that  of  whether  nuclear  substances,  espe- 
+cially chromatin,  or  cytoplasmic  substances,  are  the 
+"mechanism  of  heredity." 
+
+HKFKHFA'CK   TNDKX 
+
+1.  Conklin    ('15)    103        8.  Minchin    ('15)     454 
+
+2.  Thomson    27         9.  Minchin     ('15)     44(i 
+
+3.  Thomson     37  10.  Minchin     ('15)     449 
+
+4.  Pearl    35  11.  Osborn     92 
+
+5.  Pearl     3  I-'.  (Kliorn     vii 
+
+6.  Castle    6  13.  Osborn     93 
+
+7.  Minchin     ('15)     450  14.  Osborn     21 
+
+
+Chapter  XII 
+
+EVIDENCE  FAVORABLE  TO  CHROMATIN  AS 
+"HEREDITARY  SUBSTANCE" 
+
+A.      DIRECT    EVIDENCE 
+
+Evidence  from  the  Ontogeny  of  Some  Protozoans 
+
+WE  conform  to  the  time-honored  custom  in  zoology  of 
+beginning  the   examination   at   the  lower  end   of  the 
+taxonomic  scale. 
+
+As  a  first  example  we  take  the  trichocysts  (tr.  figurelS) 
+that  occur  in  some  protozoa  of  the  class  Ciliata.  Parame- 
+cium,  for  instance,  is  well  armed  with  these  organs.  Briefly 
+characterized,  they  are  elongated,  spindle-shaped  bodies  sit- 
+uated in  the  ectoplasm  perpendicular  to  the  surface  of  the 
+body.  Each  has  a  short  bristle-like  process  at  its  outer  end 
+which  probably  pierces  the  pellicula,  or  outermost  layer  of 
+the  body,  and  is  in  contact  with  the  surrounding  world. 
+They  are  organs  of  offense  and  defense,  and  under  proper 
+stimulation  are  explosively  converted  into  long,  somewhat 
+rigid  threads  which  project  from  the  surface  of  the  animal. 
+
+As  the  animal  on  which  the  investigation  we  shall  make 
+use  of  is  not  Paramecmm,  but  a  less  generally  known  rela- 
+tive, Front onia  leucas,  our  figures  will  be  taken  from  thi? 
+latter  species  (figure  15).  The  work  referred  to  is  by  C. 
+Tonniges  and  is  so  recent  as  to  have  had  hardly  time  t< 
+receive  the  confirmation  by  other  students  which  uncxpecl 
+results  should  generally  get  before  being  used  in  a  work 
+like  this.  But  Tonniges  is  an  experienced  and  trustworthy 
+
+326 
+
+
+Chromntiti  as  "7/rm///c/r//  Substance" 
+
+
+327 
+
+
+worker;  and  since  there  is  nothing  inherently  improbable  in 
+the  results,  it  seems  justifiable  to  take  them  as  conclusive, 
+at  least  in  main  outline.  The  observations  on  the  develop- 
+
+
+Jg 
+
+
+KHillti:     1.*.        KHONTONIA     I.Kl'C  AS      (A  KITH     TO  \  X  IC.KS) . 
+
+c.,  cili;i.  cor]).,  cortical  plasma,  end.,  cndoplasm.  f(l.,  food,  macr., 
+niacroniicleus.  micr.,  niicronuclcus.  tr.,  trichocysts.  trch.,  tricho- 
+chroinidia. 
+
+ment  of  the  trichocysts  that  specially  concern  us  now  may 
+be  stated  in  a  short  paragraph. 
+
+The  organs   (trch.  figure   15)   originate  in  the  macronu- 
+cleus   (macr.)   and  migrate  tli rough  the   nuclear  membrane 
+
+
+328  The   Unity  of  the  Organism 
+
+and  cytoplasm  of  the  animal's  body  to  their  final  position 
+in  the  ectoplasm.  An  essential  constituent  of  the  germ,  as  it 
+may  be  properly  called,  of  each  trichocyst,  is  a  body  which 
+from  its  familiar  characteristics  as  to  density,  light  refrac- 
+tion and  stainableness,  Tonniges  does  not  hesitate  to  regard 
+as  chromatin.  It  seems  undoubted,  consequently,  that  chro- 
+matin of  the  macronucleus  contributes  directly  to  the  origin 
+of  the  trichocysts  in  Frontonia  and  probably  in  all  related 
+protozoans.  Figure  15  shows  the  germinal  bodies,  trch,  in 
+the  macronucleus,  macr.  and  various  stages  and  positions  of 
+the  trichocysts  as  they  develop  and  make  their  way  through 
+the  cytoplasm.  The  details  of  development  are  highly  in- 
+teresting and  will  be  examined  more  closely  in  a  later  sec- 
+tion. The  very  brief  account  given  here  suffices  to  show 
+chromatin  acting  directly  as  "hereditary  substance"  in  the 
+production  of  trichocysts.  But,  as  we  shall  see  later,  while 
+chromatin  is  here  an  undoubted  physical  basis  of  heredity, 
+it  is  not  the  only  substance  that  plays  such  a  part  in  this 
+particular  case.  Nor  should  the  reader  neglect  to  notice 
+that  the  chromatin  functioning  thus  belongs  to  the  macronu- 
+cleus which,  according  to  current  interpretation,  is  not  con- 
+cerned with  reproduction  but  with  nutrition,  its  chromatin 
+being  called  "vegetative." 
+
+Perhaps  the  clearest  cases  among  the  protozoa  of  direct 
+contribution  of  the  nucleus  to  the  production  of  organs  are 
+furnished  by  the  origin  of  the  flagella  in  some  groups.  A 
+good  example  is  furnished  by  the  soil  amoeba  Naegleria  gru- 
+beri  upon  which  Professor  Kofoid  has  recently  published  a 
+short  paper  (figure  16a,  16b,  16c,  16d).  Individuals  of  this 
+species  change  "on  slight  provocation  under  conditions  of 
+laboratory  culture,"  from  an  amoeboid,  non-flagellate  phase 
+(figure  16a)  to  a  non-amoeboid  flagellate  phase  (figure 
+16d).  The  nucleus  of  the  animal  is  in  the  form  of  a  single 
+karyosome  situated  within  a  heavy  nuclear  membrane.  (Fig- 
+ure 16a).  Professor  Kofoid's  description  of  the  develop- 
+
+
+Chromatin  as  "Hereditary  Substance" 
+
+
+329 
+
+
+ment  of  the  flagella  is  clear.  He  says :  "When  it  enflagellates 
+the  karyosome  sends  out  a  chromatic  process  (Figure  16a) 
+which  traverses  the  nuclear  membrane,  forms  a  marginal 
+
+
+.IKK    Hi.      \  \i:i.i  I:KI  \   CIM-KKKI    (AFTKR    KOFOID). 
+
+hp.,  hlepharoplast.      ky.,   karyosninr.      n.,  ifiiclcus. 
+
+blepharoplast  (Figure  16b  bp.)  and  emerges  as  two  long 
+flagella.  (Figure  16d).  The  body  assumes  a  rigid,  asym- 
+metrically  curved  shape  and  the  organism  swims  away  in  the 
+typical  spiral  course."  Since  the  regularly  recurring  flag- 
+ella of  this  animal,  two  in  number,  constitute  a  resemblance 
+
+
+330  The   Unity  of  the  Organism 
+
+between  the  corresponding  stages  in  the  life  of  each  individ- 
+ual, and  undoubtedly  between  an  individual  and  its  progeny, 
+they  are  an  instance  of  heredity ;  and  since  their  development 
+is  directly  contributed  to  by  the  chromatic  body  of  the 
+nucleus,  we  have  here  a  clear  instance  of  chromatin  acting 
+as  a  mechanism  of  heredity. 
+
+The  reader  will  recall  that  in  Crithidia  leptocoridis  and 
+in  Giardia  muris,  two  protozoans  quite  different  from  each 
+other  and  both  very  different  from  the  amoeba-like  creature 
+just  described,  the  flagella  of  the  adults  are  also  connected, 
+by  way  of  a  blepharoplast,  with  the  central  chromatic  body 
+of  the  nucleus.  The  same  connection  is  known  to  occur  in 
+numerous  other  protozoans.  Indeed,  its  occurrence  is  so 
+frequent  that  some  authorities  now  regard  flagella  in  gen- 
+eral as  belonging  to  the  nuclear  system.  Minchin  particu- 
+larly is  a  supporter  of  this  view.  Starting  from  species  like 
+Mastigwa  setosa  in  which  Goldschmidt  has  shown  that  the 
+flagellum  seems  to  arise  directly  from  the  nucleus,  Minchin 
+presents  a  scheme  of  "possible  phylogenetic  origin  of  the 
+different  types  of  flagellar  attachment  in  flagellates." 
+
+An  important  element  in  the  general  problem  of  the  rela- 
+tion of  flagella  and  cilia  to  nuclei  is  the  question  of  the 
+origin  and  nature  of  the  blepharoplast.  The  statement  was 
+made  when  we  were  examining  the  adult  anatomy  of  Giardia 
+muris  that  the  blepharoplast  question  would  receive  further 
+consideration  in  the  discussion  now  occupying  us.  This 
+question  is  fundamentally  connected  with  a  cell  organ  which, 
+though  of  undoubtedly  high  importance,  has  not  hitherto 
+figured  in  our  treatment.  Reference  is  made  to  the  ccntro- 
+some. 
+
+X 
+
+The  term  "blepharoplast"  (from  the  Greek  blepharon,  eyelash) 
+came  into  biology  from  the  botanical  side.  It  was  applied  by 
+Webber  to  a  body  occurring  in  the  spermatogenous  cells  of 
+(iinkiro  and  /tun ia,  "because  of  their  special  function  as  cilia- 
+formers/'  the  spermatozoids  being  derived  from  the  body  in 
+
+
+Chroma  tin   as   "Ilcrctlifiirt/  Substance*'  SSI 
+
+these  plants.  That  the  production  of  cilia  is  the  main  if  not 
+the  exclusive  office  of  the  body  in  these  and  other  plants,  Web- 
+ber and  other  observers  have  made  certain.  The  question  of 
+the  relation  of  this  body  to  the  centrosonie,  which  latter  is  gen- 
+eral Iv  held  to  be  part  of  the  nuclear-divisional  apparatus  of  the 
+cell,  has  been  much  discussed.  In  the  plants  mentioned  Web- 
+ber believed,  seemingly  with  full  justification,  that  the  blepharo- 
+plast  arises  de  novo  in  the  cytoplasm  and  at  no  time  has  con- 
+nection with  any  part  of  the  division  apparatus.  It  seems  to 
+have  no  office  other  than  that  of  producing  the  cilia.  Almost 
+certain  it  is,  consequently.,  that  in  several  distinct  groups  of 
+plants.  Ginkgo,  cycads  and  mosses  for  example,  the  main  por- 
+tion of  the  motile  organ  of  the-  sperm  cell  is  derived  from  the 
+cytoplasm  of  the  cell  and  not  from  chromatin  or  any  other 
+nuclear  material. 
+
+But  such  an  origin  does  not  hold  for  the  corresponding  organ 
+of  all  sperm  cells.  In  several  animals,  insects  and  salamanders 
+for  example,  there  is  practical  agreement  among  authorities  that 
+the  axial  filament  of  the  sperm  "tail"  grows  out  from  the 
+centrosome.2  Furthermore,  it  seems  to  be  accepted  that  in 
+some  animals,  e.g..  some  echinoderms  and  worms,  the  centro- 
+some arises  from  the  nucleus.'  Viewing  these  facts  in  connec- 
+tion with  the  recent  tendency  to  exalt  the  nucleus  as  the  "seat" 
+>f  all  sorts  of  cell  capacity,  and  putting  them  alongside  those 
+>\e  sketched  concerning  the  nuclear  connection  of  flagella  in 
+ic  cilia-bearing  proto/oans,  one  readily  sees  the  strong  temp- 
+iion  to  homologi/e  the  motor  apparatus  of  the  spermatozoan 
+(h  that  of  the  protozoan  and  conceive  a  common  basis  for  both 
+the  nucleus.  If  the  centrosome  could  be  held  to  have  arisen, 
+ivlogeiictically,  from  nuclear  chromatin;  and  if  the  blepharo- 
+plast,  which  is  unquestionably  a  cilia-producer,  could  be  counted 
+as  fundamentally  a  centrosomal  structure;  and  could  such  a 
+generalization  be  established,  it  would  certainly  be  a  considerable 
+achievement  in  support  of  the  theory  of  universal  nuclear  and 
+chromatinic  hegemony  in  development.  We  must,  consequently, 
+scrutini/.e  somewhat  closely  the  evidence  which  points  in  this 
+direction. 
+
+Eritlcnce  from   Certain   (V//.v   of  M  ulliccll/ilar   Oryanixmx 
+
+A  decade  ago  the  centrosome  problem  held  a  commanding 
+place   in   cytological    investigation   ami   an   extensive   litera- 
+
+
+332  The  Unity  of  the  Organism 
+
+ture  gathered  around  it.  Nothing  like  an  exhaustive  review 
+of  the  observations  and  hypotheses  can  be  thought  of  here. 
+But  our  present  interest  in  it,  namely  the  question  of  whether 
+or  not  flagella  are  originally  and  fundamentally  part  of  the 
+nuclear  system,  requires  us  to  acquaint  ourselves  with  some 
+of  the  main  results  reached  by  investigations  into  the  struc- 
+ture, function  and  origin  of  the  centrosome. 
+
+As  regards  structure,  what  most  concerns  us  is  whether  the 
+minute  central  granule,  deeply  stainable  in  certain  special  dyes, 
+is  the  essential  thing,  and  so  should  he  regarded  as  the  centro- 
+some, or  whether  this  granule,  together  with  the  more  volumi- 
+nous, less  dense,  less  easily  stainable  substance  around  it,  are 
+fundamental  so  that  the  whole  should  be  regarded  as  the  cen- 
+trosome. Such  an  examination  of  the  writings  on  this  question 
+as  a  general  student  is  able  to  make  almost  forces  him  to  con- 
+clude that  the  application  of  the  names  centriole,  micro-centrum, 
+cytocentrum,  astrosphere,  attraction  sphere,  etc.,  to  the  various 
+objects  treated  under  the  general  designation  "cellular  cen- 
+ters," is  at  present  largely  a  matter  of  personal  choice.  This 
+results  from  the  great  structural  variety,  taking  the  whole  ani- 
+mal kingdom  together,  of  the  parts  dealt  with,  and  the  meager- 
+ness  of  positive  knowledge  as  to  the  functions  of  these  parts. 
+Thus,  on  the  question  which  chiefly  concerns  us  now,  that  of 
+what  shall  be  called  centrosome,  great  difference  of  view  and 
+hence  of  nomenclatural  usage  prevails. 
+
+The  term  centrosome  was  first  used  according  to  Wilson,  by 
+Boveri  and  was  applied  to  a  small  protoplasmic  spherule  differen- 
+tiated from  the  surrounding  cytoplasm  "in  the  center  of  which  one 
+or  two  exceedingly  minute  spheres,  the  centrioles,  are  enclosed."  s 
+In  a  word,  as  originally  conceived,  the  centrosome  conformed  to 
+the  second  alternative  indicated  in  what  was  said  above  about  what 
+a  centrosome  really  is.  But  later  investigations  produced  facts, 
+chiefly  concerning  the  penetration  of  the  astral  rays  during  in- 
+direct cell  division  into  the  less  stainable  substance  around  tin- 
+central  granule  that  led  many  investigators  to  regard  the  granule 
+alone  as  the  centrosome.  This  is  the  position  held  by  E.  B.  Wil- 
+son in  the  1899  edition  of  The  Cell  and  also  by  O.  Hertwig  in 
+his  All  gem  fine  Biologie.  But  Hertwig  tells  us  in  the  fourth 
+edition  (1912)  of  his  book6  that  the  arguments  produced  by 
+Heidenhain  in  Plasma  und  Zelle  have  convinced  him  that  the 
+
+
+Chromatin  as  "Hereditary  Substance"  333 
+
+term  centrosome  ought  to  be  ust-d  in  tlie  original  sense,  the  name 
+centriole,  used  by  Heidenhain  and  others  for  the  central  granule, 
+being  favored  by  Hertwig. 
+
+Heidenhain's  statement  that  the  centrosome  problem  has  re- 
+eentlv  entered  a  new  stage,  largely,  according  to  him,  through 
+the  researches  of  Yejdovsky  and  Mra/ek,  seems  justified  by  the 
+observations.  "Evidently/1  says  Eieidenhain,  "in  the  eentrosomes 
+of  large  cells  (eggs,  blastomeres,)  we  have  to  do  not  with  any 
+sort  of  sharply  differentiated  bodies  of  definite  organization,  not 
+with  organs  whose  capability  rests  upon  a  definite,  intrinsic  con- 
+stitution reached  through  systematic  development,  but  with  strnc- 
+luruJ  material  transported  from  place  to  place  through  the  ac- 
+tivity of  the  radially  differentiated  cell  substance  and  heaped  up 
+for  further  use."  ~ 
+
+One  can  hardly  avoid  reflecting  that  this  statement  by  Heid- 
+enhain  seems  to  accord  much  better  with  the  physical-chemistry 
+conception  of  the  cell,  that  is.  with  that  of  the  cell  as  a  system 
+of  phases  in  dynamic  equilibrium,  than  with  the  older  idea  of  the 
+centrosome  as  in  some  peculiar  way  a  "dynamic  center"  of  the 
+cell.  Nevertheless  for  the  purpose  of  a  general  discussion  like 
+that  in  which  we  are  engaged,  we  may  leave  the  question  of  what 
+the  term  centrosome  ought  to  be  applied  to  undecided,  and  fix 
+attention  upon  the  central  granule  as  belonging  structurally  to 
+the  "cellular  center."  this  phrase  being  understood  to  cover  a 
+very  wide  range  of  objects  none  of  which  are  simple  and  some 
+of  which  are  quite  complex. 
+
+As  to  the  function  of  these  "centers"  there  appears  to  be 
+inimity  among  the  authorities  that  they  are  in  some  wav 
+•namic  centers  of  the  cell"  as  originally  expressed  bv  Boveri. 
+'There  is  some  satisfaction  in  this  unanimity  even  though  the 
+range  of  possibility  in  "dynamic"  is  so  wide  as  to  make  the 
+unanimity  rather  indefinite.  For  one  tiling,  it  is  certain  that 
+the  centers  take  an  active  and  important  part  in  indirect  cell 
+division.  This  is  a  basal  tenet  of  modern  teachings  concerning 
+cell  division.  The  role  of  the  centers  as  force-  and  activity- 
+produeers  which  concerns  us  here  is  in  connection  with  flagella 
+and  movements  characteristic  of  these  organs. 
+
+Evidence  from   the  Spermatozoan. 
+
+There  appears  to  he  nearly  complete  agreement  among 
+authorities  that  the  axial  filament  of  the  tail  of  the  sperma- 
+
+
+The   I'nitij  of  Ike  Organism 
+
+
+tozoa  of  many  animals  arises  from  a  basal  granule  or  cen- 
+h-iolc  of  the  spermatid.  Illustrations  of  this  may  be  seen 
+in  many  of  the  recent  studies  of  spermatogenesis.  If  one 
+compares  early  stages  of  the  transformation  of  the  spcr- 
+rnatid  into  the  spcrmatozoan,  like  those  of  the  rat  (figure 
+17)  with  some  of  Miss  McCulloch's  figure  (8)  of 
+Crithidia,  already  described,  the  resemblance  between  the 
+two  is  unmistakable,  when  one  considers  the  difference  in 
+the  animal  species  to  which  each  belongs.  In  both  there  is 
+the  relatively  voluminous  cytoplasm,  the  large  nucleus  (nuc.), 
+
+
+ttUC.~ 
+
+
+FIUUHE    IT.       SJ'KH.MATll)    <>!'    TJIK    HAT    (\l'T!:i!    IHDSHKRG ) . 
+
+a.f.,  axial  filament,     c1.,  oentrosonie.     mic.,  nucleus. 
+
+flic  filament  («./•)  connected  with  the  granule  (has.  (jr.), 
+and  between  this  granule  and  the  nucleus  another  chromatic 
+body  (c.).  To  be  sure  the  resemblance  falls  far  short  of 
+identity;  but  it  is  nevertheless  so  striking  that  hardly  any 
+one  can  avoid  recognizing  it,  nor  can  he  well  avoid  asking 
+what  it  means.  Can  it  be  a  resemblance  due  to  descent  and 
+hence  an  instance  of  heredity?  That  it  is  due  to  descent 
+in  the  meaning  of  the  term  as  used  in  our  definition  of  hered- 
+ity is  certainly  not  the  case.  Descent  in  that  definition 
+means  observed  descent  as  when  the  ancestry  of  a  child 
+is  a  matter  of  family  record.  Such  resemblance  is  declared 
+due  to  descent  because  the  ancestry  is  known  on  other 
+ground*  than  that  of  such  resemblance  as  appears  be- 
+tween the  adult  unicellular  Crithidia  and  the  developing 
+
+
+Chromatin  as  "Hereditary  Substance"  335 
+
+sperm  cell  of  the  rat.  The  only  ground  for  supposing  de- 
+scent in  the  latter  case  is  the  resemblance  itself.  We  have, 
+consequently,  no  right  to  reason  about  the  corresponding 
+parts  of  these  two  organisms  as  though  we  had  other  proof 
+of  their  kinship  than  that  of  the  resemblance  indicated. 
+
+Similar  nerds  and  activities  and  surrounding  conditions 
+tend  to  make  organisms  resemble  one  another.  No  biological 
+principle  is  better  established  than  this.  And  surely  as  be- 
+tween Crlth'ul'ui  and  a  rat  sperm  there  is  much  similarity  of 
+need,  of  activity,  and  of  environment.  Both  are  single  cells 
+of  approximately  equal  si/e,  and  in  both  a  high  degree  of 
+locomotor  ability  adapted  to  a  fluid  or  semi-fluid  environ- 
+ment is  essential;  so  we  are  bound  to  recognize  on  purely 
+anatomical  and  physiological  grounds  and  quite  apart  from 
+descent  in  any  strict  sense,  that  considerable  resemblance 
+between  the  two  might  be  anticipated.  In  other  words,  the 
+well-known  and  widely  operative  fact  of  parallel  adaptive 
+modification  in  development  is  at  least  as  likely  to  be  the 
+explanation  of  the  resemblance  here  as  is  descent. 
+
+Appeals  to  recent  cytological  discoveries  for  evidence  to 
+support  the  theory  of  germ-plasm  continuity  as  the  basis 
+of  heredity  have  been  altogether  too  unmindful  of  this  bio- 
+ogic  principle  of  adaptive  parallelism.  With  such  a  fact 
+>efore  us,  as  for  example  that  of  the  "practical  identity''  in 
+ninutc  structure  of  the  heart  muscle  of  the  horse-shoe  crab 
+and  of  vertebrates  8  where  there  is  hardly  a  glimmer  of 
+probability  that  the  resemblance  is  due  to  anvthing  else 
+:han  adaptive  parallelism,  how  escape  recognizing  that  the 
+•(semblance  between  a  protozoan  and  a  vertebrate  sperm- 
+cell  is  probably  due  to  the  same  cause?  And  innumerable 
+nstances  hardly  less  striking  than  this  presented  by  the 
+learts  of  Limulus  and  vertebrates  could  be  pointed  out. 
+
+Origin  of  the  flagellum  from  the  chromatin  of  the  nucleus 
+n  any  or  many  protozoans  has  little  weight  as  proof  that 
+the  axial  filament  of  the  spermato/oan  is  phylogenetically 
+
+
+The   Unity  of  the  Organism 
+
+
+of  the  same  origin.  While,  as  stated  above,  it  may  be  ac- 
+cepted as  proved  that  in  some  animals  the  centrosome  arises 
+from  the  nucleus,  in  a  far  larger  number  of  animals  the 
+
+
+FIGURE    18.       SPERMAT1D   OF    SALAMANDER    (AFTER    HEIDENHAlx). 
+
+a.f.,  axial  filament,     c.,  centrosome.     nuc.,  nucleus. 
+
+evidence  is  all  against  such  an  origin.  Furthermore,  in  many 
+animals  a  pair  of  "cromioles"  occur,  seemingly  homologous 
+to  t]je  chromosomes,  situated  in  the  cytoplasm  of  various 
+
+
+FIGURE     19.       SPERIMATID    OF    SNAIL     (AFTER     HEIDENHAIN ). 
+
+cells  at  a  point  as  remote  as  possible  from  the  nucleus;  and 
+from  one  of  these  in  the  sperm  mother  cell  the  axial  filament 
+of  the  spermatozoan  grows  out. 
+
+The  development  of  the  spermatozoan  from  the  spermatid 
+in  two  widely  separated  animals,  a  salamander  (figure  18, 
+a  and  b)  and  a  land  snail  (figure  19)>  illustrates  several 
+interesting  aspects  of  the  point  before  us.  In  both  the  sper- 
+
+
+Chromatiri  as  "Hereditary  Substance"  337 
+
+matid  possesses  a  lash  or  flagellum  wliicli  arises  from  the 
+outermost  of  a  pair  of  granules  or  ceiitriolcs  situated  in  the 
+cytoplasm  just  beneath  the  surface  of  the  cell.  In  an  early 
+stage  of  the  transformation  of  the  salamander  spermatid  the 
+pair  of  centrioles  moves  inward  toward  the  nucleus,  the  inner 
+member  of  tin  pair  finally  entering  the  nucleus  and  becoming 
+the  middle  piece  of  the  sperm  head,  while  the  outer  membrane 
+is  converted  into  a  ring  which  finally  contributes  the  undulating 
+membrane  of  the  tail  of  the  completed  sperm. 
+
+Connection  between  the  cenlrioles  and  nucleus  in  the  snail's 
+sperm  is  accomplished  in  a  different  manner.  Instead  of  an 
+inward  migration  of  the  pair  as  in  the  salamander,  the  inner 
+member  of  the  pair  sends  an  ingrowth  toward  the  nucleus,  the 
+centrioles  themselves  remaining  at  the  surface  of  the  cell  and 
+remote  from  the  nucleus.  This  ingrowth  becomes  much  elon- 
+gated and  produces  finally  the  axial  thread  of  the  sperm,  the 
+anterior  end  of  which  is  embedded  in  the  nuclear  part  of  the 
+head.  Much  this  same  sort  of  thing  occurs  in  many  other 
+animals,  both  vertebrate  and  invertebrate. 
+
+Tin-re  can  be  no  question  then  that  in  a  large  number 
+of  animals  the  centriole  of  the  sperm  is  primarily  quite  inde- 
+pendent of  the  nucleus,  and  only  becomes  connected  with  it 
+as  the  sperm  develops.  Consequently,  to  speculate  that  orig- 
+inally or  ancestrally  the  nucleus  gave  rise  to  the  centriole 
+and  axial  thread  of  the  sperm  is  to  go  exactly  contrary  to 
+the  most  direct  and  positive  evidence  we  have  bearing 
+on  the  question.  To  this  direct  evidence  drawn  from  the 
+study  of  spermatogenesis,  that  the  cent  Hole  is  in  its  origin 
+quite  independent  of  the  nucleus,  should  be  added  the  ex- 
+tensive evidence  that  the  centriole  is  self-propagating  by 
+division  and  passes  on  from  cell  generation  to  cell  generation 
+somewhat  as  the  nucleus  does.  But  this  fact  is  so  familiar 
+a  part  of  elementary  cytology  as  to  need  no  special  treat- 
+ment. 
+
+The  upshot  of  this  discussion  is  that  while  as  regards 
+flagella  in  some  protozoa  there  is  solid  observational  ground 
+on  which  to  rest  the  theory  that  chromatic  bodies  of  the 
+
+
+338  The  Unity  of  the  Organism 
+
+nucleus  are  "bearers  of  heredity",  the  effort  to  make  the 
+facts  presented  by  the  protozoans  support  the  general  theory 
+of  chromatin  as  the  "hereditary  substance"  by  comparing 
+the  nucleus-blepharoplast-axial  filament  of  the  spermato- 
+zoan,  is  quite  unwarranted.  Indeed,  due  regard  to  all  the 
+facts  involved  in  this  comparison  finds  in  them  very  strong 
+evidence  against  the  conception  that  chromatin  is  the  exclu- 
+sive "hereditary  substance." 
+
+Evidence  from  Pigment   Cells 
+
+Another  set  of  facts  brought  out  by  recent  studies  which 
+connect  the  nucleus  directly  with  the  production  of  definite 
+hereditary  attributes,  concerns  the  ontogenetic  origin  of 
+certain  colors.  A  paper  on  an  investigation  in  this  field 
+published  in  1915  is  introduced  by  this  sentence:  "The  more 
+recent  work  on  the  formation  of  melanin  seeks  to  derive  this 
+pigment  from  chromatin  elements".9  One  may  remark  the 
+form  of  expression  here.  Recent  work  "seeks  to  derive" 
+melanin  from  chromatin,  rather  than  "seeks  to  learn  whether, 
+if  at  all,  and  in  how  far  melanin  is  produced  from  chroma- 
+tin".  No  biologist  speaking  as  a  proponent  of  the  "scientific 
+spirit"  will,  I  think,  hesitate  to  admit  that  the  latter  mode 
+of  stating  the  problem  is  more  in  accord  with  that  spirit. 
+Yet  when  a  specific  situation  arises,  the  tendency  to  depart 
+from  the  seeking-to-learn  spirit  and  to  assume  that  of  seek- 
+ing confirmation  for  an  adopted  hypothesis  is  still  well-nigh 
+irresistible  even  in  science.  The  temper  of  the  day  in  a 
+considerable  section  of  biology  is  one  of  thorough  going 
+partisanship  in  behalf  of  chromatin. 
+
+The  "seeking  to  derive"  things  from  the  chromosomes  is 
+not  by  any  means  limited  to  melanin.  Neurofibrils,  musck- 
+fibrils,  and  glandular  secretions  are  among  the  things  which 
+so  far  have  appeared  as  conspicuous  claimants  for  such  an 
+origin.  And  one  familiar  with  the  discussions  of  ontogenesis 
+in  the  period  of  the  Gastrea  theory,  can  hardly  fail  to  recog- 
+
+
+Chromatin  as  "Hereditary  Substance"  339 
+
+ni/c  Hie  same  tendency  that  prevailed  then  to  force  the 
+evidence.  Forecasting-  in  the  light  of  history  alone,  we  may 
+anticipate  that  out  of  the  chromosome  theory  of  heredity 
+will  emerge  proof  that  these  bodies  are  of  great  importance 
+in  actual  development,  but  that  their  importance  consists  in 
+their  being  indispensable  tools  or  agents  of  the  organism 
+rather  than  entities,  ultimate  and  supreme  in  their  power 
+over  the  organism.  Thus  already  the  demonstration  is  al- 
+most if  not  quite  complete  that  the  nucleus  plays  an  im- 
+portant part  in  the  production  of  melanin  and  other  organic 
+pigments,  and  so  is  a  mechanism  of  heredity  to  some  extent, 
+so  far  as  colors  are  characteristic  in  genetically  related  or- 
+ganisms. 
+
+A  notable  forward  step  toward  solving  the  problem  of 
+pigment  formation  was  taken  by  K.  Meirowsky.  Besides 
+producing  important  evidence  hearing  on  the  old  and  much 
+discussed  question  of  whether  pigment  arises  in  the  epi- 
+dermis or  cutis  or  in  both,  Meirowsky  turns  his  attention 
+to  how  the  melanin  arises  within  the  cells.  He  concludes  that 
+it  is  the  result  of  the  transformation  of  a  colorless  substance 
+originating  in  the  nucleus.  From  the  intense  red  it  assumes 
+when  treated  with  the  basic  stain  pyronin,  this  substance  is 
+called  by  the  author  pyrcnoid  nuclear  substance.  It  is  said 
+to  pass  through  the  nuclear  membrane  into  the  cytoplasm. 
+The  particles  gradually  turn  brown,  this  color  appearing 
+first  on  their  surfaces.  The  transformation  of  color  is  said 
+to  begin  in  some  of  the  substance  before  it  leaves  the  nucleus. 
+It  is  not  contended  that  the  pyrenoid  substance  is  derived 
+from  the  chrornatin  of  the  nucleus,  but  merely  that  it  arises 
+in  and  is  extruded  from  the  nucleus. 
+
+The  latest  contribution  to  this  subject  which  has  come  to 
+my  notice  is  bv  Davenport  Hooker.  Studying  the  develop- 
+ment of  pigment  in  various  tissues  of  the  embryo  of  a  frog, 
+Uanti  pipiens,  this  observer  has  shown  conclusively  that  the 
+melanin  granules  all  arise  in  the  cytoplasm  at  its  line  of 
+
+
+340  The   Unity  of  the  Organism 
+
+contact  with  the  nucleus.  The  first  pigmentation  appears 
+in  a  very  thin  layer  over  the  whole  outer  surface  of  the 
+nuclear  membrane.  From  here  it  increases  uniformly  all 
+around  the  nucleus  and  gradually  fills  the  entire  cytoplasmic 
+part  of  the  cell,  the  nucleus  itself,  however,  remaining  free 
+from  pigment.  The  absence  of  pigment  from  the  nucleus 
+of  pigmented  cells  is,  as  is  well  known,  of  wide  occurrence. 
+In  this  case  at  least  the  evidence  seems  conclusive,  as  the 
+author  says,  "that  the  nucleus  plays  an  essential  part  in 
+pigment  formation".9  What  that  part  may  be  is  the  im- 
+portant question,  and  one  as  yet  by  no  means  fully  answered. 
+
+Several  investigators  hold  that  the  chromatin  of  the  nu- 
+cleus is  the  direct  source  of  the  pigment.  Thus,  for  example, 
+Aurel  von  Szily  reports  that  in  the  vertebrate  eye  the  me- 
+lanin granules  are  produced  from  the  colorless  rod-like  bod- 
+ies derived  directly  from  the  chromatin  of  the  nucleus.  These 
+bodies  he  calls  pigment  bearers  (Pigment trdger) .10  They 
+pass  out  of  the  nucleus  through  the  nuclear  membrane  and 
+become  disseminated  through  the  cytoplasm,  where  they  are 
+gradually  transformed  into  melanin  granules. 
+
+Much  more  evidence  might  be  brought  forward  on  the 
+morphological  side  that  the  nucleus  at  least  and  probably 
+its  chromatin  takes  a  direct  part  in  the  production  of 
+brown  pigment.  And  the  supposition  is  strengthened  and 
+extended  by  evidence  produced  in  recent  years  of  how,  chem- 
+ically speaking,  the  nucleus  does  its  work.  The  idea  that  the 
+nucleus  is  specifically  concerned  in  the  oxidative  processes 
+of  the  cell  had  been  gradually  gaining  definitencss  for  sev- 
+eral years  before  1902,  at  which  time  R.  S.  Lillic  produced 
+apparently  conclusive  evidence  to  this  effect  so  far  as  con- 
+cerns frog  tissues.  He  subjected  living  active  cells  to  re- 
+agents which  indicate  oxidation  in  the  animal  body  by  change 
+of  color.* 
+
+*  Several  such  reagents  are  known  but  the  one  chiefly  relied  on  by 
+Lillie  and  which  has  since  been  frequently  used  for  the  same  purpose  is 
+
+
+Chromatin  as  "Hereditary  Substance"  341 
+
+Although  some  investigators  report  having  failed  to  get 
+the  differential  reaction  described  by  Lillie,  on  the  whole  his 
+evidence  with  much  more  of  like  purport  that  might  be  cited, 
+makes  the  conclusion  seem  unescapable  that  for  a  consider- 
+able range  of  animals  the  ''nucleus  plays  an  essential  part  in 
+pigment  formation  by  some  activity  which  greatly  resembles 
+an  oxidizing  action." 
+
+How  far  the  chromosomes  are  responsible  for  this  activity, 
+is  by  no  means  settled.  Hooker  could  find  nothing  similar 
+to  von  S/ilv's  "piginent  brarers",  or  evidence  of  any  kind 
+that  the  melanin  granules  come  from  chromatin.  Indeed,  he 
+brings  forward  a  number  of  weighty  considerations  against 
+the  theory  that  in  the  frog  at  least  the  chromatin  is  directly 
+concerned  in  pigment  production.  He  holds  that  his  obser- 
+vations demonstrate  that  in  this  animal  "melanin  is  formed 
+in  the  cytoplasm  of  the  cell  at  the  point  of  known  greatest 
+efficiency  of  the  nucleus  as  an  oxidizing  agent." 
+
+Summarizing  our  examination  of  the  direct  evidence  fa- 
+vorable to  the  theory  of  chromosomes,  or  at  least  chromatin, 
+as  tJie  mechanism  of  heredity,  we  find  Hi  at  in  the  origin  and 
+growth  of  fiagella  ami  pigment  in  some  organisms  the  theory 
+receives  a  certain  tnnount  of  support. 
+
+B.       INDIRECT    EVIDENCE 
+
+The  indirect  evidence  favorable  to  the  theory  will  now  be 
+considered.  Significantly  enough  the  theory  is  supported 
+chiefly  by  this  sort  of  evidence.  To  such  an  extent  is  this 
+true,  and  so  sterling  in  quality  and  great  in  quantity  is  the 
+
+a  mixture  of  one  of  the  naphthols  with  a  derivative  of  one  of  the  ben- 
+
+y.enes.  This  mixture  produces  a  deep  violet-colored  fluid  on  oxidation. 
+By  treating  kidney  tissue,  for  example,  under  proper  conditions  with 
+this  indicator,  Ullie  found  that  the  "nucleus  of  the  tubule  cells  remains 
+comparatively  clear  and  uncolored,  and  that  the  coloration  of  the  cyto- 
+plasm is  diffuse,  hut  li/ i>i<-tillt/  d< •<  JK •  r  in.  flic  iinnn'<H<itc  nt-'njhborhood  of 
+I  hi-  niich-iiK  than  <-l#ctrln:re — a  clear  indication  that  oxidations  are  espe- 
+cially active  at  the  nuclear  surface." 
+
+
+Tlie  Unity  of  the  Organism 
+
+evidence  of  this  class,  that  many  students  devoting  them- 
+selves exclusively  to  genetics  seem  not  to  realize  that  they 
+are  dealing  with  such  evidence.  Reference  is  here  made  to 
+the  truly  brilliant  researches  of  the  last  years  proving  be- 
+yond a  doubt  that  in  the  sexual  mode  of  propagation  of 
+many  plants  and  animals  some  sort  of  interdependence  exists 
+between  the  attributes  of  the  developed  organism  and  the 
+chromosomes  of  the  germ-cells. 
+
+Since  it  is  taken  as  proved  that  such  an  interdependence 
+exists  we  are  not  required  to  examine  critically  the  evidence 
+itself.  Rather  are  we  to  inquire  concerning  the  nature  and 
+meaning  of  that  interdependence. 
+
+The  Chromosomes  of  Germ-Cells  in  Fertilization 
+
+The  field  is  one  of  magnitude  and  complexity,  and  we  can 
+touch  only  its  prominent  landmarks.  The  earliest  known 
+class  of  facts,  as  well  as  one  of  the  weightiest,  favorable  to 
+the  theory  concerns  the  part  played  by  the  chromosomes 
+of  the  male  and  female  germ-cells  in  fertilization,  the  struc- 
+ture and  behavior  of  the  male  cells  being  especially  impor- 
+tant. It  is  now  an  established  fact  that  the  head  of  the 
+male  reproductive  cell,  the  spermatozoon,  consists  mainly 
+of  the  transformed  nucleus  of  the  spermatid,  that  is,  the 
+cell  from  which  the  sperm  is  immediately  derived,  and  that  by 
+far  the  larger  mass  of  the  head  comes  from  the  chromosomes. 
+In  fact,  so  demonstrably  large  a  portion  is  thus  derived  that 
+the  statement  is  made  over  and  over  again  in  recent  dis- 
+cussions that  the  sperm  head  is  "practically  entirely"  of 
+chromatin.  And  since  this  part  of  the  spermatozoan  is 
+proved  to  be  the  predominant  element  in  fertilization,  and 
+since  the  offspring  inherit  from  the  father  no  less  than  from 
+the  mother,  the  inference  has  been  widely  drawn  and  firmly 
+held  that  the  chromosomes  must  be  mainly,  if  not  exclusively, 
+the  "hereditary  substance".  It  is,  however,  generally  admit- 
+
+
+Cliromatin  as  "Hereditary  Subttance"  34-3 
+
+ted  that  in  no  case  among  animals,  so  far  as  known,  is  the 
+sperm  head  derived  quite  exclusively  from  the  chromosomes. 
+A  small  amount  of  the  cytoplasmic  part  of  the  spermatid 
+appears  always  to  be  carried  on  into  the  spormatozoan  as 
+a  surface  layer  of  the  head.  And  the  "middle-piece"  or 
+part  immediately  behind  the  head,  seems  always  to  contain 
+material  not  derived  from  the  chromosomes.  We  shall  have 
+to  examine  these  extra-chromatinic  portions  of  the  sperm 
+more  fully  when  we  undertake  to  find  what  substances, 
+whether  in  germ  or  somatic  cells,  participate  directly  in 
+actual  development. 
+
+In  the  meantime  we  must  recognize  the  important  part 
+taken  by  the  chromosomes,  or  more  exactly  by  chromatin,  in 
+fertilization  and  in  the  first  steps  of  development  of  the 
+individual.  The  evidence  is  especially  weighty  in  some  of 
+the  higher  plants  where  according  to  one  eminent  botanist, 
+Kduard  St  rasburger,  the  nucleus  only  of  the  pollen-grain 
+enters  the  ovum.  Summing  up  the  results  on  the  point, 
+Strasburger  writes,  "In  these  plants  (the  flowering  plants) 
+the  male  sexual  cells  lose  their  cell-body  in  the  pollen-tube 
+and  the  nucleus  only — the  sperm  nucleus — reaches  the  egg. 
+The  cytoplasm  of  the  male  sexual  cell,  is  therefore  not  neces- 
+sary to  ensure  a  transference  of  hereditary  characters  from 
+parent  to  offspring.  I  lay  stress  on  the  case  of  the  Angio- 
+s perms  because  researches  recently  repeated  with  the  help 
+of  the  latest  methods  failed  to  obtain  different  results."11 
+Should  this  statement  receive  confirmation  by  future  investi- 
+gation it  would  mark  the  flowering  plants  as  the  group  of 
+organisms  in  which  specialization  has  gone  farther  than  in 
+any  other  so  far  known  toward  making  chromatin  the  sole 
+gnu-tic  intermediary  between  male  parent  and  offspring. 
+
+But  the  sperm  head,  composed  almost  exclusively  of  chro- 
+matin, unites  with  chromatin  only  of  the  female  germ-cell, 
+the  quantity  of  the  male  chromatin  being  apparently  equal 
+to  that  of  the  female  chromatin.  These  facts  are  clearly  very 
+
+
+344  The  Unity  of  the  Organism 
+
+weighty  as  evidence  that  chromatin  plays  a  very  important 
+part  of  some  sort  in  heredity. 
+
+Fertilization  of  the  Ova  of  One  Species  by  the  Sperm  of 
+Another  Species 
+
+The  class  of  facts  next  to  be  noticed  as  supporting  the 
+chromosome  theory  of  heredity  has  come  to  light  through  ex- 
+perimental researches,  and  concerns  the  cytological  results 
+of  fertilizing  the  eggs  of  one  species  with  the  sperm  of 
+another.  During  the  last  fifteen  years  considerable  work  of 
+this  sort  has  been  done.  Most  of  it  has  produced  equivocal 
+results,  but  some  of  the  positive  results  favor  the  chromo- 
+some theory,  while  others  oppose  it.  At  present  we  will 
+consider  only  those  which  favor  it.  Boveri,  one  of  the  most 
+intellectually  resourceful  and  manually  deft  investigators  in 
+this  as  in  so  many  other  aspects  of  cytology,  writes:  "The 
+egg  protoplasm  is  with  reference  to  these  qualities  [i.e.,  of 
+individual  and  species]  only  the  material  for  the  forma- 
+tive activity  of  the  equally  potent  but  opposite  male  and 
+female  nuclear  parts."  12  Although  this  formulation  was 
+made  with  special  reference  to  Boveri's  own  observations, 
+as  a  matter  of  fact  the  evidence  which  seems  to  support 
+it  most  strongly  has  been  produced  not  by  Boveri  but  by 
+Curt  Herbst.  Herbst's  most  telling  case  is  presented  in 
+his  Studies  in  Heredity.  The  evidence  obtained  "is 
+almost  convincing,  I  think,"  says  Morgan,  "in  favor  of 
+the  view  that  chromosomes  are  the  essential  bearers  of 
+the  hereditary  qualities."13 
+
+Herbst  conceived  the  interesting  experiment  of  giving 
+spermatozoa  a  chance  at  eggs  which  had  already  received 
+the  impulse  to  develop  without  the  intervention  of  sperm, 
+that  is,  parthenogenetically.14  By  using  the  eggs  of  one 
+species  and  the  sperm  of  another,  he  thought  he  might  be 
+able  to  recognize  the  difference  in  effect  of  the  female  and 
+
+
+Cliroinatin  as  "Hereditary  Substance"  345 
+
+the  male  chromosomes,  should  development  ensue  under  the 
+impetus  of  both  artificial  parthenogenesis  and  artificial  fer- 
+tilization. The  animals  used  were  species  of  two  genera  of 
+sea-urchin  Sphaer echinus  and  Strong ylocentrotus,  the  eggs 
+being  from  the  first  and  the  sperm  from  the  second.  A  few 
+minutes  after  the  impetus  to  parthenogenctic  development 
+had  been  given  by  treating  them  with  a  weak  solution  of 
+valerianic  acid,  the  eggs  were  removed  to  normal  sea  water 
+and  mingled  with  the  sperm  of  Strongylocentrotus.  The 
+sperm  fertilized  some  of  the  eggs,  but  since  the  nuclear 
+changes  of  the  male  nucleus  within  the  egg  always  lagged  a 
+little  behind  the  changes  of  the  female  nucleus,  it  happened  in 
+some  instances  that  the  male  nuclei  passed  into  one  only  of 
+the  two  first  blastomeres,  the  result  being  that  in  the  em- 
+bryos in  the  two-cell  stage,  one  cell  contained  only  a  female 
+nucleus,  while  the  other  contained  both  a  female  and  a  male 
+nucleus,  which  in  some  cases  fused  in  the  usual  fashion  mak- 
+ing a  larger  nucleus  than  that  of  the  other  cell.  This  could 
+be  made  out  by  direct  observation.  It  was  further  observed 
+that  in  batches  of  eggs  where  a  two-cell  stage  of  this  sort 
+occurred,  the  resulting  larva  possessed  a  typical  hybrid 
+skeleton  on  one  side,  and  a  skeleton  typical  in  several  respects 
+of  Sphaer echinus  on  the  other. 
+
+"The  female  skeletal  side,"  says  Herbst,  "corresponds  to 
+the  small  nucleus  designated  as  left,  and  the  hybrid  to  the 
+large  one  designated  as  right."  Although  no  details  are 
+given  as  to  the  exact  relation  of  the  two  kinds  of  nuclei  to 
+the  skeletal  elements  presenting  characters  from  two  diverse 
+species,  the  inference  is  hardly  to  be  escaped  that  the  rela- 
+tion is  one  of  actual  causal  dependence.  But  Herbst's  atti- 
+tude of  caution  and  restraint  must  not  be  ignored,  as  it 
+seems  to  have  been  by  some  of  the  supporters  of  the  chro- 
+mosome theory  whose  enthusiasm  seems  to  be  too  strong  for 
+their  judgment.  He  is  careful  to  point  out  that  he  found 
+no  larva  in  which  the  part  of  the  skeleton  presenting  mater- 
+
+
+346  The   Unity  of  the  Organism 
+
+nal  characters,  were  these  characters  exclusively  maternal, 
+in  spite  of  the  fact  that  in  some  of  the  embryos  in  the  two- 
+cell  stage  the  nucleus  of  one  of  the  cells  seemed  to  be  purely 
+female.  That  the  variations  from  pure  femaleness  toward 
+the  hybrid  condition  of  this  part  of  the  skeleton  were  due 
+to  fragments  of  chromatin  from  the  male  nucleus  having 
+passed  into  the  female  nucleus,  he  regards  as  probable,  for 
+he  could  observe  that  in  the  reconstruction  of  the  nuclei, 
+both  male  and  female,  from  the  chromosomes  during  fertili- 
+zation, the  male  chromatic  granules  did  not  always  remain 
+together,  but  were  scattered  about  more  or  less,  sometimes 
+mingling  quite  intimately  with  those  from  the  female  nucleus. 
+This  would  seem  to  give  opportunity  for  contamination,  as 
+one  might  say,  of  the  female  nucleus  with  male  chromatin 
+even  in  those  cases  where,  after  the  nuclei  were  reconstructed, 
+nothing  of  such  contamination  could  be  observed.  But 
+Herbst  is  quite  conscious  of  the  danger  in  this  sort  of  ex- 
+planation, that  namely,  which  having  found  some  observa- 
+tional ground  on  which  to  base  an  explanatory  assumption, 
+proceeds  to  push  that  assumption  to  whatever  lengths  may 
+be  necessary  in  order  to  explain  the  facts  as  it  is  desired 
+they  should  be  explained. 
+
+The  weight  of  this  piece  of  evidence  in  favor  of  chromatin 
+as  one  "hereditary  substance"  is  undoubtedly  great,  and  is 
+enhanced  not  a  little  by  the  conservatism  of  the  investigator 
+who  presents  it.  How  far  it  goes  toward  proving  that  chro- 
+matin is  the  hereditary  substance  is  quite  another  matter, 
+and  one  to  be  dealt  with  later. 
+
+The  Connection  of  Sex  with  a  Particular  Chromosome 
+
+The  proof  recently  brought  out  that  in  some  organisms 
+sex  is  connected  with  a  particular  chromosome  in  the  germ- 
+cells  is  another  point  scored  for  the  chromatin  theory  of 
+heredity.  The  first  phase  in  this  discovery  consisted  in 
+
+
+Chroinutin  (iff  "Hereditary  Subftance"  347 
+
+making  out  that  there  are  two  sorts  of  spermatozoa  from 
+one  and  the  same  male  in  certain  insects,  the  difference  be- 
+tween the-  two  being  that  the-  head  of  one  kind  contains  an 
+element  or  body  not  present  in  the  other.  At  first  there  was 
+difference  of  view  as  to  the  anatomical  nature  of  this  extra 
+element.  Some  regarded  it  as  akin  to  the  nucleolus  rather 
+than  to  the  chromosomes.  The  idea  of  dimorphic  sperma- 
+tozoa was  first  clearly  expressed  by  II.  Honking  as  follows, 
+"I  believe  every  unbiased  observer  will  view  with  me  this 
+spherical  element  [of  the  sperm  head]  sharply  distinguish- 
+able from  the  other  chromatin,  as  the  nuclear  body  [present 
+in  part  of  the  spermatids].  Thus  is  revealed  the  important 
+Pact  that  we  have  two  kinds  of  spermatozoa:  one  kind  pos- 
+.vr.v.sr.v  a  nucleolus,  flic  other  docs  not." 
+
+C.  E.  McClung,  another  student  of  spermatogenesis,  first 
+suspected  that  these  two  kinds  of  spermato/oa  have  some- 
+thing to  do  with  the  two  sexes.  The  important  paper  in 
+which  this  hypothesis  is  set  forth  was  published  in  1902, 
+and  within  the  brief  period  since  that  date,  the  hypothesis 
+ias  been  supported  and  extended  by  such  a  mass  of  obser- 
+vation that  its  universality  for  at  least  the  animal  kingdom 
+seems  not  improbable. 
+
+The  exact  terms  in  which  McClung  stated  the  hypotheses 
+merit  attention.  He  says,  "Briefly  stated,  then,  my  con- 
+ception of  the  function  exercised  by  the  accessory  chromo- 
+some is  that  it  is  the  bearer  of  those  qualities  which  pertain 
+;o  the  male  organism,  primary  among  which  is  the  faculty 
+)f  producing  sex-cells  that  have  the  form  of  spermatozoa."  1<: 
+Noteworthy  for  our  discussion  is  the  difference  of  view 
+concerning  the  chemico-morphological  nature  of  the  extra 
+element  in  the  spermato/oan  as  shown  by  these  two  quota- 
+tions. It  was  regarded  as  sharply  distinguished  from  the 
+shromosomes  by  Ilenking,  hut  as  a  true  chromosome  by  Mc- 
+21ung.  The  great  preponderance  of  later  opinion  has  sided 
+with  McClung,  but  very  recently  tin-  question  has  been 
+
+
+348  The   Vnitij  of  the  Organism 
+
+raised  again,  though  in  a  quite  different  form. 
+
+This  demonstration  of  the  existence  of  two  kinds  of  sper- 
+matozoa and  McClung's  guess  as  to  its  meaning  came  at 
+an  opportune  time  for  their  influence  upon  investigation. 
+On  several  accounts  interest  in  cell  structure  was  already 
+largely  centered  in  the  chromosomes.  Furthermore,  the 
+Mendelian  mode  of  inheritance  was  rediscovered  almost 
+simultaneously  with  the  publication  of  McClung's  hypothesis. 
+Now  the  most  fundamental  thing  so  far  recognized  in  con- 
+nection with  this  sort  of  heredity  seems  to  be  separateness 
+and  stability  of  the  attributes  of  organisms ;  the  unit  char- 
+acter concept,  it  has  been  usually  called.  As  soon  as  the 
+natural  suggestion  was  made  that  sex  itself  might  be  a  unit 
+character,  the  alluring  surmise  was  close  at  hand  that  attri- 
+butes of  adult  organisms  which  segregate  in  inheritance,  that 
+is,  which  come  out  in  pristine  purity  in  the  children,  no 
+matter  how  much  they  may  have  been  obscured  in  the  par- 
+ents, might  be  connected  with  particular  chromosomes.  Add 
+to  these  circumstances  the  more  general  one  that  the  estab- 
+lished facts  and  proposed  hypotheses  were  congenial  to  the 
+elementalist  spirit  already  powerful  in  biology,  and  the 
+tremendous  impetus  to  work  on  the  fascinating  problems  of 
+the  mechanics  and  cause  of  heredity  in  so  far  as  sexually 
+propagating  organisms  are  concerned,  can  be  easily  under- 
+stood. 
+
+It  is  doubtful  whether  in  the  whole  history  of  biology 
+any  other  fifteen-year  period  has  seen  greater  intensify  of 
+investigation  or  a  larger  number  of  notable  observations 
+and  discussions  on  any  topic  than  has  the  period  since  1900 
+on  the  problem  of  heredity  and  sex.  And  "determinants", 
+(hypothetical  somethings  in  the  germ  which  "carry"  and  so 
+explain  characters  of  the  adult),  modified  into  "determin- 
+ers" apparently  for  the  purpose  of  disguising  the  unpala- 
+tableness  of  Weismannian  metaphysics,  have  played  a  very 
+great  part  in  the  efforts  that  have  been  made.  Indeed,  there 
+
+
+Chromatin  as  "Hereditary  Substance"  349 
+
+seems  to  have  been  something  talismanic  in  the  word,  it  hav- 
+ing inspired  workers  with  the  t>elief  that  since  determiners 
+belong  to  the  realm  of  causality,  quest  after  them  absolves 
+the  seeker  from  the  humble  task  of  telling  in  ordinary  de- 
+scriptive fashion  what  they  themselves  are.  Although  no 
+serious  effort  has  been  made  in  this  period  to  give  an  ac- 
+count, either  morphological  or  physiological,  of  determiners, 
+excepting  that  they  determine,  the  fact  that  evidence  has 
+been  forthcoming  in  abundance  that  chromosomes  act  as 
+though  they  were  depositories,  or  carriers  of  determiners  if 
+such  exist,  has  increasingly  vivified  and  strengthened  faith 
+in  them,  and  so  has  made1  the  determiner  hypothesis  a  stimu- 
+lant to  research  in  even  greater  measure  than  did  its  im- 
+mediate predecessor,  the  determinant  hypothesis  of  Weis- 
+mann. 
+
+If  the  value  of  a  "working  hypothesis"  is  to  be  judged 
+solely  by  the  amount  of  work  incited  by  it  (though  for  rea- 
+sons which  it  is  beyond  the  scope  of  this  volume  to  present 
+I  deny  the  adequacy  of  such  valuation),  this  hypothesis  has 
+surely  justified  itself.  If  one  mentions  only  the  foremost 
+workers  in  this  field  the  list  is  by  no  means  short  and  con- 
+tains biologists  of  the  first  rank.  The  names  of  Boveri, 
+Correns,  Doncaster,  Groldschmidt,  Guyer,  R.  Hcrtwig,  King, 
+Mi-Clung,  Moves,  Montgomery,  Morgan,  Stevens,  and  E.  B. 
+Wilson,  would  he  sure  to  appear  in  any  list  of  students  dis- 
+tinguished for  what  they  have  contributed  to  the  advance- 
+ment of  biology  during  the  last  two  decades,  and  the  prob- 
+lem of  the  cytological  basis  of  heredity  has  received  a  gen- 
+erous share  of  the  attention  of  all  these. 
+
+The  fruitage  of  effort  since  McCIung  published  his  hypo- 
+thesis must  now  be  summed  up,  though  naturally  only  the 
+baldest  essentials  can  be  included.  McCIung  conceived  the 
+accessory  chromosome  to  be  the  bearer  of  those  qualities 
+which  pertain  to  the  male.  In  other  words,  he  conceived 
+that  maleness  in  the  insects  to  which  his  studies  related  was. 
+
+
+350  The  Unity  of  the  Organism 
+
+caused  by  the  extra  chromosome  of  the  sperm  cell.  Two 
+distinct  questions  suggest  themselves  to  the  critically 
+minded:  assuming  it  proved  that  spermatozoa  having  extra 
+chromosomes  do  induce  eggs  to  develop  into  males  in  some 
+animals,  how  generally  is  this  true  for  sexually  propagating 
+organisms?  And  assuming  it  true  cither  universally  or  only 
+in  a  few  animals,  what  is  the  real  meaning  of  the  statement 
+that  the  accessory  element  of  the  sperm  is  the  "bearer  oi 
+those  qualities  which  pertain  to  the  male  organism"? 
+
+The  answer  to  the  first  question  alone  concerns  us  now, 
+though  the  answer  to  the  second  is  far  more  fundamental 
+and  upon  it  depends  in  large  measure  the  significance  of 
+whatever  answer  may  be  forthcoming  to  the  first. 
+
+The  arguments  by  which  McClung  supported  his  hypothe- 
+sis were  rather  general  and  indirect,  and  it  is  possible  to 
+state  in  a  single  sentence  the  main  outcome  of  later  research 
+relative  to  it.  A  connection  between  sex  and  particular 
+chromosomes  has  been  definitely  proved  for  a  large  number 
+of  animals ;  but  the  particular  connection  supposed  by  Mc- 
+Clung, namely,  that  the  accessory  chromosome  of  the  sperm 
+produces  a  male,  has  not  been  proved.  In  1911  Wilson,  epit- 
+omizing the  results  of  his  own  researches  and  those  of  others 
+using  terms  necessitated  by  discoveries  since  1902,  said, 
+"The  observed  relations  of  the  X-  and  Y-chromosomcs  to 
+sex  are  not  theories,  but  facts."  1T  The  evidence  seems  un- 
+doubtedly to  justify  this  statement;  so  information  as  to 
+what  the  X-  and  Y-chromosomes  are  will  furnish  informa- 
+tion of  the  dependence  of  sex  upon  chromosomes. 
+
+Discoveries  were  made  soon  after  the  enunciation  of  Mc- 
+Clung's  hypothesis  that  seemed  almost  certainly  to  connect 
+the  extra  chromosome  of  the  sperm  not  with  the  production 
+of  a  male,  but  of  a  female.  "The  decisive  evidence,"  writes 
+Wilson,  "in  regard  to  this  question  was  first  produced  by 
+independent  investigations  upon  Hemiptcra  and  Coleoptertf 
+by  -Miss  Stevens  and  myself  in  1905-1906."  18  This  evidence 
+
+
+Chroma  tin   <ix   "Hereditary  Xnbstaiiee"  351 
+
+was  obtained  by  a  comparative  study  of  the  chromosomal 
+number  and  character  in  the  body  cells  as  well  as  in  the 
+germ-cells  of  both  males  and  females.  Miss  Stevcns's  state- 
+ment of  results  may  lx?  given.  Referring  to  tin-  previous 
+investigations  by  herself  and  Wilson  on  a  considerable  list 
+of  species  of  insects  belonging  to  the  orders  above  men- 
+tioned, she  said  that  in  all  cases  where  an  odd  chromosome 
+occurs  in  the  male  germ-cells,  a  pair  of  such  chromosomes 
+occurs  in  the  body  cells  of  the  female;  from  which  the  con- 
+clusion follows  that  an  egg  fertilized  by  a  spermatozoan 
+containing  an  odd  chromosome  must  produce  a  female  in- 
+sect. 
+
+But  a  variation  from  this  scheme  was  found  which,  though 
+not  contradictory  to  the  principle  involved,  made  it  neces- 
+sary to  give  this  chromosome  some  other  designation.  The 
+designation  chosen  by  Wilson  was  X-chromosomc,  or  as 
+later  observations  seemed  to  justify,  sex  chromosome.  "X- 
+chromosome"  is  then,  essentially  synonymous  with  "acces- 
+sory chromosome,"  and  "Y-chromosome"  refers  to  a 
+chromosome  in  some  species  as  a  mate  to  the  X-chromosome. 
+But  since  the  Y-chromosome  constitutes  a  further  compli- 
+cation, though  not  a  fundamental  modification  of  the  prin- 
+ciple of  the  relation  of  chromosomes  to  sex,  the  purpose  of* 
+this  discussion  would  not  be  furthered  by  going  into  the 
+subject  in  more  detail,  interesting  as  it  is  from  various  other 
+standpoints. 
+
+The  other  kind  of  evidence  which  we  will  mention  con- 
+necting sex  with  chromosomes  lias  come  from  animals  which, 
+like  some  bees  and  wasps,  propagate  by  fertilized  eggs  part 
+of  the  time  and  by  unfertilized  or  virgin  or  parthenogenetic 
+eggs  the  rest  of  the  time.  As  soon  as  the  fact  had  been 
+discovered  that  a  chromosomal  difference  between  the  two 
+sexes  occurs  in  some  animals  which  always  reproduce  bi- 
+sexually,  the  likelihood  of  a  difference  between  the  chromo- 
+somes of  parthenooenetically  produced  females,  ordinary 
+
+
+352  The   Unity  of  the  Organism 
+
+females,  and  males  of  the  same  species,  readily  occurred  to 
+biologists,  and  a  study  of  the  subject  has  been  made  by  sev- 
+eral investigators.  The  state  of  things  found  in  the  honey 
+bee,  perhaps  the  most  familiar  example  of  virgin  propaga- 
+tion, illustrates  the  principle  involved.  It  has  long  been 
+known  that  female  bees  (queens  and  workers)  are  produced 
+from  fertilized  eggs,  while  males  (drones)  are  produced  from 
+non-fertilized  eggs.  If  the  dependence  of  sex  on  chromo- 
+somal peculiarities  known  to  occur  in  some  insects  be  true 
+generally,  then  the  eggs  of  bees  which  develop  partheno- 
+genetically  might  be  expected  to  differ  as  to  their  chromo- 
+somes from  those  which  develop  after  fertilization.  This 
+expectation  has  been  definitely  realized.  Before  maturation 
+the  male  germ-cells  have  sixteen  chromosomes  and  the  fe- 
+male cell  thirty-two.  Reduction  by  one-half  in  the  number 
+of  chromosomes  which  occurs  in  typical  spermatogenesis 
+does  not  take  place  here,  so  the  spermatozoan  receives  the 
+full  sixteen  chromosomes.  From  this  it  results  that  the  fer- 
+tilized egg,  containing  thirty-two  chromosomes  (sixteen  hav- 
+ing been  added  by  the  spermatozoan),  has  undergone  the 
+usual  reduction  of  chromosome-number  during  maturation, 
+leaving  it  sixteen.  "The  fission  spindle  of  the  unfertilized 
+egg  contains  only  the  haploid  number  of  chromosomes  (16), 
+the  fertilized  egg  contains  naturally  the  diploid  number 
+
+
+"Here,  then,"  says  Doncaster,  "is  a  clear  case  of  sex 
+determined  by,  or  at  least  in  connection  with,  the  presence 
+of  a  definite  number  of  chromosomes  ;  when  the  full,  or 
+double,  number  is  present,  the  individual  is  a  female;  when 
+only  the  half  number  is  present,  it  becomes  a  male."  °  With 
+important  variations  for  the  different  animal  groups,  the 
+first  part  of  this  statement  has  been  found  to  be  true  for 
+quite  a  list  of  animals  which  reproduce  parthenogenetically 
+a  portion  of  the  time,  among  these  being  certain  wasps, 
+
+
+Chromatin  as  "Hereditary  Substance"  353 
+
+gall  flies  and  phylloxerans.*  And  observations  have  lately 
+been  published  winch  strongly  indicate  the  dependence  of 
+sex  upon  chromosomes  in  other  animals  in  which  partheno- 
+genesis and  hermaphroditism  occur.  This  is  notably  true 
+of  aphids,  certain  nematode  worms,  and  a  pteropod  mol- 
+lusc. Summing  up,  we  may  say,  then,  that  in  a  considerable 
+number  of  animals  sex  is  proved  to  be  hereditary  and  to  be 
+connected  with  the  chromosomal  condition  of  the  germ- 
+cells. 
+
+The  Connection  of  Mutation  with  Particular  Chromosomes 
+
+Finally,  the  most  surprising  evidence  in  favor  of  the 
+theory  that  chromosomes  are  bearers  of  heredity,  is  the  dis- 
+covery that  certain  attributes  in  some  animals  and  plants, 
+not  necessarily  peculiar  to  either  one  sex  or  the  other,  but 
+which  arise  as  mutations  and  are  transmitted  in  Mendelian 
+fashion,  are  connected  with  particular  chromosomes.  The 
+best  investigated  examples  are  furnished  by  the  evening 
+primroses,  plants  which  have  become  famous  in  connection 
+with  the  mutation  theory. 
+
+Mr.  R.  Ruggles  Gates,  one  of  the  foremost  workers  in  this 
+specialty,  has  lately  epitomi/cd  the  facts  and  views  held  rela- 
+tive to  the  chromosomal  characters  of  plants.  He  writes 
+
+*  The  investigators  who  h;ivc  emit  riluitcd  most  to  the  descriptions  of 
+I  lie  chromosomal  conditions  of  the  honey  hee  ;ire  ,T.  F.  Meves  (Die 
+Spermatocytenteikmgen  !><'!  </<  >•  Hanii/hii  HC.  Arch.  f.  Mikr.  Anat.  Bd.  70, 
+p.  4-1 1,  1907)  and  H.  N;ichl sheim.  referred  to  ahove.  Meves  and  J. 
+Deusberg  (/>/<•-  8p€rmatocyt6iU4ilung0n  !><i  <l<r  llnniixsc.  Arch,  fur 
+Mikr.  A nat.  Md.  71,  1908)'  have  investigated  the  wasp.  The  gall  flies 
+have  been  studied  by  I,.  Doncaster.  (Gameto  gene  sis  of  the  Gall  fly 
+XIMKOPTERUS  i.KNTicri.AHTS  Proc.  Roy.  Soo.  B.  82,  1910,  p.  88  and  B.  83, 
+1911,  ]>.  l?(i.)  The  germ-cells  of  certain  Phylloxerans  have 
+been  the  subject  during  the  last  ten  years  of  some  of  T.  H.  Morgan's 
+most  important  studies.  His  first  paper,  (The  Male  and  Female  Eggs 
+of  Pli!i!lo.rrr<iH*  of  the  ///VA-onYx.  Biol.  Bull.  Vol.  10,  p.  210)  was 
+published  in  190<».  In  all  he  has  written  something  like  a  dozen 
+papers  on  the  subject,  the  last  so  far  as  I  know  having  appeared  in  1915 
+(The  Predetermination  of  Sex  in  Phylloxerans  and  Aphids.  Jour.  Exper. 
+Zool.  Vol.  19,  Oct.  1915,  p.  285). 
+
+
+354  The   Unity  of  the  Organism 
+
+".  .  .  in  the  genus  Oenothera  the  original  number  of  chro- 
+mosomes is  14.  This  is  true  of  Oe.  Lamarckiana  and  many 
+other  species.  Duplication  of  one  of  these  chromosomes 
+through  an  irregular  mitotic  division  has  led  to  15  in  Oe. 
+lata,  a  characteristic  mutation  which  has  occurred  both  in 
+Oe.  Lamarckiana  and  in  certain  races  of  Oe.  biennis.  The 
+same  chromosome  number  occurs  in  semilata  and  in  a  very 
+different  form  from  Sweden  which  I  have  called  incurvata. 
+De  Vries  has  recently  described  still  another  form  having  15 
+chromosomes.  It  was  derived  from  Oe.  biennis  semi-gigas 
+pollinated  in  part  from  Oe.  biennis  .  .  .  Hence  we  may  say 
+that  whenever  a  germ-cell  having  8  chromosomes  fertilizes 
+a  normal  germ-cell  a  new  form  is-  produced.  .  .  .  Oe.  mut. 
+gigas  is  a  prototype  of  another  series  of  still  more  closely 
+parallel  mutations  in  which  the  chromosome  series  is  doubled 
+— 28 — the  plant  being  a  cell  giant  and  not  merely  gigantic 
+in  its  external  dimensions.  ...  A  third  series  of  morpholog- 
+ical mutants  is  the  semigigas  series,  having  21  chromo- 
+somes. .  .  .  Another  important  feature  of  mutations  which 
+has  not  hitherto  been  emphasized  is  the  fact  that  each  is  the 
+result  of  a  cell  change  which  is  represented  in  every  part  of 
+the  organism.  The  cells  of  Oe.  lata  constantly  have  15 
+chromosomes,  in  whatever  part  of  the  plant  they  have  been 
+examined.  Similarly  in  Oe.  gigas  even  the  most  specialized 
+tissues  retain  the  double  number  of  chromosomes  transmitted 
+to  them."  21 
+
+The  examples  of  connection  between  mutations  and  chro- 
+mosomes which  are  now  attracting  most  attention  are  fur- 
+nished by  the  fruit  flies  (Drosophila).  Biology  is  especially 
+indebted  to  Professor  Morgan's  genius  for  experimentation 
+for  the  investigations  in  this  field.  The  explanation  of  the 
+behavior  in  heredity  of  mutant  .attributes  in  Drosophila 
+elaborated  by  Morgan  and  his  co-workers  is  admittedly 
+hypothetical  and  is  consequently  not  really  entitled  to  a 
+place  in  this  section,  the  aim  of  which  is  to  present  cases  of 
+
+
+Chromatin  as  "Hereditary  Substance11  355 
+
+actually  proved  connection  between  hereditary  attributes 
+and  chromosomes.  Morgan's  hypothesis  is,  however,  so  in- 
+teresting and  seems  so  likely  to  be  proved  partly  true  (that 
+is,  true  to  the  extent  of  there  being  some  sort  of  connection 
+between  the  attributes  in  quest  ion  and  chromosomes),  that 
+it  seems  desirable  to  present  the  most  salient  parts  of  the 
+theory. 
+
+That  the  case  is,  as  above  indicated,  still  in  the  hypotheti- 
+cal stage,  seems  not  to  be  appreciated  by  some  enthusiasts, 
+though  fortunately  Morgan  is  not  one  of  these.  In  the 
+preface  to  the  volume  The  Mechanism  of  Mendelian  Heredity 
+Morgan  writes:  "But  it  should  not  pass  unnoticed  that 
+even  if  the  chromosome  theory  is  denied,  there  is  no  result 
+dealt  with  in  the  following  pages  that  may  not  be  treated 
+independently  of  the  chromosomes ;  for  we  have  made  no 
+assumption  concerning  heredity  that  cannot  also  be  made 
+abstractly  without  the  chromosomes  as  bearers  of  the  postu- 
+lated hereditary  factors."  22 
+
+The  observations  on  which  Morgan's  hypothesis  rests  be- 
+long to  two  very  different  categories,  and  these  categories 
+pertain  to  parts  of  the  organism  anatomically  far  away 
+from  each  other,  namely,  to  the  union  and  separation  or 
+"segregation"  of  the  hereditary  attributes  of  adult  organ- 
+isms that  propagate  bisexually,  and  to  the  union  and  scp- 
+a  ration  of  chromosomes  of  the  germ-cells  during  maturation 
+and  fertilization  in  these  same  organisms.  As  an  illustration 
+of  the  first,  part  of  this  statement  take  one  of  Mendel's  own 
+cases,  that  of  the  table  pea  having  roundish  seeds  crossed 
+with  a  variety  having  angular  and  deeply  wrinkled  seeds. 
+All  the  seeds  of  plants  arising  immediately  from  this  cross 
+(the  F,  generation)  are  round.  But  if  now  the  plants  of 
+this  Fj  lot  are  pollinated  among  themselves,  their  immediate 
+progeny  (the  F2  generation)  will  have  both  round  and 
+angular  seeds  in  the  proportion  of  three  round  to  one  angu- 
+lar. In  a  word,  since  the  F2  plants  produce  seeds  corre- 
+
+
+356  The  Unity  of  the  Organism 
+
+spending  in  form  to  the  seeds  of  both  their  grandparents,  it 
+is  certain  that  the  germs  of  their  parents  must  have  con- 
+tained some  sort  of  a  combination  between  round-producing 
+and  angular-producing  capacities  of  the  germs,  cvi-u 
+thougli  those  parents  revealed  nothing  of  that  capacity  so 
+far  as  their  own  seeds  were  concerned.  And  it  is  certain, 
+too,  that  whatever  the  nature  of  the  combination  in  the 
+germs  of  the  Ft  generation,  it  is  such  as  to  permit  a  separa- 
+tion of  the  capacities  for  the  seeds  of  the  F2  generation. 
+
+In  1865,  when  Mendel  announced  these  observations,  noth- 
+ing was  known  about  pea  germs,  or  for  that  matter  about 
+any  other  germs,  that  could  remotely  suggest  what  their 
+constitution  is  in  virtue  of  which  they  possess  peculiar  ca- 
+pacities. Nor  was  it  until  cytological  research  had  accu- 
+mulated a  good  deal  of  knowledge  of  the  chromosomes  that 
+positive  light  from  the  side  of  germ  morphology  and 
+physiology  was  thrown  on  the  subject. 
+
+Chromosomes  and  the  Mendelian  Mode  of  Inheritance 
+
+The  pregnant  hypothesis  that  the  combination  and  the 
+separation  of  hereditary  attributes  in  the  fashion  discovered 
+by  Mendel  is  not  only  paralleled  but  explained  by  combina- 
+tions and  separations  of  chromosomes  in  the  germ-cells,  was, 
+according  to  Morgan,  Sturtcvant,  Bridges,  and  Mtiller,  first 
+stated  "in  the  form  in  which  we  recogiii/e  it  to-day,"  by  W. 
+S.  Button.  E.  B.  Wilson  has  informed  us  how  the  idea  came 
+to  expression  almost  simultaneously  by  Mr.  Button,  then  a 
+student  of  zoology  in  Columbia  University,  and  W.  A.  Can- 
+non, a  botanical  student  in  the  same  University. 
+
+The  basis  and  formulation  of  the  hypothesis  are  pre- 
+sented by  Mr.  Button  in  two  papers  published  in  the  same 
+volume  of  the  Biological  Bulletin.  In  order  to  appreciate 
+the  full  cogency  of  the  argument  in  favor  of  the  hypothesis, 
+it  is  necessary  to  go  a  little  farther  than  we  have  hitherto 
+
+
+Chroma  tin  as  "Hereditary  Substance"  557 
+
+into  the  structure  and  maneuvering  of  the  chromosomes  of 
+the  ge nn-cells  during  the  "ripening"  of  the  germ-cells.  The 
+facts  usually  taken  as  the  starting  point  for  the  hypothesis 
+are  that  all  the  cells,  both  body  and  germ,  of  an  ordinary 
+sexual  plant  or  animal  have  a  constant  number  of  chromo- 
+somes, the  number  being  characteristic  for  the  species ;  that 
+before  fertilization,  an  essential  feature  of  which  is  the 
+union  of  male  and  female  chromosomes,  the  chromosome 
+number  of  both  male  and  female  cells  is  reduced  by  one  half, 
+excepting  in  those  cases  where  there  is  an  odd  or  accessory 
+chromosome,  so  that  the  union  of  the  chromosomes  in  ferti- 
+li/ation  restores  the  number  typical  of  the  species;  that  the 
+final  adjustment  gives  the  fertilized  egg  and  all  the  cells 
+arising  from  it  supposedly  equal  portion  of  chromatin  from 
+each  parent;  and  finally,  that  the  chromosomes  of  the  germ- 
+cells  in  many  animals,  if  not  in  all,  are  not  all  alike  either 
+in  form  or  size. 
+
+Proceeding  from  these  facts  Sutton  studied  the  germ-cells 
+of  the  lubber  grasshopper  with  reference  to  the  question  of 
+whether  the  differences  in  size  and  form  of  the  chromosomes 
+arc  haphazard  and  meaningless  or  have  some  constancy, 
+(specially  in  relation  to  their  maternal  and  paternal  sources, 
+and  in  the  way  they  couple  with  one  another  in  fertilization. 
+Summarizing  the  results  for  the  germ-cells  as  they  grow 
+and  multiply  before  the  ripening  process  sets  in,  he  con- 
+cluded that  during  this  period  the  chromosome  group  of 
+
+•h  germ-cell  is  composed  of  two  equivalent  chromosome 
+>ries,  each  series  consisting  of  eleven  chromosomes  differing 
+
+long  themselves  in  size,  and  that  in  all  probability  one  of 
+series  comes  from  the  father  and  the  other  from  the 
+
+)ther.      Furthermore,    he    believed    that    the    reduction    in 
+
+imber  which  takes  place  in  this  ripening  stage  and  is  known 
+as  synapsis,  is  accomplished  by  the  union  of  two  series  in 
+such  fashion  that  each  member  of  the  maternal  series  unites 
+with  one  of  corresponding  si/e,  its  mate  of  the  paternal 
+
+
+358  The  Unity  of  the  Organism 
+
+series,  and  that  in  the  very  last  division  before  the  trans- 
+formation of  the  unripe  cells  into  eggs  and  spermatozoa,  a 
+separation  of  the  chromosomes  which  united  at  synapsis  oc- 
+curs, so  that  each  egg  and  each  spermatozoan  gets  the  full 
+series  of  eleven,  characteristic  of  the  species,  some,  however, 
+being  of  maternal  and  some  of  paternal  origin. 
+
+In  his  first  paper,  Sutton  merely  mentioned  Mendelian  in- 
+heritance in  connection  with  the  chromosome  scheme  he  had 
+considered.  "I  may  finally  call  attention/'  he  said,  "to  the 
+probability  that  the  association  of  paternal  and  maternal  chro- 
+mosomes in  pairs  and  their  subsequent  separation  during  the 
+reducing  division  .  .  .  may  constitute  the  physical  basis  of  the 
+Mendelian  law  of  heredity."  :  His  second  paper  is  devoted 
+to  an  elaboration  of  this  suggestion.  Mendel  pointed  out  that 
+where  attributes  of  hybrids  behave  in  heredity  in  the  peculiar 
+way  discovered  by  him,  if  one  of  the  constant  characters,  for 
+example,  the  dominating  one,  be  designated  by  A  and  the  other, 
+the  recessive,  by  a,  and  the  hybrid  form  in  which  the  two  are 
+combined  by  Aa,  then  these  two  differentiating  characteristics 
+of  the  development  series  in  the  progeny  of  the  hybrids  will 
+give  the  formula:  A  -\-  2Aa  -f-  a.  This  comes  about  on  the  sup- 
+position that  the  uniting  of  these  characteristics  follows  the  law 
+of  chance;  that  is,  that  a  male  hybrid  with  attributes  Aa  pairing 
+with  a  female  hybrid  having  the  same  attributes,  gives: 
+
+
+aa 
+
+or  A  -j-  2Aa  -|-  a,  since  AA  and  aa  can  be  nothing  more  than 
+A  and  a  as  here  used. 
+
+What  in  essence  Sutton  did  was  to  show  that  such  a  chromo- 
+some seheme  as  he  had  partly  proved  and  partly  conceived 
+to  exist  in  the  germ-cells  of  the  lubber  grasshopper,  could  be 
+brought  under  the  identical  expression  that  we  have  just  seen 
+Mendel  deduced  for  the  attributes  of  peas.  If,  Sutton  reasoned. 
+
+
+Chromatin  as  "Hereditary  Substance"  359 
+
+each  chromosome  of  any  series,  has  a  corresponding  one  in  any 
+other  series,  and  if  these  have  such  an  identity  and  freedom 
+to  combine  and  separate  as  the  discussion  had  assumed,  then 
+if  a  given  chromosome  of  the  father  be  designated  by  A  and  its 
+mate  in  the  mother  by  a,  in  synapsis  there  would  arise  Aa,  which 
+on  reduction  division  preparatory  to  ripening  of  the  eggs  and 
+sperm  would  produce  two  kinds  of  eggs  and  two  kinds  of  sperm 
+relative  to  this  set  of  chromosomes,  namely  male  A  and  female 
+/]  ;  and  male  a  and  female  a.  These  if  equal  in  number  and 
+equally  free  in  their  movements  would  give  in  fertilization : 
+Male  A  -f-  Female  A  =  A  A 
+"  A  +  "  a  =  Aa 
+
+a  -  A   =  aA 
+
+a  -f-  a  =    aa 
+
+Or  since  Aa  and  a.l  are  alike  the  expression  becomes  AA  -f~ 
+2Aa  -f-  aa  as  the  distribution,  or  again  A  -{-  Aa  -\-  a  as  the 
+sum  of  possibilities  of  each  chromosome  pair.  "Thus,"  Sutton 
+says,  "the  phenomena  of  germ-cell  division  and  of  heredity  are 
+seen  to  have  the  same  essential  features,  viz.,  purity  of  units 
+(chromosomes,  characters)  and  the  independent  transmission  of 
+the  same."  24 
+
+We  must  now  return  to  the  truly  remarkable  discoveries 
+made  by  Morgan  and  his  students  and  collaborators  on  mu- 
+tations in  Drosophila  and  on  the  behavior  of  the  mutant 
+attributes  in  heredity.  These  have  consisted  in  showing  that 
+such  a  relation  between  attributes  and  chromosomes  as  that 
+assumed  in  this  relatively  simple  scheme  worked  out  by 
+Sutton  may  be  carried  out  in  much  detail  both  as  to  attri- 
+butes and  chromosomes.  An  especially  ingenious  and  fas- 
+cinating aspect  of  the  theory  as  it  has  been  elaborated  large- 
+ly under  Morgan's  leadership,  is  that  which  shows  the 
+possibility  that  different  parts  of  one  and  the  same  chromo- 
+some may  correspond  to  several  distinct  attributes  of  the 
+adult;  that  these  attributes  may  or  may  not  be  inseparable 
+from  one  another,  and  that  when  they  are  separable  they 
+may  be  transferred  from  one  sex  to  the  other,  presumably 
+by  the  transference  of  factors  in  one  part  of  a  chromosome 
+
+
+360  The  Unity  of  the  Organism 
+
+of  a  given  pair  to  the  other  chromosome  of  that  pair. 
+
+So  rapidly  have  come  the  striking  observations  in  this 
+field,  and  so  striking  have  been  the  theoretical  interpretations 
+set  forth  that  many  biologists  who  have  been  admiring  on- 
+lookers, have  seemingly  failed  to  discriminate  just  how  much 
+of  what  has  been  presented  is  fact,  how  much  legitimate  in- 
+ference, and  how  much  hypothesis  in  the  strict  sense.  It  is, 
+consequently,  eminently  fortunate  that  Morgan  himself  has, 
+as  noted  above,  given  us  an  explicit  even  though  an  inade- 
+quate statement  of  how  the  case  stands  in  this  regard.  The 
+sentence  quoted  some  pages  back,  "We  have  made  no  as- 
+sumptions concerning  heredity  that  cannot  also  be  made 
+without  the  chromosomes  as  bearers  of  the  postulated  hered- 
+itary factors,"  :  2  should  be  recalled.  The  case  standing 
+thus,  the  present  discussion  would  not  be  furthered  by  going 
+into  more  of  its  details. 
+
+And  so  we  come  to  the  end  of  our  examination  of  the 
+observational  evidence  favorable  to  the  theory  that  heredi- 
+tary attributes  in  bisexually  propagating  organisms  are  in 
+some  way  and  to  some  extent  dependent  upon  the  chromo- 
+somes of  the  germ-cells.  The  conclusion  must  be,  it  seems, 
+that  not  many  of  the  major  theories  in  biology  are  more  se- 
+curely established  than  this.  Thus  stated,  the  chromosome 
+doctrine  not  only  takes  its  place  along-side  the  cell-doctrine, 
+but  it  supplements,  and  in  fact,  partly  supplants  the  cell 
+doctrine.  Never  again,  for  example,  can  the  cell  be  con- 
+ceived, as  many  earlier  cellular  elementalists  were  wont  to 
+conceive  it,  as  The  Ultimate  Unit  of  organic  beings. 
+
+In  several  instances  presented  by  the  foregoing  review  of 
+the  chromosome  theory  of  heredity,  notably  in  that  of  the 
+pollen  grains  of  flowering  plants  where  the  final  act  in  fer- 
+tilization appears  to  be  accomplished  by  the  chromatin  alone 
+(see  p.  343),  the  chromatin  manifestly  constitutes  a  unit 
+beyond  the  cell  and  hence  nearer  to  ultimateness  than  is  the 
+cell. 
+
+
+Chromatin  as  "Hereditary  Substance" 
+
+
+361 
+
+
+HKFKRKXCE  INDEX 
+
+
+1.  Kofoid     939 
+
+2.  Wilson,    E.    B.    ('00)....  165 
+
+3.  Wilson,  E.   B.    ('00) 308 
+
+5.  Hertwig,  O.    ('12) 50 
+
+6.  Hertwig,  O.    ('12) 51 
+
+7.  Heidenhain     241 
+
+8.  Jordan    ('16-1)    210 
+
+9.  Hooker    401 
+
+10.  Szily     145 
+
+11.  Strasburger    ('09)    104 
+
+12.  Boveri     960 
+
+13.  Morgan,  T.   H.    ('15) 62 
+
+
+14.  Herbst     266 
+
+15.  McClung   47 
+
+16.  McClung     72 
+
+17.  Wilson,  E.   B.   ('11) 257 
+
+18.  Wilson,  E.  B.    ('11) 258 
+
+19.  Nachtsheim     228 
+
+20.  Doncaster     57 
+
+21.  Gates    522 
+
+22.  Morgan,   T.   H.,  et  a/....  viii 
+
+23.  Sutton    ('02)    39 
+
+24.  Sutton    ('02)    237 
+
+
+Chapter  XIII 
+
+EVIDENCE      FROM      PROTOZOANS      THAT      SUB- 
+STANCES OTHER  THAN   CHROMATIN  ARE 
+PHYSICAL  BASES  OF  HEREDITY 
+
+TAKING  it  as  proved  that  in  most  sexually  propagating 
+organisms  heredity  is  dependent  on  chromosomes,  thus 
+making  the  view  that  chromosomes  are  bearers  of  heredity 
+legitimate  in  a  certain  sense,  a  fundamental  question  must 
+be  examined  before  the  discussion  can  be  regarded  as  hav- 
+ing even  an  approach  to  comprehensiveness.  This  question 
+may  be  stated  thus :  is  heredity  dependent  on  the  chromo- 
+somes alone,  that  is,  to  the  exclusion  of  other  parts  of  the 
+cell;  in  other  words,  are  chromosomes  the  sole  "bearers  of 
+heredity"? 
+
+At  the  outset  of  this  inquiry  we  must  recall  what  heredity 
+is  as  understood  in  this  treatise.  It  is  resemblance  between 
+living  beings  due  to  descent.  This  is  the  definition  which  in 
+an  earlier  section  we  decided  is  more  satisfactory  than  any 
+other  when  due  consideration  is  given  not  only  to  the  phe- 
+nomena of  organic  propagation  themselves,  but  also  to  the 
+historic  usage  of  the  word.  Another  thing  about  heredity 
+insisted  upon  on  earlier  pages  should  be  recalled :  all  stages  in 
+the  development  of  an  individual  are  as  truly  manifestations 
+of  heredity  as  is  the  final  or  adult  stage.  And  finally,  the 
+reader  is  asked  not  to  forget  the  deprecation  expressed 
+early  in  the  discussion  of  the  unwarrantable  practice  with 
+many  recent  writers  on  heredity  of  either  ignoring  asexual 
+propagation  altogether  or  tossing  it  aside  as  presenting  no 
+problem  .or  anything  of  significance  to  the  geneticist. 
+
+362 
+
+
+Kindencc  from  Protozoans  363 
+
+If  we  hold  firmly  to  this  broad  but,  in  the  light  of  facts, 
+only  adequate  conception  of  heredity,  the  general  answer  to 
+the  questions  stated  above  as  to  the  relation  of  chromosomes 
+to  heredity  will  come  without  equivocation.  We  may  give 
+the  answers  now  categorically,  then  look  at  the  facts  which 
+compel  them.  Neither  chromosomes  nor  chromatin  are  the 
+sole  bearers  of  heredity.  Factors  for  hereditary  attributes, 
+if  the  term  has  any  real  meaning  as  thus  used,  are  "carried" 
+by  the  cytoplasm  no  less  than  by  the  chromatin.  Many, 
+probably  all  living  parts  of  the  cell,  and  not  the  chromatin 
+and  chromosomes  alone,  are  the  physical  bases  of  heredity. 
+
+Evidence  From  the  Ontogeny  of   Various  Protozoans 
+
+Beginning  the  discussion  again  with  the  lower  organisms 
+and  advancing  to  the  higher,  we  first  examine  the  develop- 
+ment of  a  few  protozoans ;  and  the  reader  is  urged  to  take 
+what  follows  in  connection  with  the  chapters  on  the  struc- 
+ture, and  especially  on  the  development  of  protozoans. 
+
+(a)  Stentor 
+
+The  development  of  the  "trumpet  animalcule,"  Stentor, 
+having  been  instanced  as  a  genuine,  often  complex  ontogeny 
+in  protozoans,  our  study  of  heredity  in  the  protozoa  may 
+well  begin  with  this  animal.  The  figures  11,  12,  13,  and  14 
+accompanying  the  earlier  presentation  will  serve  us  now. 
+Reference  to  the  account  given  in  the  former  discussion  finds 
+that  one  of  the  main  points  brought  out  was  that  in  repro- 
+duction a  whole  series  of  the  Stentor's  external  organs  arise 
+de  novo,  that  is,  independently  of  the  corresponding  organs 
+of  the  parent;  and  that  tlu-se  take  their  origin  in  the  surface 
+layer  or  ectoplasm,  and  outer  part  of  the  endoplasm.  "And 
+this  de  novo  mode  of  origin,"  we  read,  "is  followed  by  a 
+whole  series  of  organs  and  tissues;  the  cilia  and  membranel- 
+lae  of  the  ahoral  /one;  the  mouth,  velum  and  pharynx;  the 
+frontal  field;  the  ramifying  /one;  and  the  contractile  vacu- 
+
+
+Tic   Vrnty  of  the  Organism 
+
+ole  and  excretory  pore."  The  question  which  chiefly  con- 
+cerns us  now,  but  which  received  no  consideration  in  the 
+earlier  treatment  is,  what  part,  if  any,  does  the  chromatin 
+of  the  nucleus  play  in  the  initiation  and  development  of  these 
+organs?  One  of  two  courses  must  be  followed  if  the 
+chromatin  theory  is  to  be  proved  in  a  specific  instance  like 
+this :  either  the  developmental  facts  presented  must  be 
+shown  not  to  be  subject  to  heredity  or  it  must  be  proved 
+that  they  are  caused  by  the  chromatin. 
+
+That  many  modern  students  of  heredity  have  strongly 
+tended  by  implication  if  not  expressly  to  pursue  the  first 
+mentioned  course,  cannot  be  successfully  disputed.  This 
+was  dwelt  upon  in  the  early  part  of  our  discussion  of  hered- 
+ity and  we  may  hope  its  utter  unwarrantableness  was  re- 
+vealed. As  a  consequence  our  only  task  now  is  to  inquire 
+what  the  evidence  is  that  the  developments  before  us  are 
+causally  explained  by  the  nuclear  chromatin — or  for  that 
+matter  by  chromatin  of  any  other  kind. 
+
+The  method  of  handling  the  evidence,  not  only  in  this 
+particular  case,  but  in  all  others  with  which  we  shall  deal, 
+must  be  stated  at  the  outset.  Briefly,  our  task  is  not  to 
+prove  what  chromatin  does  not  do,  but  to  point  out  what 
+cytoplasm  and  other  substances  do  in  connection  with  the 
+development  of  the  organs  under  consideration.  Otherwise 
+stated,  just  as  in  the  effort  to  decide  whether  or  not  chro- 
+mosomes and  chromatin  are  the  physical  basis  of  heredity, 
+we  sought  for  evidence  of  the  direct  participation  of  these 
+in  the  production  of  organs  and  parts,  so  now  we  have  to 
+inquire  as  to  whether  or  not  extra-nuclear  and  non-chro- 
+matic parts  of  the  cell  participate  in  the  production  of 
+organs  and  parts. 
+
+"The  first  sign  of  fission,"  Johnson  has  already  been 
+quoted  as  saying,  "is  the  formation  of  a  rift  (the  anlage 
+of  the  new  aboral  zone)  in  the  pellicula  and  ectoplasm,  near 
+to  and  almost  parallel  with  the  left  boundary  stripe  of  the 
+
+
+Evidence  from  Protozoans  365 
+
+ramifying  zone."  The  list  of  structures  enumerated  as  aris- 
+ing de  novo  should  be  recalled  and  the  further  fact  recog- 
+nized that  like  this  first  sign  of  fission,  they  all  pertain  to 
+the  superficial  part  of  the  animal's  body.  "The  gradual 
+evolution,"  we  previously  quoted  Johnson  as  saying,  "of 
+structures  so  complicated  as  membranellae,  from  a  mass 
+of  indifferent  protoplasm,  is  very  striking." 
+
+What  of  the  nucleus  while  those  parts  are  being  started  in 
+the  indifferent  protoplasm?  Considering  the  time  at  which 
+.Johnson  did  this  piece  of  work,  his  account  of  the  behavior 
+of  the  macronucleus  during  fission  is  very  full.  "At  the  be- 
+ginning of  fission,"  he  says,  "the  mcganucleus  has  its  usual 
+spiral  disposition  in  the  body.  The  first  alteration,  just 
+previous  to  the  appearance  of  the  new  pharynx,  is  a  straight- 
+ening of  the  nucleus  and  disapj>earance  of  the  commissures, 
+the  nodes  becoming  appressed."  l  The  various  positions 
+and  conditions  of  the  nucleus  here  referred  to  are  shown, 
+iiHjn,  of  the  figures. 
+
+The  complete  obliteration  of  the  nodulation  typical  of  the 
+resting  nucleus,  the  great  elongation  of  the  nucleus  and  its 
+gradual  reformation  at  each  end,  and  the  final  division  after 
+the  preparation  for  body-fission  is  far  advanced,  arc  indi- 
+cated in  the  figures.  Johnson  speaks  of  the  great  activity 
+of  the  nucleus  in  some  of  its  stages  showing  something  ap- 
+proaching an  amoeboid  character;  but  there  is  no  intimation 
+either  by  position  or  by  activities  that  the  nuclear  changes 
+are  correlated  in  any  detail  with  the  formation  and  growth 
+of  new  organs  of  the  bodv. 
+
+But,  it  will  be  said,  prevalent  views  about  the  macronu- 
+cleus would  not  lead  one  to  expect  it  to  participate  in  the 
+development  of  organs.  The  micronuclei  of  the  group  of 
+organisms  to  which  S ten-tor  belongs,  being  chiefly  concerned 
+in  reproduction)  would  be  presumed  to  contain  the  hereditary 
+substance,  and  so  to  them  and  not  to  the  macronucleus  ought 
+inquiry  to  be  directed  for  evidence,  if  such  there  be,  of 
+
+
+366  The  Unity  of  the  Organism 
+
+nuclear  participation  in  the  development  of  organs.  John- 
+son's observations  on  these  nuclei  were  very  incomplete,  but 
+such  as  he  made  arc  significant.  H>  found  undoubted  evi- 
+dence that  some  of  them  divide  when  the  animal  divides: 
+but  in  no  case  was  he  able  to  follow  all  the  details.  The 
+points  made  out  which  seem  to  bear  on  the  main  question 
+before  us  are:  "I  made  out,"  he  says,  "65  micronuclei  adher- 
+ent to  the  two  [pieces  of  the  macronucleus],  but  none  wen- 
+found  in  the  spindle  stage  except  the  two  above-men- 
+tioned." 2  The  point  of  interest  for  us  is  that  so  far  "as  the 
+evidence  goes,  the  dividing  micronuclei  were  closely  related 
+spacially  to  the  macronucleus,  which  is  another  way  of 
+saying  that  they  were  not  closely  related  spacially  to  the 
+developing  organs,  so  that  if  they  played  any  direct  part 
+in  this  development  they  did  so  through  some  "action  at  a 
+distance" — a  sort  of  action  which,  though  as  we  now  know 
+may  be  a  real  factor  in  organic  development,  can  be  in- 
+voked as  an  explanation  of  morphogenesis  only  with  the 
+greatest  caution. 
+
+Another  point  of  interest  touched  by  Johnson's  observa- 
+tions concerns  the  time  of  the  division  of  the  micronuclei 
+relative  to  the  division  of  the  macronucleus.  When  the 
+dividing  micronuclei  were  observed  the  macronucleus  was 
+"at  complete  condensation  and  in  two  distinct  pieces." 
+Turning  to  the  account  of  the  behavior  of  the  macronucleus 
+during  division  of  the  animal,  we  read,  "the  meganucleus 
+has  assumed  the  spherical  shape  [state  of  condensation  | 
+when  the  pharyngeal  funnel  has  begun  to  form" ; l  in  other 
+words,  at  a  time  somewhat  earlier  than  that  shown  in  figure 
+18.  That  is  to  say,  so  far  as  the  observations  go,  the  in- 
+dications are  that  fission  of  the  animal  begins  in  the  cyto- 
+plasmic  part  of  the  body  not  only  before  the  macronucleus 
+undergoes  any  change,  but  also  before  the  division  of  the 
+micronuclei. 
+
+Apparently  the  behavior  of  the  micronuclei  during  asex- 
+
+
+Evidence  from  Protozoans  367 
+
+ual  fission  and  development  in  Stentor  has  not  been  reexam- 
+ined  since  the  publication  of  Johnson's  paper,  so  all  the 
+light  we  have  on  the  part  played  by  the  micronuclei  in  the 
+ontogeny  of  these  animals  is  still  fragmentary  and  indirect 
+so  far  as  the  particular  point  now  before  us  is  concerned. 
+Muslow3  presents  certain  observations  on  these  bodies  dur- 
+ing conjugation  that  bear  on  the  point  indirectly.  For  one 
+thing,  he  confirms  Johnson's  observation  that  the  micro- 
+nuclei  are  situated  typically  close  around,  indeed  are  adher- 
+ent to  the  macronucleus.  But  perhaps  the  most  significant 
+point  for  us  brought  out  by  Muslow's  studies  is  the  indica- 
+tion which  he  finds  that  the  wandering  micronuclei,  that  is, 
+those  that  pass  from  one  animal  into  the  other  during  con- 
+jugation, are  carried  passively,  in  part  at  least,  by  the 
+cytoplasm  of  the  animal. 
+
+In  a  later  section  we  shall  consider  the  question  of  how 
+the  recent  studies  on  the  migration  of  chromatin  granules 
+from  the  nucleus  into  the  cytoplasm,  and  also  on  the  chro- 
+midia  and  on  the  mitochondria,  affect  the  problem  of  nuclear 
+participation  in  organ  development.  But  our  general  posi- 
+tion relative  to  this  whole  matter  may  be  stated  here  as 
+touching  specifically  the  organogcnesis  of  Stentor.  In  this 
+section  we  are  trying  primarily  to  find  what  role  the  extra- 
+nuclear  parts  of  the  cell  play  in  development,  so  what  the 
+nucleus  does  or  does  not  do  concerns  us  only  secondarily. 
+This  being  the  case,  when  Johnson  says  (and  it  should 
+be  remarked  that  descriptions  of  like  purport  by  other  stu- 
+dents concerning  other  protozoans,  arc  almost  numberless), 
+the  "gradual  evolution  of  structures  so  complicated  as  mem- 
+branellae  from  a  mass  of  indifferent  protoplasm,"  we  take 
+the  description  at  its  face  value  and  hold  that  no  matter 
+what  outside  influences  may  operate  on  this  protoplasm, 
+/'/  itxclf  plavs  an  active'  and  essential  part  in  bringing  about 
+the  results.  And  from  this  we  further  hold  it  to  follow  that 
+since  these  results  are  a  number  of  organic  parts  which 
+
+
+368  The   Unity  of  the  Organism 
+
+because  of  their  resemblance  to  the  corresponding  parts  in 
+the  parent  organism  are  manifestations  of  heredity,  the 
+"indifferent  protoplasm"  which  gave  rise  to  the  parts  is 
+more  certainly  a  "physical  basis  of  heredity"  than  would 
+be  any  extraneous  part  or  substance  that  might  be  shown  to 
+"influence"  the  substance  which  itself  transforms  into  the 
+parts. 
+
+The  essence  of  my  contention  may  be  briefly  stated  thus : 
+recognizing  as  every  biologist  must,  that  transformation  is 
+an  absolutely  indispensable  element  of  organic  development, 
+when  the  transformation  of  an  "indifferent  mass  of  proto- 
+plasm" into  definite  organs  or  parts  takes  place  before  our 
+eyes,  we  are  bound  by  principles  of  objective  science  to  be- 
+lieve that  the  transforming  substance  itself  is  actively  ai 
+not  entirely  passively  concerned  in  the  operation.     We  ai 
+thus  bound  since,  by  supposing  that  if  we  cannot  "causally 
+explain"  the  observed  process  we  must  assume  that  the  ret 
+cause,   the   ultimate   explanation,   lies   deeper   and   in   soi 
+other  substance,  we  are  committing  ourselves   to   a  coui 
+which,  if  consistently  followed,  denies  the  validity  of  all  ol 
+servational  knowledge.     Such  repudiation  would  result  froi 
+the  fact  that  as  soon  as  we  succeed  in  bringing  the  "othei 
+substance"  under  observation  we  are  always  confronted  witl 
+the  same  difficulties  as  to  causal  explanation  which  we  met 
+in  the  first  instance.     In  observing  a  cause,  or  the  "seat' 
+of  a  cause,  in  actual  operation,  we  are  never  able  to  satisfy 
+ourselves  as  to  exactly  how  or  why  it  operates  as  it  does. 
+Supposing,  for  example,  we  were  able  to  see  the  atoms  or 
+even  the  electrons  of  nitrogen,  carbon,  oxygen  and  so  on,  at 
+their  work  in  producing  membranellae  in  Stentor,  does  any 
+one  suppose  we  should  be  able  to  see  fully  why  and  how  they 
+do  it?    Who  in  modern  times  refuses  to  believe  that  the  force 
+of  gravitation  is  partly  inherent  in  the  earth  itself  and  in 
+every  other  body,  though  no  amount  of  examination  of  the 
+bodies   can   make  out   fully   how   and   why   the  bodies  have 
+
+
+Evidence  from  Protozoans 
+
+such  a  force? 
+
+He  who  persistently  denies  that  a  sensible  object  is  ex- 
+planatory in  a  causal  sense  of  the  forces  and  activities  it 
+manifests  because  he  cannot  see  the  whole  rationale  of  the 
+manifestations,  but  insists  that  the  final  explanation  must 
+lie  deeper,  is  at  heart  an  apostate  to  observational  science, 
+and  it  matters  not  at  all  so  far  as  principle  is  concerned, 
+whether  the  invisible  "deeper"  cause,  supposed  to  be  final, 
+be  conceived  as  pure  Matter,  pure  Energy,  pure  Spirit, 
+or  a  Divinity. 
+
+To  recapitulate :  the  only  conclusive  proof  of  what  bodies, 
+whether  chromosomes,  mitochondria  or  any  other  substances, 
+are  "bearers  of  heredity,"  is  either  direct  or  indirect  ob- 
+servation that  these  bodies  or  substances  transform  into 
+organic  parts  which  after  transformation  are  seen  to  re- 
+semble the  corresponding  parts  of  the  organism's  parents. 
+And  only  such  hypotheses  concerning  the  nature  of  germ- 
+cells  as  are  made  in  strict  accordance  with  the  rule  of  evi- 
+dence thus  formulated,  are  legitimate  hypotheses. 
+
+So  far  as  fundamental  principles  are  concerned,  we  might 
+consequently  go  no  further  with  the  examination  of  details. 
+However,  since  the  principles  are  in  reality  only  the  general- 
+i/ed  details,  and  the  details  are  the  mother  liquor,  so  to  say, 
+of  the  science  of  heredity,  we  can  hardly  avoid  pushing  our 
+examination  somewhat  farther.  \Ve  will  look  at  a  few  more 
+examples  among  the  protozoa  where  cytoplasm  and  various 
+substances  other  than  chromatin  are  a  physical  basis  of 
+heredity,  these  examples  being  chosen  to  connect  with  our 
+studies  of  the  anatomy  and  development  of  protozoans  in  a 
+former  chapter.  It  will  be  recalled  that  from  the  great 
+and  highly  developed  class  of  Ciliata  to  which  S  tent  or  be- 
+longs we  examined  DipLodimiim  and  Sti/lont/chia,  shown  in 
+figures  1  and  3. 
+
+
+370  The  Unity  of  the  Organism 
+
+(b)  What  Study  of  the  Ontogeny  of  Diplodinium  Will 
+Probably  Discover 
+
+Unfortunately,  next  to  nothing  is  as  yet  known  about  the 
+ontogeny  of  Diplodinium.  Mr.  Sharp,  who  has  taught  us  so 
+much  about  its  adult  anatomy,  has  its  development  under  investi- 
+gation, but  until  his  studies  are  brought  to  a  conclusion  we  can 
+do  no  more  than  ask  questions  pertinent  to  the  discussion  in  hand. 
+Let  us  fix  attention  upon  the  skeleton  and  the  neuromotor  ap- 
+paratus, for  example,  figure  1  (sk.  lam.,  m.  m.  and  circ.  oes. 
+ring}.  When  the  origin  and  growth  of  these  organs  come  to 
+be  studied,  judging  from  our  general  knowledge  of  development, 
+what  will  be  observed  will  be  a  transformation  in  one  way  or 
+another  of  a  portion  of  the  cytoplasm  into  these  parts.  Nor  is 
+it  at  all  unlikely  that,  assuming  that  the  work  is  done  witli  the 
+best  technical  methods  available,  chromatic  material  from  the 
+micronuclei  will  prove  to  play  a  part  in  the  differentiation.  Does 
+any  one  suppose  that  the  investigator  will  be  able  to  prove  that 
+the  seeming  participation  of  the  cytoplasm  is  a  delusion  and 
+that  the  only  form-determining  agent  is  the  chromatin?  Yet 
+nothing  less,  we  must  insist,  will  be  required  to  prove  the  hypo- 
+thesis that  chromatin  is  the  hereditary  substance  in  these  animals. 
+
+(c)  The  Origm  of  Flagetta 
+
+When  presenting  evidence  of  the  direct  participation  of  the 
+nuclear  chromatin  in  the  production  of  organs,  we  pointed  to 
+the  growth  of  the  axial  filament  of  the  flagellum  in  certain  pro- 
+tozoans as  an  especially  clear  case.  Now  we  must  inquire  about 
+the  origin  of  the  other  part  of  the  flagellum — for  the  fact  of 
+its  having  an  axial  part  or  core  necessarily  implies  that  there  is 
+another  part.  Seemingly  it  is  fully  established  that  the  axial 
+core  is  enclosed  in  a  contractile  sheath  or  envelope  as  described 
+and  figured  by  Biitschli  and  others,  figure  20.  Nor  is  it 
+questioned  apparently,  that  the  envelope  is  ectoplasmic.  Even 
+Minchin,  partial  as  he  always  is  toward  chromatin,  does  not  re- 
+fuse to  admit  this.  But  his  way  of  describing  the  flagellum  is 
+highly  interesting.  "A  flagellum  consists  in  an  elastic  axial  core 
+enclosed  in  a  contractile  sheath  or  envelope.  .  .  .  The  flag- 
+ellum takes  origin  from  a  more  or  less  deeply-seated  granule,  the 
+blepharoplast,  or  basal  granule,  which  will  be  described  in  deal- 
+
+
+Evidence  from  Protozoans  371 
+
+ing  with  the  nuclear  apparatus.  The  elastic  axis,  arising  from 
+the  blepharoplast.  can  he  regarded  as  a  form-determining  ele- 
+ment of  endoplasmic  origin,  the  sheath  as  an  ectoplasmic  motor 
+substance."  * 
+
+As  this  statement  illustrates  both  the  factual  point  with 
+which  we  are  concerned  and  the  perverting  influence  of  elemen- 
+talist  theory  on  supposedly  straightforward  description,  let  us 
+examine  it.  If  a  flagellum  is  composed  of  a  core  enclosed  in 
+
+
+e.p. 
+
+
+-c.p. 
+
+
+<rx. 
+
+
+I  K;I  m:    -''I.      ri..\ca:i  i.t  M    m     I.I(.II:N\     (\rn:it    IUTSCHU). 
+
+;ix.,  ;i\i;il  filament,  c.p.,  cont  ractile  protoplasm  enveloping  the  axial 
+filament,  e.p.,  end  piece  of  the  flap-Hum,  r.,  root  of  the  flagellunj 
+passing  into  the  body. 
+
+a  sheath,  what  justification  is  there  for  saying  that  the  organ 
+arises  from  a  hasal  granule?  According  to  the  clear  implica- 
+tion contained  in  the  latter  part  of  the  statement,  only  the  axial 
+core  arises  from  this  source.  And  if  the  statement  be  correct, 
+as  it  undoubtedly  is,  that  the  sheath  is  ectoplasmic,  what  occasion 
+is  there  for  throwing  into  the  definition  the  purely  hypothetical 
+notion  that  the  elastic  axis  is  a  "form-determining  element"? 
+In  view  of  the  fact  that  there  is  as  much  observational  ground 
+for  supposing  the  sheath  to  be  "form-determining"  as  there  is 
+for  supposing  the  axial  core  to  he  so,  either  both  parts,  shqulc} 
+
+
+372  The   Unity  of  the  Organism 
+
+be  mentioned  if  a  guess  about  form-determination  is  to  be  made, 
+or  neither  should  be.  The  consensus  of  view  among  authorities 
+that  flagella  are  either  ectoplasmic  or  endoplasmic  structures 
+ought  to  be  a  sufficient  refutation  of  the  speculation  that  the 
+basal  granule,  whatever  its  source,  is  the  "form-determiner"  of 
+the  organs ;  but  when  an  erroneous  speculation  has  become  an 
+imperative  idea,  as  the  chromatin  hypothesis  seems  to  have 
+become  for  some  biologists,  nothing  seems  to  suffice  short  of 
+going  through  the  operation  of  killing  it  time  after  time  even 
+though  it  has  been  dead  for  many  months. 
+
+The  truth  is  that  if  we  speculate  about  "form-determination" 
+of  flagella,  and  do  so  on  the  basis  of  the  objective  evidence,  we 
+have  to  recognize  that  in  some  cases  neither  axial  core  nor 
+blepharoplast  can  be  the  determiner  for  the  sufficient  reason 
+that  no  such  structures  exist.  For  example,  Patton  has  shown 
+conclusively  that  in  the  species  he  studied  the  flagellum  arises 
+from  the  cytoplasm  of  the  cell  quite  independently  of  both  the 
+nucleus  and  the  blepharoplast.  "The  flagellum,  about  40  in 
+length,  consists  of  a  single  stout  filament  which  arises  from 
+the  achromatic  space  just  anterior  to  the  blepharoplast  and 
+passes  out  of  the  anterior  end.  The  intracellular  portion  does 
+not  differ  in  structure  from  the  remainder  and  it  has  no  basal 
+granule  in  connection  with  it."  '  The  absence  of  the  axial  core 
+in  this  animal  is  emphasized  as  follows:  "It  is  important  to  note 
+that  the  flagellum  under  a  high  magnification  consists  of  a 
+single  thick  filament  and  not  of  a  number  bound  together." 
+This  case  is  especially  convincing  in  that  although  technical 
+methods  were  used  that  are  held  to  be  specially  trustworthy  for 
+differentiating  chromatic  material,  so  that  the  nucleus  with  its 
+chromosomes  and  the  blepharoplast  were  brought  out  sharply 
+against  the  surrounding  faintly  stained  cytoplasm,  the  beginning 
+of  the  flagellum  in  the  less  deeply  stained  part  of  the  cell  was 
+clearly  recognizable. 
+
+The  importance  of  the  main  issue  here  is  so  great  as  to 
+justify  my  repeating  what  I  have  said  many  times.  The 
+central  question  is  not  whether  there  may  be  a  granule  (or 
+some  other  substance  not  made  visible  by  the  methods  used) 
+which  may  be  form-determining  for  the  flagellum,  but 
+whether  we  shall  refuse  to  accept  the  observational  evidence 
+that  the  achromatic  substance  contributes,  at  least,  to  the 
+
+
+Evidence  from  Protozoans  373 
+
+origin  of  the  organ.  In  other  words,  the  question  is,  are  we 
+going  to  reject  the  positive  evidence  we  actually  have,  in 
+the  interest  of  a  pure  speculation?  Kven  should  further 
+study  find  that,  contrary  to  Pattoifs  observations,  there  is 
+a  granule  at  the  base  of  the  flagellum  of  Herpetomonas 
+lygfiei  which  gives  rise  to  an  axial  core,  the  observation  that 
+the  achromatic  substance  of  the  cell  participates  in  the 
+formation  of  the  flagellum  would  not  be  set  aside  thereby. 
+
+(r/)   J'arious  Organs  of  Stylonychia  and  Paramecium 
+
+In  the  chapter  on  the  an.-itomy  of  the  protozoa  we  took 
+Htylonychia  as  an  example  of  the  high  degree  of  specialization 
+and  integration  which  the  sensory-locomotor  system  may  reach 
+in  a  one-celled  animal.  While  the  ontogeny  of  this  genus  has  not 
+been  studied  as  fully  as  is  desirable,  yet  the  combined  knowledge 
+we  have  of  its  structure  and  regeneration  is  sufficient  to  leave 
+no  room  for  doubt  that  the  ectoplasm  and  the  outer  strata  of 
+endoplasm  take  an  active  part  in  producing  the  elaborate  sensory 
+and  motor  organs.  For  example,  the  basal  fibers  (fc.  f.,  figure  6) 
+are  shown  by  Maier  to  be  attached  to  the  basal  edge  of  the 
+m< •iiibranella-  and  to  run  inward  in  the  endoplasm,  where  they 
+gradually  taper  to  very  fine  endings  not  connected  with  either 
+the  maeronucleus  or  micronuclei  or  granules  of  any  kind.  The 
+inference  seems  unescapable  that  ontegenetically  at  least  they 
+arise  in  the  ectoplasm  and  grow  inward.  Again,  as  to  the  ecto- 
+plasm itself,  Maier  points  out  that  in  some  parts  of  the  animal 
+this  is  laid  off  into  definite  areas,  each  one  of  which  is  deeply 
+cupped  outwardly  and  bears  a  cilium  with  its  basal  granule  at 
+its  center.  This  disposition  is  specially  clear  in  Parwnccium 
+c(iii(ia.fnm.  To  suppose  that  such  a  differentiation  of  the  ecto- 
+plasm is  due  to  the  "influence"  of  the  basal  granule,  the  ectoplasm 
+itself  being  passively  moulded,  would  be  so  gratuitous  that 
+probably  no  biologist  would  be  bold  enough  to  make  it  definitely; 
+yet  exactly  that  assumption  would  be  necessary  were  "form- 
+determination"  to  be  denied  to  everything  but  chromatin. 
+
+Only  one  other  developmental  point  can  be  noticed  in  connec- 
+tion with  Stylonychia,  that  concerning  the  production  of  the  un- 
+dulating membrane  (in  /;  p.,  figure  6').  That  this  organ  be- 
+longs to  the  ectoplasm  is  generally  recogni/ed,  and  the  considera- 
+
+
+374 
+
+
+The  Unity  of  the  Organism 
+
+
+tions  advanced  in  favor  of  the  view  that  it  is  partly  determined 
+by  the  ectoplasm,  are  essentially  the  same  as  those  for  the  view 
+that  the  flagella  are  thus  produced.  The  particular  point  to  which 
+attention  is  now  called  is  the  view  held  by  Maier,  and  apparently 
+well  supported  by  observations,  that  the  membrane  is  the  result 
+of  a  fusion  of  a  row  of  cilia.  The  evidence  for  this  is  the 
+cross-striation  of  the  membrane  and  the  presence  of  a  row  of 
+thickly  set,  darkly  staining  granules  at  its  base.  If  this  sup- 
+position is  correct  the  question  arises,  where  is  the  "seat"  of  the 
+developmental  tendency  which  brings  about  the  fusion  of  the 
+
+
+FIGURE    21.       FROXTOttIA    T.EUC'AS,    THKITOCYST     (AFTER 
+
+ju'h.,  axial  rod.     ;ichr.,  achromatinic  substance,     h.,  head,     n.,  neck. 
+inn.,1   unclear  membrane. 
+
+
+cilia?  "Is  it  the  basal  granules  or  some  other  elements  aside  from 
+the  material  of  the  cilia  themselves?  Or  is  it  produced,  as  Maier 
+says,  by  an  "adherence  of  the  neighboring  cilia  through  a  plas- 
+matic  substance"?  Obviously  there  can  be  but  one  answer  if  it 
+is  to  be  based  on  the  observational  evidence. 
+
+Let  us  now  return  to  the  development  of  the  trichocysts  of 
+Frontonia  which  we  partly  examined  in  the  last  section  (figure  15, 
+p.  327) .  That  the  chromatin  of  the  macronucleus  contributes  di- 
+rectly to  the  organs  was  shown  in  the  section  dealing  with  the  di- 
+rect evidence  that  chromatin  may  be  "hereditary  substance."  But 
+it  was  there  stated  that  the  chromatin  was  not  alone  concerned  in 
+their  production.  Now  we  must  instruct  ourselves  as  to  what 
+
+
+Evidence  from  Protozoans  375 
+
+besides  chromatin  enters  into  their  production.  The  following 
+paragraph  from  Tonniges  tells  the  story  in  outline.  "Trichocysts 
+in  the  act  of  origination  which  I  have  designated  as  trichochro- 
+midia,  present  two  substances.  One  is  intensely  colored  with 
+the  Dttcleat  staining  medium  employed  (ach,  figure  21),  so  must 
+be  regarded  as  chromatin.  The  other  remains  uncolored  and  con- 
+sequently is  held  to  be  achromatic  substance  (achr,  figure  21). 
+Tin  first  produces  the  axial  rod  of  the  future  trichocyst,  while 
+the  latter,  the  achromatic  substance,  produces  the  external  en- 
+velope and  the  myoneme-like  structure."  7  Four  stages  in  the  de- 
+velopment of  a  trichocyst  are  shown  in  figure  21  a,  b,  c,  d.  Natur- 
+ally many  detailed  structural  changes  not  here  noticed  in  both 
+the  axial  part  and  the  enveloping  part  occur  before  the  organ  is 
+completed  and  ready  for  use.  But  these  need  not  concern  us 
+since  they  in  no  way  affect  the  main  point,  namely  that  evi- 
+dence that  the  achromatic  substance  of  the  macronucleus  is 
+the  physical  basis  of  heredit}'  of  organs  under  consideration, 
+comes  from  exactly  the  same  source  and  is  exactly  as  valid  as 
+is  the  evidence  that  chromatin  plays  such  a  role. 
+
+The  question  of  whether  the  cytoplasm  of  the  animal  plays 
+a  direct  part  in  the  development  of  these  organs,  while  very 
+important  were  we  seeking  for  an  adequate  general  theory 
+of  development  or  for  complete  knowledge  of  the  factors 
+involved  in  this  particular  development,  must  not  detain 
+us  since  all  we  are  concerned  with  in  this  section  is  to  find 
+whether  any  substances  other  than  chromatin  are  deter- 
+miners of  hereditary  attributes. 
+
+(e)  The  Skeleton  of  Radiolaria 
+
+With  these  illustrations  from  the  infusoria  of  sub- 
+stances other  than  chromatin  which  serve  as  the  physical 
+basis  of  heredity,  we  must  turn  from  the  endless  examples 
+that  might  be  drawn  from  the  same  group,  and  pass  to 
+another  great  sub-division  of  the  protozoa,  the  Radiolaria, 
+for  a  few  illustrations.  In  the  chapter  on  the  general 
+ontogeny  of  the  protozoa  we  spoke  particularly  of  Hacker's 
+studies  on  the  development  of  the  skeleton  in  the  Aulo- 
+
+
+376 
+
+
+The  Unity  of  the  Organism 
+
+
+spheridae.     We  will  now  look  a  little  further  into  the  devel- 
+opment of  portions  of  these  animals. 
+
+Hacker's  hypothesis  of  "directing  centers"  in  some  of 
+these  animals  is  particularly  interesting  for  us.  What  the 
+general  purport  of  the  hypothesis  is  can  be  readily  under- 
+
+
+FIGURE    22.       AITLOSPHAERA     (AFTER    HAECKEfi). 
+
+c.cap.,  central  capsule. 
+
+stood  by  the  help  of  figures  22  and  23.  The  skeleton  of  the 
+genus  here  represented  is  a  "lattice-sphere,"  in  Hacker's 
+terminology,  consisting  of  a  network  of  tubes  joining  one 
+another  in  such  a  way  that  six  pieces  unite  at  each  nodal 
+point.  This  scheme  makes  each  mesh  of  the  net  a  triangle. 
+A  radial  piece  or  spine  bearing  short  branches  arises  from 
+each  nodal  point.  The  lumen  of  the  tubes  contains  a  gela- 
+
+
+FIOURK    24.  .1C.  HK    23. 
+
+->:i.       AII.OSIMI  \|.;n\    I:I.I:C.ANTISSIMA     (AITI:U     11  UXKKK).      IIKTAII.    or 
+mUCTTTUC. 
+
+
+iir.riii:    Jl.      AI  I.<H  KHOS    (Arm     HAECXXB).      IIKTAIL    SKC'TION    OK   SIMNK. 
+
+a..   Lumen    of   shaft,      ak.,   axial    canal,      h.,    vesicular   enlargement   of 
+
+secondary    silicification.      in., 
+
+
+axial    canal 
+membrane, 
+
+
+at     forking    of    spiiu-. 
+
+
+377 
+
+
+378  The  Unity  of  the  Organism 
+
+tinous  material  and  in  the  center  a  fine  axial  filament.  As 
+shown  in  figure  24,  the  tubes  and  the  radial  pieces  are  not 
+in  uninterrupted  continuity  at  the  nodal  points  but  meet 
+one  another  in  a  common  joint. 
+
+The  entire  skeleton  is  embedded  in  the  extra-capsular  sub- 
+stance, and  the  central  capsule,  figure  22,  c.  cap.,  contain- 
+ing the  nucleus  is,  as  in  most  Radiolaria,  relatively  quite 
+small.  The  pattern  of  the  skeletal  net  Hacker  conceives 
+to  be  determined  by  "directing  centers,"  one  for  each  of 
+the  nodal  points. 
+
+This  conception  is,  as  Hacker  fully  recognizes,  purely 
+hypothetical,  and  consequently  ought  not,  in  the  strict 
+letter  of  the  formulation,  to  be  made  much  of.  Nevertheless 
+certain  of  the  facts  call  for  something  of  the  sort,  if  an 
+explanation  of  the  peculiar  skeletal  features  in  accordance 
+with  the  principles  of  heredity  is  insisted  upon.  The  follow- 
+ing quotation  brings  out  the  most  salient  of  these  facts :  "In 
+the  stereometric  'dissimilarity'  which  may  exist  between  the 
+external  body-  and  skeletal-form  and  the  shape  of  the  cen- 
+tral capsule  ...  it  is  difficult  to  imagine  that  the  locations 
+of  the  nodal  points,  especially  in  the  regular  triangular 
+and  quadrangular  conditions,  are  determined  (projected 
+outward)  by  the  nucleus.  Rather  one  ought  to  think  here 
+of  distributing  and  arranging  processes  which  have  their 
+seat  in  the  external  layers  of  the  sarcode  body  itself  and 
+are  conditioned  either  by  the  competition  (Konkurrenz- 
+kampf)  of  the  pseudopodia  or  by  the  interplay  of  'spheres 
+of  attraction.''  (Hacker's  Monograph,  Lief.  3,  p.  627.) 
+
+Whether  "directing  centers"  are  the  right  things  to  conceive 
+as  "explaining"  such  a  skeleton  as  that  before  us  may  be  ques- 
+tioned ;  but  I  do  not  see  how  it  is  rationally  possible  to  avoid 
+believing  that  the  main  seat  of  the  forces  at  work  is  in  the 
+extra-capsular  part  of  the  animal.,  as  Hacker  says,  and  not  in 
+the  nucleus,  and  that  these  forces  are  hereditary  forces.  And 
+such  belief  is  the  more  unescapabk  by  the  facts  that,  as  Hacker 
+
+
+Evidence  from  Protozoans 
+
+
+379 
+
+
+points  out,  skeletal  production  is  no  mere  matter  of  simple  secre- 
+tion, or  still  loss  of  crystallization,  but  of  genuine  organic  growth, 
+as  a  detailed  study  of  the  completed  structure  and  histogenesis 
+of  the  parts  shows;  and  by  the  further  fact  that  the  parts  con- 
+cerned present  characteristic  differences  for  the  different  species. 
+Thus  in  the  genus  Aulosphaera  to  which  belongs  the  species  we 
+have  taken  as  an  example,  Haeckel  recognized  twenty-one  spe- 
+
+
+i  icnti:    i?/i.      \rr.\c  \\TII  A    (.\rn:u    HOKCERT). 
+
+;is'p.,   Mstrojn  Ic.     c.c.-ip.,  central  capsule,     n.,   nucleus. 
+
+cies.     Hacker  re-examined  about  a  third  of  these  and  added  four 
+new  ones.     And  the  specific  distinctions   are   furnished   largely 
+
+in  skeletal  details. 
+
+(/)  Openings  in  the  Central  Capsule  of  the  Radiolaria 
+
+Along  with   these    facts   of   skeletal  development   may   be 
+considered  the  development    of   the   openings  of  the  central 
+
+
+380  The   Unity  of  the  Organism 
+
+capsule.  A.  Borgert,  in  particular,  has  recently  investi- 
+gated this  subject.  These  openings,  known  as  astropyles, 
+as'p,  figure  £5,  a,  b,  c,  and  parapylcs,  are  characteristic 
+organs  of  many  Radiolaria.  They  are  the  communications 
+between  the  body  substances  situated  inside  and  outside  of 
+the  central  capsule.  Borgert  had  shown  in  an  earlier  paper 
+that  when  fission  of  the  animal  takes  place  new  parapyles 
+arise  de  novo,  and  not  by  division  of  the  original  organs. 
+
+In  the  memoir  now  before  us  he  confirms  his  former  obser- 
+vation on  the  origin  of  the  parapyles  and  shows  that  new 
+astropyles  arise  by  division  of  the  old.  The  chief  interest 
+for  us  in  this  later  study  lies  in  observations  on  the  relation 
+of  the  development  of  the  organs  to  the  behavior  of  the 
+nucleus.  Besides  the  indirect  or  mitotic  mode  of  division 
+of  the  nucleus  previously  studied,  Borgert  now  describes  two 
+other  modes,  one  of  which  is  a  peculiarly  modified  indirect 
+division,  and  the  other  a  quite  unique  performance  which  he 
+characterizes  as  "ruffle-like"  (Manschettenform).8  Into  the 
+details  of  these  modes  of  division  we  need  not  go.  Sufficient 
+for  us  is  it  to  point  out  that  the  great  nuclear  mass  n.  fig- 
+ure 25,  consisting  of  a  veritable  throng  (a  thousand  or 
+more)  of  chromosomes,  retains  its  massed  character  through 
+all  the  division  stages.  The  author  lays  special  emphasis  on 
+the  facts  that  at  no  time  does  the  nuclear  membrane  dis- 
+appear; and  that  the  endoplasm  within  which  the  nucleus 
+is  embedded  takes  no  "active  part  in  the  process  of  di- 
+vision," nor  does  it  undergo  "any  sort  of  special  structural 
+change."  The  division  of  the  astropyle  and  the  origin  of 
+new  parapylea  are  correlated  in  time  with  the  nuclear  divi- 
+sion; but  even  this  correlation  is  incomplete.  Interestingly 
+enough,  the  formation  of  new  parapyles  is  far  advanced, 
+the  author  says,  "when  the  condition  of  the  nucleus  indicates 
+the  first  beginning  of  the  process  of  division."  And  Borgert 
+remarks:  "It  appears  therefore  that  the  foundation  of  the 
+new  structure  results  before  the  beginning  of  nuclear  di- 
+
+
+Evidence  from  Protozoans 
+
+
+381 
+
+
+vision,  i.e.,  at  a  time  when  no  sort  of  visible  sign  of  division 
+is  recognizable  anywhere  on  the  central  capsule."  That 
+the  account  of  the  mode  of  division  in  this  species  is  essen- 
+
+
+;   .'(».      u  \\  i  II<>\II:TI«>N    1-1:1  i  re  mr-M    (\ITKK    MUHOI  i    AMI  STIASNY). 
+c.rap.,  central  capsule.     cx.c;i|).s.,  cxt  m-c;ipsiil;ir  sarcodc.     ni.y.,  niy- 
+oplirisks.     in.y'. 
+sj)ines. 
+
+
+inyoplirisks.     p.f'.,     pulling    fibers,     sp., 
+
+
+tially  correct  can  be  accu-ptod  with  more  assurance  from 
+the  fact  tliat  Borgcrt  has  studii'd  the  mitotic  mode  of  di- 
+vision in  the  same  animal,  so  that  the  description  is  rigor- 
+ously comparative, 
+
+
+382  The  Unity  of  the  Organism 
+
+It  seems,  therefore,  entirely  justifiable  to  extend  the 
+application  of  Hacker's  hypothesis  of  active  developmental 
+centers  for  skeletal  production  in  the  extra-capsular  sar- 
+code  to  organ  production  in  the  capsular  membrane. 
+
+In  the  absence  of  a  systematic  investigation  of  the  devel- 
+opment of  the  adult  Radiolarian  from  its  swarm  spores,  we 
+have  to  be  satisfied  with  such  fragments  of  ontogenetic 
+knowledge  of  the  group  as  students  have  had  opportunity  to 
+get.  A  few  years  ago  Moroff  and  Stiasny  studied  at  Triest 
+several  developmental  aspects  of  the  well-known  genus  Acan- 
+thometron,  figure  26.  Besides  their  'observations  on  the 
+complicated  multiplication  processes  which  take  place  in 
+the  central  capsule,  involving  both  the  chromatic  and  achro- 
+matic substances,  and  according  to  the  authors,  implicating 
+both  macro-  and  micronuclci  as  well  as  merozoites,  schizo- 
+zoites  and  swarm  spores,  the  attention  was  also  given  to  the 
+structure  and  to  certain  developmental  phenomena  of  the 
+extra-capsular  parts. 
+
+The  investigators  were  able  to  extend  previous  knowledge 
+of  the  adult  extra-capsular  parts.  The  extensions  which 
+especially  concern  us  pertain  to  the  myophrisks  m.y.9  and 
+to  the  system  of  plasmic  fibers  (p.f-,  figure  26)  surrounding 
+the  radiating  spines  (sp)  of  the  skeleton.  These  fibers  were 
+found  to  be  much  more  numerous  than  previously  described. 
+Some  of  them  extend  to  the  distal  ends  of  the  spines.  "Around 
+each  spine  there  is  grouped  a  whole  system  of  such  fibers, 
+constituting  the  sheath  of  the  spine,  which  in  its  form  re- 
+sembles a  tent."  °  The  individual  fibers  pass  down  into  the 
+general  extra-capsular  mass  where  they  anastomose  with 
+others  of  the  same  tent  and  with  those  of  the  tents  of  other 
+spines.  There  are  about  twenty  of  these  tents.  The  au- 
+thors believe  these  fibers  to  be  not  merely  supporting,  as 
+hitherto  supposed,  but  pulling  fibers. 
+
+The  myophrisks  are  distinct  rod-like  bodies  arranged  in 
+regular  fashion  around  the  spines  some  distance  from  the 
+
+
+Evidence  from  Protozoans  3SS 
+
+tips,  together  making  a  sort  of  barrel-shaped  collar.  They 
+become  deeply  colored  when  treated  with  nuclear  stains, 
+while  the  fibers  above  described  remain  nearly  or  quite  un- 
+stained. "The  myophrisks  do  not  insert,  as  previously  de- 
+scribed, by  their  proximal  ends  into  the  superficial  ecto- 
+plasmic  layer,  and  by  their  distal  ends  into  the  spines,  but 
+lie  in  the  pulling  fibers." 
+
+The  developmental  point  made  out  is  that  the  myophrisks 
+arise  from  chromatic  material  lying  in  the  central  capsule 
+and  migrate  out  to  their  definite  positions  (m.y'.,  figure  26). 
+The  origin  takes  place,  according  to  the  authors,  in  two 
+ways.  Hy  one  method  the  entire  nucleus  of  a  merozoite 
+transforms  into  the  myophrisk;  by  the  other,  the  chromatic 
+bodies  of  the  macronuclei  unite  to  produce  these  structures. 
+Numerous  details  are  given  of  the  development  and  structure 
+of  the  myophrisks  which  we  can  not  enter  into.  Enough 
+is  it  to  recognize  the  direct  part  played  by  chromatic  sub- 
+stance in  the  production  of  these  bodies. 
+
+Now  comes  the  point  which  specially  concerns  the  pres- 
+ent discussion:  The  authors  believe,  from  observations  of 
+their  own,  that  Richard  Hertwig's  supposition  that  the 
+bodies  are  contractile,  is  correct.  Assuming  this  to  be  their 
+office,  and  assuming  the  authors  to  be  right  in  their  account 
+of  the  relation  of  the  bodies  to  the  pulling  fibers  and  of  the 
+fibers  to  the  spines,  we  have  here  a  composite  apparatus 
+consisting  of  the  spine,  the  pulling  fibers,  and  the  contrac- 
+tile elements,  one  portion  of  which,  the  contractile,  is  de- 
+rived from  chromatic  substance,  and  two  portions,  the  spine 
+and  the  pulling  fibers,  are  derived  from  non-chromatic  sub- 
+stance. A  slight  reservation  must  be  made  in  the  part  of 
+this  statement  which  concerns  the  spine  and  the  fibers  in 
+that  we  arc  without  direct  observational  knowledge  as  to 
+the  origin  of  the  spines  and  the  fibers.  However,  it  is  almost 
+certain  that  the  fibers  are  entirely  differentiations  of  extra- 
+capsular  plasm ;  and  that  the  spines  are  at  least  partly  of 
+
+
+—Ml. 
+
+
+i  ir.rm:   27.     KITC.I.YIMIA    AI.VKOI.ATA,  DIVISION   STAC.KS    (AFTER   MIXCIIIN)- 
+
+N.,  nucleus,  h.,  daughter-cell,  p.s.,  pseudopodia.  o.v.,  contractile 
+vacuole.  f.,  food  materials,  s.p.,  shell  plates,  r.s.p.,  reserve  shell 
+plates,  s'.,  reserve  shell  plates  moving  into  position  on  daughter-cell, 
+
+
+384 
+
+
+Evidence  from  Protozoans  385 
+
+like  origin. 
+
+So  here  again,  as  in  the  flagella  of  various  flagellates,  and 
+the  trichocysts  of  Frontonia,  we  find  both  chromatic  and 
+n on- chromatic  substances  of  the  cell  acting  as  the  physical 
+basis  of  heredity. 
+
+(g)  The  Shells  of  Foraminifera 
+
+Some  of  the  most  striking  examples  of  what  may  be  called 
+general  cytoplasmic  activity  in  the  production  of  heredity 
+structures  are  furnished  by  many  of  the  shell-forming  Fora- 
+minifera. The  case  of  Euglypha  alvcolata  may  be  taken 
+as  illustrative.  I  take  this  animal  not  only  because  its  re- 
+production is  a  telling  case  in  favor  of  my  general  conten- 
+tion, but  also  because  it  is  often  used  in  text-books  and 
+other  general  zoological  works,  and  so  is  readily  available 
+for  study  so  far  as  literature  is  concerned.  As  shown  by 
+figure  27  a,  b,  c,  d,  e,  the  animal  is  egg-shaped,  of  regular 
+outline,  and  enclosed,  except  for  an  opening  at  the  small 
+end,  in  a  thin  shell  made  up  of  little  plates.  The  plates 
+are  silicious  and  are  glued  by  a  substance  supposed  to  be 
+silicious.  The  mode  of  reproduction  exhibited  is  usually 
+considered  to  be  a  form  of  budding.  By  examining  the  fig- 
+ures in  connection  with  the  following  description  taken  from 
+Calkins,  the  points  of  chief  interest  will  be  readily  seen. 
+"This  bud  (b)  grows  until  it  has  reached  its  definitive  size 
+(usually  about  that  of  the  original  cell)  when  the  shell- 
+coating  for  the  new  individual  *  is  deposited.  The  build- 
+ing material  for  the  shell  of  the  daughter-individual  is 
+formed  within  the  protoplasm  of  the  maternal  cell  (r.s.p.). 
+If  regular  plates  of  silica  or  chitin,  these  plates  are  secreted 
+long  before  division  and  stored  up  in  the  protoplasm  which 
+surrounds  the  nucleus  (Euglypha,  Quadrula,).  If  quartz 
+crystals,  or  any  other  foreign  bodies,  these  particles  are 
+picked  up  and  stored  in  similar  manner,  to  be  used  later  for 
+
+
+386  The  Unity  of  the  Organism 
+
+the  test  of  the  daughter-cell.  When  the  bud  has  reached  a 
+certain  size,  the  plates  or  particles  which  are  to  form  the 
+shell  move  out  through  the  mouth-opening  of  the  parent 
+shell  and  form  around  the  protoplasm  of  the  bud.  In  the 
+meantime  the  nucleus  (N)  undergoes  division,  and,  in  the 
+case  of  Euglypha  at  least,  the  daughter-nucleus  is  the  last 
+element  to  leave  the  parent  organism."11 
+
+Assuming  this  account  to  be  essentially  correct — and 
+there  seems  no  reason  to  doubt  that  it  is— can  any  candid 
+person  refuse  to  believe  that  the  protoplasm  is  at  least  in 
+part  the  actual  cause  of  its  own  extrusion  from  the  mouth- 
+opening  of  the  shell,  of  the  production  of  the  plates  (in 
+species  in  which  these  are  secreted),  of  transporting  them 
+to  their  final  position,  and  of  arranging  them  into  the  shell 
+of  the  new  individual?  And  can  any  one  refuse  to  admit 
+that  the  whole  formative  process  is  a  manifestation  of 
+heredity?  But  if  one  admits  these  contentions  he  perforce 
+admits  that  the  cytoplasm  is  a  physical  basis  of  heredity 
+if  any  substance  at  all  can  be  properly  so  considered. 
+
+(h)  The  Clmging  Organs  of  Sporozoa 
+
+The  Sporozoa  being  poor  in  organs  of  locomotion  and  of 
+contact  with  the  external  world,  in  comparison  with  the 
+higher  Ciliata,  Flagellata  and  Radiolaria,  afford  less  op- 
+portunity than  these  latter  for  studying  the  participation 
+of  different  substances  of  the  body  in  organ  production. 
+However,  the  differentiation  of  the  body  into  segments  in 
+many  species,  and  the  appearance  of  anchoring  spines  and 
+hooks  by  which  the  creatures  cling  to  their  hosts,  make  them 
+favorable  for  such  studies.  The  developmental  stages  of 
+Pyxmia  mobuszi  shown  in  figures  28  a,  b,  c,  should  be  re- 
+called, as  should  also  the  question  whether  the  probability 
+that  the  root-like  epimerite  ep'm  which  penetrates  deep 
+into  the  host  cell,  is  "determined"  largely  if  not  wholly  by 
+
+
+Evidence  from  Protozoans 
+
+
+387 
+
+
+the  cytoplasm  of  the  cell,  as  observation  indicates.  While 
+the  development  is  in  progress  the  nucleus  with  its  membrane, 
+chronmtin  mass  and  nuclear  sap  appears  to  remain  intact 
+and  holds  its  place  in  the  deutomerite  far  removed  from 
+the  developmental  changes  under  consideration.  It  is  not 
+
+
+-ep.C, 
+
+
+ey'm- 
+
+
+,'H.       i»:vi;i  .oi' .MI-:  NT  01   I'vxixiA  MOitrs/.i   (AITKK  LKOER  AND  DUBOSQ). 
+<•]).<•.,  cj)itlicli;il  cell,     cp'm.,  epimerite.     n.,  nucleus. 
+
+impossible,  indeed  not  improbable,  that  future  investigation 
+will  find  that  the  nucleus  is  not  so  passive  during  this  devel- 
+opment as  the  account  here  given  indicates.  Chromatin 
+granules  may  be  proved  to  escape  into  the  cytoplasm  and 
+possibly  to  migrate  to  the  region  of  developmental  activity. 
+But  supposing  all  this  should  be  proved,  there  still  would 
+remain  the  fundamental  query :  would  such  observation  prove 
+
+
+FIGURE    29.       EPIMEH1TE    OF    PILEOCEPHALUS    HEERII     (AFTER    LANKESTER). 
+
+
+FIGURE   30.      EPI3IEH1TE    OF  GENEIORHYNCHUS    MONNIERI    (AFTER   LANKESTER). 
+
+
+FIGURE    31.       EPIMERITE    OF   ECHINOMERA    HISPIDA     (AFTER    LANKESTER). 
+
+
+388 
+
+
+Evidence  from  Protozoans 
+
+
+389 
+
+
+that  the  transforming  cytoplasmic  substance  is  not  actively 
+participating  in  the  transformation?  After  what  has  been 
+said  in  the  preceding  pages,  the  reader  will  not  doubt  what 
+
+
+MCTRE    32.       KPIMERITE    OF    BEI.OIDES    FIRMUS    (AFTER    LANKESTEH). 
+
+the  author's  reply  is  to  this  query.     The  activity  of  the  nu- 
+cleus would  furnish  no  evidence  whatever  for  a  denial. 
+As  bearing  on  the  question  of  whether  the  development 
+
+
+I'KifRE   33.       EPIMERITK    OF    COMEI.OIDES    CRTN1TU8    (AFTER    T.AKKESTER). 
+
+of  the  epimerite  of  gregarines  can  rightly  be  regarded  as 
+an  exhibition  of  heredity,  I  present  in  figures  28  to  32,  il- 
+lustrations of  the  great  variety  of  form  of  this  organ  in 
+
+
+390  The  Unity  of  the  Organism 
+
+different  genera  and  species  of  the  group.  The  very  es- 
+sence of  the  conception  of  heredity,  i.e.,  resemblance  due  to 
+genetic  kindred,  is  obvious  in  the  reappearance  of  a  particu- 
+lar type  of  epimerite  in  every  generation  of  a  given  species, 
+while  in  the  group  as  a  whole  there  is  so  great  a  variety  of 
+types. 
+
+(i)  The  "Division  Center"  of  Noctiluca 
+
+Thus  far  in  this  section  we  have  been  considering  the 
+contribution  of  non-chromatic  substances  to  the  production 
+of  permanent  organs  in  the  protozoan  body,  mostly  to  or- 
+gans by  which  the  animals  maintain  their  relation  to  the 
+external  world.  We  will  now  examine  a  few  cases  wherein 
+
+
+FK1UHE    34.       XOCTTI.UCA    MII.TARTS    (AFTER    ITFHTWTC.). 
+
+n.,  nucleus,     o.,  mouth,     f.,  filament,     t.,  tentacle. 
+
+such  substances  play  a  leading  role  in  propagation.  Per- 
+haps  the  most  striking  example  is  furnished  by  the  well- 
+known  marine  protozoan  Noctiluca  (figure  34*).  To  state 
+the  point  as  compactly  as  possible,  division  in  this  animal 
+is  started  off  and  led  throughout  by  a  large,  dimly  staining 
+body  situated  in  the  cytoplasm  adjacent  to  the  nucleus.  The 
+division  of  the  nucleus  seems  to  be  a  process  attendant  upon, 
+and  probably  dependent  upon  the  division  of  this  body, 
+known  as  the  "division  center."  (Kig.  35a  a.sp.) 
+
+
+Kid-UK    35.       FISSION    STACKS    OF    NOCTIJ.UCA    MII.TAR1S    (AFTER    CAI.KTNs). 
+
+c.s.,  centrosonie.  ni.f.,  mantle-fibers,  n.,  nucleus,  ch.,  chromo- 
+SOIIH-S.  ks.,  karyosoincs.  cy.,  cytoplasm,  a.sp.  "division  center." 
+c.sp.,  central  spindle,  a.as.,  amphiaster.  och.,  oxychromatin. 
+
+
+391 
+
+
+The  Unity  of  the  Organism 
+
+Owing  to  the  wide  distribution,  great  abundance,  and  con- 
+spicuousness  of  Noctiluca,  it  has  been  a  favorite  animal  for 
+study  at  the  sea-side  during  many  years,  and  its  mode  of 
+division  has  proved  to  be  one  of  the  most  interesting  fea- 
+tures about  the  creature.  The  most  important  observa- 
+tions on  division  in  Noctiluca  were  made  by  Calkins  (figures 
+35  a,  b,  c,  d,  e,  taken  from  the  original  paper),  and  a  few 
+quotations  from  Calkins'  writings  will  set  forth  the  cardinal 
+facts.  "On  the  outside  of  the  nucleus  in  NoctUuca,  in  the 
+cytoplasm  and  close  against  the  nuclear  membrane,  is  a 
+large,  faintly  staining  spherical  mass,  which  acts  as  a  divi- 
+sion-center. During  the  eaily  stages  of  nuclear  activity, 
+the  sphere  divides  into  two  similar  halves,  connected  by  a 
+strand  composed  of  fibers  which  are  formed  from  the  sub- 
+stance of  the  sphere.  These  fibers  compose  the  central 
+spindle,  and  are  homologous  in  every  way  with  the  central- 
+spindle  fibers  of  the  usual  type  of  mitosis  in  Metazoa.  The 
+nucleus  then  elongates  in  a  direction  at  right  angles  to  the 
+central  spindle,  and  at  the  same  time  bends  in  the  centre  in 
+such  a  way  that  the  central  spindle  sinks  into  a  depression 
+in  the  nucleus,  which  surrounds  it  upon  three  sides.  In 
+this  way  the  nuclear  plate  is  finally  wrapped  about  the 
+central  spindle  in  the  form  of  an  incomplete  ring.  .  .  . 
+The  nuclear  membrane  then  disappears  in  that  part  of  the 
+nucleus  which  is  turned  toward  the  central  spindle,  while 
+it  is  retained  unbroken  in  all  other  parts  of  the  nucleus. 
+Thus  the  chromosomes,  as  in  the  higher  types,  are  brought 
+into  contact  with  the  central  spindle  fibres.  They  then  split 
+longitudinally,  and  through  the  agency  of  the  mantle-fibres 
+are  separated  into  two  equal  groups,  each  group  drawn 
+toward  its  own  daughter-sphere.  Within  the  sphere  the 
+fibres  are  focussed  in  a  centrosome  which,  at  this  period, 
+can  be  demonstrated  with  the  greatest  ease.  The  division 
+is  finally  completed  by  the  separation  of  the  remainder  of 
+the  nucleus  and  the  re-formation  of  the  daughter-nuclei, 
+
+
+Evidence  from  Protozoans  B9B 
+
+while  the  chromosomes  disintegrate  into  granules,  which 
+again  form  the  large  chromatin  reservoirs,  characteristic 
+of  Noctiluca."  12 
+
+The  matters  of  chief  interest  for  us  in  this  account  are 
+the  extra-nuclear  position  of  the  division  center;  its  large 
+size,  making  the  observation  of  it  almost  as  practicable  as 
+observation  of  the  nucleus  itself;  the  sharp  distinction,  in- 
+dicated by  the  difference  in  staining,  between  the  material  of 
+the  division  center  and  the  nuclear  contents,  particularly 
+the  chromatic  part  of  the  contents ;  the  unmistakably  in- 
+dependent and  leading  part  played  by  the  center  in  division, 
+the  split  chromosomes,  for  example,  being  separated 
+"through  the  agency  of  the  mantle-fibres,"  these  latter  a 
+part  of  the  sphere;  and  finally  the  strong  direct  evidence 
+that  the  activities  of  the  center  pertain  to  the  substance  of 
+the  center  itself  and  are  not  caused  entirely  by  a  "force"  or 
+"influence"  of  the  centriole.  With  reference  to  the  last 
+point  it  should  be  said  that  Calkins  found  considerable  evi- 
+dence that  the  centrioles  (centrosomes  according  to  the 
+nomenclature  employed  by  him)  which  are  easily  recogniz- 
+able in  the  division  center  during  advanced  stages  of  nuclear 
+division,  are  in  the  nucleus  during  the  resting  period  and 
+only  migrate  into  the  center  during  the  divisional  activity 
+of  the  center  and  the  nucleus.  But  granting  to  this  minute 
+granule  all  that  actual  observation  entitles  it  to,  the  most 
+that  can  be  said  is,  that  it  is  an  active  participant  in  the 
+complex  series  of  changes  and  transformations  which  con- 
+stitute the  propagation-division  of  the  animal.  Calkins' 
+statement  that  "A  cytoplasmic  substance,  corresponding  to 
+the  centrosphere  of  many  meta/oan  cells,  is  invariably  pres- 
+ent. It  is  a  permanent  organ  of  the  cell,  often  as  large,  or 
+larger,  than  the  nucleus;  it  divides  to  form  an  amphiaster, 
+consisting  of  two  asters  with  connecting  mantle-fibres,  the 
+central-spindle,"  13  should  be  taken  at  its  face  value.  What 
+I  mean  by  this  is  that  we  have  no  right  to  pin  our  faith  to 
+
+
+304  The  Unity  of  the  Organism 
+
+a  speculative  view  based  on  something  other  than  evidence 
+contained  in  this  particular  statement,  that  would  eviscer- 
+ate this  statement  of  its  essential  meaning.  And  such  would 
+be  the  effect  were  one  to  speculate  that  the  centriole  is 
+"generative  chromatin"  and  so  the  causal  explanation  of 
+the  phenomena  presented  by  the  center.  The  "cytoplasmic 
+substance"  which,  Calkins  says,  constitutes  the  central 
+sphere,  is  a  "physical  basis  of  heredity."  It  is  such  because 
+it  does  that  by  which,  and  by  which  alone,  any  substance 
+can  be  proved  to  be  a  physical  basis  of  heredity.  It  takes 
+a  direct,  active  part  in  a  series  of  structural  transforma- 
+tions "to  form  an  amphiaster,  consisting  of  two  asters  with 
+connecting  mantle-fibres,"  that  closely  resemble  one  another 
+in  many  individual  animals  genetically  related  and  consti- 
+tuting the  species  Noctttuca  miliaris  (figure  34.) 
+
+(j)  The  Centrosphere  of  Protozoa  Generally 
+
+We  must  carry  a  little  further  the  examination  of  the 
+centrosphere,  or  division  center,  as  itself  a  physical  basis 
+of  heredity.  The  wide  occurrence  among  the  protozoa  of  a 
+body,  or  at  any  rate  of  substance,  which  does  not  stain 
+readily  and  hence  is  not  chromatin,  but  which  plays  a  funda- 
+mental part  in  cell  division,  seems  to  be  recognized  by  all 
+students  of  these  animals.  As  we  are  now  concerned  with  the 
+question  of  how  general  in  the  group  as  a  whole  is  the  ac- 
+tive participation  of  this  achromatic  substance  in  propa- 
+gation, a  summarized  account  of  what  is  known  on  the  sub- 
+ject will  meet  our  purposes. 
+
+Since,  as  has  been  previously  pointed  out,  Minchin  is  a 
+strong  chromatinist,  we  shall  be  safe  from  bias  in  the  other 
+direction  if  we  rely  chiefly  on  his  late  book  for  the  account. 
+Speaking  broadly,  protozoologists  recognize  two  types  or 
+classes  of  achromatic  substance,  dependent  upon  its  loca- 
+tion in  the  cell.  In  one  class,  of  which  NoctUuca  is  an  ex- 
+
+
+Eindence  from  Protozoans  395 
+
+ample,  it  is  outside  the  nucleus ;  in  the  other  class  it  is  in- 
+side the  nucleus.  As  an  example  of  the  first,  several  helio- 
+zoans  may  be  mentioned,  notably  Acantlwcystis  and  Sphae- 
+rastrum;  and  as  examples  of  the  latter,  several  species  of 
+Coccidium,  belonging  to  the  Sporozoa,  Etiglesia,  a  flagellate, 
+and  Arcetta,  a  sarcodinian.  Then  there  are  combinations 
+and  intermediate  states  between  the  two  types.  The  fol- 
+lowing quotations  from  Minchin's  book  not  only  indicate  this, 
+but  bear  directly  on  our  main  point.  "A  most  instructive 
+series,  showing  how  extranuclear  elements  come  to  collab- 
+orate in  the  mechanism  of  division,  is  furnished  by  some 
+examples  of  the  Heliozoa,  and  especially  by  the  nuclear  di- 
+visions of  Actinosphaerium,  which  have  been  the  subject  of 
+extraordinarily  thorough  investigation  by  Hertwig.  ...  In 
+the  ordinary  karyokinesis  of  Actvnospliaeriwm  an  equatorial 
+plate  is  formed,  composed  of  a  large  number  of  small,  rod- 
+like  chromosomes,  imperfectly  separated  from  one  another, 
+which  divide  transversely.  The  spindle  arises  from  the 
+achromatinic  framework  of  the  nucleus,  and  terminates  in 
+two  conspicuous  polar  plates  lying  within  the  persistent 
+membrane.  External  to  the  membrane  are  two  large  conical 
+masses  of  archoplasm,  termed  the  'polar  cones.'  "  14  In  a 
+word,  three  distinct  substances  are  here  observed  in  col- 
+laboration: two,  the  chromatic  bodies  and  the  achromatinic 
+framework,  being  intra-nuclear ;  and  one,  the  archoplasmic 
+cone,  being  extra-nuclear.  The  observations  indicate  that 
+the  archoplasmic  substance  is  a  less  active  collaborator  in 
+the  division  than  are  the  other  two  substances.  But,  pass- 
+ing to  another  species,  "In  Act'wophryx  the  karyokinesis  ap- 
+pears to  be  of  a  type  similar  to  that  of  Actinosphaermm, 
+with  persistent  membrane,  but  with  more  activity  in  the 
+extra-nuclear  archoplasmic  rleim-nts." 
+
+And  finally,  relative  to  the  degree  and  character  of  the 
+collaboration  of  the  various  elements:  "In  Acanthocystis, 
+however,  the  nuclear  membrane  disappears  completely  from 
+
+
+The  Vnity  of  the  Organism 
+
+the  karyokinetic  figure,  and  it  is  no  longer  possible,  in  con- 
+sequence, to  distinguish  the  parts  of  the  achromatic  spindle 
+which  are  of  intra  nuclear  and  extra  nuclear  origin  re- 
+spectively. Nuclear  and  cytoplasmic  elements  are  in  com- 
+plete cooperation."  15 
+
+Minchin's  reference  to  the  researches  of  Hertwig  on  the 
+Heliozoa,  indicated  in  the  above  quotation,  makes  this  an 
+appropriate  place  to  call  attention  to  the  great  interest, 
+from  our  standpoint,  which  attaches  to  Hertwig's  denial  of 
+Absolute  Power  of  the  nucleus  in  the  life  of  the  cell,  as  in- 
+dicated by  his  well-known  theory  of  nuclear-protoplasmic 
+relation.  Recognizing  the  great  weight  of  the  views  of  this 
+investigator  as  touching  the  main  issue  here  does  not  neces- 
+sarily commit  us  one  way  or  the  other  as  to  all  the  details 
+of  the  "nucleo-plasmic  relation"  hypothesis. 
+
+The  reader's  attention  is  called  again  to  the  argument 
+that  the  morphological  elements  and  the  activities  displayed 
+in  this  reproduction  are  in  themselves  manifestations  of 
+heredity,  based  oh  the  fact  that  they  pertain  to  different 
+though  rather  closely  related  species  of  animals,  each  one 
+of  which  presents  its  own  particular  type  of  the  phenomena. 
+Actinosphaermm  and  Actmophrys  are  closely  related  gen- 
+era, among  the  differential  attributes  of  which  is  this  very 
+matter  of  difference  in  the  structure  and  relations  and  ac- 
+tivities of  the  various  elements  collaborating  in  their  propa- 
+gation. Each  genus  is  true  to  its  type  in  these  attributes 
+as  well  as  in  others.  How  then  is  it  possible,  consistency 
+and  fair  dealing  being  assumed  to  be  cardinal  virtues  of 
+science,  to  refuse  to  recognize  that  not  only  the  behavior  of 
+the  chromosomes  in  the  two  cases,  but  likewise  that  of  the 
+achromatinic  framework  and  the  archoplasmic  bodies,  are 
+them^elres  manifestations  of  heredity,  and  that  the  substance 
+of  each  in  the  initial  stage  of  the  series  is  a  "physical  basis 
+of  heredity?" 
+
+
+Evidence  from  Protozoans  397 
+
+Concluding   Remark    on   Evidence   Presented 
+
+Our  objective  study  of  the  production  of  hereditary 
+structures  and  activities  in  the  protozoa  may  well  end  with 
+a  comment  on  a  paragraph  occurring  in  one  of  Calkins'  able 
+and  useful  papers.  In  the  general  conclusions  of  this  paper 
+we  read:  "The  chromatin,  in  addition  to  being  the  recog- 
+nized agent  in  heredity,  is  also  generally  recognized  as  the 
+center  of  formative  changes  in  the  ordinary  vegetative  ac- 
+tivities of  cell  life.  Recent  observations  have  been  inter- 
+preted to  show  that  it  is  the  seat  of  oxidative  processes  and 
+the  direct  agent  in  metabolism.  These  various  supposed 
+functions  of  the  chromatin  are,  in  large  part,  inferential, 
+and  there  are  no  observations  to  show  whether  it  alone  is 
+the  center  of  these  various  activities,  or  whether  it  plays 
+the  part  of  middleman  in  the  cell.  I  do  not  know  whether 
+it  is  possible  to  determine  such  a  point." 
+
+I  ask  the  reader  to  note  attentively  this  group  of  state- 
+ments. According  to  the  opening  words  chromatin  is  "the 
+recognized  agent  in  heredity,"  while  according  to  the  last 
+sentence  not  only  is  such  a  role  of  the  chromatin  "largely 
+inferential"  and  there  are  "no  observations  to  show"  that 
+"it  alone  is  the  center"  of  such  activity,  but  the  author 
+frankly  admits  himself  in  doubt  as  to  the  possibility  of  de- 
+termining such  a  point. 
+
+What  I  chiefly  wish  to  do  in  connection  with  this  is  to 
+insist  that  such  facts  as  we  have  just  been  examining,  sonic 
+of  which  were  discovered  by  Calkins  himself,  relative  to  the 
+participation  of  non-chromatic  parts  of  the  cell  in  the 
+ontogeny  of  many  protozoans,  are,  according  to  my  inter- 
+pretation, conclusive  evidence  that  chromatin  is  not  alone 
+the  "center"  of  activity  of  hereditary  development.  For 
+the  rest  I  do  no  more  in  this  chapter  than  call  attention 
+to  the  fact  that  further  discussion  of  the  matter  at  issue  is 
+not  biological  in  a  strict  sense,  but  is  part  of  the  problem 
+
+
+The  Unity  of  the  Organism 
+
+
+of  the  validity  of  observational  knowledge  and  the  nature 
+of  suppositions  and  of  inferences. 
